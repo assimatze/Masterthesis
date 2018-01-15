@@ -1,0 +1,91 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF8
+
+
+@Book{usecase,
+  Title                    = {Use Cases effektiv erstellen},
+  Author                   = {Alistair Cockburn},
+  Publisher                = {Addison-Wesley},
+
+  Owner                    = {Matthias},
+  Timestamp                = {2014.04.11}
+}
+
+@Book{mysqlvorteil,
+  Title                    = {Das Einsteigerseminar MySQL 5},
+  Author                   = {Rolf Däßler},
+  Publisher                = {bhv},
+  Year                     = {2011},
+
+  Owner                    = {Matthias},
+  Timestamp                = {2014.04.07}
+}
+
+@Book{mysql,
+  Title                    = {MySQL Kochbuch},
+  Author                   = {Paul Dubois},
+  Publisher                = {O`Reilly},
+  Year                     = {2003},
+
+  Owner                    = {Matthias},
+  Timestamp                = {2014.04.07}
+}
+
+@Book{php,
+  Title                    = {PHP 5 MySQL 5},
+  Author                   = {Matthias Kannengiesser},
+  Publisher                = {Franzis Verlag GmbH},
+  Year                     = {2009},
+
+  Owner                    = {Matthias},
+  Timestamp                = {2014.04.07}
+}
+
+@Book{php2,
+  Title                    = {PHP and MySQL Web Development},
+  Author                   = {Luke Weling, Laura Thomson},
+  Publisher                = {Developers Librar},
+  Year                     = {2009},
+
+  Owner                    = {Matthias},
+  Timestamp                = {2014.05.22}
+}
+
+@Book{test,
+  Title                    = {MySQL 5: Einführung, Programmierung, Referenz},
+  Author                   = {Michael Kofler},
+  Publisher                = {Addison-Wesley},
+  Year                     = {2005},
+
+  Owner                    = {Matthias},
+  Timestamp                = {2014.04.07}
+}
+
+@Book{Bootstrapintro,
+  Title                    = {Mobile First Bootstrap},
+  Author                   = {Alexander Magno},
+  Publisher                = {Packt Publishing},
+  Year                     = {2013},
+
+  Owner                    = {Matthias},
+  Timestamp                = {2014.04.08}
+}
+
+@Unpublished{grundlagenAA,
+  Title                    = {Anforderungsanalyse},
+  Author                   = {Prof. Dr. Burkhardt Renz},
+
+  Owner                    = {Matthias},
+  Timestamp                = {2014.04.09}
+}
+
+@Book{jQuerybeschreibung,
+  Title                    = {jQuery: Das Javascript-Framework für Interaktives Design},
+  Author                   = {Ralph Steyer},
+  Publisher                = {Addison-Wesley},
+  Year                     = {2011},
+
+  Owner                    = {Matthias},
+  Timestamp                = {2014.04.08}
+}
+

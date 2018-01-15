@@ -1,0 +1,68 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Aufgabenbeschreibung}{6}{section.1}
+\contentsline {subsection}{\numberline {1.1}Ablauf des Staffelessen}{6}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Aufgaben der Webanwendung}{6}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Anmeldung der Teilnehmer}{6}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Zuordnung der Teilnehmer}{7}{subsubsection.1.2.2}
+\contentsline {subsection}{\numberline {1.3}Ziel der Webanwendung}{8}{subsection.1.3}
+\contentsline {section}{\numberline {2}Grundlagen}{9}{section.2}
+\contentsline {subsection}{\numberline {2.1}Begriffsdefinition}{9}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Technologien}{10}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}PHP}{10}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}HTML}{12}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}MySQL}{14}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}jQuery}{15}{subsubsection.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.5}Bootstrap 3.0}{18}{subsubsection.2.2.5}
+\contentsline {subsection}{\numberline {2.3}SCRUM}{20}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}SCRUM-Rollen}{20}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Der Ablauf eines SCRUM-Prozesses}{21}{subsubsection.2.3.2}
+\contentsline {section}{\numberline {3}Anforderungsanalyse}{23}{section.3}
+\contentsline {subsection}{\numberline {3.1}Fachliche Anforderungen}{24}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Nichtfachliche Anforderungen}{28}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Use Cases}{29}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Beschreibung der Use Cases}{29}{subsubsection.3.3.1}
+\contentsline {section}{\numberline {4}Konzept}{33}{section.4}
+\contentsline {subsection}{\numberline {4.1}Beschreibung der Teilnehmer-Zuordnung}{34}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Zuordnungskriterien}{34}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Problemstellung Teilnehmer-Zuordnung}{34}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.3}Konzeptioneller Entwurf der Teilnehmer-Zuordnung}{37}{subsubsection.4.1.3}
+\contentsline {subsubsection}{\numberline {4.1.4}Prozess: Teilnehmer-Verteilung}{38}{subsubsection.4.1.4}
+\contentsline {subsubsection}{\numberline {4.1.5}Prozess: Gerichte-Verteilung}{40}{subsubsection.4.1.5}
+\contentsline {subsubsection}{\numberline {4.1.6}Prozess: G\IeC {\"a}ste hinzuf\IeC {\"u}gen}{41}{subsubsection.4.1.6}
+\contentsline {subsubsection}{\numberline {4.1.7}Prozess: Vegetarier-Verteilung}{42}{subsubsection.4.1.7}
+\contentsline {subsubsection}{\numberline {4.1.8}Prozess: Teilnehmer-Zeit\IeC {\"u}berwachung}{45}{subsubsection.4.1.8}
+\contentsline {subsection}{\numberline {4.2}Beschreibung der Teilnehmer-Anmeldung}{47}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Prozess: Teilnehmer-Informationen erfassen}{48}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Prozess: Geodaten-Ermittlung}{50}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Prozess: Fahrdistanz-Berechnung}{50}{subsubsection.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.4}Anmerkungen zur Teilnehmer-Anmeldung}{52}{subsubsection.4.2.4}
+\contentsline {subsection}{\numberline {4.3}Beschreibung Instruktionen drucken}{54}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Aufbau der Instruktionen}{54}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Anmerkungen zum Use Case Instruktionen drucken}{55}{subsubsection.4.3.2}
+\contentsline {subsection}{\numberline {4.4}Teilnehmer-Editierung}{55}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}Darstellung der Teilnehmer-Editierung}{55}{subsubsection.4.4.1}
+\contentsline {subsubsection}{\numberline {4.4.2}Manipulation der Datenbank}{57}{subsubsection.4.4.2}
+\contentsline {subsubsection}{\numberline {4.4.3}\IeC {\"A}nderungen der Datenbank festhalten und Ausgeben}{58}{subsubsection.4.4.3}
+\contentsline {section}{\numberline {5}Screendesign}{59}{section.5}
+\contentsline {subsection}{\numberline {5.1}Allgemeines Seiten-Layout}{59}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Strukturieren der Unterseiten}{59}{subsubsection.5.1.1}
+\contentsline {subsection}{\numberline {5.2}Die Sitemap}{61}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Use Cases und Anforderungen in der Sitemap}{62}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Startseite}{63}{subsubsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5.2.3}Administrator Login}{63}{subsubsection.5.2.3}
+\contentsline {subsubsection}{\numberline {5.2.4}Admin Funktion 1: G\IeC {\"a}steliste generieren}{63}{subsubsection.5.2.4}
+\contentsline {subsubsection}{\numberline {5.2.5}Admin Funktion 2: G\IeC {\"a}steliste ansehen}{64}{subsubsection.5.2.5}
+\contentsline {subsubsection}{\numberline {5.2.6}Admin Funktion 3: Teilnehmer-Editierung}{66}{subsubsection.5.2.6}
+\contentsline {subsection}{\numberline {5.3}Responsive-Design}{67}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Grundlagen des Responsive-Design}{68}{subsubsection.5.3.1}
+\contentsline {section}{\numberline {6}Implementierung}{69}{section.6}
+\contentsline {subsection}{\numberline {6.1}System Architektur}{70}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Implementierung des Konzeptes}{71}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1}Struktur des Skriptes}{72}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.2}Die Klassen GruppenZuweiser, Gruppe und Gast}{73}{subsubsection.6.2.2}
+\contentsline {subsection}{\numberline {6.3}Datenbank Struktur}{76}{subsection.6.3}
+\contentsline {subsubsection}{\numberline {6.3.1}Datenbank Tabellen}{76}{subsubsection.6.3.1}
+\contentsline {section}{\numberline {7}Fazit}{80}{section.7}
+\contentsline {section}{\numberline {8}Ausblick}{81}{section.8}
+\contentsline {subsection}{\numberline {8.1}Features}{81}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Architektur}{82}{subsection.8.2}

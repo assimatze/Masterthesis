@@ -1,0 +1,204 @@
+\documentclass[a4paper,12pt]{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{amsmath}
+\usepackage{colortbl}
+\usepackage{multirow}
+\usepackage{afterpage}
+\usepackage{wrapfig}
+\usepackage{fancyhdr}
+
+\usepackage[colorlinks=true,urlcolor=blue,linkcolor=black,
+citecolor=black
+]{hyperref}
+
+\bibliographystyle{unsrt}
+
+\geometry{verbose,a4paper,tmargin=30mm,bmargin=35mm,lmargin=25mm,rmargin=25mm}
+\pagestyle{fancy}
+\renewcommand{\sectionmark}[1]{\markboth{#1}{#1}}
+\renewcommand{\subsectionmark}[1]{\markright{#1}}
+\fancyhf{}
+\lhead{\slshape \leftmark}
+\rhead{\thepage}
+\title{Deckblatt}
+\author{Matthias Misior}
+
+\begin{document}
+
+
+\thispagestyle{empty}
+\section*{Erklärung}
+Hiermit versichere ich, dass ich die vorliegende Arbeit selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt habe sowie wörtliche und sinngemäße Zitate als solche gekennzeichnet habe. Diese Versicherung bezieht sich sowohl auf
+Textinhalte sowie alle enthaltenen Abbildungen, Skizzen und Tabellen. Die Arbeit wurde in gleicher oder ähnlicher Form keiner anderen Prüfungsbehörde zur Erlangung eines akademischen Grades vorgelegt.
+\\\\
+Karlsruhe, den 04. Juli 2014
+\\\\
+Matthias Misior \noindent\dotfill
+
+\newpage
+\thispagestyle{empty}
+\section*{Anerkennungen}
+Zunächst möchte ich mich an dieser Stelle bei meinem Betreuer Maximilian Liesegang bedanken und meine Anerkennung ihm gegenüber zum Ausdruck bringen. Seine Fachkompetenz und sein Enthusiasmus haben mich über die gesamte Projektdauer begleitet und waren stets eine große Hilfe und eine wichtige Motivationsquelle für mich. 
+\\\\
+Des weiteren gilt mein persönlicher dank Frau Professorin Laubenheimer, dessen ständige Erreichbarkeit und schneller E-Mail Verkehr es mir erst ermöglicht haben, diese Arbeit in dieser Form rechtzeitig zum Abgabetermin fertigzustellen. 
+\\\\
+Zu Guter Letzt gilt mein persönlicher Dank dem gesamten esentri-Team. Das Team hat mich inspiriert, andere Wege zu gehen und ich habe dadurch viel über meine Vorgehensweise sowie über mich selbst gelernt. Die Fachkompetenz und Ratschläge des Teams waren dabei stets eine große Hilfe. Ohne die Unterstützung des esentri-Teams wäre diese Arbeit so nicht möglich gewesen.
+\\\\
+Ich hoffe ich konnte mit diesen einfachen Worten allen Beteiligten meine Dankbarkeit zum Ausdruck bringen. 
+
+\newpage
+\thispagestyle{empty}
+\section*{Zusammenfassung}
+Die esentri AG mit Sitz in der Technologieregion Karlsruhe ist ein mittelständisches Beratungs-Unternehmen mit den Schwerpunkten Digitalisierung und IT-Systemintegration. 
+Das Unternehmen plant dabei seine Projekte agil, transparent und nah beim Kunden.
+Um den hohen Ansprüchen dieser Kunden nun gerecht zu werden hat es sich die esentri zur Aufgabe gemacht, den internen Dokumentationsprozess innerhalb der Firma zu verbessern. 
+\\\\
+Diese Aufgabe erweist sich allerdings Aufgrund der in diesem Feld auftretenden Probleme als schwer greifbar. Das Schreiben von Dokumentationen wird meistens als langweilig und monoton angesehen. Hinzukommt dass das Dokumentieren nichts zum Lösungsansatz eines Projektes beiträgt. Aus diesen und weiteren Gründen wird das verfassen von Dokumentationen von vielen Entwicklern als “Zeitverschwendung” betrachtet. 
+\\\\
+Um diese Tätigkeit nun für die Mitarbeiter attraktiver zu gestalten und somit die Qualität der Dokumentationen zu verbessern, hat man sich dazu entschieden den Dokumentationsprozess mit Gamification aufzuwerten. Dafür soll sich in die Grundlagen des Gebietes Gamification eingearbeitet werden um zu ermitteln, ob und wie man die aus dem Gamification Bereich stammenden Elemente nutzen kann.
+
+
+\section*{Abstract}
+The esentri AG with their headquarters based in the technology region Karlsruhe is an medium-sized consulting-company with a focus on digitization and IT system integration. The company plans its projects agile, transparently and close to the customer. In order to meet the high demands of these customers, esentri has set itself the task of improving the internal documentation process within the company. 
+\\\\
+However, this task proves to be difficult to grasp due to the problems encountered in this field. Writing documentation is often considered boring and monotonous. In addition, documenting does not contribute to the solution approach of a project. For these and other reasons, writing documentation is considered a "waste of time" by many developers. 
+\\\\
+In order to make this activity more attractive for employees and thus improve the quality of documentation, it was decided to enhance the documentation process with gamification. For this purpose, the basics of gamification have to be studied in order to determine whether and how the elements from gamification can be used.     
+\newpage
+\thispagestyle{empty}
+\tableofcontents
+\thispagestyle{empty}
+\newpage
+\bibliographystyle{unsrt}
+
+
+\section{Einleitung}
+\subsection{Aufgabenstellung}
+Die Aufgabe die in dieser Arbeit behandelt werden soll ist, die Tätigkeit des Dokumentierens von Software (dokumentieren, Dokumentationsprozess) für die Softwareentwickler der esentri AG motivierender und belohnender zu gestalten. Hierfür soll der Dokumentationsprozess mit Spiele-Prinzipien und Spiele-Mechaniken versehen werden. Durch die Integration von Spiele-Prinzipien und Spiele-Mechaniken sollen dem Dokumentationsverfasser zusätzliche Anreize gegeben werden, gute und aussagekräftige Dokumentationen zu schreiben. 
+\\\\
+Das Integrieren von Spiele-Mechaniken und Spiele-Prinzipien in nicht Spiel-Kontexten, wie in diesem konkreten Fall den Dokumentationsprozess, wird als Gamification bezeichnet.
+\\\\
+Für die Integration müssen die verschiedensten Spiele-Prinzipien und Spiele-Mechaniken welche als Gamification Elemente zu verstehen sind, untersucht und bewertet werden. Dafür werden im Vorfeld Kriterien festgelegt anhand derer die verschiedenen Gamification Elemente analysiert werden können. Anschließend sollen die ermittelten Gamification Elemente in das Dokumentationstool der esentri AG integriert werden. 
+
+\subsubsection{Definition Gamification}
+Der Begriff Gamification wurde im Jahr 2002 von Nick Pelling geprägt, fand zu dieser Zeit aber keine Aufmerksamkeit und hatte auch mit der heutzutage geläufigen Definition wenig zu tun.
+\\\\
+“Gamification is the use of game mechanics and experience design to digitally engage and motivate people to achieve their goals."\cite{gamificationDefinition}
+\\\\
+Erst 2009 wurde die Idee um Gamification wieder aufgegriffen und fand mit der digitalen Medienbranche auch ein vielseitiges Einsatzgebiet. Seit dieser Zeit (2009) sind mehrere verschiedene Geschäftsfelder um die Kernidee der Gamification entstanden wie z.B der Bereich der “Serious Games” oder auch das “e-learning” Umfeld. Einen detailierter Einblick in die verschiedene Bereiche der Gamification folgt in weiteren Kapiteln. 
+
+\subsubsection{Nutzen von Gamification}
+Dieses Zitat aus dem Film “Mary Poppins” beschreibt ziemlich präzise die Idee und den Nutzen, die hinter Gamification stecken:\\\\ 
+“In every job that must be done, there is an element of fun. You find the fun, and - SNAP - the job's a game!” \footnotemark
+\footnotetext{Film Mary Poppins, 1964} 
+\\\\
+Es geht darum, langweilige und monotone Tätigkeiten durch Gamification Elemente motivierender und interessanter zu gestalten. Dadurch soll zum einen der Anwender inspiriert werden. Zum anderen sollen die Resultate der Tätigkeit durch engagierte Anwender verbessert werden.
+
+\subsection{Ziel dieser Arbeit} 
+Ziel dieser Arbeit soll es sein, die Dokumentationsbereitschaft von Mitarbeitern der esentri AG zu erhöhen. Als Dokumentationsbereitschaft soll der Wille und die Fähigkeit von Mitarbeitern verstanden werden, gute und aussagekräftige Dokumentationen zu schreiben. Zu diesem Zweck sollen aus dem Bereich der Gamification diejenigen Elemente recherchiert werden, die diesem Ziel am förderlichsten sind. Die Gamification Elemente sollen dann wiederum in das bestehende Dokumentationstool Confluence integriert werden.
+\begin{description}
+   \item[Dokumentationsbereitschaft erhöhen bedeutet:]~\par
+   \begin{itemize}
+      \item Den \textbf{Willen/Motivation} der Mitarbeiter erhöhen, gute und aussagekräftige Dokumentationen zu schreiben.  
+      \item Die \textbf{Fähigkeiten} der Mitarbeiter verbessern, gute und aussagekräftige Dokumentationen zu schreiben.
+   \end{itemize}
+\end{description}
+
+\begin{description}
+   \item[Durch das beeinflussen dieser beiden Punkte sollte es also möglich sein:]~\par
+   \begin{itemize}
+      \item sowohl das schreiben von Dokumentationen für den Schreiber interessanter zu gestalten  
+      \item und somit auch die Qualität der Dokumentationen zu erhöhen.
+   \end{itemize}
+\end{description}
+Ein weiteres Ziel dieser Arbeit ist es, das Themengebiet rund um “Gamification” der esentri AG näher zu bringen. Der esentri AG ist es ein Anliegen, mehr über die potenziellen Einsatzmöglichkeiten dieses Themengebietes zu erfahren. Die Integration von Gamification Elementen in die vorhandenen Dokumentationstools der esentri AG sind somit als eine Art “Experiment” zu verstehen. Diese Arbeit soll anhand des Beispiels des Dokumentationstools aufzeigen, ob es sich rentiert Gamification Elemente in bestehende und zukünftige Projekte zu integrieren.  
+\subsection{Arbeitsumgebung}
+Die esentri AG mit Sitz in Ettlingen ist eine im Jahr 2002 gegründete Beratungs-Firma, die sich auf die beiden Geschäftsbereiche Digitalisierung und IT-Systemintegration spezialisiert hat. Die esentri ist ein cloudbasiertes innovatives Unternehmen das von sich selbst behauptet:
+\\\\
+“Unser Antrieb ist die Neugier, mit der wir nach den aktuellsten Trends Ausschau halten und mit der wir gerne auch mal über den Tellerrand schauen.” \footnotemark
+\footnotetext{\url{http://www.esentri.com/unternehmen/}}
+\\\\
+Als solches bearbeitet die esentri neben Ihren Geschäften auch verschiedenste interne Projekte die sich mit neuen Technologien, Formaten oder Konzepten auseinandersetzen. Zu diesen Projekten zählt auch diese Arbeit. 
+\\\\
+Das Unternehmen verwaltet und plant seine Projekte agil und greift hierfür auf die Produktpalette von \textit{Atlassian} zurück. Zu den wichtigsten Atlassian Tools innerhalb esentri zählen unter anderem die Aufgabenmanagementsoftware \textit{Jira} und die \textit{Confluence Wiki}.
+
+\subsubsection{Confluence}
+Das Confluence Wiki wird seit 2012 bei der esentri eingesetzt. Wichtige Eigenschaften dieses Tools beinhalten die Möglichkeit, Verknüpfungen zwischen Jira, Bitbucket und weiteren Atlassians Produkten zu erzeugen. Somit ist es einfach möglich, Aufgaben Tickets von Jira mit einer speziellen Confluence Wikipage zu verknüpfen. Das stellt einen großen Vorteil gegenüber anderen Wikitools dar.
+\\\\
+“Confluence ist eine kommerzielle Wiki-Software, die vom australischen Unternehmen Atlassian entwickelt und als Enterprise Wiki hauptsächlich für die Kommunikation und den Wissensaustausch in Unternehmen und Organisationen verwendet wird, aber zunehmend auch als Basis für öffentliche Wikis im Internet zum Einsatz kommt.” \footnotemark
+\footnotetext{\url{https://de.wikipedia.org/wiki/Confluence_(Atlassian)}}
+\\\\
+Die Atlassian Produkte verfügen zusätzlich über weitere \textit{Addons} und über einen eigenen \textit{Marketplace}. Somit bleiben die Produkte erweiterbar und können individuell zugeschnitten werden.
+
+\subsection{Aufgabenbearbeitung} 
+Um die besagten Ziele zu erreichen, ist es wichtig die Kernaspekte dieser Arbeit zu erkennen, sie zu betrachten und ihre zusammenhänge aufzuführen.
+\begin{description}
+   \item[Die drei wichtigsten Aspekte dieser Arbeit lassen sich wie folgt einteilen:]~\par
+   \begin{itemize}
+      \item Dokumentation
+      \item Gamification
+      \item Confluence
+   \end{itemize}
+\end{description}
+Diese drei Bereiche müssen behandelt werden um die im Vorherigen Abschnitt erwähnten Ziele, wie das erhöhen der Dokumentationsbereitschaft oder das aneignen von Grundlagen Wissen im Bereich Gamification zu erreichen.
+\begin{description}
+   \item[Dokumentation]~\par
+Unter diesem Aspekt müssen die grundlegenden Fragen beantwortet werden wie:
+   \begin{itemize}
+      \item Wie schreibt man eine gute und aussagekräftige Dokumentation?
+      \item Was sind merkmale einer solchen Dokumentation?
+      \item Warum ist das Schreiben von Dokumentationen eine eintönige Tätigkeit?
+   \end{itemize}
+\end{description}
+Diese Fragen müssen als aller erstes untersucht und geklärt werden um die Kriterien und Anforderungen an den Bereich der Gamification aufstellen zu können. Diese Kriterien können dann verwendet werden um den Bereich der Gamification besser einzugrenzen. Dadurch wird das Risiko minimiert, sich im Gamification Bereich zu “verlieren”. 
+\\\\
+\textbf{Gamification}\\
+Die Kriterien und Anforderungen welche sich aus der Analyse des Dokumentationsprozesses ergeben, sollen nun genutzt werden um die entsprechenden Gamification Elemente herauszuarbeiten. Es wird also untersucht, ob es Elemente im Bereich der Gamification gibt welche auf die Anforderungen und Kriterien passen.
+\\\\
+Um die Gamification Elemente und die Anforderungen besser aufeinander abstimmen zu können, ist es wichtig sich ebenfalls die Grundlagen zum Thema Gamification anzueignen. Dabei ist zu beachten, dass sich die Gamification Grundlagen nicht nur in technische Lösungen einteilen lassen. Gamification behandelt die Psychologie der Motivation und das erzeugen von Verhalten. In diesem Fall wollen wir die Gamification nutzen um Mitarbeiter zu motivieren und ihr Verhalten soweit ändern, das sie bessere Dokumentationen schreiben.
+\begin{description}
+   \item[Also müssen folgende Forschungsfragen in diesem Abschnitt behandelt werden:]~\par
+   \begin{itemize}
+      \item Was ist Motivation?
+      \item Wie kann man Motivation erzeugen?
+      \item Wie kann Motivation genutzt werden?
+   \end{itemize}
+\end{description}
+Wenn diese Fragen geklärt sind, ist es möglich Aussagen darüber zu treffen, welche Gamification Elemente sich in Verbindung mit den Anforderungen am besten eignen würden um die Dokumentationsbereitschaft zu erhöhen.
+\\\\
+\textbf{Confluence}\\
+Die identifizierten Gamification Elemente müssen zu guter Letzt noch in das firmeninterne Dokumentationstool "Confluence" integriert werden. Die benötigten Kenntnisse wie Confluence zu konfigurieren ist, welche Möglichkeiten der Konfiguration Confluence zu Verfügung stellt und wie aufwendig die Integration der gewählten Gamification Elemente wird, fallen in diesen Teil der Arbeit. 
+\\\\
+Die Confluence Software ist ein wichtiger Baustein der esentri AG und kann deswegen nicht ohne größeren Aufwand ausgetauscht werden. Deswegen ist es wichtig die Grenzen der Software zu ermitteln. Dadurch ist die Auswahl der Gamification Elemente zwar eingeschränkt, da lediglich Elemente verwendet werden dürfen die sich mit dieser Software auch umsetzen lassen. Trotzdem gibt es Punkte die dafür sprechen Confluence als Dokumentationstool für diese Arbeit zu wählen. So kann der Atlassian Marketplace z.B nach vorhandenen Gamification-Addons durchsucht werden die bereits Gamification Elemente beinhalten.
+\\\\
+\textbf{Zusammenhang von Dokumentation, Gamification und Confluence}\\
+In dieser Arbeit wird versucht alle Schwerpunkte der einzelnen Themenbereiche Dokumentation, Gamification und Confluence zu betrachten und diese zusammenzuführen. Dadurch entstehen natürlich Abhängigkeiten und Zusammenhänge. So können z.B die Gamification Elemente erst ausgewählt werden nachdem die Anforderungen an die Elemente aus dem Dokumentationsprozess ermittelt wurden. Ebenfalls können diese Elemente nur dann verwendet werden wenn sie sich mit Confluence umsetzen lassen. Durch diese Abhängigkeiten aller drei Bereiche unterscheidet sich diese Arbeit von anderen Arbeiten, die eben nur eines dieser Felder als Schwerpunkt hat.
+\subsection{Übersicht}
+Diese Arbeit teilt sich in drei Teile auf. Im ersten Teil werden hauptsächlich die Grundlagen der wichtigen Aspekte Dokumentation, Gamification und Confluence behandelt. Es sollen Begrifflichkeiten und Definitionen dieser Bereiche aufgeführt und erläutert werden. 
+\begin{description}
+   \item[Aus dieser Phase werden die folgenden Teilergebnisse benötigt:]~\par
+   \begin{itemize}
+      \item Aus dem Bereich Dokumentation sollen die Anforderungen und Kriterien für die Gamification Elemente ermittelt werden.
+      \item Die Anforderungen werden nun verwendet um aus dem Bereich der Gamification die passenden Elemente zu identifizieren.
+      \item Im Confluence Teil muss geprüft werden, ob sich die identifizierten Gamification Elemente auch in Confluence umsetzen lassen. Andernfalls muss nach alternativen Lösungsansätzen geforscht werden.
+   \end{itemize}
+\end{description}
+Als Gesamtergebniss dieser ersten Phase, sind die Gamification Elemente zu verstehen die sowohl die Anforderungen entsprechen und sich auch in Confluence Umsetzen lassen.
+\\\\
+Im zweiten Teil dieser Arbeit wird die technische Umsetzung beschrieben. Es wird dokumentiert, wie die Confluence Wiki konfiguriert wird und wie die aus Phase Eins erarbeiteten Gamification Elemente in die Wiki zu integrieren sind. Des weiteren sollen in dieser Phase Kennzahlen und Messwerte festgehalten werden. Diese Zahlen sollen genutzt werden um die Veränderung der Dokumentationsbereitschaft zu messen. Hierfür soll ein einfacher Vergleich von Alter-Zustand zu Neuer-Zustand gezogen werden. Dabei steht der Alter-Zustand für Confluence ohne Gamification und der Neuer-Zustand für Confluence mit Gamification.
+\\\\
+Im letzten Teil dieser Arbeit sollen die Ergebnisse aus dem Vergleich von Alter-Zustand zu Neuer-Zustand präsentiert und untersucht werden. Diese Bewertung soll Aufschluss darüber geben wie rentable es ist, Gamification Elemente für das konkrete Beispiel des Dokumentationsprozesses zu nutzen. Zum Schluss soll die Arbeit mit einem Fazit und einem Ausblick einblicke in zukünftige Projekte geben.
+
+\newpage
+\listoftables
+\listoffigures
+\newpage
+\bibliography{library,library2}
+
+\end{document} 

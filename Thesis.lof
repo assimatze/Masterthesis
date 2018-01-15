@@ -1,0 +1,47 @@
+\select@language {ngerman}
+\contentsline {figure}{\numberline {1}{\ignorespaces Beispiel einer G\IeC {\"a}steliste f\IeC {\"u}r alle Vorspeisen.}}{8}{figure.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces Die Elemente eines HTML-Dokumentes}}{13}{figure.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces Abstarktion des HTML-Codes}}{13}{figure.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces Beispiel eines Event-Handlers}}{17}{figure.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces Beispiel des Grid-Layouts}}{19}{figure.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Die in Bootstrap m\IeC {\"o}glichen Raster Optionen}}{19}{figure.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Darstellung eines SCRUM-Prozesses}}{23}{figure.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces Use Case Diagramm.}}{30}{figure.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces Die grafische Darstellung der Teilnehmer-Zuordnung.}}{35}{figure.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces Die grafische Darstellung der Gruppenliste.}}{38}{figure.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces Die Gruppenliste nach der 1. Permutation.}}{38}{figure.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces Die Gruppenliste nach der 2. Permutation.}}{39}{figure.12}
+\contentsline {figure}{\numberline {13}{\ignorespaces Bildung der \textit {Tische} nach der Permutation.}}{39}{figure.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces Permutation innerhalb der Gruppe.}}{40}{figure.14}
+\contentsline {figure}{\numberline {15}{\ignorespaces Komplett rotierte Gruppenliste.}}{41}{figure.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces G\IeC {\"a}ste werden in die G\IeC {\"a}steliste eintragen.}}{42}{figure.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces Vegetarier wird in die Leere Gruppenliste eingetragen.}}{45}{figure.17}
+\contentsline {figure}{\numberline {18}{\ignorespaces Ein passendes veg. Gericht wird in die Leere Gruppenliste eingetragen.}}{45}{figure.18}
+\contentsline {figure}{\numberline {19}{\ignorespaces Der Ablauf des Prozesses Vegetarier-Verteilung.}}{46}{figure.19}
+\contentsline {figure}{\numberline {20}{\ignorespaces Model des Managers.}}{47}{figure.20}
+\contentsline {figure}{\numberline {21}{\ignorespaces Das Anmeldeformular mit den pers\IeC {\"o}nlichen Daten und den anwendungsrelevanten Daten.}}{49}{figure.21}
+\contentsline {figure}{\numberline {22}{\ignorespaces Die JSON-Ausgabe der Geocoding Anfrage f\IeC {\"u}r die Bsp. Adresse \glqq 1600 Amphitheatre Parkway, Mountain View, CA\grqq .}}{51}{figure.22}
+\contentsline {figure}{\numberline {23}{\ignorespaces Model eines Ablauf der Teilnehmer-Anmeldung.}}{52}{figure.23}
+\contentsline {figure}{\numberline {24}{\ignorespaces Die Darstellung der Teilnehmerliste und das Formular.}}{56}{figure.24}
+\contentsline {figure}{\numberline {25}{\ignorespaces Die Darstellung der Header- bzw. Content-Rahmen.}}{60}{figure.25}
+\contentsline {figure}{\numberline {26}{\ignorespaces Die Sitemap der Webanwendung.}}{61}{figure.26}
+\contentsline {figure}{\numberline {27}{\ignorespaces Die Anmeldungs Sidebar.}}{63}{figure.27}
+\contentsline {figure}{\numberline {28}{\ignorespaces Die unterschiedlichen Navigationsleisten im direkten Vergleich.}}{64}{figure.28}
+\contentsline {figure}{\numberline {29}{\ignorespaces Die Sortable-List der Unterseite \textit {Teilnehmer-Zuordnung starten}.}}{65}{figure.29}
+\contentsline {figure}{\numberline {30}{\ignorespaces Darstellung eines Konfliktes auf der Unterseite \textit {G\IeC {\"a}steliste ansehen}.}}{65}{figure.30}
+\contentsline {figure}{\numberline {31}{\ignorespaces Sidebar zur Optimierung der Teilnehmer-Editierung.}}{66}{figure.31}
+\contentsline {figure}{\numberline {32}{\ignorespaces Die Onlinestudie des ARD/ZDF.}}{67}{figure.32}
+\contentsline {figure}{\numberline {33}{\ignorespaces Das HTML Box Model.}}{68}{figure.33}
+\contentsline {figure}{\numberline {34}{\ignorespaces Viewport vor dem Unterschreiten des Breakpoints.}}{69}{figure.34}
+\contentsline {figure}{\numberline {35}{\ignorespaces Viewport nachdem der Breakpoint unterschritten wird.}}{69}{figure.35}
+\contentsline {figure}{\numberline {36}{\ignorespaces Die Architektur einer HTML-Unterseite der Webanwendung.}}{70}{figure.36}
+\contentsline {figure}{\numberline {37}{\ignorespaces Der Anfang des Skriptes Teilnehmer-Zuordnung.}}{72}{figure.37}
+\contentsline {figure}{\numberline {38}{\ignorespaces Der Aufruf der Klasse GruppenZuweiser im Skript.}}{73}{figure.38}
+\contentsline {figure}{\numberline {39}{\ignorespaces Die Prozesskette des GruppenZuweisers mit den entsprechenden Funktionen.}}{74}{figure.39}
+\contentsline {figure}{\numberline {40}{\ignorespaces Das UML-Klassendiagramm f\IeC {\"u}r die Teilnehmer-Zuordnung.}}{75}{figure.40}
+\contentsline {figure}{\numberline {41}{\ignorespaces Ausschnitt aus der Teilnehmer Tabelle.}}{76}{figure.41}
+\contentsline {figure}{\numberline {42}{\ignorespaces Ausschnitt der Gerichte Tabelle.}}{77}{figure.42}
+\contentsline {figure}{\numberline {43}{\ignorespaces Ausschnitt der Geo Tabelle mit Erkl\IeC {\"a}rung.}}{78}{figure.43}
+\contentsline {figure}{\numberline {44}{\ignorespaces Geo Tabelle Entity Relationship Model (ERM).}}{79}{figure.44}
+\contentsline {figure}{\numberline {45}{\ignorespaces Ausschnitt der Tabelle f\IeC {\"u}r die Vorspeise, den Hauptgang und das Dessert.}}{79}{figure.45}
+\contentsline {figure}{\numberline {46}{\ignorespaces Ausschnitt der Tabelle f\IeC {\"u}r die Vorspeise, den Hauptgang und das Dessert.}}{80}{figure.46}

@@ -1,0 +1,73 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Thesis.aux
+The style file: unsrt.bst
+Illegal, another \bibstyle command---line 28 of file Thesis.aux
+ : \bibstyle
+ :          {unsrt}
+I'm skipping whatever remains of this command
+Database file #1: library.bib
+Warning--I didn't find a database entry for "php"
+Warning--I didn't find a database entry for "zendEngine"
+Warning--I didn't find a database entry for "phpPDO"
+Warning--I didn't find a database entry for "w3c"
+Warning--I didn't find a database entry for "htmlBuch"
+Warning--I didn't find a database entry for "htmlDatenmodel"
+Warning--I didn't find a database entry for "test"
+Warning--I didn't find a database entry for "mysql"
+Warning--I didn't find a database entry for "mysqlvorteil"
+Warning--I didn't find a database entry for "relationaleDB"
+Warning--I didn't find a database entry for "jQuerybeschreibung"
+Warning--I didn't find a database entry for "jqueryPhasen"
+Warning--I didn't find a database entry for "ajaxSupport"
+Warning--I didn't find a database entry for "Bootstrapintro"
+Warning--I didn't find a database entry for "responsiveIntro"
+Warning--I didn't find a database entry for "scrumWiki"
+Warning--I didn't find a database entry for "scrumBuch"
+Warning--I didn't find a database entry for "grundlagenAA"
+Warning--I didn't find a database entry for "analyseWiki"
+Warning--I didn't find a database entry for "usecase"
+Warning--I didn't find a database entry for "responsiveWebdesign"
+Warning--empty journal in Zink2010
+You've used 2 entries,
+            1791 wiz_defined-function locations,
+            496 strings with 4209 characters,
+and the built_in function-call counts, 534 in all, are:
+= -- 53
+> -- 12
+< -- 1
++ -- 5
+- -- 3
+* -- 33
+:= -- 82
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 2
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 25
+empty$ -- 51
+format.name$ -- 3
+if$ -- 119
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 13
+num.names$ -- 2
+pop$ -- 6
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 16
+stack$ -- 0
+substring$ -- 49
+swap$ -- 8
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 7
+width$ -- 3
+write$ -- 23
+(There was 1 error message)
