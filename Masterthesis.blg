@@ -9,46 +9,46 @@ I'm skipping whatever remains of this command
 Database file #1: library.bib
 Database file #2: library2.bib
 Warning--empty publisher in gamificationDefinition
-Warning--empty publisher in technicalDebt
-You've used 2 entries,
+Warning--empty publisher in Graham2004
+You've used 4 entries,
             1791 wiz_defined-function locations,
-            456 strings with 3753 characters,
-and the built_in function-call counts, 314 in all, are:
-= -- 22
-> -- 8
+            469 strings with 4112 characters,
+and the built_in function-call counts, 665 in all, are:
+= -- 56
+> -- 16
 < -- 0
-+ -- 4
-- -- 2
-* -- 12
-:= -- 53
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 0
++ -- 8
+- -- 4
+* -- 32
+:= -- 111
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 2
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 20
-empty$ -- 39
-format.name$ -- 2
-if$ -- 69
+cite$ -- 6
+duplicate$ -- 37
+empty$ -- 77
+format.name$ -- 4
+if$ -- 145
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 4
-newline$ -- 13
-num.names$ -- 2
-pop$ -- 16
+int.to.str$ -- 4
+missing$ -- 6
+newline$ -- 23
+num.names$ -- 4
+pop$ -- 20
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 4
+skip$ -- 10
 stack$ -- 0
-substring$ -- 0
-swap$ -- 2
+substring$ -- 25
+swap$ -- 4
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 2
-while$ -- 2
-width$ -- 3
-write$ -- 20
+while$ -- 6
+width$ -- 5
+write$ -- 41
 (There was 1 error message)

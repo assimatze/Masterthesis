@@ -38,7 +38,7 @@ citecolor=black
 Hiermit versichere ich, dass ich die vorliegende Arbeit selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt habe sowie wörtliche und sinngemäße Zitate als solche gekennzeichnet habe. Diese Versicherung bezieht sich sowohl auf
 Textinhalte sowie alle enthaltenen Abbildungen, Skizzen und Tabellen. Die Arbeit wurde in gleicher oder ähnlicher Form keiner anderen Prüfungsbehörde zur Erlangung eines akademischen Grades vorgelegt.
 \\\\
-Karlsruhe, den 04. Juli 2014
+Karlsruhe, den 04. April 2018
 \\\\
 Matthias Misior \noindent\dotfill
 
@@ -196,12 +196,91 @@ Als Gesamtergebniss dieser ersten Phase, sind die Gamification Elemente zu verst
 Im zweiten Teil dieser Arbeit wird die technische Umsetzung beschrieben. Es wird dokumentiert, wie die Confluence Wiki konfiguriert wird und wie die aus Phase Eins erarbeiteten Gamification Elemente in die Wiki zu integrieren sind. Des weiteren sollen in dieser Phase Kennzahlen und Messwerte festgehalten werden. Diese Zahlen sollen genutzt werden um die Veränderung der Dokumentationsbereitschaft zu messen. Hierfür soll ein einfacher Vergleich von Alter-Zustand zu Neuer-Zustand gezogen werden. Dabei steht der Alter-Zustand für Confluence ohne Gamification und der Neuer-Zustand für Confluence mit Gamification.
 \\\\
 Im letzten Teil dieser Arbeit sollen die Ergebnisse aus dem Vergleich von Alter-Zustand zu Neuer-Zustand präsentiert und untersucht werden. Diese Bewertung soll Aufschluss darüber geben wie rentable es ist, Gamification Elemente für das konkrete Beispiel des Dokumentationsprozesses zu nutzen. Zum Schluss soll die Arbeit mit einem Fazit und einem Ausblick einblicke in zukünftige Projekte geben.
-\section{Dokumentation}
-Der Zweck einer Dokumentation ist das sammeln, erhalten und das aufbereiten von Information. In dieser Arbeit soll eine Dokumentation verstanden werden als:
+
+\section{Knowledge Management}
+In diesem Kapitel sollen die Grundlagen aus dem Bereich Knowledge Management erläutert werden, die für diese Arbeit relevant sind. Das Thema Knowledge Management ist zu umfangreich um in seiner Gesamtheit für diese Arbeit in Betracht genommen zu werden. Deswegen soll sich in dieser Arbeit nur auf das Dokumentieren (Knowledge Capturing) als Untergruppe des Knowledge Management beschränkt werden. Hierzu sollen zunächst die in diesem Kapitel verwendeten Begrifflichkeiten definiert und erklärt werden. Im Anschluß werden die verschiedenen Punkte beschrieben was der generelle nutzen einer Dokumentation ist und was die Vorteile und Schwierigkeiten des Dokumentationsprozesses sind. Desweiteren sollen die Qualitätsmerkmale einer Dokumentation aufgeführt und anhand von Beispielen erklärt werden. Darauf folgen Gründe, warum Dokumentationen ungerne geschrieben werden.
 \\\\
-\enquote{Ein Dokument das Informationen über ein Software-Projekt oder ein Software-Produkt enthält}.
+Um den Wissensaustausch durch Dokumentationen zu unterstützen muss zuerst der Dokumentationsprozess analysiert werden. Hierfür werden Recherchen betrieben die sich mit Knowledge Sharing, Dokumentation, internal Qualität oder ähnlichen Themen beschäftigen. Dadurch sollen Faktoren bestimmt werden, die sich dabei auf den Prozess auswirken. Diese Faktoren werden am Ende als Liste Zusammengefasst und dienen als Überleitung an den Gamification Teil. In den Folgenden Kapiteln wird dann ermittelt, welche Gamification Elemente sich nutzen lassen um die Faktoren positiv zu beeinflussen. Durch diese Beeinflussungen sollte sich dann auch der Dokumentationsprozess verbessern.
 \\\\
-Die Informationen die in einer Dokumentation hinterlegt werden, können nach verschiedenen Kriterien kategorisiert werden. So können Informationen nach Ihren Typ und deren Personengruppe kategorisiert werden.\cite{technicalDebt} 
+Durch das untersuchen des Knowledge Capturing soll der Bereich aus verschiedenen Perspektiven betrachtet werden. Dadurch sollen nicht nur technische Schwierigkeiten des Dokumentationsprozesses aufgedeckt werden sondern vor allem auch die psychologischen Hintergründe, die das Dokumentieren so komplex machen.
+\subsection{Definitionen und Begrifflichkeiten}
+Hier sind die Definitionen und Begriffe erläutert wie wir sie für diese Arbeit verwenden.
+\\\\
+Ein \textit{Autor} ist der Verfasser einer Dokumentation. Der Autor wird meistens der Entwickler sein, da wir uns aber nicht nur auf Software-Dokumentation beschränken, können auch andere Personen wie Technische Schreiber oder Manager als Autoren in Betracht kommen. Ein Autor ist gleichzeitig immer ein \textit{Anwender} der Confluence Wiki und kann in diesem Zusammenhang deswegen auch als solcher genannt werden.
+\\\\
+Ein \textit{Leser} ist die Person (Entwickler, Stakeholder etc) welche die Dokumentation liest. Für den Leser wird die Dokumentation geschrieben. Er ist auch derjenige der versucht Information aus der Dokumentation zu gewinnen. Mehrere Leser werden in dieser Arbeit zusätzlich als \textit{Publikum} verstanden.
+\\\\
+Eine \textit{Dokumentation} oder \textit{Wissensbasis} (Knowledge base) eines Projektes bezieht sich auf alle menschliche- und maschinen Lesbare Medien die Teile von Informationen des Projektes enthalten. In dieser Arbeit werden beide Definitionen gleichgesetzt da sich beide Begriffe auf das vorhandensein von Informationen an einem Zentralen Ort beziehen (in der Confluence Wiki). Es werden keine Unterscheidungen zwischen den verschiedenen Arten von Dokumentationen getroffen wie Software-Dokumentation oder Architektur-Dokumentation. Stattdessen wird der Begriff “Dokumentation” vereinfacht und verallgemeinert genutzt, da hier die Tätigkeiten, Informationen aufnehmen in den Vordergrund zu rücken.
+\\\\
+Als \textit{Dokumentationsprozess} (schreiben von Dokumentation, dokumentieren) wird in dieser Arbeit jener Prozess bezeichnet, der für das Sichern von Informationen verantwortlich ist. Dabei wird nicht auf die Art der Information eingegangen um den Begriff universaler in dieser Arbeit verwenden zu können. Desweiteren wird in dieser Arbeit ebenfalls nicht festgelegt, an welchem Ort die Information gespeichert wird. Da in dieser Arbeit die Confluence Wiki als referenzpunkt genutzt wird, wird in dieser Arbeit aber davon ausgegangen dass Informationen in diese Wiki eingetragen werden.
+\\\\
+Der Begriff \textit{technische Schulden} wurde 1992 von Ward Cunningham vorgestellt. Technische Schulden beschreiben dabei den Vorgang, in einem Projekt diejenigen Aktivitäten zu vernachlässigen welche keine neuen Funktionalität in das Projekt bringen. 
+\\\\
+Zu diesen reduzierten Aktivitäten zählen meistens die Dokumentation des Projektes und das Testen von Funktionen innerhalb des Projektes. Ein Entwickler der an diesem Projekt arbeitet verschuldet sich also, indem Dokumentation und das Testen übergangsweise vernachlässigt werden. Dadurch wird kurzzeitig die Entwicklung des Projektes vorangetrieben. Diese technischen Schulden müssen aber, wie alle Schulden, zu einem späteren Zeitpunkt zurückgezahlt werden. 
+\\\\
+Die Rückzahlung bei technischen Schulden erfolgt durch das erneute investieren von Zeit, um das Wissen zu erarbeiten, welches während dem Projekt zwar gewonnen wurde, aber nicht rechtzeitig dokumentiert und somit verloren ging. Dies erfordert zusätzliche Anstrengungen die als \textit{technische Zinsen} zu verstehen sind. Die Rückzahlung ist somit teurer als die eigentlichen Kosten für die Dokumentation da die Rückzahlung mit den Zinsen addiert wird.
+
+\subsection{Zweck einer Wissensbasis}
+Der Zweck einer Dokumentation besteht darin, dass relevante Information zu einem Thema gesammelt, gespeichert und aufbereitet werden. Diese Informationen werden aus verschiedenen Gründen erfasst und gespeichert.
+
+\subsubsection{Spätere Verwendung der Information für Autor}
+Eine Studie von Parnin im Jahr 2010 \cite{Parnin2010} über kognitive Prozesse von Entwicklern beschreibt das Problem im Bereich der Softwareentwicklung: Ein Entwickler dessen Aufgabe darin besteht Quellcode zu generieren verliert schon gleich nach der Implementierung des Codes Informationen die für Änderungen oder Erweiterungen des Codes wichtig wären. Dieses Wissen geht verloren, solange es nicht ausreichend dokumentiert wird. Nach nur wenigen Minuten Ablenkung verliert ein Entwickler bereits seine gut durchdachten Gedankengänge \cite{Graham2004}. Nach wenigen Tagen verblasen Informationen zu ausgewählten Namen und Identifizieren. Nach Wochen verliert ein Entwickler seine Erinnerung an die Mentale Repräsentation die benötigt wird um Aufgaben in bezug auf den Quellcode zu erfüllen. Es zeigt sich also, dass die menschliche Erinnerung nicht effektiv genug Informationen und Wissen abspeichern kann.
+
+\subsubsection{Mitarbeiter schneller in das Projekt integrieren} 
+Der Prozess des Onboardings (einen neuen Mitarbeiter in das Projekt einlernen) ist ein wichtiger Prozess in der IT Branche und besonders bei Beratungsfirmen. Die Fachkenntnisse die in Form von Beratern von Kunden eingekauft werden, bestimmen den Wert der Dienstleistung gegenüber dem Kunden. Mitarbeiter wechseln häufiger nach Bedarf oder Aufgrund von spezifischen Fachkenntnissen die Projekte. Dadurch entstehen zwei Probleme für das Projekt. Verlässt ein Mitarbeiter ein Projekt so verliert es effektiv an Wissen in Form des Mitarbeiters. Wird dieses wertvolle Wissen nicht rechtzeitig gesichert, entstehen finanzielle Kosten. Die Kosten beziehen sich dabei auf erneute Zeitinvestitionen die gemacht werden müssen, um das verlorene Wissens wieder aufzuarbeiten.
+\\\\
+Zudem sind neue Mitarbeiter mit dem Projekt und dessen Wissenbasis (Dokumentation) nicht vertraut. Das einarbeiten eines Mitarbeiters kostet Zeit und unter umständen Personal. Um das Einlernen effizienter zu gestalten, ist eine verständliche Wissenbasis unerlässlich. Sie bietet einen Startpunkt in das Projekt für den Mitarbeiter, gibt ihm grundlegende Informationen und ermöglicht ihm Fragen im Vorfeld eigenständig zu beantworten. Desto verständlicher und strukturierter die Dokumentation, desto effizienter ist der Onboarding-Prozess.   
+\\\\
+Hinzu kommt das neue Mitarbeiter ihre Probleme effizienter kommunizieren können, da die Kommunikation über die Dokumentation geführt werden kann. Somit können Senior Mitarbeiter (Mitarbeiter die mit den Projekt gut vertraut sind) einfach auf die Dokumentation verweisen wenn es Unklarheiten gibt. 
+
+\subsubsection{Erweiterbarkeit des Projektes wird gesichert}
+Durch eine strukturierte Wissensbasis in form einer Dokumentation können leichter Änderungen an den Projekten durchgeführt werden. Die Informationen die hierfür aus der Dokumentation genutzt werden verhindern, das Änderungen an der falschen Stelle gemacht werden. Die Informationen helfen ebenfalls zu ermitteln, welche Lösungsansätze bereits versucht worden sind und wie erfolgreich diese waren. Es fällt ebenfalls leichter zu erkennen ob die verlangten Änderungen umsetzbar sind oder nicht.
+
+\subsubsection{Wartbarkeit der Software wird sicher gestellt}
+Das Warten und Instandhalten von Software gehört immer mehr zu den Tätigkeiten eines Entwickler. Deswegen ist es auch hier wichtig, eine verständliche Wissensbasis mit entsprechenden Informationen zu haben die erklären, wie die Software oder das System arbeitet. Dadurch können Fehlerquellen eingegrenzt bzw. identifiziert werden. Fehler die häufiger auftreten, können ebenso in die Dokumentation aufgenommen werden wie grundsätzliche Einstellungen und Konfigurationen.
+ 
+\subsubsection{Nutzen für verteilte Projekte}
+Die Dokumentation dient bei verteilten Projekten ebenfalls als Kommunikationsmedium. Dies ist ein wichtiger Punkt für die esentri AG da nicht immer alle Mitglieder des Projektes Vor Ort sind und sich dadurch längere und vor allem kompliziertere Kommunikationswege auftun. Durch das Verweisen auf die Dokumentation, können umständlicher Kommunikationskanäle wie Telefongespräche oder E-mails reduziert werden oder komplett wegbleiben. Obwohl eine Dokumentation es nicht vermag komplett auf Meetings oder Besprechungen zu verzichten, helfen sie doch durch ein gemeinsames Wissensvokabular diese Meetings effizienter zu gestalten. 
+
+\subsection{Die Hürden des Dokumentationsprozesses}
+Das schreiben von Dokumentationen ist natürlich ein Aufwand so wie das implementieren von Code auch. Dieser Prozess kostet Zeit und ist aufgrund seiner Komplexität entsprechend schwer greifbar. Die Komplexität beim Dokumentationsprozess rührt daher, das verschiedene Einflüsse in eine Dokumentation miteinfließen.
+\\\\
+Zunächst müssen diejenigen Informationen identifiziert werden, welche in die Dokumentation aufgenommen werden sollen. Hierfür muss der Autor entscheiden, welche Informationen wichtig oder unwichtig sind. Diese Fähigkeit zu erlangen erfordert Übung und Erfahrung. Das Kategorisieren (Wichtig/Unwichtig) von Informationen ist eine komplexe Angelegenheit, da hier sowohl der Wissensstand des Autors als auch der Wissensstand des Lesers eine entscheidende Rolle spielt. Was für den einen Trivial und ersichtlich erscheint muss für den Anderen nicht unbedingt ebenfalls so sein. Ist die Wissenslücke zwischen Autor und Leser zu groß, wirkt sich das negativ auf die Qualität der Information und somit automatisch auf die Qualität der Dokumentation aus. Die Identifizierung und die Kategorisierung von Information kann bis heute noch nicht automatisiert werden da es bis jetzt noch kein System gibt das das menschliche Urteilsvermögen ersetzen kann.
+\\\\
+Der nächste Faktor in der Komplexität des Dokumentationsprozesses ist die Darstellung der Information. Die Information sollte leicht verständlich, kurz und knapp dargestellt sein. (KISS-Prinzip\footnotemark
+). Nicht jeder Autor ist jedoch in der Lage seine einzigartigen Gedanken so zu formulieren, das Sie als verständlich angesehen werden. Informationen kurz oder knapp zu halten ist ebenfalls nicht so trivial wie man anfangs vermuten lässt. Schließlich müssen Informationen kompakt und auf den Punkt gebracht werden. Die Essenze einer Information zu sichern muss ebenfalls dem menschlichen Urteilsvermögen überlassen werden. Unterstützung durch Tools oder Systeme gibt es auch hier nicht.
+\footnotetext{\url{http://www.community-of-knowledge.de/beitrag/keep-it-simple-stupid-leichtgewichtiges-wissensmanagement-mit-wikis/}}
+\\\\
+Die identifizierten und ausformulierten Informationen müssen anschließend in eine Form und Struktur übernommen werden, die logisch und verständlich für das entsprechende Publikum ist. 
+
+\begin{description}
+   \item[Dabei gilt es die Dokumentation so zu designen:]~\par
+   \begin{itemize}
+      \item Informationen sollten leicht und schnell zu erkennen sein.
+      \item Informationen sollten säuberlich voneinander getrennt sein. 
+      \item Informationen sollten entsprechend geordnet sein.
+   \end{itemize}
+\end{description}
+Die Komplexität einer Dokumentation beschränkt sich aber nicht nur auf die entsprechenden Informationen. Jede Dokumentation muss je nach Publikum und Themengebiet unterschiedlich gestaltet werden. Zwar gibt es Standards und Normen, wie z.B der arc42-Standard als Dokumentationsstandard für Architekturen. Dennoch können die vielseitigen Sichten nicht alle in einen Standard vereint werden.
+\\\\
+Hinzu kommt dass das Schreiben von Dokumentationen ein tiefes Verständnis des Themengebietes voraussetzt über das dokumentiert wird. Im Falle der Softwareentwicklung, die hier als Beispiel verwendet werden soll, bedeutet es das der Implementierte Quellcode verstanden werden muss. Im Idealfall dokumentiert der entsprechende Entwickler selbst den Code, ist dies jedoch nicht der Fall und die Dokumentation wird von einem Dritten geschrieben, gehen schonmal Hintergrundinformationen die eventuell für das Projekt relevant sind verloren. Somit ist es also immer besser wenn der entsprechende Entwickler einer Funktion oder Komponente (oder ein andere teil des Quellcodes) dessen Dokumentation übernimmt. Dies ist aber nicht immer möglich, da die Zeit fehlt und erfahrene Entwickler mehr damit beschäftigt sind, neue Funktionalität zu implementieren und somit das dokumentieren unerfahrenen Entwicklern überlassen wird. 
+\\\\ 
+Ein weiteres schwerwiegendes Problem ist auch, dass die Dokumentation einer der ersten Aktivitäten ist die bei hohen Zeitdruck vernachlässigt wird. Bei Projekten mit einem straffen Zeitplan und näherrückenen Deadlines werden so technische Schulden gemacht um so den vorgegebenen Zeitplan einhalten zu können. Diese Schulden zu erfassen ist schwierig da sie stark kontextabhängig sind. Außerdem müssen ebenfalls die technischen Zinsen erfasst und berücksichtigt werden. Auch diese Angaben sind schwer zu erfassen und somit wird verhindert dass die gesamten Schulden sachgemäss zurückgezahlt werden können.
+
+\subsection{Vorteile des Wissensaustausch}
+Dennoch zeigen Studien das eine Dokumentation trotz Zeitaufwand und Anstrengungen sich für Firmen rentiert. In einem Experiment von Eirik Tryggeseth zu den Auswirkungen von Dokumentationen auf die Wartung von Software zeigt sich z.B, dass Änderungen an Software Projekten durch Dokumentationen sich effizienter umsetzen lassen. die Lösungsansätze und Änderungen waren dank Hintergrundinformationen zusätzlich qualitativ besser \cite{Tryggeseth1997}.
+\\\\
+Bei diesem Experiment wurden zwei Gruppen von Studenten mit Änderungen an einem Software-Projekt beauftragt. Eine Gruppe verwendete dabei eine Dokumentation, während die zweite Gruppe lediglich den Quellcode des Projektes zur Verfügung hatte. Die Gruppe ohne Dokumentation benötigte 21,5\% mehr Zeit ihre Änderungen umzusetzen als ihre Kollegen die über eine Dokumentation verfügten \cite{Tryggeseth1997}.
+\\\\
+Das hier erwähnte Experiment zeigt deutlich den größten und wichtigsten Nutzen einer vernünftigen Wissensbasis, das generieren von Zeiterspanissen. Dabei wird sich aber nicht auf die Entwicklungszeit bezogen. Die Entwicklungszeit eines Projektes soll sich in diesem Zusammenhang auf die gesamte Zeitspanne beziehen, welche das planen, implementieren, dokumentieren, testen und inbetriebnehmen eines entwickelten Projektes beinhaltet. Oder bei Agilen Projekten auf die Zeit aller durchgeführten Sprints. Diese Entwicklungszeit wird natürlich nicht beschleunigt. Die Zeitersparnis macht sich erst dann bemerkbar, Wenn das hier gefundene Wissen in anderen Projekten zur einer Verkürzung deren Entwicklungszeit führt. Dadurch wird das gesammelte Wissen also wiederverwendet und führt dadurch zu einer höheren Qualität von Projekten, bei denen das Wissen verwendet wird.
+\\\\
+Als solches kann eine Dokumentation als Investition in die Zukunft gesehen werden. Die Erfahrungen und das Wissen das bei vergangenen Projekten gewonnen wurde, führt zur besseren Qualität und von einer Senkung der Entwicklungszeit bei zukünftigen Projekten.
+\\\\
+Ein weiterer Vorteil einer stämmigen Wissensbasis ist das Vermarkten des generierten Wissens. Wie bereits erwähnt ist die esentri AG eine Beratungsfirma. Das Kapitel einer Beratungsfirma liegt in den Beratern/innen und deren Fachkenntnisse. Wird das Wissensmanagement ausgebaut und den Mitarbeitern leichter Zugang und ein schnellerer Austausch von Informationen ermöglicht, steigert sich auf lange Sicht gesehen nicht nur die Qualität der Beratungen sondern hebt esentri gegenüber seinen Konkurrenten ab.
+
+
+
+  
 \newpage
 \listoftables
 \listoffigures

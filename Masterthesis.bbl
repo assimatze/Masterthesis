@@ -6,9 +6,21 @@ Brian Burke.
   Things}}.
 \newblock 2014.
 
-\bibitem{technicalDebt}
-Ward Cunningham.
-\newblock {\em {The WyCash portfolio management system}}.
-\newblock 1992.
+\bibitem{Parnin2010}
+Chris Parnin.
+\newblock {A Cognitive Neuroscience Perspective on Memory for Programming
+  Tasks}.
+\newblock {\em Proceedings of the 22nd Annual Meeting of the Psychology of
+  Programming Interest Group (PPIG)}, 2010.
+
+\bibitem{Graham2004}
+Graham Paul.
+\newblock {\em {Hackers and Painters: Big Ideas from the Computer Age}}.
+\newblock 2004.
+
+\bibitem{Tryggeseth1997}
+Eirik Tryggeseth.
+\newblock {Report from an Experiment: Impact of Documentation on Maintenance}.
+\newblock {\em Empirical Software Engineering}, 2(2):201--207, 1997.
 
 \end{thebibliography}
