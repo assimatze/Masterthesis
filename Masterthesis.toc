@@ -18,3 +18,24 @@
 \contentsline {subsubsection}{\numberline {2.2.5}Nutzen f\IeC {\"u}r verteilte Projekte}{13}{subsubsection.2.2.5}
 \contentsline {subsection}{\numberline {2.3}Die H\IeC {\"u}rden des Dokumentationsprozesses}{13}{subsection.2.3}
 \contentsline {subsection}{\numberline {2.4}Vorteile des Wissensaustausch}{15}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Qualit\IeC {\"a}tsmerkmale einer Dokumentation}{15}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {2.5.1}Vollst\IeC {\"a}ndigkeit}{16}{subsubsection.2.5.1}
+\contentsline {subsubsection}{\numberline {2.5.2}Ver\IeC {\"a}nderbarkeit}{16}{subsubsection.2.5.2}
+\contentsline {subsubsection}{\numberline {2.5.3}Aktualit\IeC {\"a}t}{16}{subsubsection.2.5.3}
+\contentsline {subsubsection}{\numberline {2.5.4}Eindeutigkeit}{16}{subsubsection.2.5.4}
+\contentsline {subsubsection}{\numberline {2.5.5}Identifizierbarkeit}{16}{subsubsection.2.5.5}
+\contentsline {subsubsection}{\numberline {2.5.6}Verst\IeC {\"a}ndlichkeit}{17}{subsubsection.2.5.6}
+\contentsline {subsubsection}{\numberline {2.5.7}Konsistenz}{17}{subsubsection.2.5.7}
+\contentsline {subsection}{\numberline {2.6}Gr\IeC {\"u}nde f\IeC {\"u}r die Vernachl\IeC {\"a}ssigung des Dokumentationsprozesses}{17}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}Ursachen f\IeC {\"u}r mangelnde Dokumentation}{18}{subsection.2.7}
+\contentsline {subsection}{\numberline {2.8}Faktoren zum beeinflussen des Dokumentationsprozesses}{19}{subsection.2.8}
+\contentsline {subsubsection}{\numberline {2.8.1}Verhaltensmodell im \IeC {\"U}berblick}{20}{subsubsection.2.8.1}
+\contentsline {subsection}{\numberline {2.9}Die Bestandteile von Verhalten, Motivation, F\IeC {\"a}higkeit und Ausl\IeC {\"o}ser}{20}{subsection.2.9}
+\contentsline {subsubsection}{\numberline {2.9.1}Die Motivation eines Verhaltens}{20}{subsubsection.2.9.1}
+\contentsline {subsubsection}{\numberline {2.9.2}Vergn\IeC {\"u}gen und Belohnung}{21}{subsubsection.2.9.2}
+\contentsline {subsubsection}{\numberline {2.9.3}Die F\IeC {\"a}higkeit ein Verhalten umzusetzen}{22}{subsubsection.2.9.3}
+\contentsline {subsubsection}{\numberline {2.9.4}F\IeC {\"a}higkeitsmerkmal Zeit}{22}{subsubsection.2.9.4}
+\contentsline {subsubsection}{\numberline {2.9.5}F\IeC {\"a}higkeitsmerkmal Verst\IeC {\"a}ndnis}{23}{subsubsection.2.9.5}
+\contentsline {subsubsection}{\numberline {2.9.6}F\IeC {\"a}higkeitsmerkmal soziale Abweichung}{23}{subsubsection.2.9.6}
+\contentsline {subsection}{\numberline {2.10}Der Ausl\IeC {\"o}ser eines Verhaltens}{24}{subsection.2.10}
+\contentsline {subsection}{\numberline {2.11}Anforderungsliste f\IeC {\"u}r den Gamification Bereich}{26}{subsection.2.11}

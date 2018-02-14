@@ -4,7 +4,7 @@
 \usepackage[ngerman]{babel}
 \usepackage[autostyle=true,german=quotes]{csquotes}
 \usepackage[T1]{fontenc}
-\usepackage{graphicx}
+\usepackage[dvips, final]{graphicx}
 \usepackage{geometry}
 \usepackage{setspace}
 \usepackage{amsmath}
@@ -13,6 +13,7 @@
 \usepackage{afterpage}
 \usepackage{wrapfig}
 \usepackage{fancyhdr}
+\usepackage{ae}
 
 \usepackage[colorlinks=true,urlcolor=blue,linkcolor=black,
 citecolor=black
@@ -277,6 +278,263 @@ Das hier erwähnte Experiment zeigt deutlich den größten und wichtigsten Nutze
 Als solches kann eine Dokumentation als Investition in die Zukunft gesehen werden. Die Erfahrungen und das Wissen das bei vergangenen Projekten gewonnen wurde, führt zur besseren Qualität und von einer Senkung der Entwicklungszeit bei zukünftigen Projekten.
 \\\\
 Ein weiterer Vorteil einer stämmigen Wissensbasis ist das Vermarkten des generierten Wissens. Wie bereits erwähnt ist die esentri AG eine Beratungsfirma. Das Kapitel einer Beratungsfirma liegt in den Beratern/innen und deren Fachkenntnisse. Wird das Wissensmanagement ausgebaut und den Mitarbeitern leichter Zugang und ein schnellerer Austausch von Informationen ermöglicht, steigert sich auf lange Sicht gesehen nicht nur die Qualität der Beratungen sondern hebt esentri gegenüber seinen Konkurrenten ab.
+
+\subsection{Qualitätsmerkmale einer Dokumentation}
+In diesem Kapitel soll geklärt werden was die Merkmaler einer qualitativ hochwertigen Dokumentation sind. Diese Merkmale zu verstehen ermöglicht es uns, die konkreten Faktoren zur Beeinflussung des Dokumentationsprozesses zu ermitteln.
+\subsubsection{Vollständigkeit}
+Die Vollständigkeit sagt aus, ob auch wirklich alle Informationen erfasst wurden die für die Dokumentation relevant sind. Hierbei gilt es für den Autor sich ständig zu entscheiden, welche Informationen sind wichtig, welche nicht. Ist die Information ausreichend oder werden noch weitere Informationen zu einem Punkt benötigt. Letzten endes ist eine Dokumentation die Summe seiner Information \cite{Prause2013}.
+\\\\
+Fehlen Informationen muss der Leser erst darauf kommen das nicht alle Informationen vollständig sind. Das kann er unter Umständen nicht beurteilen. Durch das suchen der entsprechenden Informationen geht wertvolle Zeit verloren.
+
+\subsubsection{Veränderbarkeit}
+Die Veränderbarkeit sagt aus, wie einfach Informationen ausgetauscht oder modifiziert werden können. Änderungen innerhalb eines Projektes oder eines Produktes müssen natürlich auch in die entsprechende Dokumentation eingetragen werden. Dabei bezieht sich die Veränderbarkeit nicht nur auf technischer Ebene durch Wikis (wie leicht etwas in der Wiki zu ändern ist). Es geht auch darum, an wie vielen Stellen Änderungen in der Dokumentation durchgeführt werden müssen. Desto zentraler und redundanter die Informationen vorliegen, desto leichter und sichere lässt sich die Dokumentation ändern \cite{Prause2013}.
+
+\subsubsection{Aktualität}
+Ist die Dokumentation noch auf den Aktuellsten Stand? Oder wurden Veränderungen durchgeführt die noch nicht in der Dokumentation erfasst wurden. Es ist schwer alle Änderungen im überblick zu behalten und dafür zu sorgen, das alle Informationen so Aktuell wie möglich sind. Hier gibt es einen Zusammenhang zwischen Aktualität und Veränderbarkeit. Desto Veränderbarer die Dokumentation (liegen Informationen zentral vor), desto leichter ist es die Dokumentation Aktuell zu halten \cite{Prause2013}.
+
+\subsubsection{Eindeutigkeit}
+Mit diesem Merkmal soll beschrieben werden, wie eindeutig die Informationen innerhalb der Dokumentation sind. Es geht darum zweideutigkeit zu vermeiden und Missverständnisse zu eliminieren. Eindeutigkeit hilft dem Leser dabei, schnell zu bestimmen ob die Information für ihn relevant ist und hilft bei der Wissensübertragung \cite{Prause2013}.
+
+\subsubsection{Identifizierbarkeit}
+Wie leicht können Informationen identifiziert werden und wie macht man sie unterscheidbar. Gleiche Informationen sollten immer in gleicher Form in die Dokumentation aufgenommen werden. Dadurch lassen sich Informationen anhand Ihrer Form identifizieren anstatt anhand des Inhaltes. Dadurch wird es Lesern erleichtert, die unnötigen Informationen zu überfliegen und macht es dadurch effizienter die Information zu finden die vom Leser benötigt werden \cite{Prause2013}.
+
+\subsubsection{Verständlichkeit}
+Dieser Punkt ist sehr wichtig. Die Hauptaufgabe einer Dokumentation ist das Verteilen von Wissen. Eine Dokumentation muss an dieser Eigenschaft gemessen werden. Die Informationen müssen klar abgeschlossen sein. Sie sollten nicht zu viel Information enthalten da die Aufnahmefähigkeit der Lesser begrenzt ist. Die Informationen sollten nach dem KISS-Prinzip (“Keep it short and simple”) gestaltet werden \cite{Prause2013}.
+
+\subsubsection{Konsistenz}
+Die Konsistenz beschreibt das Fehlen von Widersprüchen. Eine Dokumentation ist nur dann verständlich wenn es keine Informationen gibt die einander widersprechen. Generell sollte eine Dokumentation immer etwas neues hinzufügen. Gibt es mehrere Informationen die sich widersprechen müssen diese entfernt werden \cite{Prause2013}.
+
+\subsection{Gründe für die Vernachlässigung des Dokumentationsprozesses}
+Prause und Dudrik haben 2012 eine Umfrage von Expertenmeinungen durchgeführt. Dabei sollte ermittelt werden, ob die Experten Schwierigkeiten bzw. Probleme bei der Dokumentation und dem Architektur Design in Agiler Software Entwicklung sahen. Desweiteren sollte analysiert werden, was der Ursprung dieser Probleme ist. Dies sollte die Grundlage schaffen um Lösungsansätze für diese Probleme zu entwickeln. Insgesamt wurden in dieser Befragung 37 Experten interviewt \cite{Prause2012}.
+\\\\
+Die durchgeführte Befragung ergab folgende Ergebnisse wie in Tabelle \ref{ProblemTabelle} zu sehen ist.
+\begin{table}[htb]
+\begin{tabular}{|l|c|}\hline
+\rule{0pt}{15pt}  & \textbf{Experten in Prozent}
+\\
+\hline
+\rule{0pt}{15pt} \textbf{Alle Experten} & 74\%\\ 
+\hline
+\rule{0pt}{15pt} \textbf{Experten aus Industrie} & 100\% \\
+\hline
+\rule{0pt}{15pt} \textbf{Experten aus Akademia} & 68\%\\
+\hline
+\rule{0pt}{15pt} \textbf{Experten des frühen SDLC} & 70\%\\
+\hline
+\rule{0pt}{15pt} \textbf{Experten des späten SDLC} & 76\%\\
+\hline
+\rule{0pt}{15pt} \textbf{Experten aus der Entwicklung} & 74\%\\
+\hline
+\rule{0pt}{15pt} \textbf{Experten aus dem Management} & 78\%\\
+\hline
+\rule{0pt}{15pt} \textbf{Experten aus der Theorie} & 66\%\\
+\hline
+\rule{0pt}{15pt} \textbf{Experten mit weniger als 5 Jahren Erfahrung} & 88\%\\
+\hline
+\rule{0pt}{15pt} \textbf{Experten mit 5 - 10 Jahren Erfahrung} & 82\%\\
+\hline
+\rule{0pt}{15pt} \textbf{Experten mit 10 - 20 Jahren Erfahrung} & 71\%\\
+\hline
+\rule{0pt}{15pt} \textbf{Experten mit über 20 Jahren Erfahrung} & 40\%\\
+\hline
+\end{tabular}
+\caption{Prozentsatz der Experten, die ein Problem im Dokumentationsverhalten sehen.}
+\label{ProblemTabelle}
+\end{table}
+Die Tabelle \ref{ProblemTabelle} ist ein Auszug aus der Befragungen der Experten. Die Experten wurden dabei in verschiedene Gruppen aufgeteilt. Die Aufteilung erfolgte dabei nach ihren Tätigkeitsumfeld, Industrie oder Akademisch, nach ihren persönlichen Interesse im Entwicklungslebenszyklus (SDLC steht für Software Development Life Cycle) und nach ihrer Berufserfahrung.
+\\\\
+Wie in Tabelle \ref{ProblemTabelle} zu sehen ist, gaben viele der Experten zu, Probleme bei der Dokumentation zu sehen. Unabhängig von ihrem Bereich stimmten mehr als 50\% aller Befragten Experten zu, dass der Dokumentationprozess in Agilen Projekten Probleme bereiten würden. Mit einer einzigen Ausnahme. Nur knapp 40\% der Experten mit mehr als 20 Jahren Berufserfahrung sahen Probleme beim Thema Dokumentation. Eine mögliche Begründung dafür könnte sein, das Entwickler mit mehr als 20 Jahren Berufserfahrung andere Tätigkeiten in Projekten zugeteilt werden und sie deswegen weniger Probleme sehen als ihre jüngeren Kollegen \cite{Prause2012}.
+\\\\
+Eine weitere Erkenntnis die in dieser Befragung deutlich wurde ist die diskrepanz zwischen Industrie und Akademia. Während alle Experten aus der Industrie (100\%) die Forschungsfrage mit ja beantworteten gaben nur 68\% der Experten aus dem Umfeld der Akademia ihre Zustimmung. Dies mag wohl daran liegen, das Projekte in Industrie bzw. Akademia anderen Standards für Erfolg oder Misserfolg unterliegen.
+\\\\
+Die Befragung der Experten zeigt, dass die Mängel bei Dokumentationen durchaus nichts ungewöhnliches sind. Sie zeigen ebenfalls deutlich auf, wie komplex und ungreifbar das Problem von mangelnden Dokumentationen ist. Obwohl diese Befragung auf Grundlage von Agilen Prozessen basiert, glauben rund 88\% der Befragten nicht das diese Probleme ausschließlich in Agilen Projekten zu finden sind. Stattdessen sind diese Probleme sowohl bei nicht-Agilen als Agilen Projekten nachweisbar \cite{Prause2012}. Was die Wichtigkeit dieser Arbeit nochmals verdeutlicht.
+\\\\
+Im nächsten Teil wird betrachtet, welche Ursachen die Experten für die Probleme beim Dokumentationsprozess vermuten.
+\subsection{Ursachen für mangelnde Dokumentation}
+Als die Experten gefragt wurden, welche möglichen Ursachen dieses Verhalten (Wenig bzw. schlechte Dokumentation) zugrunde liegt, wurden dafür von den Experten verschiedene Gründe genannt. Diese sind in Tabelle \ref{UrsachenTabelle} zusammengefasst. Die Problemursachen die hier erwähnt werden, sind nicht ausschließend Exklusiv. Das bedeutet dass die Experten auch mehrere der Unten aufgeführten Ursachen genannt haben können.
+\begin{table}[htb]
+\begin{tabular}{|l|c|}\hline
+\rule{0pt}{15pt}\textbf{Mögliche Ursachen für mangelnde Dokumentation}  & \textbf{Experten in Prozent}
+\\
+\hline
+\rule{0pt}{15pt} Einige Entwickler legen zuwenig Wert auf Qualität & 49\% \\ 
+\hline
+\rule{0pt}{15pt} Einige Entwickler wissen nicht wie sie dokumentieren sollen & 46\%\\
+\hline
+\rule{0pt}{15pt} Einige Entwickler haben nicht die Zeit für Dokumentationen & 46\%\\
+\hline
+\rule{0pt}{15pt} Dokumentation und Entwurf wird zuwenig beachtet & 46\%\\
+\hline
+\rule{0pt}{15pt} Qualitätsziele werden nicht gesetzt & 35\%\\
+\hline
+\rule{0pt}{15pt} Einzelner Entwickler hat geringen persönlichen Nutzen & 41\%\\
+\hline
+\rule{0pt}{15pt} Andere Projektziele sind wichtiger & 19\%\\
+\hline
+\end{tabular}
+\caption{Experten geben mögliche Ursachen für mangelnde Dokumentation an.}
+\label{UrsachenTabelle}
+\end{table}
+Die Experten waren der Ansicht (46\%), das die Entwickler nicht wissen wie sie richtig zu dokumentieren haben. Einige Experten (49\%) waren der Ansicht, das Entwickler nicht genügend wert auf Qualität setzen würden. 46\% Meinen es Liege daran das die Entwickler entweder keine Zeit hätten sich um Dokumentation zu kümmern oder sie wird nicht explizit berücksichtigt. Die Experten vermuten auch (35\%) das Qualitätsziele nicht deutlich genug vorgegeben werden und der Entwickler deswegen seine Aufgaben nicht erfüllen kann. Andere Experten glauben, dass zu wenig Vorteile für den einzelnen Entwickler entstehen (41\%) wenn dieser Dokumentiert und das andere Projektziele (erreichen einer Deadline) wichtiger sind (19\%) \cite{Prause2012}.
+\\\\
+Diese sieben Ursachen wurden von den Experten als Begründung für mangelnde oder nicht enthaltene Dokumentation genannt. Wie wir aber bereits am Anfang dieses Kapitel erwähnt hatten, steht für uns das Knowledge Capturing im Vordergrund. Aus diesem Grund sind diese Zahlen und Einschätzungen für diese Arbeit nicht exakt zutreffend. Dennoch geben sie Interessante Einsichten und Ansätze.    
+\begin{description}
+   \item[So müssen die drei folgenden Ursachen genauer betrachtet werden:]~\par
+   \begin{itemize}
+      \item Einige Entwickler haben nicht die Zeit für Dokumentationen.
+      \item Einzelner Entwickler hat geringen persönlichen Nutzen.
+      \item Einige Entwickler wissen nicht wie sie dokumentieren sollen.
+   \end{itemize}
+\end{description}
+Es soll nach den Gründen für diese Ursachen gesucht werden. Durch das genauere Untersuchen dieser Punkte können Ansätze gefunden werden, die beeinflusst werden müssen um das Verhalten und den Dokumentationsprozess zu optimieren. 
+
+\subsection{Faktoren zum beeinflussen des Dokumentationsprozesses}
+Wie sich aus den vorangegangenen Kapitel gezeigt hat, besteht für die Mitarbeiter ein zu geringes Interesse sich für den Dokumentationsprozess einzusetzen. Im Allgemeinen tut sich der Mensch schwer, eine Tätigkeit auszuführen die ihm sinnlos erscheint. Und als solche wird der Dokumentationsprozess von vielen Mitarbeitern wahrgenommen. Dies ist nachvollziehbar, wenn man bedenkt dass der größte Vorteil von Dokumentationen, sich auf zukünftige Vorhaben und deren Entwicklung beziehen. Es gibt also zu wenig persönlichen Nutzen für einen Mitarbeiter sich am Dokumentationsprozess zu beteiligen. Dies kann anhand des Verhaltensmodell\footnotemark von BJ Fogg erklärt werden.
+\footnotetext{\url{https://www.youtube.com/watch?v=AdKUJxjn-R8}}
+\\\\
+Das Verhaltensmodell von BJ Fogg (Abb.\ref{VerhaltensmodellBild}) beschreibt die Ursachen für menschliches Verhalten in einer einfachen Formel. Das entsprechende Verhalten ergibt sich aus den drei Teilen, \enquote{motivation}, \enquote{skill} (Fähigkeit) und \enquote{trigger} (Auslöser). Mit diesen drei Punkten lässt sich ermitteln, ob ein Verhalten auftritt oder nicht. Das Modell kann über die einfache Formel \( Verhalten = Motivation + Fähigkeit + Auslöser \) dargestellt werden.
+\subsubsection{Verhaltensmodell im Überblick}
+Sehen wir uns das Verhaltensmodell, das in Abb.\ref{VerhaltensmodellBild} dargestellt ist, anhand eines einfachen Beispiels an. Das Verhalten \enquote{Bringe Müll raus} würde sich durch das Verhaltensmodell wie folgt darstellen. 
+\begin{description}
+   \item[Das Verhalten tritt auf:]~\par
+   \begin{itemize}
+      \item Wenn genügend Lust vorhanden ist, den Müll rauszubringen(Motivation).
+      \item Wenn man in der Lage ist, den Müll rauszubringen(Fähigkeit).
+      \item Und wenn man merkt das der Müll voll ist(Auslöser).
+   \end{itemize}
+\end{description}  
+Sind alle drei Merkmale (motivation, skill und trigger) vorhanden, tritt das entsprechende Verhalten (Bringe Müll raus) auf. Dabei ist es nicht unbedingt erforderlich, dass das Motivation- und Fähigkeiten-Merkmal immer hoch sein müssen. Es kommt lediglich darauf an ob die \textit{Verhaltensschwelle} überschritten wird oder nicht (Abb.\ref{VerhaltensmodellBild}). Tätigkeiten die sowohl schwierig umzusetzen sind und bei denen jegliche Motivation fehlt führen dazu, dass die Auslöser für das Verhalten fehlschlagen (Triggers fail here, Abb.\ref{VerhaltensmodellBild}), da hier die Verhaltensschwelle nicht überschritten wird. Dadurch wird das Verhalten nicht hervorgebracht. Das gleiche gilt auch für den umgekehrten Fall. Wird die Verhaltensschwelle überschritten, so wird das Verhalten verursacht. 
+
+\subsection{Die Bestandteile von Verhalten, Motivation, Fähigkeit und Auslöser}
+Betrachten wir nun den Dokumentationsprozess als unser vorgegebenes Verhalten (Informationen aufnehmen und speichern), und untersuchen wie dieser Prozess sich auf die drei Merkmale Motivation, Fähigkeit und Auslöser abbilden lässt. Über diese Vorgehensweise wird weitere Einsicht in die menschliche Komponente des Dokumentationsprozesses gewonnen.
+
+\subsubsection{Die Motivation eines Verhaltens}
+Die Motivation beim Dokumentationsprozess ist wie wir bereits festgestellt haben sehr gering. Einer der wichtigsten Gründe hierfür liegt wohl daran, dass sich der Nutzen dieses Prozesses erst in der Zukunft bemerkbar macht. Dieser Nutzen zeigt sich anhand eines geringeren Zeitinvestments der Mitarbeiter in zukünftigen Projekten. Das geringere Zeitinvestment wird als solches aber nur gering vom Mitarbeiter wahrgenommen und bietet dem Autor der Dokumentation einen zu geringen persönlichen Nutzen. Menschen bevorzugen aber sofortige und schnelle Gratifikation die sich über diesen Nutzen (geringes Zeitinvestment) nicht erfüllen lässt \cite{Kuhl2009}.
+\\\\
+Dies erklärt, warum andere Beschäftigungen dem Dokumentationsprozess bevorzugt werden. Da andere Beschäftigungen eine Gratifikation leichter ermöglichen als der Dokumentationsprozess. Da der Nutzen von Zeitersparnis zu unscheinbar und unbefriedigend ist, müssen an dieser Stelle Alternativen eingesetzt werden. Hierfür muss die menschliche Motivation eingehender betrachtet werden.
+\\\\
+Die Natur der Motivation ist ein umstrittenes Thema in der Forschung und Wissenschaft \cite{Eyal2014}. Um dieses Feld für diese Arbeit Einzugrenzen wird jedoch die Argumentation von BJ Fogg verwendet, da er als einer der führenden Experten in der Verhaltens- und Gewohnheitsforschung gilt. Da sich die Verhaltensforschung mit unserem eigentlichen Ziel überschneidet (Dokumentationprozess als Verhalten zu verbessern), ist seine Argumentation von großer Bedeutung für diese Arbeit. BJ Fogg argumentiert dass es drei Kernpunkte gibt, welche die Motivation in Bezug auf entsprechendes Verhalten ausmacht \cite{Eyal2014}. 
+\begin{description}
+   \item[Diese Kernprinzipien lauten:]~\par
+   \begin{itemize}
+      \item Menschen suchen nach Vergnügen und vermeiden Schmerz.
+      \item Menschen suchen nach Hoffnung und vermeiden Furcht.
+      \item Menschen suchen nach sozialer Akzeptanz und vermeiden Zurückweisung.
+   \end{itemize}
+\end{description}
+Durch die Verwendung und Erweiterung dieser Kernprinzipien \cite{Eyal2014}, kann man die Wahrscheinlichkeit erhöhen, dass eine Person einer bestimmten Aktion nachgeht oder nicht. Im Falle des Dokumentationsprozesses können wir uns auf den ersten dieser drei Punkte stützen, Menschen suchen nach Vergnügen und vermeiden Schmerz. Um dieses Kernprinzip für den Dokumentationsprozess zu nutzen, soll der Begriff des Vergnügens einmal genauer untersucht werden.
+
+\subsubsection{Vergnügen und Belohnung}
+Das frühe psychologische Konzept des Vergnügens (Pleasure) und auch das Lustprinzip (pleasure principle) werden als Feedback System gesehen. Im Detail handelt es sich bei Vergnügen um:
+\\\\
+\enquote{einen positiven Feedback-Mechanismus, der den Organismus motiviert, in Zukunft die Situation, die er gerade als angenehm empfunden hat, wiederherzustellen und Situationen zu vermeiden, die in der Vergangenheit Schmerzen verursacht haben} \cite{Freud2015}.
+\\\\
+Nun muss die Frage beantwortet werden, wie wir dieses Feedback-Mechanismus verwenden können? Die Antwort lautet: Über das bereitstellen einer entsprechenden Belohnung. Denn für die meisten Menschen ist eine Belohnung etwas begehrtes, weil sie eine bewusste Erfahrung des Vergnügens erzeugt \cite{Berridge2009}. Anstelle den Nutzen einer Dokumentation als einzige Motivationsquelle zu verwenden, ist es also erforderlich, eine Alternative, in form einer zusätzlichen Belohnung, zur Verfügung zu stellen.
+\\\\
+Dabei ist die Art der Belohnung für jeden Menschen anders und damit \enquote{subjektiv}. Wissenschaftler sprechen an dieser Stelle von \enquote{subjektiven Belohnugswerten} \cite{Bonhoeffer2011}. Jeder Mensch misst sich in seinem eigenen Belohnungssystem das ein Teil des Gehirns ist, seine ihm persönlichen Werte zu. Durch die Gamification müsste nun ein generell gültige Belohnung entworfen werden, die für jeden bzw. die meisten Mitarbeiter der esentri AG einen hohen subjektiven Belohnungswert hat. Dadurch würde sich die Motivation steigern lassen und es würde Mitarbeiter eher anspornen sich am Dokumentationsprozess zu beteiligen oder ihn gar von sich aus auslösen.
+\subsubsection{Die Fähigkeit ein Verhalten umzusetzen}
+Die Fähigkeit beschreibt im Verhaltensmodell von BJ Fogg, ob es sich um eine schwierige oder einfache Aktion handelt aus der sich das entsprechende Verhalten ergibt. In den vorangegangenen Kapiteln hat sich auch hier deutlich gezeigt, das der Dokumentationsprozess mit komplexen Eigenschaften versehen ist, was bedeutet das er in der Fähigkeiten Skala des Verhaltensmodells eher Hoch und damit als schwer einzustufen ist. Wenn unser gewünschtes Verhalten hervortreten soll, ist es erforderlich den Dokumentationsprozess zu vereinfachen. Für die Fähigkeit gibt es ebenfalls Merkmale über die der Schwierigkeitsgrad beeinflusst werden kann.
+\begin{description}
+   \item[Die Fähigkeitsmerkmale sind:]~\par
+   \begin{itemize}
+      \item \textbf{Zeit}: Wie lange benötigt man für die entsprechende Aktivität?
+      \item \textbf{Geld}: Wie viel Geld kostet die Aktivität?
+      \item \textbf{Physical Anstrengung}: Wie anstrengend ist diese Aktivität?
+      \item \textbf{Verständnis}: Wie leicht ist die Aktivität zu verstehen?
+      \item \textbf{Soziale Abweichung}: Wie viele andere Personen führen die Aktivität aus?
+      \item \textbf{Übung}: Wie geübt ist man, die Aktivität durchzuführen?
+   \end{itemize}
+\end{description}
+Diese Fähigkeitsmerkmale sind ebenfalls in Abbildung \ref{FähigkeitsmerkmaleBild} zu sehen. Durch das manipulieren und beeinflussen dieser Fähigkeitsmerkmale, wird der Schwierigkeitsgrad der Aktivität (Informationen speichern) regulierbar. Durch die Reduzierung der Schwierigkeit auf ein niedrigeres Niveau, wird die Wahrscheinlichkeit den Dokumentationsprozess auszuführen gesteigert. Dabei müssen nicht alle sechs Fähigkeitsmerkmale (Zeit, Geld, Anstrengung, Verständnis, Soziale Abweichung und Übung) berücksichtigt werden. Die Merkmale Zeit, Verständnis und soziale Abweichung sollen für diese Arbeit in Betracht gezogen werden. 
+
+\subsubsection{Fähigkeitsmerkmal Zeit}
+Zunächst soll das Fähigkeitsmerkmal Zeit untersucht werden. Hier gilt es zu prüfen, ob der Dokumentationsprozess nicht beschleunigt werden kann. Um den Dokumentationsprozess zu beschleunigen, ist es zunächst erforderlich dass der Prozess analysiert wird \cite{Hauptly2008}.
+\begin{description}
+   \item[\parbox{\textwidth}{Um den Dokumentationsprozess sachgemäß zu analysieren müssen die Folgenden Fragen beantwortet werden: \normalfont\vspace{0.5ex}}]~\par
+   \begin{enumerate}
+      \item Was versucht der Anwender mit dem Dokumentationsprozess zu erreichen?
+      \item Welche Schritte müssen vom Anwender unternommen werden, damit er sein Ziel erreicht?
+      \item Welche dieser Schritte können entfernt werden ohne vom Ziel des Anwenders abzuweichen?
+      \item Welche Schritte können modifiziert werden um sie zu verkürzen?
+   \end{enumerate}
+\end{description}
+Wenn diese Fragen sauber und sachgerecht beantwortet werden können, kann der Dokumentationsprozess optimiert werden. Durch eine Verkürzung der Dauer des Dokumentationsprozesses werden Mitarbeiter eher dazu verleitet, diesen Prozess zu nutzen. Die Analyse des Dokumentationsprozesses wird in kommenden Kapiteln behandelt.
+
+\subsubsection{Fähigkeitsmerkmal Verständnis}
+Das Fähigkeitsmerkmal Verständnis kann ebenfalls genutzt werden um den Dokumentationsprozess zu vereinfachen. Sind die einzelnen Schritte des Prozesses erkannt und optimiert, ist es wichtig sie so zu designen, dass sie im Idealfall selbsterklärend und leicht verständlich sind. Dabei ist es notwendig, die Schritte aus denen der Dokumentationsprozess besteht auf ihre kleinst mögliche Handlung zu reduzieren.
+\\\\
+An dieser Stelle kann zusätzlich die Gamification genutzt werden. Gamification wird nämlich nicht ausschließlich genutzt, um Verhalten zu verändern. Gamification kann ebenfalls genutzt werden, um das erlernen neuer Skills zu fördern. Dies kann nun verwendet werden um den neuen optimierten Dokumentationsprozess für die Anwender zugänglicher zu gestalten.
+\\\\
+Wie die Gamification sich nun im Detail auf den überarbeiteten Dokumentationsprozess auswirken kann und welche Elemente hierfür verwendet werden sollen, wird in den kommenden Kapiteln erläutert und gezeigt.
+
+\subsubsection{Fähigkeitsmerkmal soziale Abweichung}
+Menschen sind Einzelwesen und soziale Wesen zugleich \cite{Vester2009}. Sie suchen Geborgenheit, Schutz und Anerkennung innerhalb einer sozialen Gemeinschaft. Wie wir bereits bei der Motivation gesehen haben, strebt der Mensch nach sozialer Akzeptanz und versucht, soziale Zurückweisungen zu vermeiden. Dieses Prinzip bildet ebenfalls die Grundlage für dieses Fähigkeitsmerkmal.
+\\\\
+Die soziale Akzeptanz die der Mensch anstrebt bringt sie dazu, ein gewisses Verhalten hervorzurufen, wenn dieses Verhalten von einer Gemeinschaft der man beitreten möchte als positiv empfunden wird. Bezogen auf den Dokumentationsprozess lässt sich also behaupten, das wenn eine Gemeinschaft (wie eine Firma), den Dokumentationsprozess als ein positives und gewünschtes Verhalten ansieht, es die Wahrscheinlichkeit erhöht dass Mitglieder dieser Gemeinschaft, also die Mitarbeiter, dieser Tätigkeit eher nachgehen \cite{Eyal2014}.
+\\\\
+Um dieses Fähigkeitsmerkmal nutzen zu können, ist es erforderlich den Dokumentationsprozess so zu entwickeln, das dieser einem sozialen Netzwerk ähnelt. Es geht bei diesem Ansatz darum, den Mitarbeitern zu verdeutlichen, wer in der Gemeinschaft bzw. Netzwerk dokumentiert und wie häufig diese Person dokumentiert. Die Inhalte und Informationen die in die Wiki von den Autoren eingetragen werden, sollen als “Eigentum” dieses Autors verstanden werden. Dies soll dazu führen das Autoren sich um ihre Informationen kümmern, auch wenn sie bereits in der Wiki besteht. Es wird Sorgsamkeit durch Verantwortlichkeit generiert. Autoren und Leser sollten auf dieser Ebene in der Lage sein, einen sozialen Austausch von Ideen oder Verbesserungen zu betreiben und es sollte ihnen ermöglicht werden sich gegenseitig Lob und Anerkennung zu übermitteln.
+\\\\
+Durch diese Änderungen am Dokumentationsprozess, kann die Anteilnahme der Mitarbeiter sich am Prozess zu beteiligen gesteigert werden. Aus der Wiki wird also mehr als nur eine normale Wiki, sie wird zu einem sogenannten Reputation Based System \cite{Prause2013}. Durch den Ruf den sich Anwender der Wiki und somit die Autoren erwerben, können diese Anwender motiviert und engagiert werden.
+\\\\
+Ein Beispiel für ein Reputation Based System wäre z.B \enquote{Stackoverflow}. Stackoverflow ist die möglicherweise Bekannteste Frage-Antwort Website der Welt. Ein wichtiger Punkt der zum Erfolg von Stackoverflow beiträgt ist das dort verwendete Reputation System. Die Community entscheidet über \textit{votes}, ob eine Antwort die auf eine Frage folgt hilfreich ist oder nicht. Dadurch werden je nach Anzahl der Votes für den Antwortsteller Punkte generiert. Und diese Punkte ermöglichen den Mitglieder von Stackoverflow im Level zu steigen und sich so ihren Ruf innerhalb der Community aufzubauen. Hierdurch werden die Mitglieder der Community engagiert und es wird immer die beste Antwort gefunden. Durch diesen simplen Ansatz, wird die Tätigkeit eine Frage zu beantworten zur lohnenden Erfahrung.
+
+\subsection{Der Auslöser eines Verhaltens}
+Der Auslöser beschreibt im Verhaltensmodell das Auftreten einer bestimmten Situation, die dazu führt, dass das Verhalten gestartet wird, wenn genügend Motivation und ausreichend Fähigkeiten vorhanden sind (Verhaltensschwelle wird überschritten). Ist die Verhaltensschwelle in dem Moment in dem der Auslöser auftritt jedoch zu gering, wird das Verhalten nicht ausgelöst. Für den Dokumentationsprozess als unser gewünschtes Verhalten bedeutet es, das wir nach einer bestimmten Situation suchen müssen, die das Abspeichern von Information auslöst. Liegt ein betreffender Auslöser nicht vor oder kann er nicht eindeutig genug identifiziert werden, muss man alternativ einen Auslöser selbst designen.
+\\\\
+Bei den Auslösern ist zu beachten, dass es sie in zwei verschiedenen Formen gibt. So lassen sich \enquote{innerliche Auslöser}(internal Trigger) und \enquote{äußerliche Auslöser}(external Trigger) unterscheiden \cite{Eyal2014}.
+\\\\
+Die äußerlichen Auslöser sind daran zu erkennen, dass die Information die den Handlungsschritt enthält auf den Auslöser abgebildet ist. Der Auslöser wird somit zu einem Aufruf, eine Handlung oder Aktion auszuführen. Und die Handlung die aufgefordert wird befindet sich innerhalb des Aufruf. In Abb.\ref{externaltriggerBild} sind einige dieser Auslöser zusammengefasst, jedoch sind dies nicht alle existierenden Auslöser.
+\\\\
+Bei den äußerlichen Auslösern handelt es sich z.b um verschieden Knöpfe in entweder digitaler oder mechanischer Form. Die Darstellung der Apps auf den Screens unsere Smartphones sind ebenfalls äußerliche Auslöser. Diese Auslöser erlauben es die folgende Aktivität (Video abspielen, E-mail lesen, Nachricht senden etc.) direkt zu starten. Diese Auslöser gibt es in verschiedensten Formen und sind klar verständlich und sehr intuitiv. Mit anderen Worten sie sind kinderleicht zu erkennen und zu bedienen\cite{Eyal2014}.
+\\\\
+Die innerlichen Auslöser beziehen sich nun mehr auf die menschliche Psychologie. Während die äußerlichen Auslöser sich durch technische Lösungen darstellen, sind die innerlichen Auslöser die aus dem inneren eines jeden Menschen kommen. Gemeint sind damit unter anderem, Emotionen, andere Menschen, spezielle Situationen, Orte oder gar Routinen (Abb.\ref{internalTriggerBild}). 
+\\\\
+Die innerlichen Auslöser werden durch die mentale Haltung (Psychologie) des Menschen verursacht. Die Information, welche Handlung auf diese Art von Auslöser folgt, wird durch eine Assoziation des entsprechenden Person und seiner Erfahrungen gezogen. Erklären wir dies an ein paar Beispielen:
+\begin{enumerate}
+      \item \textbf{Beispiel YouTube}: Eine Person fühlt sich gelangweilt (Langeweile als innerlicher Auslöser) also geht diese Person auf YouTube um sich ein Video anzusehen (Aktion). Durch den Auslöser wird die Person also verleitet, die Aktion durchzuführen. 
+      \item \textbf{Beispiel Facebook}: Ist eine Person alleine oder fühlt sie sich alleine (innerer Auslöser), so kann sie auf Facebook gehen (Aktion) um mit Freunden oder Bekannten zu unterhalten und so dem Gefühl der Einsamkeit vorbeugen.
+\end{enumerate}
+Diese Beispiele lassen sich für viele soziale Media Technologien erkennen. Die Gemeinsamkeit die auch einen Teil des Erfolges dieser Technologien erklärt ist, das sie die innerlichen Auslöser der Menschen befriedigen. Viele dieser Services fangen klein an und werden über einen gewissen Zeitraum zu einer Gewohnheit des Alltages ohne die sich die meisten Menschen nicht mehr zufrieden geben würden \cite{Eyal2014}.
+\\\\
+Die Kombination von äußerlichen und inneren Auslösern ist nun die nächste Anforderung die aus diesem Kapitel für diese Arbeit hervorgeht. Hierbei muss sich die Gestaltung auf einfache und sehr intuitive Auslöser konzentrieren und es muss des weiteren die menschliche Seite des Dokumentationprozesses untersucht werden. Als eine generelle Idee kann der innerliche Auslöser des bekannten \enquote{AHA-Effekts} genutzt werden. Die Gestaltung der Trigger wird in den folgenden Kapiteln in Zusammenhang mit den passenden Gamification Elementen durchgenommen.  
+
+\subsection{Anforderungsliste für den Gamification Bereich}
+Nun haben wir uns mit den schwierigkeiten des Dokumentationsprozesses beschäftigt und haben in den Vorangegangenen Kapiteln Ansätze und Anforderungen gestellt die an dieser Stelle nochmal zusammengefasst werden sollen.
+\begin{description}
+   \item[Anforderungsliste:]~\par
+   \begin{itemize}
+      \item \textbf{Motivation steigern durch Belohnung}: Wie wir gesehen haben ist der konkrete Nutzen einer Dokumentation nicht Anreiz genug um Mitarbeiter auf dauer zu motivieren. Um nun die Motivation am Dokumentationsprozess zu steigern muss eine entsprechende Belohnung für diesen Prozess entwickelt werden.
+      \item \textbf{Fähigkeiten des Dokumentationsprozesses verbessern}: Durch die verschiedenen Fähigkeitsmerkmale wie Zeit, Verständnis und soziale Abweichung muss der Prozess entschlackt und vereinfacht werden.
+      \item \textbf{Auslöser finden und entwickeln}: Die entsprechenden äußerlichen und innerlichen Auslöser müssen genauer identifiziert werden. Desweiteren müssen die Auslöser entsprechend für den Dokumentationsprozess entwickelt werden.
+   \end{itemize}
+\end{description}
+Auf diese drei Anforderungen kann in den kommenden Kapiteln der Fokus gesetzt werden. Nun müssen die entsprechenden Gamification Elemente herausgearbeitet werden, mit denen sich diese Liste umsetzten lässt.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,10 +1,10 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{gamificationDefinition}
-Brian Burke.
-\newblock {\em {Gamify: How Gamification motivates People to do extraordinary
-  Things}}.
-\newblock 2014.
+Biran Burke.
+\newblock {\em Gamify: How gamification motivates people to do extraordinary
+  things}.
+\newblock Routledge, 2016.
 
 \bibitem{Parnin2010}
 Chris Parnin.
@@ -14,13 +14,64 @@ Chris Parnin.
   Programming Interest Group (PPIG)}, 2010.
 
 \bibitem{Graham2004}
-Graham Paul.
-\newblock {\em {Hackers and Painters: Big Ideas from the Computer Age}}.
-\newblock 2004.
+Paul Graham.
+\newblock {\em Hackers \& painters: big ideas from the computer age}.
+\newblock O'Reilly Media, Inc., 2004.
 
 \bibitem{Tryggeseth1997}
 Eirik Tryggeseth.
 \newblock {Report from an Experiment: Impact of Documentation on Maintenance}.
 \newblock {\em Empirical Software Engineering}, 2(2):201--207, 1997.
+
+\bibitem{Prause2013}
+Christian~Reinhard Prause.
+\newblock {Improving the internal quality of software through reputation-based
+  gamification}.
+\newblock page 256, 2013.
+
+\bibitem{Prause2012}
+Christian~R. Prause and Zoya Durdik.
+\newblock {Architectural design and documentation: Waste in agile development?}
+\newblock {\em 2012 International Conference on Software and System Process,
+  ICSSP 2012 - Proceedings}, pages 130--134, 2012.
+
+\bibitem{Kuhl2009}
+Julius Kuhl.
+\newblock {\em Lehrbuch der Persönlichkeitspsychologie: Motivation, Emotion
+  und Selbststeuerung}.
+\newblock Hogrefe Verlag, 2009.
+
+\bibitem{Eyal2014}
+Nir Eyal.
+\newblock {\em Hooked: How to build habit-forming products}.
+\newblock Penguin, 2014.
+
+\bibitem{Freud2015}
+Sigmund Freud.
+\newblock Beyond the pleasure principle.
+\newblock {\em Psychoanalysis and History}, 17(2):151--204, 2015.
+
+\bibitem{Berridge2009}
+Kent~C Berridge, Terry~E Robinson, and J~Wayne Aldridge.
+\newblock Dissecting components of reward:‘liking’,‘wanting’, and
+  learning.
+\newblock {\em Current opinion in pharmacology}, 9(1):65--73, 2009.
+
+\bibitem{Bonhoeffer2011}
+Tobias Bonhoeffer and Peter Gruss.
+\newblock {\em Zukunft Gehirn: neue Erkenntnisse, neue Herausforderungen; ein
+  Report der Max-Planck-Gesellschaft}.
+\newblock CH Beck, 2011.
+
+\bibitem{Hauptly2008}
+Denis~J Hauptly.
+\newblock {\em Something really new: three simple steps to creating truly
+  innovative products}.
+\newblock AMACOM Div American Mgmt Assn, 2008.
+
+\bibitem{Vester2009}
+Heinz-Günter Vester.
+\newblock Kompendium der soziologie: Grundbegriffe.
+\newblock 2009.
 
 \end{thebibliography}
