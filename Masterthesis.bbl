@@ -1,7 +1,7 @@
 \begin{thebibliography}{10}
 
 \bibitem{gamificationDefinition}
-Biran Burke.
+Brian Burke.
 \newblock {\em Gamify: How gamification motivates people to do extraordinary
   things}.
 \newblock Routledge, 2016.
@@ -35,6 +35,13 @@ Christian~R. Prause and Zoya Durdik.
 \newblock {\em 2012 International Conference on Software and System Process,
   ICSSP 2012 - Proceedings}, pages 130--134, 2012.
 
+\bibitem{Verhaltensmodell2018}
+BJ~Fogg: Verhaltensmodell.
+\newblock
+  \url{https://www.slideshare.net/mamacholina/sunde-bjfoggbehaviormodelpresentation},
+  2018.
+\newblock {Zeitstempel: 15.02.2018}.
+
 \bibitem{Kuhl2009}
 Julius Kuhl.
 \newblock {\em Lehrbuch der Persönlichkeitspsychologie: Motivation, Emotion
@@ -63,6 +70,12 @@ Tobias Bonhoeffer and Peter Gruss.
   Report der Max-Planck-Gesellschaft}.
 \newblock CH Beck, 2011.
 
+\bibitem{Merkmale2018}
+Nyr~Eyal: Fähigkeiten.
+\newblock \url{https://www.slideshare.net/gzicherm/nir-eyal-hookedatgsummit},
+  2018.
+\newblock {Zeitstempel: 15.02.2018}.
+
 \bibitem{Hauptly2008}
 Denis~J Hauptly.
 \newblock {\em Something really new: three simple steps to creating truly
@@ -73,5 +86,74 @@ Denis~J Hauptly.
 Heinz-Günter Vester.
 \newblock Kompendium der soziologie: Grundbegriffe.
 \newblock 2009.
+
+\bibitem{ExternalTrigger2018}
+Nyr Eyal:~Interal Trigger.
+\newblock \url{https://www.slideshare.net/gzicherm/nir-eyal-hookedatgsummit},
+  2018.
+\newblock {Zeitstempel: 15.02.2018}.
+
+\bibitem{Deterding2011}
+Sebastian Deterding, Miguel Sicart, Lennart Nacke, Kenton O'Hara, and Dan
+  Dixon.
+\newblock Gamification. using game-design elements in non-gaming contexts.
+\newblock In {\em CHI'11 extended abstracts on human factors in computing
+  systems}, pages 2425--2428. ACM, 2011.
+
+\bibitem{Baring2014}
+Maurice Baring.
+\newblock {\em The puppet show of memory}.
+\newblock House of Stratus, 2014.
+
+\bibitem{PlayGame2018}
+Benedikt~Morschheuser: Abgrenzung.
+\newblock \url{http://gamifinator.de/2013/01/abgrenzung/}, 2013.
+\newblock {Zeitstempel: 16.02.2018}.
+
+\bibitem{GameElemente2018}
+Benedikt Morschheuser: Game-Design Elemente.
+\newblock
+  \url{http://gamifinator.de/2013/01/game-design-elemente-grundsatze-und-methoden/},
+  2013.
+\newblock {Zeitstempel: 16.02.2018}.
+
+\bibitem{Werbach2012}
+Kevin Werbach and Dan Hunter.
+\newblock {\em For the win: How game thinking can revolutionize your business}.
+\newblock Wharton Digital Press, 2012.
+
+\bibitem{Mcgonigal2011}
+Jane McGonigal.
+\newblock {\em Reality is broken: Why games make us better and how they can
+  change the world}.
+\newblock Penguin, 2011.
+
+\bibitem{Ryan2000}
+Richard~M Ryan and Edward~L Deci.
+\newblock Self-determination theory and the facilitation of intrinsic
+  motivation, social development, and well-being.
+\newblock {\em American psychologist}, 55(1):68, 2000.
+
+\bibitem{Rheinberg2006}
+Falko Rheinberg.
+\newblock Intrinsische motivation und flow-erleben.
+\newblock In {\em Motivation und Handeln}, pages 331--354. Springer, 2006.
+
+\bibitem{Rigby2011}
+Scott Rigby and Richard~M Ryan.
+\newblock {\em Glued to games: How video games draw us in and hold us
+  spellbound: How video games draw us in and hold us spellbound}.
+\newblock ABC-CLIO, 2011.
+
+\bibitem{Mayer2009}
+Monica Mayer.
+\newblock Warum leben, wenn man stattdessen spielen kann.
+\newblock {\em Kognition, Motivation und Emotion am Beispiel digitaler Spiele.
+  Boizenburg}, 2009.
+
+\bibitem{Csikszentmihalyi2017}
+Mihaly Csikszentmihalyi.
+\newblock {\em Flow. Das Geheimnis des Glücks}.
+\newblock Klett-Cotta, 2017.
 
 \end{thebibliography}
