@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.10.17)  20 FEB 2018 11:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.10.17)  20 FEB 2018 16:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1898,56 +1898,138 @@ e Re-geln der Gamification-Anwendung
  []
 
 
-LaTeX Warning: Citation `Ryan2011' on page 33 undefined on input line 630.
+LaTeX Warning: Citation `Pink2010' on page 33 undefined on input line 652.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--631
-
- []
+LaTeX Warning: Citation `Pink2010' on page 33 undefined on input line 654.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--631
+Underfull \hbox (badness 10000) in paragraph at lines 618--655
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--631
+Underfull \hbox (badness 10000) in paragraph at lines 618--655
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--631
+Underfull \hbox (badness 10000) in paragraph at lines 618--655
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--631
+Underfull \hbox (badness 10000) in paragraph at lines 618--655
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--631
+Underfull \hbox (badness 10000) in paragraph at lines 618--655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--655
+
+ []
+
+
+Overfull \hbox (9.20296pt too wide) in paragraph at lines 618--655
+\T1/aer/m/n/12 Ein Spiel bei dem wir im-mer ge-win-nen oder bei dem wir nicht v
+er-lie-ren, löst kein Kompetenz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--655
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 631.
+(babel)             in language  on input line 655.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 631.
+(babel)             in language  on input line 655.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 631.
+(babel)             in language  on input line 655.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 631.
+(babel)             in language  on input line 655.
 [33]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 663.
+(babel)             in language  on input line 655.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 663.
+(babel)             in language  on input line 655.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 663.
+(babel)             in language  on input line 655.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 663.
- [34] (./Masterthesis.lot
+(babel)             in language  on input line 655.
+ [34]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 655.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 655.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 655.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 655.
+ [35]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 680.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 680.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 680.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 680.
+ [36] (./Masterthesis.lot
 Overfull \hbox (14.56001pt too wide) in paragraph at lines 2--2
  [][] [] [][]  
  []
@@ -1961,14 +2043,14 @@ Overfull \hbox (14.56001pt too wide) in paragraph at lines 2--2
 \openout6 = `Masterthesis.lof'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 666.
+(babel)             in language  on input line 683.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 666.
+(babel)             in language  on input line 683.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 666.
+(babel)             in language  on input line 683.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 666.
- [35] (./Masterthesis.bbl
+(babel)             in language  on input line 683.
+ [37] (./Masterthesis.bbl
 Overfull \hbox (183.24371pt too wide) in paragraph at lines 39--44
 []\T1/aer/m/n/12 BJ Fogg: Ver-hal-tens-mo-dell.  [][][][][][],
  []
@@ -1991,7 +2073,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 102.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 102.
-[36]
+[38]
 Overfull \hbox (17.13333pt too wide) in paragraph at lines 109--112
 []\T1/aer/m/n/12 Benedikt Morsch-heu-ser: Ab-gren-zung.  [][][][][][],
  []
@@ -2003,20 +2085,20 @@ Overfull \hbox (286.23529pt too wide) in paragraph at lines 114--119
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 669.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 686.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 669.
+(babel)             in language  on input line 686.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 669.
+(babel)             in language  on input line 686.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 669.
+(babel)             in language  on input line 686.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 669.
- [37]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 669.
+(babel)             in language  on input line 686.
+ [39]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 686.
  (./Masterthesis.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 669.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 669.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 686.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 686.
 Package rerunfilecheck Info: File `Masterthesis.out' has not changed.
 (rerunfilecheck)             Checksum: 8FC56F2F7A3454725E4F009A96873937;3732.
 
@@ -2025,12 +2107,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 10384 strings out of 492996
- 160681 string characters out of 6132729
- 367763 words of memory out of 5000000
- 13745 multiletter control sequences out of 15000+600000
+ 10386 strings out of 492996
+ 160706 string characters out of 6132729
+ 374830 words of memory out of 5000000
+ 13747 multiletter control sequences out of 15000+600000
  43673 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,11n,51p,8850b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Masterthesis.dvi (37 pages, 212912 bytes).
+Output written on Masterthesis.dvi (39 pages, 223508 bytes).

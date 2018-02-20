@@ -15,45 +15,46 @@ I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Ryan2011"
 Warning--empty journal in Prause2013
 Warning--empty journal in Vester2009
-You've used 27 entries,
+Warning--empty journal in Lazzaro2004
+You've used 29 entries,
             1791 wiz_defined-function locations,
-            607 strings with 7487 characters,
-and the built_in function-call counts, 4917 in all, are:
-= -- 447
-> -- 148
+            615 strings with 7643 characters,
+and the built_in function-call counts, 5191 in all, are:
+= -- 469
+> -- 156
 < -- 4
-+ -- 65
-- -- 38
-* -- 187
-:= -- 755
-add.period$ -- 83
-call.type$ -- 27
-change.case$ -- 11
++ -- 69
+- -- 40
+* -- 193
+:= -- 801
+add.period$ -- 89
+call.type$ -- 29
+change.case$ -- 12
 chr.to.int$ -- 0
-cite$ -- 29
-duplicate$ -- 274
-empty$ -- 559
-format.name$ -- 38
-if$ -- 1158
+cite$ -- 32
+duplicate$ -- 292
+empty$ -- 592
+format.name$ -- 40
+if$ -- 1220
 int.to.chr$ -- 0
-int.to.str$ -- 27
-missing$ -- 33
-newline$ -- 138
-num.names$ -- 27
-pop$ -- 143
+int.to.str$ -- 29
+missing$ -- 36
+newline$ -- 148
+num.names$ -- 29
+pop$ -- 155
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 119
+skip$ -- 124
 stack$ -- 0
 substring$ -- 185
-swap$ -- 62
+swap$ -- 63
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 2
-while$ -- 44
-width$ -- 29
-write$ -- 280
+warning$ -- 3
+while$ -- 46
+width$ -- 31
+write$ -- 299
 (There were 2 error messages)
