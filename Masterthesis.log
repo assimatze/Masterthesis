@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.10.17)  20 FEB 2018 16:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.10.17)  21 FEB 2018 10:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1898,12 +1898,6 @@ e Re-geln der Gamification-Anwendung
  []
 
 
-LaTeX Warning: Citation `Pink2010' on page 33 undefined on input line 652.
-
-
-LaTeX Warning: Citation `Pink2010' on page 33 undefined on input line 654.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 618--655
 
  []
@@ -2101,18 +2095,14 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 686.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 686.
 Package rerunfilecheck Info: File `Masterthesis.out' has not changed.
 (rerunfilecheck)             Checksum: 8FC56F2F7A3454725E4F009A96873937;3732.
-
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
  10386 strings out of 492996
  160706 string characters out of 6132729
- 374830 words of memory out of 5000000
+ 374861 words of memory out of 5000000
  13747 multiletter control sequences out of 15000+600000
  43673 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,11n,51p,8850b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Masterthesis.dvi (39 pages, 223508 bytes).
+Output written on Masterthesis.dvi (39 pages, 224408 bytes).
