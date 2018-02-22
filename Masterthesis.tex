@@ -542,9 +542,11 @@ Diese Anforderungen werden an dieser Stelle nochmal zusammengefasst.
 Auf diese drei Anforderungen kann in den kommenden Kapiteln der Fokus gesetzt werden. Nun müssen die entsprechenden Gamification Elemente herausgearbeitet werden, mit denen sich diese Anforderungen umsetzten lassen.    
 
 \section{Gamification}
-Nach Deterding beschreibt Gamification ein Design-Konzept der HCI (Human-Computer-Interaction) \cite{Deterding2011}. Bei der Entwicklung von gamifizierten IT-Anwendungen überträgt man aus dem Game-Design bekannte Design-Elemente, Prinzipien und Mechanismen auf einen vorhandenen oder angedachten Prozess. Das Ziel ist es, Anwender bei diesem Prozess zusätzlich zu engagieren und zu motivieren. Anstelle eines vollwertigen Spiels, werden bei der Entwicklung jedoch nur auf Design-Elemente, welche aus der Spielentwicklung bekannt sind, gesetzt. Der gamifizierte Prozess wird also nicht zu einem Spiel, sondern erhält lediglich eine Runderneuerung. Dabei reicht es aber nicht aus, die Gamification Elemente einfach willkürlich an irgendwelche Schritte des Prozesses zu integrieren. Viel mehr geht es darum, den Prozess umzustrukturieren. Dies beinhaltet unter anderem, ihn einfacher und unkomplizierter zu gestalten und Elemente zu integrieren die Anwender dazu verleiten, nicht nur ihre Arbeit zu erledigen, sondern auch extra Anstrengungen in kauf zunehmen. Hierfür muss der zu gamifizierende Prozess komplett neu Überdacht werden. So muss der Prozess z.B mit geeigneten  Spiele-Mechanismen versehen werden, die einem Anwender \textit{Relevanz}, \textit{Herausforderung} und \textit{Autonomie} spüren lassen. Dadurch wird aus dem Prozess eine positive Erfahrung für den Anwender, die ihn dazu verleiten kann, produktiver und effizienter zu arbeiten.
+Nach Deterding beschreibt Gamification ein Design-Konzept der HCI (Human-Computer-Interaction) \cite{Deterding2011}. Bei der Entwicklung von gamifizierten IT-Anwendungen überträgt man aus dem Game-Design bekannte Design-Elemente, Prinzipien und Mechanismen auf einen vorhandenen oder angedachten Prozess. Das Ziel ist es, Anwender bei diesem Prozess zusätzlich zu engagieren und zu motivieren. Anstelle eines vollwertigen Spiels, werden bei der Entwicklung jedoch nur auf Design-Elemente, welche aus der Spielentwicklung bekannt sind, gesetzt. Der gamifizierte Prozess wird also nicht zu einem Spiel, sondern erhält lediglich zusätzliche Komponenten. Dabei reicht es aber nicht aus, die Gamification Elemente einfach willkürlich an irgendwelche Schritte des Prozesses zu integrieren. Viel mehr geht es darum, den Prozess umzustrukturieren. Dies beinhaltet unter anderem, ihn einfacher und unkomplizierter zu gestalten und Elemente zu integrieren die Anwender dazu verleiten, nicht nur ihre Arbeit zu erledigen, sondern auch extra Anstrengungen in kauf zunehmen. Hierfür muss der zu gamifizierende Prozess komplett neu Überdacht werden. So muss der Prozess z.B einem Anwender \textit{Relevanz}, \textit{Herausforderung} und \textit{Autonomie} spüren lassen. Dadurch wird aus dem Prozess eine positive Erfahrung für den Anwender, die ihn dazu verleiten kann, produktiver und effizienter zu arbeiten.
 
 \subsection{Grundlagen der Gamification}
+In diesem Abschnitt sollen die Grundlagen zur Gamification geklärt werden. Zu den Grundlagen zählt der Unterschied zwischen einem Spiel und einer Gamification-Anwendung, den verschiedenen Abstraktionsebenen die aus dem Game-Design bereits bekannt sind und sich ebenfalls in der Gamification bewährt haben. Sowie den Game-Design Grundsätzen den bekannten Modellen und den verschiedenen Mechaniken. 
+
 \subsubsection{Game vs. Play}
 Um Gamification nicht falsch zu verstehen, ist es hilfreich zwischen \enquote{Game} und \enquote{Play} zu unterscheiden. In der englischen Sprache verwendet man \enquote{Play} für spielen, im Sinne einer spielerischer Interaktion. Diese Interaktion ist kreativ, ungezwungen bzw. frei und folgt keinen Regeln oder System. Es geht lediglich um den Spaß und um die freie Kunst sich auszudrücken. Diese spielerische Interaktion tritt vermehrt bei Kindern auf, aber auch Erwachsene spielen hin und wieder mal. 
 \\\\
@@ -555,7 +557,6 @@ Das Wort \enquote{Game} (Gaming) bezieht sich dahingegen auf Interaktionen bei d
 Wichtig ist diese Unterscheidung deswegen, um die Design Idee die hinter Gamification steckt zu verdeutlichen. Die Begriffe \textit{Playful}-Design und \textit{Gameful}-Design lassen sich durch die Unterscheidung zwischen Game und Play auch leichter näher bringen. So bezieht sich Gameful-Design auf den Gamification Ansatz, indem Prozesse oder Systeme mit zusätzlichen Regeln oder Mechaniken versehen werden und somit die Funktionalität der gamifizierten Prozesse oder Systeme verändert werden kann. Wohin gegen Playful-Design sich auf das einbringen von Gimmicks oder Spielereien beschränkt, welche nichts an der Funktionalität einer Anwendung ändern. 
 \\\\
 Wenn man betrachten, dass es sich bei Gamification nicht um komplette Spiele, sondern nur um das Übertragen von Game-Design Elementen handelt, so lässt sich Gamification von \textit{Serious Games}, \textit{Spielzeug} und \textit{Playful Design} abgrenzen. Diese Unterscheidung ist in Abbildung \ref{PlayGameBild} genauer zu sehen. Bei Gamification geht es somit um das Spielen im Sinne von Game und den Einsatz von Teilen aus Spielen (bzw. Spielelementen), was es von Serious Games unterscheidet \cite{PlayGame2018}.
-\\\\
 \begin{figure}[h!]
 \begin{center}
 \includegraphics[scale = 0.4]{Bilder/PlayGame.eps}
@@ -563,12 +564,13 @@ Wenn man betrachten, dass es sich bei Gamification nicht um komplette Spiele, so
 \label{PlayGameBild}
 \end{center}
 \end{figure}
+\\\\
 Basierend auf dieser Einteilung (Abb.\ref{PlayGameBild}) lässt sich erkennen, dass die Gamification nicht die einzige Alternative ist, bei der die integration von Spielaspekten im Vordergrund stehen. So gibt es neben der Gamification die \textit{Serious Games} bei denen ein komplettes Spiel vorhanden ist, das aber mit ernsthaften Inhalten bestückt ist. Hinzukommen die sogenannten \textit{Pervasive Games} bei denen die Realität zum Spiel wird. Dabei ist zu beachten, dass all diese, und das davon herausgelöste Playful-Design, eng miteinander verwandt sind und es viele Überschneidungen gibt \cite{Deterding2011}.
 \subsubsection{Game-Design Elemente}
 In der Literatur zu Gamification und Game-Design finden sich zahlreiche Ansätze zur Definition von charakteristischen Elementen von Games und gamifizierten Anwendungen. Diese lassen sich in fünf verschiedene Abstraktionsebenen einteilen \cite{Deterding2011}.
 \\\\
 \textbf{Abstarktionsebene 1:}\\
-Auf der ersten, für den Anwender sichtbarsten Ebene, finden sich Interface-Elemente. Diese sind meistens aus Videospielen übernommen. Zu diesen Interface-Elementen zählen unter anderem Fortschrittsbalken, Punkte, Badges, Leaderboards und Level. Diese Elemente geben den Anwender eine Rückmeldung über seinen Fortschritt, sie heben Anwender von einander ab und schaffen Wettkampf-Bedingungen. Diese Rückmeldungen sind ausschlaggebend für Gamification, da sie den Menschen auf einer tieferen Ebene ansprechen und Anwender motivieren können einer Handlung mehr Aufmerksamkeit zu schenken \cite{GameElemente2018}.
+Auf der ersten, für den Anwender sichtbarsten Ebene, finden sich Interface-Elemente. Diese sind meistens aus Videospielen übernommen. Zu diesen Interface-Elementen zählen unter anderem \textit{Fortschrittsbalken}, \textit{Punkte}, \textit{Badges}, \textit{Leaderboards} und \textit{Level}. Diese Elemente geben den Anwender eine Rückmeldung über seinen Fortschritt, sie heben Anwender von einander ab und schaffen Wettkampf-Bedingungen. Diese Rückmeldungen sind ausschlaggebend für Gamification, da sie den Anwender auf einer tieferen Ebene ansprechen und Anwender motivieren können einer Handlung mehr Aufmerksamkeit zu schenken \cite{GameElemente2018}.
 \\\\
 \textbf{Abstarktionsebene 2:}\\
 Die zweite Abstraktionsebene bilden die \textit{Game-Design Pattern} und \textit{Game-Design Mechanismen}. Diese bestimmen sowohl die Funktionsweise der verwendeten Interface-Elemente, sowie die User Experience welche der Anwender erlebt. Diese Mechanismen dienen dazu den Anwender anzutreiben und voranzubringen.
@@ -578,7 +580,7 @@ Game-Design Grundsätze bilden die dritte Abstraktionsebene. Hierzu zählen die 
 \begin{description}
    \item[Zu diesen Grundsätzen kann man Dynamiken zählen wie:]~\par
    \begin{itemize}
-      \item \textbf{Beschränkungen}: Dies umfasst Einschränkungen, wie Regeln, oder auch erzwungen Handlungen.
+      \item \textbf{Beschränkungen}: Dies umfasst Einschränkungen, wie Regeln, oder auch erzwungene Handlungen.
       \item \textbf{Emotionen}: Darunter fallen Neugier, Wettbewerbsfähigkeit, Frustration, aber auch Glück.
       \item \textbf{Narrative Elemente}: Dies versteht eine konsequente und fortlaufenden Geschichte.
       \item \textbf{Fortschritt}: Damit sind Wachstum und die Entwicklung des Anwenders gemeint.
@@ -587,11 +589,10 @@ Game-Design Grundsätze bilden die dritte Abstraktionsebene. Hierzu zählen die 
 \end{description}
 \textbf{Abstarktionsebene 4:}
 \\
-Auf einer etwas abstrakteren Ebene, der vierten Abstarktionsebene, gibt es eine Reihe von Modellen die hier als \textit{Game-Design Modelle} beschrieben werden sollen. Sie versuchen Game-Designern bei der Implementierung von Spielen zu helfen. Basierend auf den Game-Design Grundsätzen, lässt sich mit ihnen der erfolgreiche Einsatz der Interface-Elemente und Game-Mechaniken begründen. Es handelt sich dabei um \enquote{Conceptual models of the components of games or game experience} \cite{Deterding2011}.
+Auf einer weiteren Ebene, der vierten Abstarktionsebene, gibt es eine Reihe von Modellen die hier als \textit{Game-Design Modelle} beschrieben werden sollen. Sie versuchen Game-Designern bei der Implementierung von Spielen zu helfen. Basierend auf den Game-Design Grundsätzen, lässt sich mit ihnen der erfolgreiche Einsatz der Interface-Elemente und Game-Mechaniken begründen. Es handelt sich dabei um \enquote{Conceptual models of the components of games or game experience} \cite{Deterding2011}.
 \\\\
 \textbf{Abstarktionsebene 5:}\\
 Die letzte Ebene bilden die Game-Design Methoden. Dabei handelt es sich um Prozesse und Praktiken, welche aus der Spieleentwicklung bekannt sind. Sie kommen aus der Spieleentwicklung, scheinen aber auch teilweise bei der Implementierung von Gamification-Anwendungen zu helfen \cite{GameElemente2018}.
-\\\\
 \begin{figure}[h!]
 \begin{center}
 \includegraphics[scale = 0.3]{Bilder/GameElemente.eps}
@@ -605,36 +606,41 @@ Wie in Abb.\ref{GameElementeBild} zu erkennen ist, sind die oberen drei Abstrakt
 \subsubsection{Game-Design Grundsätze}
 Wie wir bereits erwähnt haben, wird Gamification verwendet um Spiele-Mechaniken und Prinzipien in nicht Spielekontexte zu übernehmen. Die Mechaniken und Prinzipien sind wiederum Elemente aus dem Umfeld des Game-Designs. Somit verwendet die Gamification also die bekannten Game-Design Elemente. Daher soll sich in diesem Kapitel mit den Grundsätzen des Game-Designs auseinander gesetzt werden.
 \\\\
-In ihrem Buch \enquote{Reality is broken} beschreibt Jane McGonigal (Gamification-Visionärin und Game-Designerinn) die Spieleigenschaften als, \textit{Ziel}, \textit{Regeln}, \textit{Feedback-System} und \textit{freiwillige Teilnahme} \cite{Mcgonigal2011}. Diese Eigenschaften gelten auch für die Gamification und müssen beim Entwickeln einer Gamification-Anwendung berücksichtigt werden.
+In ihrem Buch \enquote{Reality is broken} beschreibt Jane McGonigal (Gamification-Visionärin und Game-Designerinn) die Eigenschaften eines Spiels als, \textit{Ziel}, \textit{Regeln}, \textit{Feedback-System} und \textit{freiwillige Teilnahme} \cite{Mcgonigal2011}. Diese Eigenschaften gelten auch für die Gamification und müssen beim Entwickeln einer Gamification-Anwendung berücksichtigt werden.
 \begin{description}
    \item[Bedeutung der Spieleigenschaften für die Gamification:]~\par
    \begin{itemize}
       \item \textbf{Ziel}: Für die Gamification gelten zwei Ziele die übereinstimmen müssen. Nämlich Anwendungsziele (Prozessziele oder Systemziele) und die Anwenderziele. Überschneiden sich die Anwendungs- und Anwenderziele so zeigt Gamification eine bessere Wirkung. 
       \item \textbf{Regeln}: Für die Gamification gilt, das die Regeln der Gamification-Anwendung gut überlegt werden müssen. Zum Einem muss die Anwendung verhindern, dass mit ihr gemogelt werden kann, da sich dies Negativ auf die User Expirience auswirken würde. Zum Anderem dürfen die Regeln der Gamification-Anwendung den Workflow der Anwendung nicht zu stark einschränken.
       \item \textbf{Feedback-Systeme}: Diese sind für die Gamification-Anwendung von großer Bedeutung, da hier kleinere Herausforderungen zu einem Flow-Gefühl führen.
-      \item \textbf{Freiwillige Teilnahme}: Die freiwillige Teilnahme für gamifizierte Anwendungen ist ein schwerer Punkt. Da es sich meistens um Geschäftsprozesse bei Gamification-Anwendungen handelt, die nicht unbedingt freiwillig umgesetzt oder eben nicht umgesetzt werden können. Dennoch empfiehlt es sich, die Freiheiten des Anwenders nur soweit einzugrenzen, wie es die Regeln und der Geschäftsprozess benötigen. 
+      \item \textbf{Freiwillige Teilnahme}: Die freiwillige Teilnahme für gamifizierte Anwendungen ist ein schwerer Punkt. Da es sich meistens um Geschäftsprozesse bei Gamification-Anwendungen handelt, die nicht unbedingt freiwillig umgesetzt werden können. Dennoch empfiehlt es sich, die Freiheiten des Anwenders nur soweit einzugrenzen, wie es die Regeln und der Geschäftsprozess benötigen. 
    \end{itemize}
 \end{description}
 Bei Gamification verfolgt man das Ziel, intrinsische Motivation zu erzeugen und zu verstärken. Eine grundlegende Theorie der intrinsischen Motivation ist die Selbstbestimmungstheorie von Deci and Ryan \cite{Ryan2000}. Nach dieser bekannten Theorie verfolgen Menschen drei grundlegende Bedürfnisse, die Bedürfnisse nach \textit{Kompetenz}, \textit{Autonomie} und \textit{sozialer Eingebundenheit} \cite{Rheinberg2006}. Nach Rigby und Ryan \cite{Rigby2011} finden sich diese drei Bedürfnisse in allen Spielen wieder. Sie sehen die Befriedigung dieser Bedürfnisse als die Grundlage eines jeden Spiels und identifizieren dies als wesentlichen Auslöser des Spielspaßes. Nach Rigby und Ryan \cite{Rigby2011} macht Videospielen Freude, da Spiele diese wesentlichen, menschlichen Bedürfnisse befriedigen. Da diese Bedürfnisse befriedigt werden müssen, werden sie im Folgendem Abschnitt genauer betrachtet.
 \\\\
 \textbf{Kompetenz}\\
-in der Psychologie wird die \textit{Kompetenz} als das grundlegende Bedürfnis der Menschen nach Erfolg, Effizienz, Meistern von Herausforderungen und das verbessern der eigenen Fähigkeiten verstanden. Dabei geht es auch darum die eigenen Fähigkeiten zu erfassen, zu messen und besser einschätzen zu können. Dieses Bedürfnis begleitet uns von Geburt an und führt zu starker intrinsischer Motivation \cite{Rigby2011}. Wir befriedigen dieses Bedürfnis indem wir uns Aktivitäten aussetzen die uns fordern oder indem wir uns in einem Wettkampf mit anderen Menschen vergleichen. Die Aktivitäten des Sports oder auch Videospiele erfüllen dieses Bedürfnis und so vermutet man, dass diese Aktivitäten deswegen so beliebt sind \cite{Mcgonigal2011}\cite{Rigby2011}\cite{Mayer2009}. Das Spiel ermöglicht eine simple Bestätigung der eigenen Kompetenz.
-\\\\
+in der Psychologie wird die \textit{Kompetenz} als das grundlegende Bedürfnis der Menschen nach Erfolg, Effizienz, Meistern von Herausforderungen und das verbessern der eigenen Fähigkeiten verstanden. Dabei geht es auch darum, die eigenen Fähigkeiten zu erfassen, zu messen und besser einschätzen zu können. Dieses Bedürfnis begleitet uns von Geburt an und führt zu starker intrinsischer Motivation \cite{Rigby2011}. Wir befriedigen dieses Bedürfnis indem wir uns Aktivitäten aussetzen die uns fordern oder indem wir uns in einem Wettkampf mit anderen Menschen vergleichen. Die Aktivitäten des Sports oder auch Videospiele erfüllen dieses Bedürfnis und so vermutet man, dass diese Aktivitäten deswegen so beliebt sind \cite{Mcgonigal2011}\cite{Rigby2011}\cite{Mayer2009}. Das Spiel ermöglicht eine simple Bestätigung der eigenen Kompetenz.
 \enquote{Never before in human history could this kind of optimal, emotional activation be accessed so cheaply, so reliably, so quickly} \cite{Mcgonigal2011}.
 \\\\
 \enquote{When games provide us with challenges, they are inviting us to stretch ourselves to new levels of mastery, which, once achieved, satisfy our intrinsic need for competence} \cite{Rigby2011}. 
 \\\\
-Die \textit{Flow-Theorie} bietet eine Erklärung und eine Darstellungsweise für das Kompetenz-Bedürfnis. Das Flow-Modell gibt einen möglichen Ansatz für die Aufrechterhaltung von Motivation. Finden wir eine Lösung für ein Problem oder meistern wir eine andere Form von Herausforderung, so wird die Kompetenz erlebt \cite{Csikszentmihalyi2017}. Dabei ist eine direkte Korrelation zwischen Herausforderung und Fähigkeit wichtig um in den Flow-Zustand zu kommen. Entsprechen sowohl Herausforderung und Fähigkeit überein, so bestätigt der Mensch seine eigen Kompetenz am ehesten. Ist die Herausforderung zu groß, so verspüren wir Frust, ist die Herausforderung zu einfach, so verspüren wir Langeweile.
-\\\\
-Aus dieser Überlegung heraus ist es bei Videospielen nicht unbedingt erforderlich, grafisch auf den neuesten Stand zu sein oder über eine innovative Geschichte zu verfügen. Stattdessen reicht eine Spielsteuerung die das Kompetenz-Bedürfnis nach dem Flow-Modell befriedigt. Alte Klassiker dieses Bereichs wie \textit{Pong} oder \textit{Tetris} erfüllen diese Befriedigung. Videospiele haben den Vorteil, dass sie sich einem Spieler und seinen Fähigkeiten anpassen kann. Dadurch kann das Flow-Erlebnis immer wieder erfolgen und den Spieler fesseln.
+Die \textit{Flow-Theorie} bietet eine Erklärung und eine Darstellungsweise für das Kompetenz-Bedürfnis (Abb.\ref{FlowModelBild}). Finden wir eine Lösung für ein Problem oder meistern wir eine andere Art von Herausforderung, so wird die Kompetenz erlebt \cite{Csikszentmihalyi2017}. Dabei ist eine direkte Korrelation zwischen Herausforderung und Fähigkeit wichtig um in den Flow-Zustand zu kommen. Entsprechen sowohl Herausforderung (Difficulty) und Fähigkeit (Skill) überein, so bestätigt der Mensch seine eigene Kompetenz. Ist die Herausforderung zu groß, so verspüren Menschen Frust (Anxiety), ist die Herausforderung zu einfach, so verspüren Menschen Langeweile (Boredom).
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale = 0.6]{Bilder/FlowModel.eps}
+\caption{Darstellung des Flow Modells \cite{FlowModel}.}
+\label{FlowModelBild}
+\end{center}
+\end{figure}
+Aus dieser Überlegung heraus ist es bei Videospielen nicht unbedingt erforderlich, grafisch auf den neuesten Stand zu sein oder über eine innovative Geschichte zu verfügen. Stattdessen reicht eine Spielsteuerung die das Kompetenz-Bedürfnis nach dem Flow-Modell befriedigt. Alte Klassiker dieses Bereichs wie \textit{Pong} oder \textit{Tetris} erfüllen diese Befriedigung. Videospiele haben den Vorteil, dass sie sich einem Spieler und seinen Fähigkeiten anpassen können. Dadurch kann das Flow-Erlebnis immer wieder erfolgen und den Spieler fesseln.
 \\\\ 
 \enquote{Video games […] keep us optimally challenged. […] They keep pace with our growing mastery, offering us new challenges just when we’re ready to move on from old ones} \cite{Rigby2011}.
 \\\\
-Stellt man sich einer Herausforderung gibt es in der Regel nur zwei Ausgangsmöglichkeiten, entweder man überwindet die Herausforderung und ist somit erfolgreich oder man scheitert an der Herausforderung und erleidet eine Niederlage. Kurz gesagt, entweder man gewinnt oder verliert. Beide Seiten sind für das erleben der Kompetenz verantwortlich. Das scheitern ist somit ein integraler Teil des Games bzw. einer Gamification-Anwendung \cite{Mcgonigal2011}\cite{Lazzaro2004}. Das Spielen ist ein Lernprozess und ein Prozess stetiger Verbesserung der eigenen Fähigkeiten \cite{Rigby2011}.
+Stellt man sich einer Herausforderung gibt es in der Regel nur zwei Ausgangsmöglichkeiten, entweder man überwindet die Herausforderung und ist somit erfolgreich oder man scheitert an der Herausforderung und erleidet eine Niederlage. Kurz gesagt, entweder man gewinnt oder verliert. Beide Seiten sind für das erleben der Kompetenz verantwortlich. Das Scheitern ist somit ein integraler Teil des Games bzw. einer Gamification-Anwendung \cite{Mcgonigal2011}\cite{Lazzaro2004}. Das Spielen ist ein Lernprozess und ein Prozess stetiger Verbesserung der eigenen Fähigkeiten \cite{Rigby2011}.
 \\\\
 \enquote{Fun is just another word for learning – Fun from games arise out of mastery. It arises out of comprehension. It is the act of solving puzzles that make games fun. With games, learning is the drug} \cite{Koster2013}. 
 \\\\
-Ein Spiel bei dem wir immer gewinnen oder bei dem wir nicht verlieren, löst kein Kompetenz-Erlebnis aus und wird für uns uninteressant. Sobald wir also ein Spiel gemeistert haben und jede Herausforderung bewältigen können, macht dieses Spiel keinen Spaß mehr. Somit gilt das Kompetenz-Erlebnis als Spaßgenerator.
+Ein Spiel bei dem wir immer gewinnen oder bei dem wir nicht verlieren, löst kein Kompetenz-Erlebnis aus und wird für uns uninteressant. Sobald wir also ein Spiel gemeistert haben und jede Herausforderung bewältigen können, macht dieses Spiel keinen Spaß mehr.
 \\\\
 \textbf{Autonomie}\\
 Autonomie beschreibt das intrinsische Verlangen, sich nach eigenem Willen entfalten zu können. Dazu gehört, sich aus einer Menge von Ansätzen und Möglichkeiten frei diejenigen auszuwählen, die am Besten zu einem passen \cite{Rigby2011}. Menschen verfügen über das grundlegende Bedürfnis sich selbstbestimmt zu erleben und wünschen sich, nach ihren eigenen Vorstellungen handeln zu dürfen bzw. zu können.
@@ -645,13 +651,38 @@ Autonomie beschreibt das intrinsische Verlangen, sich nach eigenem Willen entfal
 \\\\
 Autonomie ist neben dem Kompetenz-Bedürfnis ein weiterer Grund, weshalb das Spielen als Aktivität so fesselnd auf Menschen wirkt. Dabei gibt es bei Spielen die Möglichkeit, Autonomie auf verschiedene Arten zu spüren. So kann Autonomie erlebt werden, indem man in andere Rollen schlüpft, die Wahl hat sich zwischen mehreren Lösungswegen zu entscheiden oder das entwickeln von verschiedenen Strategien ermöglicht.
 \\\\
-Darüber hinaus sind Spiele kein Zwang, sie sind freiwillig. Unser Wille sich dem Spiel und seinen Regeln zu beugen steht im Zentrum. Man kann die herausfordernden Aufgaben eines Spiels annehmen, man muss aber nicht \cite{Rigby2011}. Dadurch zeigt sich die Selbstbestimmung am ehesten. 
+Darüber hinaus sind Spiele kein Zwang, sie sind freiwillig. Unser Wille, sich dem Spiel und seinen Regeln zu beugen steht im Zentrum. Man kann die herausfordernden Aufgaben eines Spiels annehmen, man muss aber nicht \cite{Rigby2011}. Dadurch zeigt sich die Selbstbestimmung. 
 \\\\
 \enquote{Playing a game is the voluntary attempt to overcome unnecessary obstacles} \cite{Mcgonigal2011}.
 \\\\
 Im Gegensatz ist es jedoch auch möglich, dass der Erhalt von Belohnungen ein Spiel oder auch ein Hobby, in Arbeit verwandeln können (nicht müssen) \cite{Pink2010}. Dies geschieht unter anderem, wenn der Wunsch nach der Belohnung größer ist, als der Wunsch die Tätigkeit auszuführen. Wenn der Mensch sich die Belohnung als Ziel setzt und sich der Herausforderung nur der Belohnung wegen stellt, so kann der sogenannte \textit{Korrumpierungseffekt} auftreten \cite{Rheinberg2006}. Durch diesen Effekt wird beschrieben, wie extrinsische Belohnungen die Motivation des Menschen schwächen können. Man vermutet, dass der externe Anreiz einer extrinsischen Belohnung vom eigentlichen Interesse an der Tätigkeit ablenkt \cite{Rheinberg2006}. Dies führt wiederum zu einem Verlust der Motivation.   
 \\\\
-Studien zeigen das extrinsische Belohnungen bei Kreativen-Tätigkeiten eher kontraproduktiv sind und nicht zu einer Leistungssteigerung führen \cite{Pink2010}. Verspricht man aber Leuten die einer Akkord ähnlichen Arbeit nachgehen eine extrinsische Belohnung, so werden diese Leute produktiver und somit leistungsfähiger. Deswegen vermutet man, das extrinsische Belohnungen dazu führen, dass der Fokus nun auf die Belohnung gelenkt wird, was Ablenkungen und kreative Ansätze mindert. Dadurch werden also Tätigkeiten denen z.B kein kreativer Lösungsansatz voraus geht für Menschen motivierender. Menschen mindern aber durch den Fokus auf die Belohnung ihre Vorstellungskraft und Kreativität, was dazu führt, dass die Produktivität dieser Tätigkeiten nicht erhöht sondern stattdessen vermindert wird.
+Studien zeigen das extrinsische Belohnungen bei Kreativen-Tätigkeiten kontraproduktiv sind und nicht zu einer Leistungssteigerung führen \cite{Pink2010}. Verspricht man aber Leuten die einer Akkord ähnlichen Arbeit nachgehen eine extrinsische Belohnung, so werden diese Leute produktiver und somit leistungsfähiger. Deswegen vermutet man, das extrinsische Belohnungen dazu führen, dass der Fokus nun auf die Belohnung gelenkt wird, was sowohl Ablenkungen als auch kreative Ansätze mindert. Dadurch werden also Tätigkeiten denen z.B kein kreativer Lösungsansatz voraus geht für Menschen motivierender (gemessen anhand der erhöhten Produktivität). Menschen mindern aber durch den Fokus auf die Belohnung ihre Vorstellungskraft und Kreativität, was dazu führt, dass die Produktivität dieser Tätigkeiten nicht erhöht sondern stattdessen vermindert wird.
+\\\\
+\textbf{Soziale Eingebundenheit}\\
+Soziale Eingebundenheit (Relatedness) beschreibt ein weiteres grundlegendes Bedürfnis, welches für intrinsischer Motivation verantwortlich ist. Dieses Bedürfnis ist von Natur aus in jedem Menschen vorhanden. Menschen suchen die Verbindung mit anderen Menschen und haben das Bedürfnis, auf sinnvolle Weise miteinander zu interagieren. Dies spielt sowohl im beruflichen Sinne eine Rolle, sowie auch im Privatleben. Beispiele für die soziale Eingebundenheit wären der eigene Freundeskreis, Mitgliedschaft in einem Verein oder Community. 
+\\\\
+Die soziale Eingebundenheit lässt sich in drei Bereiche unterteilen, die für das befriedigen dieses Bedürfnis wichtig sind. Um sich sozial eingebunden zu fühlen ist es notwendig, die \textit{Aufmerksamkeit} und die \textit{Anerkennung} anderer Menschen zu gewinnen. Als zweiter Punkt ist die \textit{Unterstützung} von anderen Personen von essentieller Bedeutung. Und als Letzter Punkt ist der eigene \textit{Einfluss} auf andere Menschen zu erwähnen. Diese drei Eigenschaften Anerkennung, Unterstützung und Einfluss sind es letzten Endes, die uns ein Gefühl von sozialer Eingebundenheit vermitteln \cite{Rigby2011}.
+\\\\
+Diese drei Punkte werden in allen \textit{Social Games} wie z.B MMORPGs (Massive Multiplayer Online Role Playing Games) auf gewisse Art und Weise erfüllt. Natürlich ist es auch möglich, diese Social Games als Single-Player Games zu nutzen. Hierbei ist aber der Spielspaß und das Spielerlebnis eingeschränkt, was wiederum die Bedeutung der sozialen Eingebundenheit für das Social Gaming demonstriert.
+\\\\
+Bei sozialer Eingebundenheit geht es aber nicht nur um Teamwork. Auch Wettkampf und Wettbewerb weisen die Punkte Anerkennung, Unterstützung und Einfluss auf \cite{Rigby2011}.
+\\\\
+\textbf{Zweck}\\
+Der Zweck bzw. die Bedeutung (Purpose) werden zusätzlich als ein weiteres Bedürfnis der Menschen gesehen, dass intrinsische Motivation hervorruft \cite{Pink2010}. Der Zweck kann als das Bedürfnis verstanden werden, unserem Handeln einem Sinn zu geben. Menschen suchen nach einem Sinn in ihrem Handeln und wünschen sich das hinter diesem Handeln eine größere Bedeutung steckt. Desto mehr Bedeutung wir unserem Handeln abgewinnen können, desto stärker werden wir intrinsisch motiviert. 
+\\\\
+Ein sehr bekanntes Beispiel für intrinsische Motivation die durch Bedeutung ausgelöst wird ist Wikipedia. Wikipedia verfügt nicht nur über Millionen von Artikeln sondern auch über Millionen von Helfern und Autoren. Diese Menschen stellen ihr Wissen frei zu Verfügung aus der Überzeugung heraus, dass sie verantwortlich sind für das Archivieren menschlichen Wissens. Diese Menschen schaffen ein tieferes und verbessertes Verständnis, allein aus dem Gefühl her, die Welt ein kleinwenig zu verbessern.
+\\\\
+Viele Menschen sprechen von Altruismus (Selbstlosigkeit), wenn sie von einem Zweck sprechen. Menschen die auf ihre eigene Art und Weise das Wohlergehen anderer über das eigene stellen. Dieser Altruismus kann eine Spende für wohltätige Zwecke sein, die Beantwortung von Fragen in einem Forum (z.B. Quora) oder das Öffnen der Tür für eine andere Person. Dieses Gefühl das von einem bedeutenden Zweck ausgeht, ist ein wichtiger Faktor für intrinsische Motivation.
+\\\\
+Besonders in Unternehmen ist man in der Lage, einen Zweck oder eine Berufung zu finden oder zumindest eine Grundlage dafür zu schaffen. Dafür gibt es viele Möglichkeiten. Zum Beispiel wäre ein Forum möglich, auf dem sich Mitarbeiter untereinander austauschen und sich gegenseitig Hilfestellungen geben könnten. Dies verbindet sich ebenfalls mit dem Bedürfnis der soziale Eingebundenheit, wenn man die internen sozialen Netzwerke betrachtet.
+\\\\ 
+Eine weitere Möglichkeit wäre, Mitarbeitern die Möglichkeit zu geben für Wohltätigkeitsorganisationen zu spenden. Insbesondere in Punktesammelplattformen.  Anstatt nur ein Abzeichen zu bekommen oder Punkte zu erhalten, wäre es also möglich, diesen digitalen Wert (Punkte, Abzeichen) in spenden für Hilfsorganisationen umzuwandeln.
+
+\subsubsection{Game-Design Modelle}
+
+     
+
  
 
 

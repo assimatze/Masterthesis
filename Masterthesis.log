@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.10.17)  21 FEB 2018 10:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.10.17)  21 FEB 2018 10:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -41,26 +41,33 @@ Package tocbasic Info: omitting babel extension for `lof'
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lot' on input line 134.
-Package scrartcl Info: You've used standard option `12pt'.
-(scrartcl)             This is correct!
-(scrartcl)             Internally I'm using `fontsize=12pt'.
-(scrartcl)             If you'd like to set the option with \KOMAoptions,
-(scrartcl)             you'd have to use `fontsize=12pt' there
-(scrartcl)             instead of `12pt', too.
-Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
-ine 2059.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
-File: scrsize12pt.clo 2017/04/13 v3.23 KOMA-Script font size class option (12pt
-)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/koma-script/typearea.sty
-Package: typearea 2017/04/13 v3.23 KOMA-Script package (type area)
-\ta@bcor=\skip42
-\ta@div=\count79
-Package typearea Info: You've used standard option `a4paper'.
-(typearea)             This is correct!
-(typearea)             Internally I'm using `paper=a4'.
+/usr/local/texlive/2017/texmf-dist/tex/latex/koma-script/scrartcl.cls:1669: Imp
+roper alphabetic constant.
+<to be read again> 
+                   \@tempswafalse 
+l.1669 \KOMAProcessOptions
+                          \relax
+? 
+/usr/local/texlive/2017/texmf-dist/tex/latex/koma-script/scrartcl.cls:1669: Eme
+rgency stop.
+<to be read again> 
+                   \@tempswafalse 
+l.1669 \KOMAProcessOptions
+                          \relax
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 953 strings out of 492996
+ 17624 string characters out of 6132729
+ 120902 words of memory out of 5000000
+ 4584 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 35i,0n,38p,284b,20s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
+area)             Internally I'm using `paper=a4'.
 (typearea)             If you'd like to set the option with \KOMAoptions,
 (typearea)             you'd have to use `paper=a4' there
 (typearea)             instead of `a4paper', too.
@@ -1778,252 +1785,317 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 547.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 547.
+
+Overfull \hbox (7.61786pt too wide) in paragraph at lines 548--549
+\T1/aer/m/n/12 Grund-la-gen zählt der Un-ter-schied zwi-schen ei-nem Spiel und 
+ei-ner Gamification-Anwendung,
+ []
+
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 548.
+(babel)             in language  on input line 550.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 548.
+(babel)             in language  on input line 550.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 550.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 550.
+[29]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 550.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 550.
 File: Bilder/PlayGame.eps Graphic file (type eps)
  <Bilder/PlayGame.eps>
-Underfull \hbox (badness 10000) in paragraph at lines 549--567
+Underfull \hbox (badness 10000) in paragraph at lines 551--569
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--567
+Underfull \hbox (badness 10000) in paragraph at lines 551--569
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--567
+Underfull \hbox (badness 10000) in paragraph at lines 551--569
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--567
+Underfull \hbox (badness 10000) in paragraph at lines 551--569
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--567
+Underfull \hbox (badness 10000) in paragraph at lines 551--569
 
  []
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 567.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 567.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 567.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 567.
-[29]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 567.
+(babel)             in language  on input line 569.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 567.
+(babel)             in language  on input line 569.
 
-Underfull \hbox (badness 10000) in paragraph at lines 568--578
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 568--578
+Underfull \hbox (badness 10000) in paragraph at lines 570--580
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 568--578
+Underfull \hbox (badness 10000) in paragraph at lines 570--580
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 570--580
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 578.
+(babel)             in language  on input line 580.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 578.
+(babel)             in language  on input line 580.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 578.
+(babel)             in language  on input line 580.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 578.
+(babel)             in language  on input line 580.
 [30]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 583.
+(babel)             in language  on input line 580.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 583.
+(babel)             in language  on input line 580.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 583.
+(babel)             in language  on input line 580.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 583.
+(babel)             in language  on input line 580.
  [31]
 File: Bilder/GameElemente.eps Graphic file (type eps)
  <Bilder/GameElemente.eps>
-Underfull \hbox (badness 10000) in paragraph at lines 588--604
+Underfull \hbox (badness 10000) in paragraph at lines 590--605
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 588--604
+Underfull \hbox (badness 10000) in paragraph at lines 590--605
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 588--604
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 606.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 606.
+
+Underfull \hbox (badness 10000) in paragraph at lines 607--610
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 604.
+(babel)             in language  on input line 610.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 604.
+(babel)             in language  on input line 610.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 604.
+(babel)             in language  on input line 610.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 604.
+(babel)             in language  on input line 610.
 [32]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 605.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 605.
-
-Underfull \hbox (badness 10000) in paragraph at lines 606--609
-
- []
-
-
-Overfull \hbox (0.12303pt too wide) in paragraph at lines 613--614
+Overfull \hbox (0.12303pt too wide) in paragraph at lines 614--615
 []\T1/aer/bx/n/12 Regeln\T1/aer/m/n/12 : Für die Ga-mi-fi-ca-ti-on gilt, das di
 e Re-geln der Gamification-Anwendung
  []
 
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 617.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 617.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 617.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 617.
+[33]
+File: Bilder/FlowModel.eps Graphic file (type eps)
+ <Bilder/FlowModel.eps>
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--655
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 618--655
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 618--655
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 618--655
-
- []
+LaTeX Warning: Citation `Deterding2013' on page 34 undefined on input line 680.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--655
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--655
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--655
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--655
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--655
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
 
  []
 
 
-Overfull \hbox (9.20296pt too wide) in paragraph at lines 618--655
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
+
+ []
+
+
+Overfull \hbox (9.20296pt too wide) in paragraph at lines 619--681
 \T1/aer/m/n/12 Ein Spiel bei dem wir im-mer ge-win-nen oder bei dem wir nicht v
 er-lie-ren, löst kein Kompetenz-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--655
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--655
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--655
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--655
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--655
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--655
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--655
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--655
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
 
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--681
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 655.
+(babel)             in language  on input line 681.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 655.
+(babel)             in language  on input line 681.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 655.
+(babel)             in language  on input line 681.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 655.
-[33]
+(babel)             in language  on input line 681.
+[34]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 655.
+(babel)             in language  on input line 681.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 655.
+(babel)             in language  on input line 681.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 655.
+(babel)             in language  on input line 681.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 655.
- [34]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 655.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 655.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 655.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 655.
+(babel)             in language  on input line 681.
  [35]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 680.
+(babel)             in language  on input line 681.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 680.
+(babel)             in language  on input line 681.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 680.
+(babel)             in language  on input line 681.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 680.
- [36] (./Masterthesis.lot
+(babel)             in language  on input line 681.
+ [36]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 681.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 681.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 681.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 681.
+ [37]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 709.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 709.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 709.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 709.
+ [38] (./Masterthesis.lot
 Overfull \hbox (14.56001pt too wide) in paragraph at lines 2--2
  [][] [] [][]  
  []
@@ -2037,14 +2109,14 @@ Overfull \hbox (14.56001pt too wide) in paragraph at lines 2--2
 \openout6 = `Masterthesis.lof'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 683.
+(babel)             in language  on input line 712.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 683.
+(babel)             in language  on input line 712.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 683.
+(babel)             in language  on input line 712.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 683.
- [37] (./Masterthesis.bbl
+(babel)             in language  on input line 712.
+ [39] (./Masterthesis.bbl
 Overfull \hbox (183.24371pt too wide) in paragraph at lines 39--44
 []\T1/aer/m/n/12 BJ Fogg: Ver-hal-tens-mo-dell.  [][][][][][],
  []
@@ -2067,7 +2139,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 102.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 102.
-[38]
+[40]
 Overfull \hbox (17.13333pt too wide) in paragraph at lines 109--112
 []\T1/aer/m/n/12 Benedikt Morsch-heu-ser: Ab-gren-zung.  [][][][][][],
  []
@@ -2078,31 +2150,43 @@ Overfull \hbox (286.23529pt too wide) in paragraph at lines 114--119
 ,
  []
 
+
+Overfull \hbox (47.05676pt too wide) in paragraph at lines 160--165
+[]\T1/aer/m/n/12 Flow mo-del.  [][][][][][],
+ []
+
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 686.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 715.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 686.
+(babel)             in language  on input line 715.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 686.
+(babel)             in language  on input line 715.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 686.
+(babel)             in language  on input line 715.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 686.
- [39]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 686.
+(babel)             in language  on input line 715.
+ [41]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 715.
  (./Masterthesis.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 686.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 686.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 715.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 715.
 Package rerunfilecheck Info: File `Masterthesis.out' has not changed.
 (rerunfilecheck)             Checksum: 8FC56F2F7A3454725E4F009A96873937;3732.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 10386 strings out of 492996
- 160706 string characters out of 6132729
- 374861 words of memory out of 5000000
- 13747 multiletter control sequences out of 15000+600000
+ 10392 strings out of 492996
+ 160790 string characters out of 6132729
+ 377988 words of memory out of 5000000
+ 13752 multiletter control sequences out of 15000+600000
  43673 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,11n,51p,8850b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Masterthesis.dvi (39 pages, 224408 bytes).
+Output written on Masterthesis.dvi (41 pages, 234720 bytes).

@@ -41,6 +41,6 @@
 \contentsline {subsection}{\numberline {2.11}Zusammenfassung des Kapitels}{28}{subsection.2.11}
 \contentsline {section}{\numberline {3}Gamification}{29}{section.3}
 \contentsline {subsection}{\numberline {3.1}Grundlagen der Gamification}{29}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}Game vs. Play}{29}{subsubsection.3.1.1}
-\contentsline {subsubsection}{\numberline {3.1.2}Game-Design Elemente}{30}{subsubsection.3.1.2}
-\contentsline {subsubsection}{\numberline {3.1.3}Game-Design Grunds\IeC {\"a}tze}{33}{subsubsection.3.1.3}
+\contentsline {subsubsection}{\numberline {3.1.1}Game vs. Play}{30}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Game-Design Elemente}{31}{subsubsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.3}Game-Design Grunds\IeC {\"a}tze}{32}{subsubsection.3.1.3}

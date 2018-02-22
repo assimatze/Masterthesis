@@ -156,6 +156,13 @@ Mihaly Csikszentmihalyi.
 \newblock {\em Flow. Das Geheimnis des Glücks}.
 \newblock Klett-Cotta, 2017.
 
+\bibitem{FlowModel}
+Flow model.
+\newblock
+  \url{https://peakexperiences.co/flow-state-speed-learning-how-to-drift/},
+  2016.
+\newblock {Zeitstempel: 22.02.2018}.
+
 \bibitem{Lazzaro2004}
 Nicole Lazzaro.
 \newblock Why we play games: Four keys to more emotion without story.
@@ -170,5 +177,10 @@ Raph Koster.
 Daniel~H Pink.
 \newblock {\em Drive: was Sie wirklich motiviert}.
 \newblock Ecowin, 2010.
+
+\bibitem{Deterding2013}
+Sebastian Deterding.
+\newblock Skill atoms as design lenses for user-centered gameful design.
+\newblock In {\em Workshop Papers CHI2013}, 2013.
 
 \end{thebibliography}

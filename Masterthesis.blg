@@ -15,45 +15,45 @@ I'm skipping whatever remains of this entry
 Warning--empty journal in Prause2013
 Warning--empty journal in Vester2009
 Warning--empty journal in Lazzaro2004
-You've used 30 entries,
+You've used 32 entries,
             1791 wiz_defined-function locations,
-            618 strings with 7696 characters,
-and the built_in function-call counts, 5337 in all, are:
-= -- 481
-> -- 160
+            628 strings with 7951 characters,
+and the built_in function-call counts, 5611 in all, are:
+= -- 503
+> -- 165
 < -- 4
-+ -- 71
-- -- 41
-* -- 196
-:= -- 824
-add.period$ -- 92
-call.type$ -- 30
-change.case$ -- 12
++ -- 74
+- -- 42
+* -- 201
+:= -- 860
+add.period$ -- 98
+call.type$ -- 32
+change.case$ -- 14
 chr.to.int$ -- 0
-cite$ -- 33
-duplicate$ -- 302
-empty$ -- 611
-format.name$ -- 41
-if$ -- 1255
+cite$ -- 35
+duplicate$ -- 319
+empty$ -- 654
+format.name$ -- 42
+if$ -- 1324
 int.to.chr$ -- 0
-int.to.str$ -- 30
-missing$ -- 38
-newline$ -- 153
-num.names$ -- 30
-pop$ -- 162
+int.to.str$ -- 32
+missing$ -- 39
+newline$ -- 163
+num.names$ -- 31
+pop$ -- 176
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 126
+skip$ -- 132
 stack$ -- 0
 substring$ -- 185
-swap$ -- 64
+swap$ -- 67
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 3
-while$ -- 47
-width$ -- 32
-write$ -- 309
+while$ -- 48
+width$ -- 34
+write$ -- 329
 (There were 2 error messages)
