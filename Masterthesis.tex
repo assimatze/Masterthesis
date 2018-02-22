@@ -680,16 +680,88 @@ Besonders in Unternehmen ist man in der Lage, einen Zweck oder eine Berufung zu 
 Eine weitere Möglichkeit wäre, Mitarbeitern die Möglichkeit zu geben für Wohltätigkeitsorganisationen zu spenden. Insbesondere in Punktesammelplattformen.  Anstatt nur ein Abzeichen zu bekommen oder Punkte zu erhalten, wäre es also möglich, diesen digitalen Wert (Punkte, Abzeichen) in spenden für Hilfsorganisationen umzuwandeln.
 
 \subsubsection{Game-Design Modelle}
-
-     
-
- 
-
-
-
-
-
-
+Wie wir bereits erwähnt haben, dienen die Game-Design Modelle dazu, dem Entwickler bei der Konzeption eines Games oder einer Gamification Anwendung zu unterstützen. Nach Deterding et al. \cite{Deterding2011} ist die Kombination aus Interface-Elementen und Spiele-Mechaniken (Game-Mechanics) einer der ausschlaggebende Faktoren für die Erzeugung einer ansprechenden Player Experience bzw User Experience. Abhängig von Situation und Bedürfnissen der Anwender scheint es am Game-Designer zu liegen, ein erfolgreiches Gamification-Konzept zu entwickeln. 
+\\\\
+Aus diesem Grund sollen drei dieser Modelle aufgezählt und näher betrachtet werden. Durch diese Analyse der Modelle soll ein besseres Verständnis dafür geschaffen werden, was beim Design eines Games bzw. Gamification Anwendung zu beachten ist.
+\\\\
+\textbf{1. Modell: Core Elements of the Gaming Experience}\\
+Die \textit{Core Elements of the Gaming Experience} (CEGE) ist ein umfassendes Modell, das aus verschiedenen Faktoren besteht, die zusammengenommen das Erlebnis zwischen einem Videospiel (Game) und seinem Nutzer bilden (User Experience).  Die beiden wichtigsten Variablen, die dem Modell zugeordnet sind, sind \textit{Video-Game} und \textit{Puppenspiel}(Puppetry). Video-Game ist einfach das Spiel selbst, das in die latenten (subjektiven bzw. nicht messbaren) Variablen von \textit{Umgebung}(Environment) und \textit{Gameplay} aufgeteilt wird. Diese latenten Variablen werden abgeleitet und unter beobachtbaren Variablen kategorisiert; Umgebung beinhaltet \textit{Grafiken} und \textit{Sounds} des Spiels, während Gameplay das \textit{Szenario} und die \textit{Spielregeln} beinhaltet \cite{CEGE2016}.
+\\\\
+Puppenspiel ist die Interaktion des Spielers mit dem Videospiel und besteht aus drei latenten Variablen: \textit{Kontrolle} (Control), \textit{Eigentum} (Ownership) und \textit{Moderatoren} (Facilitators). \textit{Kontrolle} ist einfach \enquote{Kontrolle} über das Spiel, indem man lernt, wie man Dinge innerhalb des Spiels benutzt und manipuliert. Diese Kontrolle besteht aus drei beobachtbaren Faktoren: \textit{kleine Aktionen} (grundlegende Aktionen, die der Spieler im Spiel ausführen kann), \textit{Ziel} (Hauptziel des Spiels) und \textit{something-to-do} (der Spieler muss das Gefühl haben, dass es im Spiel immer etwas zu tun gibt). 
+\\\\
+\textit{Eigentum} ist, wenn der Spieler seine Aktion im Spiel als seine eigene ausführt und letztendlich durch das Spiel für diese belohnt wird. Das Eigentum setzt sich aus vier beobachtbaren Faktoren zusammen: \textit{große Aktionen} (Strategien, die vom Spieler verwendet werden, die aus vielen kleinen Aktionen bestehen), \textit{you-but-not-you} (der Spieler kann an Aktionen teilnehmen, die er nicht unbedingt im wirklichen Leben machen würde), \textit{persönliche Ziele} (etwas, das nicht wichtig ist, um das Spiel zu gewinnen, aber eine Aktion, die aus einem persönlichen Grund abgeschlossen wurde) und \textit{Belohnung} (das Spiel muss dem Spieler Belohnungen bieten). 
+\\\\
+Schließlich sind \textit{Moderatoren} (Facilitators) externe Faktoren, die den Interaktionsprozess zwischen einem Videospiel und dem Benutzer beeinflussen können. Diese Moderatoren bestehen aus drei beobachtbaren Faktoren: \textit{Ästhetik} (wie das Spiel für den Spieler aussieht), \textit{Zeit} (die Zeit, die der Spieler bereit ist, dem Spiel zu widmen) und \textit{frühere Erfahrung} (frühere Erfahrungen des Spielers können beeinflussen, wie lange er bereit ist, zu spielen und Aktionen, die er im Spiel ausführen wird). Letztendlich werden die beobachtbaren Variablen in die \textit{Umbrella-Variablen} (z.B. Gameplay und Umgebung) eingeordnet, und wenn diese Umbrella-Variablen von Videospiel und Puppenspiel erfüllt sind, wird ein positive User Experience gewonnen 
+\cite{CEGE2016}.
+\\\\
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale = 0.6]{Bilder/CEGEModell.eps}
+\caption{Darstellung des CEGE Modells \cite{Cege2009}.}
+\label{CegeModelBild}
+\end{center}
+\end{figure}
+\\\\
+Die Core Elements of the Gaming Experience (CEGE) sind die Notwendigen aber nicht ausreichenden Elemente, um eine positive Player Experience zu erzeugen. Dabei versucht das Modell bzw. Framework nicht zu beschreiben, was ein gutes Game ausmacht, sondern vielmehr konzentriert sich das Modell auf die Art und Weise, wie das Spielerlebnis (User Experience) wahrgenommen wird \cite{Cege2009}. 
+\\\\
+\textbf{2. Modell: Skill Atoms}\\
+Das Konzept der \textit{Skill Atoms} (Fähigkeiten Atome) stammt aus den fortlaufenden
+Bemühung im Spieldesign, eine Formalisierung der zentralen Bausteine von Spielen zu erreichen. Dadurch sollte eine praktisch nutzbare \enquote{Grammatik} oder \enquote{Unified Modeling Language} gebildet werden. Beim Modell der Skill Atoms handelt es sich dabei um den Versuch, die im Spiel vorhandenen Komponenten in ihre kleinsten möglichen Teile zu zerlegen (deswegen auch Atom). Die Literatur lässt vermuten das es sich bei Spielen (Games) um verschachtelte, mit sich selbst verbundene Systeme von Systemen handelt. Diese wiederum enthalten laut Deterding \textit{Skill Atoms}, \textit{Game Atoms} und \textit{Ludemes}. Diese drei Systeme sind die kleinsten in sich geschlossenen Systeme die nicht weiter aufgeteilt werden können, ohne ihre \enquote{Spielhaftigkeit} zu verlieren \cite{Deterding2013}.
+\\\\
+Ein Skill Atom beschreibt eine Feedback-Schleife zwischen einem Spieler (Player) und einem Spiel (Game), das um eine zentrale Herausforderung herum organisiert ist. Um die Herausforderung zu überwinden, muss der Spieler sich die dafür entsprechenden Fähigkeiten (Skills) aneignen \cite{SkillAtoms2006}.
+\\\\
+\enquote{A player takes an action, which forms an input into the game’s rule system, whose results gets put out as feedback to the player, which the player integrates into her understanding of the game} \cite{Deterding2013}.
+\\\\
+Durch das mehrmalige durchlaufen dieser Feedback-Schleife werden dem Spieler die Fähigkeiten näher gebracht, die er benötigt um das Spiel zu spielen. Ein Skill Atom besteht also aus den einzelnen Teilen: \textit{Ziele}(Goals), \textit{Aktionen} (actions), \textit{Tokens}, \textit{Feedback}, ein \textit{Regelsystem}, einer \textit{Herausforderung} (challenge) und den \textit{Fähigkeiten des Anwenders} (model,skill) dargestellt in Abbildung \ref{SkillAtomBild}.    
+\\\\
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale = 0.6]{Bilder/SkillAtoms.eps}
+\caption{Darstellung der Feedback Schleife, eines Skill Atoms \cite{Deterding2013}.}
+\label{SkillAtomBild}
+\end{center}
+\end{figure}
+\begin{description}
+   \item[Die einzelnen Komponenten eines Skill Atoms erklärt:]~\par
+   \begin{itemize}
+      \item \textbf{Ziel}: Ziele artikulieren einen bestimmten Spielzustand den der Spielers erreichen will. 
+      \item \textbf{Aktionen}: Was ein Spieler umsetzen kann um sein Ziel zu erreichen.
+      \item \textbf{Tokens}: Einheiten mit denen der Spieler handeln kann.
+      \item \textbf{Regeln}: Algorithmen die bestimmen wie sich die Aktionen des Spielers auf den Spielzustand auswirken.
+      \item \textbf{Feedback}: Informationen die vom Spiel an den Spieler übertragen werden, auf Antwort auf dessen handeln.	  
+      \item \textbf{Herausforderung}: Die zentrale Fähigkeit (Skill) das gemeister werden muss.
+      \item \textbf{Fähigkeiten des Anwenders}: Das Verständnis des Spielers wie er das Spiel zu spielen hat und seine Kapazitäten sein Spielziel zu erreichen.
+   \end{itemize}
+\end{description}
+\textbf{3.Modell: MDA-Modell}\\
+Das \textit{MDA-Modell} ist ein formeller Ansatz um Spiele zu verstehen. Dieser Ansatz versucht, die Lücke zwischen Spieldesign und -entwicklung, Spiel Kritik und technische Spieleforschung zu schließen. Das MDA-Framework formalisiert den Konsum von Spielen, indem man sie in ihre verschiedenen Komponenten zerlegt wie \textit{Regeln}, \textit{Systeme} und \textit{\enquote{Spaß}} und ihre Design-Gegenstücke etablieren wie \textit{Mechaniken}, \textit{Dynamiken} und \textit{Ästhetik} \cite{Hunicke2004}.
+\\\\
+Die \textit{Mechanik} beschreibt die einzelnen Komponenten des Spiels, auf der Ebene der Datenrepräsentation und Algorithmen. Die \textit{Dynamiken} beschreiben das Laufzeitverhalten der Mechaniken,  die auf die Eingaben des Spielers und gegenseitige Ausgaben im laufe der Zeit reagieren. Zum Schluss gibt es die \textit{Ästhetik} die beschreibt, wie die emotionalen Reaktionen die beim Spieler hervorgerufen werden sollen, auszusehen haben.
+\\\\
+Grundlegend für diesen Framework ist der Gedanke, dass Spiele eher Artefakte als Medien sind. Jede Komponente (Mechanik, Dynamik, Ästhetik) kann als seine eigene Sicht (View) verstanden werden. Aus der Sicht des Designers ergeben sich aus den \textit{Mechaniken} \textit{dynamische} Systemverhalten, dieses Verhalten wiederum führt zur \textit{ästhetischer} Erfahrung. Aus der Perspektive des Spielers, gibt \textit{Ästhetik} den Ton an, der aus beobachtbaren \textit{Dynamiken} und ausführbaren \textit{Mechaniken} besteht (Abb.\ref{MDAModelBild}). 
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale = 1.0]{Bilder/MDAModel.eps}
+\caption{Sicht von Designer und Spieler \cite{Hunicke2004}.}
+\label{MDAModelBild}
+\end{center}
+\end{figure}
+\\\\
+Die \textit{Ästhetik} eines Spiels wird beim MDA Modell in 8 verschiedene Kategorien unterteilt. Diese wären \textit{Empfindung}, wie fühlt sich das Spiel an. \textit{Fantasie}, das Spiel als \enquote{Make-Believe}. \textit{Narrativ}, das Spiel als Erzählung wo die Geschichte im Vordergrund steht. \textit{Herausforderung}, das Spiel als Hindernisparcour. \textit{Kameradschaft}, das Spiel als soziales Framework. \textit{Entdeckung}, das Spiel als Innovation oder Neuland.\textit{Ausdruck}, das Spiel als Selbsterkennung. \textit{Submission}, das Spiel als purer Zeitvertreib.
+\\\\
+Aus diesen 8 Gefühlsebenen lässt sich nun die Ästhetik eines Spieles eingruppieren. Dadurch kann man fehlende Elemente leichter identifizieren und in das Design einbringen. Ein Spiel verfügt meistens über mehr als nur eine dieser Kategorien und kann dadurch sehr flexible und frei gestaltet werden.
+\\\\
+Mit den \textit{Dynamiken} versucht man nun dieses ästhetische Erlebnis zu schaffen. Will man z.B ein Spiel mit einer entsprechenden \textit{Herausforderung} versehen, so können Dynamiken wie z.B Mehrspieler oder Rätsel eingesetzt werden. Die \textit{Kameradschaft} kann hingegen durch Spieldynamiken wie das bilden von Teams ermöglicht werden. Durch das Verknüpfen von Ästhetik und Dynamik lassen sich so Design-Fallen vermeiden.
+\\\\
+Als \textit{Mechaniken} können nun die verschiedenen \textit{Aktionen}, \textit{Verhalten} und \textit{Kontrollmechanismen} gesehen werden. Diese Mechaniken wirken sich nun auf die Dynamiken aus und somit auch auf die Ästhetik. So wird z.b bei einem Karten-Spiel durch die Mechanik des Kartenmischens die Dynamik des \textit{Bluffens} ermöglicht. Durch das ineinander Greifen von Mechaniken, Dynamiken und Ästhetiken können so Konzepte einfacher entworfen werden (Abb.\ref{MDABild}). 
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale = 1.0]{Bilder/MDA.eps}
+\caption{Abhängigkeiten von Mechaniken, Dynamiken und Ästhetiken \cite{Hunicke2004}.}
+\label{MDABild}
+\end{center}
+\end{figure}
+\\\\
 
 
 

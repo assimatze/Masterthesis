@@ -15,45 +15,47 @@ I'm skipping whatever remains of this entry
 Warning--empty journal in Prause2013
 Warning--empty journal in Vester2009
 Warning--empty journal in Lazzaro2004
-You've used 32 entries,
+Warning--empty journal in Cege2009
+Warning--can't use both volume and number fields in Hunicke2004
+You've used 36 entries,
             1791 wiz_defined-function locations,
-            628 strings with 7951 characters,
-and the built_in function-call counts, 5611 in all, are:
-= -- 503
-> -- 165
-< -- 4
-+ -- 74
-- -- 42
-* -- 201
-:= -- 860
-add.period$ -- 98
-call.type$ -- 32
-change.case$ -- 14
+            651 strings with 8693 characters,
+and the built_in function-call counts, 6340 in all, are:
+= -- 571
+> -- 188
+< -- 6
++ -- 84
+- -- 48
+* -- 229
+:= -- 971
+add.period$ -- 113
+call.type$ -- 36
+change.case$ -- 18
 chr.to.int$ -- 0
-cite$ -- 35
-duplicate$ -- 319
-empty$ -- 654
-format.name$ -- 42
-if$ -- 1324
+cite$ -- 41
+duplicate$ -- 354
+empty$ -- 736
+format.name$ -- 48
+if$ -- 1496
 int.to.chr$ -- 0
-int.to.str$ -- 32
-missing$ -- 39
-newline$ -- 163
-num.names$ -- 31
-pop$ -- 176
+int.to.str$ -- 36
+missing$ -- 41
+newline$ -- 185
+num.names$ -- 35
+pop$ -- 197
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 132
+skip$ -- 148
 stack$ -- 0
-substring$ -- 185
-swap$ -- 67
-text.length$ -- 4
+substring$ -- 201
+swap$ -- 78
+text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 3
-while$ -- 48
-width$ -- 34
-write$ -- 329
+warning$ -- 5
+while$ -- 55
+width$ -- 38
+write$ -- 375
 (There were 2 error messages)

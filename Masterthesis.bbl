@@ -178,9 +178,36 @@ Daniel~H Pink.
 \newblock {\em Drive: was Sie wirklich motiviert}.
 \newblock Ecowin, 2010.
 
+\bibitem{CEGE2016}
+Bill Hardin.
+\newblock Mock data analysis with cege model.
+\newblock
+  \url{http://www.gamersexperience.com/mock-data-analysis-with-cege-model/},
+  2016.
+\newblock {Zeitstempel: 22.02.2018}.
+
+\bibitem{Cege2009}
+Eduardo Calvillo~Gamez.
+\newblock On the core elements of the experience of playing video games.
+\newblock 2009.
+
 \bibitem{Deterding2013}
 Sebastian Deterding.
 \newblock Skill atoms as design lenses for user-centered gameful design.
 \newblock In {\em Workshop Papers CHI2013}, 2013.
+
+\bibitem{SkillAtoms2006}
+Daniel Cook.
+\newblock The chemistry of game-design.
+\newblock
+  \url{https://www.gamasutra.com/view/feature/1524/the_chemistry_of_game_design.php?print=1},
+  2006.
+\newblock {Zeitstempel: 22.02.2018}.
+
+\bibitem{Hunicke2004}
+Robin Hunicke, Marc LeBlanc, and Robert Zubek.
+\newblock Mda: A formal approach to game design and game research.
+\newblock In {\em Proceedings of the AAAI Workshop on Challenges in Game AI},
+  volume~4, pages 1--5. AAAI Press San Jose, CA, 2004.
 
 \end{thebibliography}
