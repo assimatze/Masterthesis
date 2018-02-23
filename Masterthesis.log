@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.10.17)  22 FEB 2018 18:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.10.17)  23 FEB 2018 14:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1865,12 +1865,12 @@ Package babel Info: Redefining ngerman shorthand "~
  [31]
 File: Bilder/GameElemente.eps Graphic file (type eps)
  <Bilder/GameElemente.eps>
-Underfull \hbox (badness 10000) in paragraph at lines 590--605
+Underfull \hbox (badness 10000) in paragraph at lines 589--605
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 590--605
+Underfull \hbox (badness 10000) in paragraph at lines 589--605
 
  []
 
@@ -1943,12 +1943,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 619--681
 
 Underfull \hbox (badness 10000) in paragraph at lines 619--681
 
- []
-
-
-Overfull \hbox (9.20296pt too wide) in paragraph at lines 619--681
-\T1/aer/m/n/12 Ein Spiel bei dem wir im-mer ge-win-nen oder bei dem wir nicht v
-er-lie-ren, löst kein Kompetenz-
  []
 
 
@@ -2151,6 +2145,9 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 724.
 [38]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 724.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2159,16 +2156,19 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 724.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 724.
- [39]
+[39]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 727.
+(babel)             in language  on input line 732.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 727.
+(babel)             in language  on input line 732.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 727.
+(babel)             in language  on input line 732.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 727.
- [40]
+(babel)             in language  on input line 732.
+[40]
 File: Bilder/MDAModel.eps Graphic file (type eps)
  <Bilder/MDAModel.eps>
 File: Bilder/MDA.eps Graphic file (type eps)
@@ -2211,6 +2211,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 736--765
 Underfull \hbox (badness 10000) in paragraph at lines 736--765
 
  []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 765.
@@ -2342,10 +2345,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Here is how much of TeX's memory you used:
  10408 strings out of 492996
  161025 string characters out of 6132729
- 378523 words of memory out of 5000000
+ 379550 words of memory out of 5000000
  13764 multiletter control sequences out of 15000+600000
  43673 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,11n,51p,8850b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Masterthesis.dvi (46 pages, 263100 bytes).
+Output written on Masterthesis.dvi (46 pages, 264360 bytes).
