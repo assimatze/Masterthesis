@@ -210,4 +210,28 @@ Robin Hunicke, Marc LeBlanc, and Robert Zubek.
 \newblock In {\em Proceedings of the AAAI Workshop on Challenges in Game AI},
   volume~4, pages 1--5. AAAI Press San Jose, CA, 2004.
 
+\bibitem{GameMechanics2006}
+Daniel Cook.
+\newblock What are game mechanics?
+\newblock \url{http://www.lostgarden.com/2006/10/what-are-game-mechanics.html},
+  2006.
+\newblock {Zeitstempel: 24.02.2018}.
+
+\bibitem{Schell2014}
+Jesse Schell.
+\newblock {\em The Art of Game Design: A book of lenses}.
+\newblock CRC Press, 2014.
+
+\bibitem{Reiss2009}
+Steven Reiss.
+\newblock {\em Das Reiss Profile: die 16 Lebensmotive; welche Werte und
+  Bed{\"u}rfnisse unserem Verhalten zugrunde liegen}.
+\newblock GABAL Verlag GmbH, 2009.
+
+\bibitem{Zichermann2011}
+Gabe Zichermann and Christopher Cunningham.
+\newblock {\em Gamification by design: Implementing game mechanics in web and
+  mobile apps}.
+\newblock " O'Reilly Media, Inc.", 2011.
+
 \end{thebibliography}

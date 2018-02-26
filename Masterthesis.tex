@@ -1,5 +1,4 @@
 \documentclass[a4paper,12pt]{scrartcl}
-\usepackage[hyphens]{url}
 \usepackage[utf8]{inputenc}
 \usepackage{lmodern}
 \usepackage[ngerman]{babel}
@@ -15,10 +14,11 @@
 \usepackage{wrapfig}
 \usepackage{fancyhdr}
 \usepackage{ae}
-
+\usepackage[hyphens]{url}
 
 \usepackage[colorlinks=true,urlcolor=blue,linkcolor=black,
-citecolor=black]{hyperref}
+citecolor=black
+]{hyperref}
 
 \bibliographystyle{unsrt}
 
@@ -60,19 +60,19 @@ Ich hoffe ich konnte mit diesen einfachen Worten allen Beteiligten meine Dankbar
 \section*{Zusammenfassung}
 Die esentri AG mit Sitz in der Technologieregion Karlsruhe ist ein mittelständisches Beratungs-Unternehmen mit den Schwerpunkten Digitalisierung und IT-Systemintegration. 
 Das Unternehmen plant dabei seine Projekte agil, transparent und nah beim Kunden.
-Um den hohen Ansprüchen dieser Kunden nun gerecht zu werden hat es sich die esentri zur Aufgabe gemacht, den internen Prozess der Wissenserfassung innerhalb der Firma zu verbessern. 
+Um den hohen Ansprüchen dieser Kunden nun gerecht zu werden hat es sich die esentri zur Aufgabe gemacht, den internen Dokumentationsprozess innerhalb der Firma zu verbessern. 
 \\\\
-Diese Aufgabe erweist sich allerdings Aufgrund der in diesem Feld auftretenden Probleme als schwer greifbar. Das Schreiben von Wissensbasen (Dokumentationen sind spezielle Formen von Wissenbasen) wird meistens als langweilig und monoton angesehen. Hinzukommt dass diese Tätigkeit nichts zum Lösungsansatz eines Projektes beiträgt. Aus diesen und weiteren Gründen wird das verfassen von Wissensbasen von vielen Entwicklern als \enquote{Zeitverschwendung} betrachtet. 
+Diese Aufgabe erweist sich allerdings Aufgrund der in diesem Feld auftretenden Probleme als schwer greifbar. Das Schreiben von Dokumentationen wird meistens als langweilig und monoton angesehen. Hinzukommt dass das Dokumentieren nichts zum Lösungsansatz eines Projektes beiträgt. Aus diesen und weiteren Gründen wird das verfassen von Dokumentationen von vielen Entwicklern als “Zeitverschwendung” betrachtet. 
 \\\\
-Um diese Tätigkeit nun für die Mitarbeiter attraktiver zu gestalten und somit die Qualität des Wissens zu verbessern, hat man sich dazu entschieden den Wissenserfassungsprozess mit Gamification aufzuwerten. Dafür soll sich in die Grundlagen des Gebietes Gamification eingearbeitet werden um zu ermitteln, ob und wie man die aus dem Gamification Bereich stammenden Elemente nutzen kann.
+Um diese Tätigkeit nun für die Mitarbeiter attraktiver zu gestalten und somit die Qualität der Dokumentationen zu verbessern, hat man sich dazu entschieden den Dokumentationsprozess mit Gamification aufzuwerten. Dafür soll sich in die Grundlagen des Gebietes Gamification eingearbeitet werden um zu ermitteln, ob und wie man die aus dem Gamification Bereich stammenden Elemente nutzen kann.
 
 
 \section*{Abstract}
-The esentri AG with their headquarters based in the technology region Karlsruhe is an medium-sized consulting-company with a focus on digitization and IT system integration. The company plans its projects agile, transparently and close to the customer. In order to meet the high demands of these customers, esentri has set itself the task of improving the internal knowledge capturing process within the company. 
+The esentri AG with their headquarters based in the technology region Karlsruhe is an medium-sized consulting-company with a focus on digitization and IT system integration. The company plans its projects agile, transparently and close to the customer. In order to meet the high demands of these customers, esentri has set itself the task of improving the internal documentation process within the company. 
 \\\\
-However, this task proves to be difficult to grasp due to the problems encountered in this field. Writing knowledge bases (documentations are special kinds of knowledge bases) is often considered boring and monotonous. In addition, this task does not contribute to the solution approach of a project. For these and other reasons, writing knowledge bases is considered a \enquote{waste of time} by many developers. 
+However, this task proves to be difficult to grasp due to the problems encountered in this field. Writing documentation is often considered boring and monotonous. In addition, documenting does not contribute to the solution approach of a project. For these and other reasons, writing documentation is considered a \enquote{waste of time} by many developers. 
 \\\\
-In order to make this activity more attractive for employees and thus improve the quality of the knowledge, it was decided to enhance the knowledge capturing process with gamification. For this purpose, the basics of gamification have to be studied in order to determine whether and how the elements from gamification can be used.     
+In order to make this activity more attractive for employees and thus improve the quality of documentation, it was decided to enhance the documentation process with gamification. For this purpose, the basics of gamification have to be studied in order to determine whether and how the elements from gamification can be used.     
 \newpage
 \thispagestyle{empty}
 \tableofcontents
@@ -82,20 +82,20 @@ In order to make this activity more attractive for employees and thus improve th
 
 
 \section{Einleitung}
-Dieses Kapitel dient als Einstieg in diese Arbeit und soll die Aufgaben, Ziele, Vorgehensweise und das Arbeitsumfeld genauer beschreiben. Dabei wird zwischen Aufgabenstellung und Aufgabenbearbeitung unterschieden. Die Aufgabenstellung lässt sich aus der Thesis Beschreibung ableiten und beschreibt die Aufgaben die im laufe dieser Thesis bearbeitet werden sollen. Die Aufgabenbearbeitung enthält die generelle Vorgehensweise wie diese Aufgaben umgesetzt werden. Des Weiteren werden die Ziele definiert, die mit dieser Arbeit erreicht werden sollen. Die Arbeitsumgebung wird ebenfalls beschrieben und es wird am Ende dieses Kapitels mit einem Überblick abgeschlossen.  
+Dieses Kapitel dient als Einstieg in diese Arbeit und soll die Aufgaben, Ziele, Vorgehensweise und das Arbeitsumfeld genauer beschreiben. Dabei wird zwischen Aufgabenstellung und Aufgabenbearbeitung unterschieden. Die Aufgabenstellung lässt sich aus der Thesis Beschreibung ableiten und beschreibt die Aufgaben die im laufe dieser Thesis bearbeitet werden sollen. Die Aufgabenbearbeitung enthält die generelle Vorgehensweise wie diese Aufgaben umgesetzt werden. Des Weiteren werden die Ziele definiert, die mit dieser Arbeit erreicht werden sollen. Die Arbeitsumgebung wird ebenfalls beschrieben und es wird am Ende dieses Kapitels mit einem Überblick abgeschlossen. 
 \subsection{Aufgabenstellung}
 Die Aufgabe die in dieser Arbeit behandelt werden soll ist, die Tätigkeit der Wissenserfassung (Knowledge Capturing) für die Mitarbeiter der esentri AG motivierender und belohnender zu gestalten. Hierfür soll der Wissenserfassungprozess mit Spiele-Prinzipien und Spiele-Mechaniken versehen werden. Durch die Integration von Spiele-Prinzipien und Spiele-Mechaniken sollen dem Wissenserfasser zusätzliche Anreize gegeben werden, Informationen zu sichern und aufzubereiten. 
 \\\\
 Das Integrieren von Spiele-Mechaniken und Spiele-Prinzipien in nicht Spiel-Kontexten, wie in diesem konkreten Fall den Wissenserfassungsprozess (WE-Prozess), wird als Gamification bezeichnet.
 \\\\
-Für die Integration müssen die verschiedensten Spiele-Prinzipien und Spiele-Mechaniken welche als Gamification Elemente zu verstehen sind, untersucht und bewertet werden. Dafür werden im Vorfeld Kriterien festgelegt anhand derer die verschiedenen Gamification Elemente analysiert werden können. Anschließend sollen die ermittelten Gamification Elemente in das Dokumentationstool der esentri AG integriert werden.
+Für die Integration müssen die verschiedensten Spiele-Prinzipien und Spiele-Mechaniken welche als Gamification Elemente zu verstehen sind, untersucht und bewertet werden. Dafür werden im Vorfeld Kriterien festgelegt anhand derer die verschiedenen Gamification Elemente analysiert werden können. Anschließend sollen die ermittelten Gamification Elemente in das Dokumentationstool der esentri AG integriert werden. 
 
 \subsubsection{Definition Gamification}
 Der Begriff Gamification wurde im Jahr 2002 von Nick Pelling geprägt, fand zu dieser Zeit aber keine Aufmerksamkeit und hatte auch mit der heutzutage geläufigen Definition wenig zu tun.
 \\\\
 \enquote{Gamification is the use of game mechanics and experience design to digitally engage and motivate people to achieve their goals.}\cite{gamificationDefinition}
 \\\\
-Erst 2009 wurde die Idee um Gamification wieder aufgegriffen und fand mit der digitalen Medienbranche auch ein vielseitiges Einsatzgebiet. Seit dieser Zeit (2009) sind mehrere verschiedene Geschäftsfelder um die Kernidee der Gamification entstanden wie z.B der Bereich der \enquote{Serious Games} oder auch das \enquote{e-learning} Umfeld.
+Erst 2009 wurde die Idee um Gamification wieder aufgegriffen und fand mit der digitalen Medienbranche auch ein vielseitiges Einsatzgebiet. Seit dieser Zeit (2009) sind mehrere verschiedene Geschäftsfelder um die Kernidee der Gamification entstanden wie z.B der Bereich der \enquote{Serious Games} oder auch das \enquote{e-learning} Umfeld.  
 
 \subsubsection{Nutzen von Gamification}
 Dieses Zitat aus dem Film Mary Poppins beschreibt ziemlich präzise die Idee und den Nutzen, die hinter Gamification stecken:\\\\ 
@@ -251,7 +251,7 @@ Zunächst müssen diejenigen Informationen identifiziert werden, welche in die D
 \\\\
 Der nächste Faktor in der Komplexität des Dokumentationsprozesses ist die Darstellung der Information. Die Information sollte leicht verständlich, kurz und knapp dargestellt sein. (KISS-Prinzip\footnotemark
 ). Nicht jeder Autor ist jedoch in der Lage seine einzigartigen Gedanken so zu formulieren, das Sie als verständlich angesehen werden. Informationen kurz oder knapp zu halten ist ebenfalls nicht so trivial wie man anfangs vermuten lässt. Schließlich müssen Informationen kompakt und auf den Punkt gebracht werden. Die Essenze einer Information zu sichern muss ebenfalls dem menschlichen Urteilsvermögen überlassen werden. Unterstützung durch Tools oder Systeme gibt es auch hier nicht.
-\footnotetext{\url{http://www.community-of-knowledge.de/beitrag/keep-it-simple-stupid-leichtgewichtiges-wissensmanagement-mit-wikis/}}
+\footnotetext{\url{http://www.community-of-knowledge.de/beitrag/keep-it-simple-stupid-leichtgewichtiges-wissensmanagement-mit-wikis}}
 \\\\
 Die identifizierten und ausformulierten Informationen müssen anschließend in eine Form und Struktur übernommen werden, die logisch und verständlich für das entsprechende Publikum ist. 
 
@@ -282,27 +282,28 @@ Ein weiterer Vorteil einer stämmigen Wissensbasis ist das Vermarkten des generi
 
 \subsection{Qualitätsmerkmale einer Dokumentation}
 In diesem Kapitel soll geklärt werden was die Merkmaler einer qualitativ hochwertigen Dokumentation sind. Diese Merkmale zu verstehen ermöglicht es uns, die konkreten Faktoren zur Beeinflussung des Dokumentationsprozesses zu ermitteln.
-\subsubsection{Vollständigkeit}
+\\\\
+\textbf{Vollständigkeit}\\
 Die Vollständigkeit sagt aus, ob auch wirklich alle Informationen erfasst wurden die für die Dokumentation relevant sind. Hierbei gilt es für den Autor sich ständig zu entscheiden, welche Informationen sind wichtig, welche nicht. Ist die Information ausreichend oder werden noch weitere Informationen zu einem Punkt benötigt. Letzten endes ist eine Dokumentation die Summe seiner Information \cite{Prause2013}.
 \\\\
 Fehlen Informationen muss der Leser erst darauf kommen das nicht alle Informationen vollständig sind. Das kann er unter Umständen nicht beurteilen. Durch das suchen der entsprechenden Informationen geht wertvolle Zeit verloren.
-
-\subsubsection{Veränderbarkeit}
+\\\\
+\textbf{Veränderbarkeit}\\
 Die Veränderbarkeit sagt aus, wie einfach Informationen ausgetauscht oder modifiziert werden können. Änderungen innerhalb eines Projektes oder eines Produktes müssen natürlich auch in die entsprechende Dokumentation eingetragen werden. Dabei bezieht sich die Veränderbarkeit nicht nur auf technischer Ebene durch Wikis (wie leicht etwas in der Wiki zu ändern ist). Es geht auch darum, an wie vielen Stellen Änderungen in der Dokumentation durchgeführt werden müssen. Desto zentraler und redundanter die Informationen vorliegen, desto leichter und sichere lässt sich die Dokumentation ändern \cite{Prause2013}.
-
-\subsubsection{Aktualität}
+\\\\
+\textbf{Aktualität}\\
 Ist die Dokumentation noch auf den Aktuellsten Stand? Oder wurden Veränderungen durchgeführt die noch nicht in der Dokumentation erfasst wurden. Es ist schwer alle Änderungen im überblick zu behalten und dafür zu sorgen, das alle Informationen so Aktuell wie möglich sind. Hier gibt es einen Zusammenhang zwischen Aktualität und Veränderbarkeit. Desto Veränderbarer die Dokumentation (liegen Informationen zentral vor), desto leichter ist es die Dokumentation Aktuell zu halten \cite{Prause2013}.
-
-\subsubsection{Eindeutigkeit}
+\\\\
+\textbf{Eindeutigkeit}\\
 Mit diesem Merkmal soll beschrieben werden, wie eindeutig die Informationen innerhalb der Dokumentation sind. Es geht darum zweideutigkeit zu vermeiden und Missverständnisse zu eliminieren. Eindeutigkeit hilft dem Leser dabei, schnell zu bestimmen ob die Information für ihn relevant ist und hilft bei der Wissensübertragung \cite{Prause2013}.
-
-\subsubsection{Identifizierbarkeit}
+\\\\
+\textbf{Identifizierbarkeit}\\
 Wie leicht können Informationen identifiziert werden und wie macht man sie unterscheidbar. Gleiche Informationen sollten immer in gleicher Form in die Dokumentation aufgenommen werden. Dadurch lassen sich Informationen anhand Ihrer Form identifizieren anstatt anhand des Inhaltes. Dadurch wird es Lesern erleichtert, die unnötigen Informationen zu überfliegen und macht es dadurch effizienter die Information zu finden die vom Leser benötigt werden \cite{Prause2013}.
-
-\subsubsection{Verständlichkeit}
+\\\\
+\textbf{Verständlichkeit}\\
 Dieser Punkt ist sehr wichtig. Die Hauptaufgabe einer Dokumentation ist das Verteilen von Wissen. Eine Dokumentation muss an dieser Eigenschaft gemessen werden. Die Informationen müssen klar abgeschlossen sein. Sie sollten nicht zu viel Information enthalten da die Aufnahmefähigkeit der Lesser begrenzt ist. Die Informationen sollten nach dem KISS-Prinzip (“Keep it short and simple”) gestaltet werden \cite{Prause2013}.
-
-\subsubsection{Konsistenz}
+\\\\
+\textbf{Konsistenz}\\
 Die Konsistenz beschreibt das Fehlen von Widersprüchen. Eine Dokumentation ist nur dann verständlich wenn es keine Informationen gibt die einander widersprechen. Generell sollte eine Dokumentation immer etwas neues hinzufügen. Gibt es mehrere Informationen die sich widersprechen müssen diese entfernt werden \cite{Prause2013}.
 
 \subsection{Gründe für die Vernachlässigung des Dokumentationsprozesses}
@@ -390,7 +391,7 @@ Diese sieben Ursachen wurden von den Experten als Begründung für mangelnde ode
 Es soll nach den Gründen für diese Ursachen gesucht werden. Durch das genauere Untersuchen dieser Punkte können Ansätze gefunden werden, die beeinflusst werden müssen um das Verhalten und den Dokumentationsprozess zu optimieren. 
 
 \subsection{Faktoren zum beeinflussen des Dokumentationsprozesses}
-Wie sich aus den vorangegangenen Kapitel gezeigt hat, besteht für die Mitarbeiter ein zu geringes Interesse sich für den Dokumentationsprozess einzusetzen. Im Allgemeinen tut sich der Mensch schwer, eine Tätigkeit auszuführen die ihm sinnlos erscheint. Und als solche wird der Dokumentationsprozess von vielen Mitarbeitern wahrgenommen. Dies ist nachvollziehbar, wenn man bedenkt dass der größte Vorteil von Dokumentationen, sich auf zukünftige Vorhaben und deren Entwicklung beziehen. Es gibt also zu wenig persönlichen Nutzen für einen Mitarbeiter sich am Dokumentationsprozess zu beteiligen. Dies kann anhand des Verhaltensmodell von BJ Fogg erklärt werden \cite{Verhaltensmodell2018}.
+Wie sich aus den vorangegangenen Kapitel gezeigt hat, besteht für die Mitarbeiter ein zu geringes Interesse sich für den Dokumentationsprozess einzusetzen. Im Allgemeinen tut sich der Mensch schwer, eine Tätigkeit auszuführen die ihm sinnlos erscheint. Und als solche wird der Dokumentationsprozess von vielen Mitarbeitern wahrgenommen. Dies ist nachvollziehbar, wenn man bedenkt dass der größte Vorteil von Dokumentationen, sich auf zukünftige Vorhaben und deren Entwicklung beziehen. Es gibt also zu wenig persönlichen Nutzen für einen Mitarbeiter sich am Dokumentationsprozess zu beteiligen. Dies kann anhand des Verhaltensmodell von BJ Fogg erklärt werden.
 \begin{figure}[h!]
 \begin{center}
 \includegraphics[scale = 0.6]{Bilder/Verhaltensmodell.eps}
@@ -410,7 +411,7 @@ Sehen wir uns das Verhaltensmodell, das in Abb.\ref{VerhaltensmodellBild} darges
       \item Und wenn man merkt das der Müll voll ist(Auslöser).
    \end{itemize}
 \end{description}  
-Sind alle drei Merkmale (motivation, skill und trigger) vorhanden, tritt das entsprechende Verhalten (Bringe Müll raus) auf. Dabei ist es nicht unbedingt erforderlich, dass das Motivation- und Fähigkeiten-Merkmal immer hoch sein müssen. Es kommt lediglich darauf an ob die \textit{Verhaltensschwelle} überschritten wird oder nicht (Abb.\ref{VerhaltensmodellBild}). Tätigkeiten die sowohl schwierig umzusetzen sind und bei denen jegliche Motivation fehlt führen dazu, dass die Auslöser für das Verhalten fehlschlagen (Triggers fail here, Abb.\ref{VerhaltensmodellBild}), da hier die Verhaltensschwelle nicht überschritten wird. Dadurch wird das Verhalten nicht hervorgebracht. Das gleiche gilt auch für den umgekehrten Fall. Wird die Verhaltensschwelle überschritten, so wird das Verhalten verursacht. 
+Sind alle drei Merkmale (motivation, skill und trigger) vorhanden, tritt das entsprechende Verhalten (Bringe Müll raus) auf. Dabei ist es nicht unbedingt erforderlich, dass das Motivation- und Fähigkeiten-Merkmal immer hoch sein müssen. Es kommt lediglich darauf an ob die \textit{Verhaltensschwelle} (Behavior Threshold) überschritten wird oder nicht (Abb.\ref{VerhaltensmodellBild}). Tätigkeiten die sowohl schwierig umzusetzen sind und bei denen jegliche Motivation fehlt führen dazu, dass die Auslöser für das Verhalten fehlschlagen (Triggers fail here, Abb.\ref{VerhaltensmodellBild}), da hier die Verhaltensschwelle nicht überschritten wird. Dadurch wird das Verhalten nicht hervorgebracht. Das gleiche gilt auch für den umgekehrten Fall. Wird die Verhaltensschwelle überschritten, so wird das Verhalten verursacht. 
 
 \subsection{Die Bestandteile von Verhalten, Motivation, Fähigkeit und Auslöser}
 Betrachten wir nun den Dokumentationsprozess als unser vorgegebenes Verhalten (Informationen aufnehmen und speichern), und untersuchen wie dieser Prozess sich auf die drei Merkmale Motivation, Fähigkeit und Auslöser abbilden lässt. Über diese Vorgehensweise wird weitere Einsicht in die menschliche Komponente des Dokumentationsprozesses gewonnen.
@@ -439,6 +440,7 @@ Das frühe psychologische Konzept des Vergnügens (Pleasure) und auch das Lustpr
 Nun muss die Frage beantwortet werden, wie wir dieses Feedback-Mechanismus verwenden können? Die Antwort lautet: Über das bereitstellen einer entsprechenden Belohnung. Denn für die meisten Menschen ist eine Belohnung etwas begehrtes, weil sie eine bewusste Erfahrung des Vergnügens erzeugt \cite{Berridge2009}. Anstelle den Nutzen einer Dokumentation als einzige Motivationsquelle zu verwenden, ist es also erforderlich, eine Alternative, in form einer zusätzlichen Belohnung, zur Verfügung zu stellen.
 \\\\
 Dabei ist die Art der Belohnung für jeden Menschen anders und damit \enquote{subjektiv}. Wissenschaftler sprechen an dieser Stelle von \enquote{subjektiven Belohnugswerten} \cite{Bonhoeffer2011}. Jeder Mensch misst sich in seinem eigenen Belohnungssystem das ein Teil des Gehirns ist, seine ihm persönlichen Werte zu. Durch die Gamification müsste nun ein generell gültige Belohnung entworfen werden, die für jeden bzw. die meisten Mitarbeiter der esentri AG einen hohen subjektiven Belohnungswert hat. Dadurch würde sich die Motivation steigern lassen und es würde Mitarbeiter eher anspornen sich am Dokumentationsprozess zu beteiligen oder ihn gar von sich aus auslösen.
+
 \subsubsection{Die Fähigkeit ein Verhalten umzusetzen}
 Die Fähigkeit beschreibt im Verhaltensmodell von BJ Fogg, ob es sich um eine schwierige oder einfache Aktion handelt aus der sich das entsprechende Verhalten ergibt. In den vorangegangenen Kapiteln hat sich auch hier deutlich gezeigt, das der Dokumentationsprozess mit komplexen Eigenschaften versehen ist, was bedeutet das er in der Fähigkeiten Skala des Verhaltensmodells eher Hoch und damit als schwer einzustufen ist. Wenn unser gewünschtes Verhalten hervortreten soll, ist es erforderlich den Dokumentationsprozess zu vereinfachen. Für die Fähigkeit gibt es ebenfalls Merkmale über die der Schwierigkeitsgrad beeinflusst werden kann.
 \begin{description}
@@ -453,6 +455,7 @@ Die Fähigkeit beschreibt im Verhaltensmodell von BJ Fogg, ob es sich um eine sc
    \end{itemize}
 \end{description}
 Diese Fähigkeitsmerkmale sind ebenfalls in Abbildung \ref{FähigkeitsmerkmaleBild} zu sehen. Durch das manipulieren und beeinflussen dieser Fähigkeitsmerkmale, wird der Schwierigkeitsgrad der Aktivität (Informationen speichern) regulierbar. Durch die Reduzierung der Schwierigkeit auf ein niedrigeres Niveau, wird die Wahrscheinlichkeit den Dokumentationsprozess auszuführen gesteigert. Dabei müssen nicht alle sechs Fähigkeitsmerkmale (Zeit, Geld, Anstrengung, Verständnis, Soziale Abweichung und Übung) berücksichtigt werden. Die Merkmale Zeit, Verständnis und soziale Abweichung sollen für diese Arbeit in Betracht gezogen werden. 
+\\
 \begin{figure}[h!]
 \begin{center}
 \includegraphics[scale = 0.4]{Bilder/Faehigkeitenfaktoren.eps}
@@ -461,7 +464,7 @@ Diese Fähigkeitsmerkmale sind ebenfalls in Abbildung \ref{FähigkeitsmerkmaleBi
 \end{center}
 \end{figure}
 \subsubsection{Fähigkeitsmerkmal Zeit}
-Zunächst soll das Fähigkeitsmerkmal Zeit untersucht werden. Hier gilt es zu prüfen, ob der Dokumentationsprozess nicht beschleunigt werden kann. Um den Dokumentationsprozess zu beschleunigen, ist es zunächst erforderlich dass der Prozess analysiert wird \cite{Hauptly2008}.
+Zunächst soll das Fähigkeitsmerkmal Zeit untersucht werden. Hier gilt es zu prüfen, ob der Dokumentationsprozess nicht beschleunigt werden kann. Um den Dokumentationsprozess zu beschleunigen, ist es zunächst erforderlich dass der Prozess analysiert wird \cite{Hauptly2008}.\\
 \begin{description}
    \item[\parbox{\textwidth}{Um den Dokumentationsprozess sachgemäß zu analysieren müssen die Folgenden Fragen beantwortet werden: \normalfont\vspace{0.5ex}}]~\par
    \begin{enumerate}
@@ -491,7 +494,7 @@ Durch diese Änderungen am Dokumentationsprozess, kann die Anteilnahme der Mitar
 \\\\
 Ein Beispiel für ein Reputation Based System wäre z.B \enquote{Stackoverflow}. Stackoverflow ist die möglicherweise Bekannteste Frage-Antwort Website der Welt. Ein wichtiger Punkt der zum Erfolg von Stackoverflow beiträgt ist das dort verwendete Reputation System. Die Community entscheidet über \textit{votes}, ob eine Antwort die auf eine Frage folgt hilfreich ist oder nicht. Dadurch werden je nach Anzahl der Votes für den Antwortsteller Punkte generiert. Und diese Punkte ermöglichen den Mitglieder von Stackoverflow im Level zu steigen und sich so ihren Ruf innerhalb der Community aufzubauen. Hierdurch werden die Mitglieder der Community engagiert und es wird immer die beste Antwort gefunden. Durch diesen simplen Ansatz, wird die Tätigkeit eine Frage zu beantworten zur lohnenden Erfahrung.
 
-\subsection{Der Auslöser eines Verhaltens}
+\subsubsection{Die Auslöser eines Verhaltens}
 Der Auslöser beschreibt im Verhaltensmodell das Auftreten einer bestimmten Situation, die dazu führt, dass das Verhalten gestartet wird, wenn genügend Motivation und ausreichend Fähigkeiten vorhanden sind (Verhaltensschwelle wird überschritten). Ist die Verhaltensschwelle in dem Moment in dem der Auslöser auftritt jedoch zu gering, wird das Verhalten nicht ausgelöst. Für den Dokumentationsprozess als unser gewünschtes Verhalten bedeutet es, das wir nach einer bestimmten Situation suchen müssen, die das Abspeichern von Information auslöst. Liegt ein betreffender Auslöser nicht vor oder kann er nicht eindeutig genug identifiziert werden, muss man alternativ einen Auslöser selbst designen.
 \\\\
 Bei den Auslösern ist zu beachten, dass es sie in zwei verschiedenen Formen gibt. So lassen sich \enquote{innerliche Auslöser}(internal Trigger) und \enquote{äußerliche Auslöser}(external Trigger) unterscheiden \cite{Eyal2014}.
@@ -504,11 +507,11 @@ Die äußerlichen Auslöser sind daran zu erkennen, dass die Information die den
 \label{externaltriggerBild}
 \end{center}
 \end{figure}
-\\\\
+\\
 Bei den äußerlichen Auslösern handelt es sich z.b um verschieden Knöpfe in entweder digitaler oder mechanischer Form. Die Darstellung der Apps auf den Screens unsere Smartphones sind ebenfalls äußerliche Auslöser. Diese Auslöser erlauben es die folgende Aktivität (Video abspielen, E-mail lesen, Nachricht senden etc.) direkt zu starten. Diese Auslöser gibt es in verschiedensten Formen und sind klar verständlich und sehr intuitiv. Mit anderen Worten sie sind kinderleicht zu erkennen und zu bedienen\cite{Eyal2014}.
 \\\\
-Die innerlichen Auslöser beziehen sich nun mehr auf die menschliche Psychologie. Während die äußerlichen Auslöser sich durch technische Lösungen darstellen, sind die innerlichen Auslöser die aus dem inneren eines jeden Menschen kommen. Gemeint sind damit unter anderem, Emotionen, andere Menschen, spezielle Situationen, Orte oder gar Routinen (Abb.\ref{internalTriggerBild}). 
-\ref{internalTriggerBild}).
+Die innerlichen Auslöser beziehen sich nun mehr auf die menschliche Psychologie. Während die äußerlichen Auslöser sich durch technische Lösungen darstellen, sind die innerlichen Auslöser die aus dem inneren eines jeden Menschen kommen. Gemeint sind damit unter anderem, Emotionen, andere Menschen, spezielle Situationen, Orte oder gar Routinen (Abb.\ref{internalTriggerBild}).
+\\
 \begin{figure}[h!]
 \begin{center}
 \includegraphics[scale = 0.3]{Bilder/internalTrigger.eps}
@@ -516,7 +519,7 @@ Die innerlichen Auslöser beziehen sich nun mehr auf die menschliche Psychologie
 \label{internalTriggerBild}
 \end{center}
 \end{figure} 
-\\\\
+\\
 Die innerlichen Auslöser werden durch die mentale Haltung (Psychologie) des Menschen verursacht. Die Information, welche Handlung auf diese Art von Auslöser folgt, wird durch eine Assoziation des entsprechenden Person und seiner Erfahrungen gezogen. Erklären wir dies an ein paar Beispielen:
 \begin{enumerate}
       \item \textbf{Beispiel YouTube}: Eine Person fühlt sich gelangweilt (Langeweile als innerlicher Auslöser) also geht diese Person auf YouTube um sich ein Video anzusehen (Aktion). Durch den Auslöser wird die Person also verleitet, die Aktion durchzuführen. 
@@ -553,11 +556,11 @@ Um Gamification nicht falsch zu verstehen, ist es hilfreich zwischen \enquote{Ga
 \\\\
 Das Wort \enquote{Game} (Gaming) bezieht sich dahingegen auf Interaktionen bei denen es um Triumph oder Versagen geht. Diese Gaming-Interaktionen besitzen Regeln, Belohnungen, Feedback, sind Ziel orientiert und bauen auf Wettkampf auf \cite{Deterding2011}. Sie vermitteln Sieg oder Niederlage und das bewältigen oder scheitern einer Herausforderungen. Sportliche Interaktionen oder Videospiele fallen daher in diesen Bereich. 
 \\\\
-\enquote{There is a vast difference between games and play. Play is played for fun, but games are deadly serious and you do not play them to enjoy yourself}\cite{Baring2014}.
+\enquote{There is a vast difference between games and play. Play is played for fun, but games are deadly serious and you do not play them to enjoy yourself} \cite{Baring2014}.
 \\\\
 Wichtig ist diese Unterscheidung deswegen, um die Design Idee die hinter Gamification steckt zu verdeutlichen. Die Begriffe \textit{Playful}-Design und \textit{Gameful}-Design lassen sich durch die Unterscheidung zwischen Game und Play leichter näher bringen. So bezieht sich Gameful-Design auf den Gamification Ansatz, indem Prozesse oder Systeme mit zusätzlichen Regeln oder Mechaniken versehen werden. Diese Erweiterung kann Auswirkungen auf die Funktionalität der gamifizierten Anwendung haben. Wohin gegen Playful-Design sich auf das einbringen von Gimmicks oder Spielereien beschränkt, welche nichts an der Funktionalität einer Anwendung ändern. 
 \\\\
-Wenn man betrachten, dass es sich bei Gamification nicht um komplette Spiele, sondern nur um das Übertragen von Game-Design Elementen handelt, so lässt sich Gamification von \textit{Serious Games}, \textit{Spielzeug} und \textit{Playful Design} abgrenzen. Diese Unterscheidung ist in Abbildung \ref{PlayGameBild} genauer zu sehen. Bei Gamification geht es somit um das Spielen im Sinne von Games und den Einsatz von Teilen aus Spielen (bzw. Spielelementen), was es von Serious Games unterscheidet \cite{PlayGame2018}.
+Basierend auf dieser Einteilung (Abb.\ref{PlayGameBild}) lässt sich erkennen, dass die Gamification nicht die einzige Alternative ist, bei der die integration von Spielaspekten im Vordergrund stehen. So gibt es neben der Gamification die \textit{Serious Games} bei denen ein komplettes Spiel vorhanden ist, das aber mit ernsthaften Inhalten bestückt ist. Hinzukommen die sogenannten \textit{Pervasive Games} bei denen die Realität zum Spiel wird. Dabei ist zu beachten, dass all diese, und das davon herausgelöste Playful-Design, eng miteinander verwandt sind und es viele Überschneidungen gibt \cite{Deterding2011}.
 \begin{figure}[h!]
 \begin{center}
 \includegraphics[scale = 0.4]{Bilder/PlayGame.eps}
@@ -566,7 +569,8 @@ Wenn man betrachten, dass es sich bei Gamification nicht um komplette Spiele, so
 \end{center}
 \end{figure}
 \\\\
-Basierend auf dieser Einteilung (Abb.\ref{PlayGameBild}) lässt sich erkennen, dass die Gamification nicht die einzige Alternative ist, bei der die integration von Spielaspekten im Vordergrund stehen. So gibt es neben der Gamification die \textit{Serious Games} bei denen ein komplettes Spiel vorhanden ist, das aber mit ernsthaften Inhalten bestückt ist. Hinzukommen die sogenannten \textit{Pervasive Games} bei denen die Realität zum Spiel wird. Dabei ist zu beachten, dass all diese, und das davon herausgelöste Playful-Design, eng miteinander verwandt sind und es viele Überschneidungen gibt \cite{Deterding2011}.
+Wenn man betrachten, dass es sich bei Gamification nicht um komplette Spiele, sondern nur um das Übertragen von Game-Design Elementen handelt, so lässt sich Gamification von \textit{Serious Games}, \textit{Spielzeug} und \textit{Playful Design} abgrenzen. Diese Unterscheidung ist in Abbildung \ref{PlayGameBild} genauer zu sehen. Bei Gamification geht es somit um das Spielen im Sinne von Games und den Einsatz von Teilen aus Spielen (bzw. Spielelementen), was es von Serious Games unterscheidet \cite{PlayGame2018}.
+
 \subsubsection{Game-Design Elemente}
 In der Literatur zu Gamification und Game-Design finden sich zahlreiche Ansätze zur Definition von charakteristischen Elementen von Games und gamifizierten Anwendungen. Diese lassen sich in fünf verschiedene Abstraktionsebenen einteilen \cite{Deterding2011}.
 \\\\
@@ -588,12 +592,14 @@ Game-Design Grundsätze bilden die dritte Abstraktionsebene. Hierzu zählen die 
    \end{itemize}
 \end{description}
 Diese vier Bedürfnisse werden in den kommenden Seiten noch ausführlicher behandelt.
+\\\\
 \textbf{Abstarktionsebene 4: Game-Design Modelle}
 \\
 Auf einer weiteren Ebene, der vierten Abstraktionsebene, gibt es eine Reihe von Modellen die hier als \textit{Game-Design Modelle} beschrieben werden sollen. Sie versuchen Game-Designern bei der Implementierung von Spielen zu helfen. Basierend auf den Game-Design Grundsätzen, lässt sich mit ihnen der erfolgreiche Einsatz der Interface-Elemente und Game-Mechaniken begründen. Es handelt sich dabei um \enquote{Conceptual models of the components of games or game experience} \cite{Deterding2011}. Diese Modelle eignen sich ebenfalls für die Implementierung von Gamification Anwendungen weswegen die Modelle in den nächsten Abschnitten beschrieben werden.
 \\\\
 \textbf{Abstarktionsebene 5: Game-Design Methoden}\\
 Die letzte Ebene bilden die Game-Design Methoden. Dabei handelt es sich um Prozesse und Praktiken, welche aus der Spieleentwicklung bekannt sind. Sie kommen aus der Spieleentwicklung, scheinen aber auch teilweise bei der Implementierung von Gamification Anwendungen zu helfen \cite{GameElemente2018}.
+\\
 \begin{figure}[h!]
 \begin{center}
 \includegraphics[scale = 0.3]{Bilder/GameElemente.eps}
@@ -601,7 +607,7 @@ Die letzte Ebene bilden die Game-Design Methoden. Dabei handelt es sich um Proze
 \label{GameElementeBild}
 \end{center}
 \end{figure}
-\\\\
+\\
 Wie in Abb.\ref{GameElementeBild} zu erkennen ist, sind die oberen drei Abstraktionsebenen sichtbar für den Anwender, während die unteren beiden Ebenen nur für Entwickler zu erkennen sind. Der Kern eines soliden Game-Designs sind die Game-Design Grundsätze wie in Abb.\ref{GameElementeBild} dargestellt. Die Spiele-Mechanismen und die Interface-Elemente bauen auf diesen Grundsätzen auf und geben den Anwender ein entsprechendes \textit{Look and Feel} der Anwendung. Für die Entwickler von Gamification-Anwendungen sind jedoch alle Ebenen von Bedeutung und müssen wohl durchdacht und entwickelt sein \cite{GameElemente2018}. Da die Abstraktionsebenen Aufschluss über die Umsetzung einer Gamification-Anwendung geben, ist es wichtig diese Ebenen genauer zu betrachten. Deswegen wird auf alle Ebenen in weiteren Abschnitten eingegangen.
 
 \subsubsection{Game-Design Grundsätze}
@@ -690,7 +696,7 @@ Die \textit{Core Elements of the Gaming Experience} (CEGE) ist ein umfassendes M
 \\\\
 Puppenspiel ist die Interaktion des Spielers mit dem Videospiel und besteht aus drei latenten Variablen: \textit{Kontrolle} (Control), \textit{Eigentum} (Ownership) und \textit{Moderatoren} (Facilitators). \textit{Kontrolle} ist einfach \enquote{Kontrolle} über das Spiel, indem man lernt, wie man Dinge innerhalb des Spiels benutzt und manipuliert. Diese Kontrolle besteht aus drei beobachtbaren Faktoren: \textit{kleine Aktionen} (grundlegende Aktionen, die der Spieler im Spiel ausführen kann), \textit{Ziel} (Hauptziel des Spiels) und \textit{something-to-do} (der Spieler muss das Gefühl haben, dass es im Spiel immer etwas zu tun gibt) \cite{CEGE2016}. 
 \\\\
-\textit{Eigentum} ist, wenn der Spieler seine Aktion im Spiel als seine eigene ausführt und letztendlich durch das Spiel für diese belohnt wird. Das Eigentum setzt sich aus vier beobachtbaren Faktoren zusammen: \textit{große Aktionen} (Strategien, die vom Spieler verwendet werden, die aus vielen kleinen Aktionen bestehen), \textit{you-but-not-you} (der Spieler kann an Aktionen teilnehmen, die er nicht unbedingt im wirklichen Leben machen würde), \textit{persönliche Ziele} (etwas, das nicht wichtig ist, um das Spiel zu gewinnen, aber eine Aktion, die aus einem persönlichen Grund abgeschlossen wurde) und \textit{Belohnung} (das Spiel muss dem Spieler Belohnungen bieten). 
+\textit{Eigentum} (Ownership) ist, wenn der Spieler seine Aktion im Spiel als seine eigene ausführt und letztendlich durch das Spiel für diese belohnt wird. Das Eigentum setzt sich aus vier beobachtbaren Faktoren zusammen: \textit{große Aktionen} (Strategien, die vom Spieler verwendet werden, die aus vielen kleinen Aktionen bestehen), \textit{you-but-not-you} (der Spieler kann an Aktionen teilnehmen, die er nicht unbedingt im wirklichen Leben machen würde), \textit{persönliche Ziele} (etwas, das nicht wichtig ist, um das Spiel zu gewinnen, aber eine Aktion, die aus einem persönlichen Grund abgeschlossen wurde) und \textit{Belohnung} (das Spiel muss dem Spieler Belohnungen bieten). 
 \\\\
 Schließlich sind \textit{Moderatoren} (Facilitators) externe Faktoren, die den Interaktionsprozess zwischen einem Videospiel und dem Benutzer beeinflussen können. Diese Moderatoren bestehen aus drei beobachtbaren Faktoren: \textit{Ästhetik} (wie das Spiel für den Spieler aussieht), \textit{Zeit} (die Zeit, die der Spieler bereit ist, dem Spiel zu widmen) und \textit{frühere Erfahrung} (frühere Erfahrungen des Spielers können beeinflussen, wie lange er bereit ist, zu spielen und Aktionen, die er im Spiel ausführen wird). Letztendlich werden die beobachtbaren Variablen in die \textit{Umbrella-Variablen} (z.B. Gameplay und Umgebung) eingeordnet, und wenn diese Umbrella-Variablen von Videospiel und Puppenspiel erfüllt sind, wird eine positive User Experience gewonnen 
 \cite{CEGE2016}.
@@ -709,12 +715,12 @@ Die Core Elements of the Gaming Experience (CEGE) sind die Notwendigen aber nich
 Das Konzept der \textit{Skill Atoms} (Fähigkeiten Atome) stammt aus den fortlaufenden
 Bemühung im Spieldesign, eine Formalisierung der zentralen Bausteine von Spielen zu erreichen. Dadurch sollte eine praktisch nutzbare \enquote{Grammatik} oder \enquote{Unified Modeling Language} gebildet werden. Beim Modell der Skill Atoms handelt es sich dabei um den Versuch, die im Spiel vorhandenen Komponenten in ihre kleinsten möglichen Teile zu zerlegen (deswegen auch Atom). Die Literatur lässt vermuten das es sich bei Spielen (Games) um verschachtelte, mit sich selbst verbundene Systeme von Systemen handelt. Diese wiederum enthalten laut Deterding \textit{Skill Atoms}, \textit{Game Atoms} und \textit{Ludemes}. Diese drei Systeme sind die kleinsten in sich geschlossenen Systeme die nicht weiter aufgeteilt werden können, ohne ihre \enquote{Spielhaftigkeit} zu verlieren \cite{Deterding2013}.
 \\\\
-Ein Skill Atom beschreibt eine Feedback-Schleife zwischen einem Spieler (Player) und einem Spiel (Game), das um eine zentrale Herausforderung herum organisiert ist. Um die Herausforderung zu überwinden, muss der Spieler sich die dafür entsprechenden Fähigkeiten (Skills) aneignen \cite{SkillAtoms2006}.
+Ein Skill Atom beschreibt eine Feedback-Schleife zwischen einem Spieler (Player) und einem Spiel (Game), das um eine zentrale Herausforderung (Challenge) herum organisiert ist. Um die Herausforderung zu überwinden, muss der Spieler sich die dafür entsprechenden Fähigkeiten (Skills) aneignen \cite{SkillAtoms2006}.
 \\\\
 \enquote{A player takes an action, which forms an input into the game’s rule system, whose results gets put out as feedback to the player, which the player integrates into her understanding of the game} \cite{Deterding2013}.
 \\\\
-Durch das mehrmalige durchlaufen dieser Feedback-Schleife werden dem Spieler die Fähigkeiten näher gebracht, die er benötigt um das Spiel zu spielen. Ein Skill Atom besteht also aus den einzelnen Teilen: \textit{Ziel}(Goal), \textit{Aktion} (action), \textit{Token}, \textit{Feedback}, ein \textit{Regelsystem}, einer \textit{Herausforderung} (challenge) und den \textit{Fähigkeiten des Anwenders} (model,skill oder Verständnis des Systems) dargestellt in Abbildung \ref{SkillAtomBild}.    
-\\\\
+Durch das mehrmalige durchlaufen dieser Feedback-Schleife werden dem Spieler die Fähigkeiten vermittelt, die er benötigt um das Spiel zu spielen. Ein Skill Atom besteht also aus den einzelnen Teilen: \textit{Ziel}(Goal), \textit{Aktion} (action), \textit{Token}, \textit{Feedback}, ein \textit{Regelsystem}, einer \textit{Herausforderung} (Challenge) und den \textit{Fähigkeiten des Anwenders} (model,skill oder Verständnis des Systems) dargestellt in Abbildung \ref{SkillAtomBild}.    
+\\
 \begin{figure}[h!]
 \begin{center}
 \includegraphics[scale = 0.6]{Bilder/SkillAtoms.eps}
@@ -725,7 +731,7 @@ Durch das mehrmalige durchlaufen dieser Feedback-Schleife werden dem Spieler die
 \begin{description}
    \item[Die einzelnen Komponenten eines Skill Atoms erklärt:]~\par
    \begin{itemize}
-      \item \textbf{Ziel}: Ziele artikulieren einen bestimmten Spielzustand den der Spielers erreichen will. 
+      \item \textbf{Ziel}: Ziele artikulieren einen bestimmten Spielzustand den der Spieler erreichen will. 
       \item \textbf{Aktionen}: Was ein Spieler umsetzen kann um sein Ziel zu erreichen.
       \item \textbf{Tokens}: Einheiten auf denen der Spieler seine Aktionen ausführt.
       \item \textbf{Regeln}: Algorithmen die bestimmen, wie sich die Aktionen des Spielers auf den Spielzustand auswirken.
@@ -737,9 +743,9 @@ Durch das mehrmalige durchlaufen dieser Feedback-Schleife werden dem Spieler die
 \textbf{3.Modell: MDA-Modell}\\
 Das \textit{MDA-Modell} ist ein formeller Ansatz um Spiele zu verstehen. Dieser Ansatz versucht, die Lücke zwischen Spieldesign und -entwicklung, Spiel Kritik und technische Spielforschung zu schließen. Das MDA-Framework formalisiert den Konsum von Spielen, indem man sie in ihre verschiedenen Komponenten zerlegt wie \textit{Regeln}, \textit{Systeme} und \textit{\enquote{Spaß}} und ihre Design-Gegenstücke etabliert, wie \textit{Mechaniken}, \textit{Dynamiken} und \textit{Ästhetik} \cite{Hunicke2004}.
 \\\\
-Die \textit{Mechanik} beschreibt die einzelnen Komponenten des Spiels, auf der Ebene der Datenrepräsentation und Algorithmen. Die \textit{Dynamiken} beschreiben das Laufzeitverhalten der Mechaniken,  die auf die Eingaben des Spielers und gegenseitige Ausgaben im laufe der Zeit reagieren. Zum Schluss gibt es die \textit{Ästhetik} die beschreibt, wie die emotionalen Reaktionen die beim Spieler hervorgerufen werden sollen, auszusehen haben.
+Die \textit{Mechanik} beschreibt die einzelnen Komponenten des Spiels, auf der Ebene der Datenrepräsentation und Algorithmen. Die \textit{Dynamiken} beschreiben das Laufzeitverhalten der Mechaniken, die auf die Eingaben des Spielers und gegenseitige Ausgaben im laufe der Zeit reagieren. Zum Schluss gibt es die \textit{Ästhetik} die beschreibt, wie die emotionalen Reaktionen die beim Spieler hervorgerufen werden sollen, auszusehen haben.
 \\\\
-Grundlegend für diesen Framework ist der Gedanke, dass Spiele eher Artefakte als Medien sind. Jede Komponente (Mechanik, Dynamik, Ästhetik) kann als seine eigene Sicht (View) verstanden werden. Aus der Sicht des Designers ergeben sich aus den \textit{Mechaniken} \textit{dynamische} Systemverhalten, dieses Verhalten wiederum führt zur \textit{ästhetischer} Erfahrung. Aus der Perspektive des Spielers, gibt \textit{Ästhetik} den Ton an, der aus beobachtbaren \textit{Dynamiken} und ausführbaren \textit{Mechaniken} besteht (Abb.\ref{MDAModelBild}). 
+Grundlegend für diesen Framework ist der Gedanke, dass Spiele eher Artefakte als Medien sind. Jede Komponente (Mechanik, Dynamik, Ästhetik) kann als seine eigene Sicht (View) verstanden werden. Aus der Sicht des Designers ergeben sich aus den \textit{Mechaniken} \textit{dynamische} Systemverhalten, dieses Verhalten wiederum führt zur \textit{ästhetischer} Erfahrung. Aus der Perspektive des Spielers, wird die \textit{Ästhetik} zuerst wahrgenommen, diese besteht aus beobachtbaren \textit{Dynamiken} und ausführbaren \textit{Mechaniken} (Abb.\ref{MDAModelBild}). 
 \begin{figure}[h!]
 \begin{center}
 \includegraphics[scale = 1.0]{Bilder/MDAModel.eps}
@@ -747,10 +753,10 @@ Grundlegend für diesen Framework ist der Gedanke, dass Spiele eher Artefakte al
 \label{MDAModelBild}
 \end{center}
 \end{figure}
+\\
+Die \textit{Ästhetik} eines Spiels wird beim MDA-Modell in 8 verschiedene Kategorien unterteilt. Diese wären \textit{Empfindung}, wie fühlt sich das Spiel an. \textit{Fantasie}, das Spiel als \enquote{Make-Believe}. \textit{Narrativ}, das Spiel als Erzählung wo die Geschichte im Vordergrund steht. \textit{Herausforderung}, das Spiel als Hindernisparcour. \textit{Kameradschaft}, das Spiel als soziales Framework. \textit{Entdeckung}, das Spiel als Innovation oder Neuland.\textit{Ausdruck}, das Spiel als Selbsterkennung. \textit{Submission}, das Spiel als purer Zeitvertreib.
 \\\\
-Die \textit{Ästhetik} eines Spiels wird beim MDA Modell in 8 verschiedene Kategorien unterteilt. Diese wären \textit{Empfindung}, wie fühlt sich das Spiel an. \textit{Fantasie}, das Spiel als \enquote{Make-Believe}. \textit{Narrativ}, das Spiel als Erzählung wo die Geschichte im Vordergrund steht. \textit{Herausforderung}, das Spiel als Hindernisparcour. \textit{Kameradschaft}, das Spiel als soziales Framework. \textit{Entdeckung}, das Spiel als Innovation oder Neuland.\textit{Ausdruck}, das Spiel als Selbsterkennung. \textit{Submission}, das Spiel als purer Zeitvertreib.
-\\\\
-Aus diesen 8 Gefühlsebenen lässt sich nun die Ästhetik eines Spieles eingruppieren. Dadurch kann man fehlende Elemente leichter identifizieren und in das Design einbringen. Ein Spiel verfügt meistens über mehr als nur eine dieser Kategorien und kann dadurch sehr flexible und frei gestaltet werden.
+Aus diesen 8 Gefühlsebenen lässt sich nun die Ästhetik eines Spieles eingruppieren. Dadurch kann man fehlende Elemente leichter identifizieren und in das Design einbringen. Ein Spiel verfügt meistens über mehr als nur eine dieser Kategorien und kann dadurch sehr flexible und frei gestaltet werden \cite{Hunicke2004}.
 \\\\
 Mit den \textit{Dynamiken} versucht man nun dieses ästhetische Erlebnis zu schaffen. Will man z.B ein Spiel mit einer entsprechenden \textit{Herausforderung} versehen, so können Dynamiken wie z.B Mehrspieler oder Rätsel eingesetzt werden. Die \textit{Kameradschaft} kann hingegen durch Spieldynamiken wie das bilden von Teams ermöglicht werden. Durch das Verknüpfen von Ästhetik und Dynamik lassen sich so Design-Fallen vermeiden.
 \\\\
@@ -762,7 +768,73 @@ Als \textit{Mechaniken} können nun die verschiedenen \textit{Aktionen}, \textit
 \label{MDABild}
 \end{center}
 \end{figure}
+\subsubsection{Game-Design Methodik: Player-Centric Design}
+Die Game-Design Methodiken brechen die Schritte zum entwickeln einer Gamification-Anwendung auf und ordnen diese in logischer Reihenfolge. Die Methodiken helfen den Entwicklern, sich beim Design auf das erreichen von Anwenderzielen (Anwender können auch als Spieler der Anwendung gesehen werden) zu konzentrieren und reduzieren sowohl Zeit als auch Risiken beim entwickeln einer solchen Anwendung \cite{gamificationDefinition}.
 \\\\
+Die \textit{Player-Centric Design} Methode gibt den Entwickler nun ein nützliches Werkzeug an die Hand, um ihn beim Design der \textit{Player Experience} (Spielererlebnis) zu unterstützen und mögliche Design-Fallen zu vermeiden. Die Player Experience soll in diesem Zusammenhang als primäres Ziel des Design-Prozesses verstanden werden. Es geht in erster Linie darum, eine Erfahrung oder ein Erlebnis für den Anwender bzw. Spieler zu entwickeln. Erfahrungen sind jedoch schwierig zu designen da es sich bei ihnen um persönliche Auseinandersetzungen handelt die über einen längeren Zeitraum auftreten. Unsere Erfahrungen wirken sich dabei stark auf unsere Wahrnehmung, auf unsere Art Wissen zu verarbeiten und auf unser Handeln aus \cite{gamificationDefinition}.
+\\\\ 
+Im Buch \enquote{Gamify} von Brian Burke wird beschrieben, dass die Player Experience als eine \textit{Reise} (Player Journey) umgesetzt werden soll. Diese Player Journey findet dabei in einem Spielraum (Play Space) statt, welche sich sowohl in der realen- als auch in der virtuellen Welt befinden kann \cite{gamificationDefinition}. Burke unterscheidet dabei auch zwischen technischen Design, das zwar wichtig ist, aber bei Player-Centric Design nicht im Mittelpunkt steht und dem Experience Design. Das Experience Design unterscheidet sich von herkömmlichen Software Design Methodiken, da laut Burke andere Fähigkeiten für den Experience Design Prozess benötigt werden. Zu diesen zählen unter anderem das \textit{Design Thinking}, \textit{Verhaltenswissenschaften} und \textit{emergente Systeme} \cite{gamificationDefinition}.
+\\\\
+Was für Gamification Anwendungen benötigt wird ist ein Entdeckungsprozess. Hierbei gilt es die zugrundeliegenden und manchmal versteckten Bedürfnisse der Anwender zu erkennen, um diese als Grundlage für einen Lösungsansatzes zu nutzen. Hierfür kann \textit{Design Thinking} genutzt werden. Design Thinking ist ein menschenzentrierter Ansatz (Human-centered Approach) der die Bedürfnisse des Anwenders in den Mittelpunkt des Design-Prozesses stellt. Design Thinking stützt sich auf menschliche Fähigkeiten wie \textit{Intuition}, \textit{Mustererkennung}, \textit{das konstruieren von Ideen die sowohl emotional bedeutend, als auch funktional sind} und unsere Gabe uns \textit{jenseits von Worten oder Symbolen auszudrücken}.
+\\\\
+Der \textit{Player Experience Design Prozess} kann in sieben Schritte eingeteilt werden. Diese Prozessschritte sollen seperat betrachtet und untersucht werden. Über diese Schritte soll nun die Player Experience geschaffen werden.
+\begin{description}
+   \item[Schritte des Player Experience Design Prozess:]~\par
+   \begin{enumerate}
+      \item \textbf{Geschäftsergebnisse und Erfolgsmetriken}
+      \item \textbf{Zielgruppe}
+      \item \textbf{Spielerziele}
+      \item \textbf{Engagement Modell}
+      \item \textbf{Spielraum und Reise}
+      \item \textbf{Spiel Ökonomie}
+      \item \textbf{Testen und Iteration}
+   \end{enumerate}
+\end{description}
+
+\subsubsection{Spiele-Mechaniken}
+Die Spiele-Mechaniken sind die im Spiel enthaltenen Aktionen die eine Reaktion des Systems auslösen. Der Game-Designer Daniel Cook beschreibt sie als:
+\\\\
+\enquote{Game mechanics are rule based systems / simulations that facilitate and encourage a user to explore and learn the properties of their possibility space through the use of feedback mechanisms} \cite{GameMechanics2006}. 
+\\\\
+Die Game-Mechaniken können dabei auf verschiedenen Ebenen auftreten. Auf der untersten Ebene, beschreiben sie anhand mathematischer Modelle, wie sie in der ökonomischen Spieltheorie bekannt sind, die grundlegenden Prinzipien eines Spiels \cite{Schell2014}. Auf einer höheren Ebene beschreiben sie komplexe Tätigkeiten und Herausforderungen der Spieler in einem Spiel.
+\\\\
+Neben den menschlichen Motivation in verschiedene Gruppen (intrinsisch, extrinsich Motivation; Kompetenz, Autonomie, soziale Eingebundenheit; usw.), definiert Reiss sechzehn grundlegende, menschliche Motive in einem Modell, basierend auf mehreren wissenschaftlichen Studien \cite{Reiss2009}.
+\\\\
+Zichermann und Cunningham \cite{Zichermann2011} haben zwölf, nach ihrer Ansicht, wesentliche Mechanismen von Reiss \cite{Reiss2009}, Schell \cite{Schell2014} und weiteren Quellen extrahiert, die sich sehr gut für das Übertragen auf Nicht-Spielsituationen eignen. Da diese einen kurzen, aber dennoch sehr guten Überblick geben, wurden sie in der folgenden Aufzählung mit einer Zusammenfassung der Erläuterungen und Beispiele von Zichermann und Cunningham  aufgeführt. Es ist anzumerken, dass sich in all diesen Mechanismen Möglichkeiten finden lassen, mindestens eines der Grundbedürfnisse nach Kompetenz, Autonomie, sozialer Eingebundenheit und Zweck zu befriedigen.     
+\begin{description}
+   \item[Aufzählung der zwölf Spiele-Mechanismen nach \cite{Zichermann2011}:]~\par
+   \begin{enumerate}
+      \item \textbf{Mustererkennung:} Suchen und erkennen von Mustern und Strategien in einem komplexen Sachverhalt und das lösen von Rätseln. Kann als Herausforderung dienen.
+      \item \textbf{Sammeln:} Sammeln von Gegenständen, Auszeichnungen, Wissen um daraus etwas zu lernen, als Satussymbol, zum Handeln, zur Erinnerung, wegen der Seltenheit. Kurz gesagt der Sammeltrieb der Menschen.
+      \item \textbf{Überraschung und unerwartetes erfreuen:} Unerwartete Überraschungen, Gewinneund Auszeichnungen. Es können auch ungewohnte Objekte an ungewohnte Orten sein oder unerwartete Zusammenhänge. Durchbricht Monotonie und erzeugt plötzliche Freude. 
+      \item \textbf{Organisieren und Ordnung schaffen:} Viele Menschen mögen es etwas zu ordnen, eigene Strukturen zu entwerfen und sich über das Ergebnis zu freuen. Hierzu gehört Ordnen unter Zeitdruck, Ordnen nach optimaler Strategie bzw. nach einem Muster oder ordnen nach Symmetrie.
+      \item \textbf{Schenken:} Geschenke als Zeichen der Verbundenheit. Haben besonders in sozialen Netzwerken Bedeutung. Geschenke können Spieler zurück ins Spiel bringen, wenn sie länge nicht mehr aktiv waren. Zu beachten ist, dass Schenken in den Kulturen verschiedene Ausprägungen hat.
+      \item \textbf{Flirten und Romanzen:} Die Möglichkeit Small Talk mit anderen zu treiben und in einem gewissen Abstand zu flirten. Viele Onlinespiele und Communities profitieren davon, dass man neue Leute kennen lernen und auf sicherer Distanz flirten kann.
+      \item \textbf{Anerkennung für Leistungen:} Der am häufigsten eingesetzte Gamification Mechanismus. Regt zwar alle Spielertypen an, am besten jedoch die welche auf Anerkennung aus sind (Achievers). Speziell im sozialen Kontext sind öffentliche Achievements für Spieler erstrebenswert um sich zu profilieren.
+      \item \textbf{Führen von Anderen:} Gruppen organisieren und andere anleiten. Einsatz in Team- und Kooperations-Spielen, bei denen man gemeinsam handeln muss um ein Ziel zu erreichen. Bis hin zu Aufgaben die nur in Zusammenarbeit vieler erbracht werden können. Hat unterschiedliche Effekte auf Spieler.  
+      \item \textbf{Ruhm und Aufmerksamkeit:} Das Präsentieren von eigenen Erfolgen bzw. des eigenen Fortschritts gegenüber anderen. Die empfundene Berühmtheit hängt von der Anzahl von Fans oder Followers bzw. Befürworter ab.
+      \item \textbf{\enquote{Sei der Held}:} Einen Helden zu spielen bedeutet das man in eine besondere Rolle schlüpft. Speziell beim Helden geht es darum, eine Reihe von risikoreichen Herausforderungen zu meistern um ein Ziel zu erreichen. Heroismus kann stellvertretend für Altruismus (Slebstlosigkeit) stehen und kann zu sozialen Enggagement führen.
+      \item \textbf{Status erhalten:} Das Erringen eines Status, um zu verstehen wie wir selbst zu anderen und der Umwelt stehen. Kann in Einzelszenarien funktionieren, ist aber effektiver in wettbewerbsorientierten, öffentlichen Umgebungen. Der Mechanismus setzt auf Badges (Auszeichnungen), Trophäen, Levels, seltene und limitierte Gegenstände sowie eingeschränkter Zugriff als Symbol für den Status.
+      \item \textbf{Aufziehen, wachsen:} Sich um etwas kümmern oder pflegen. Kann auf verschiedenste Weise erfolgen. Das Pflegen eines Unternehmens oder einer Stadt, eines virtuellen Tiers, ein Team von Mitarbeitern die beschäftigt, diszipliniert und geleitet werden müssen. Kann sehr hilfreich sein um wiederkehrende Besuche auf einer Online-Plattform zu erhalten.
+   \end{enumerate}
+\end{description}
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
 
 
 
