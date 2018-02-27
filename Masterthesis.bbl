@@ -222,16 +222,16 @@ Jesse Schell.
 \newblock {\em The Art of Game Design: A book of lenses}.
 \newblock CRC Press, 2014.
 
+\bibitem{Zichermann2011}
+Gabe Zichermann and Christopher Cunningham.
+\newblock {\em Gamification by design: Implementing game mechanics in web and
+  mobile apps}.
+\newblock O'Reilly Media, Inc., 2011.
+
 \bibitem{Reiss2009}
 Steven Reiss.
 \newblock {\em Das Reiss Profile: die 16 Lebensmotive; welche Werte und
   Bed{\"u}rfnisse unserem Verhalten zugrunde liegen}.
 \newblock GABAL Verlag GmbH, 2009.
-
-\bibitem{Zichermann2011}
-Gabe Zichermann and Christopher Cunningham.
-\newblock {\em Gamification by design: Implementing game mechanics in web and
-  mobile apps}.
-\newblock " O'Reilly Media, Inc.", 2011.
 
 \end{thebibliography}

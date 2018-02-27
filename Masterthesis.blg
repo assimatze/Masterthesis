@@ -19,7 +19,7 @@ Warning--empty journal in Cege2009
 Warning--can't use both volume and number fields in Hunicke2004
 You've used 40 entries,
             1791 wiz_defined-function locations,
-            671 strings with 9249 characters,
+            670 strings with 9226 characters,
 and the built_in function-call counts, 6934 in all, are:
 = -- 621
 > -- 208

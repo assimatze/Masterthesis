@@ -546,7 +546,9 @@ Diese Anforderungen werden an dieser Stelle nochmal zusammengefasst.
 Auf diese drei Anforderungen kann in den kommenden Kapiteln der Fokus gesetzt werden. Nun müssen die entsprechenden Gamification Elemente herausgearbeitet werden, mit denen sich diese Anforderungen umsetzten lassen.    
 
 \section{Gamification}
-Nach Deterding beschreibt Gamification ein Design-Konzept der HCI (Human-Computer-Interaction) \cite{Deterding2011}. Bei der Entwicklung von gamifizierten IT-Anwendungen überträgt man aus dem Game-Design bekannte Design-Elemente, Prinzipien und Mechanismen auf einen vorhandenen oder angedachten Prozess. Das Ziel ist es, Anwender bei diesem Prozess zusätzlich zu engagieren und zu motivieren. Anstelle eines vollwertigen Spiels, werden bei der Entwicklung jedoch nur auf Design-Elemente, welche aus der Spielentwicklung bekannt sind, gesetzt. Der gamifizierte Prozess wird also nicht zu einem Spiel, sondern erhält lediglich zusätzliche Komponenten. Dabei reicht es aber nicht aus, die Gamification Elemente einfach willkürlich an irgendwelche Schritte des Prozesses zu integrieren. Viel mehr geht es darum, den Prozess umzustrukturieren. Dies beinhaltet unter anderem, ihn einfacher und unkomplizierter zu gestalten und Elemente zu integrieren die Anwender dazu verleiten, nicht nur ihre Arbeit zu erledigen, sondern auch extra Anstrengungen in kauf zunehmen. Hierfür muss der zu gamifizierende Prozess komplett neu Überdacht werden. So muss der Prozess z.B einem Anwender \textit{Relevanz}, \textit{Herausforderung} und \textit{Autonomie} spüren lassen. Dadurch wird aus dem Prozess eine positive Erfahrung für den Anwender, die ihn dazu verleiten kann, produktiver und effizienter zu arbeiten.
+Nach Deterding beschreibt Gamification ein Design-Konzept der HCI (Human-Computer-Interaction) \cite{Deterding2011}. Bei der Entwicklung von gamifizierten IT-Anwendungen überträgt man aus dem Game-Design bekannte Design-Elemente, Prinzipien und Mechanismen auf einen vorhandenen oder angedachten Prozess. Das Ziel ist es, Anwender bei diesem Prozess zusätzlich zu engagieren und zu motivieren. Anstelle eines vollwertigen Spiels, werden bei der Entwicklung jedoch nur auf Design-Elemente, welche aus der Spielentwicklung bekannt sind, gesetzt. 
+\\\\
+Der gamifizierte Prozess wird also nicht zu einem Spiel, sondern erhält lediglich zusätzliche Komponenten. Dabei reicht es aber nicht aus, die Gamification Elemente einfach willkürlich an irgendwelche Schritte des Prozesses zu integrieren. Viel mehr geht es darum, den Prozess umzustrukturieren. Dies beinhaltet unter anderem, ihn einfacher und unkomplizierter zu gestalten und Elemente zu integrieren die Anwender dazu verleiten, nicht nur ihre Arbeit zu erledigen, sondern auch extra Anstrengungen in kauf zunehmen. Hierfür muss der zu gamifizierende Prozess komplett neu Überdacht werden. So muss der Prozess z.B einem Anwender \textit{Relevanz}, \textit{Herausforderung} und \textit{Autonomie} spüren lassen. Dadurch wird aus dem Prozess eine positive Erfahrung für den Anwender, die ihn dazu verleiten kann, produktiver und effizienter zu arbeiten.
 
 \subsection{Grundlagen der Gamification}
 In diesem Abschnitt sollen die Grundlagen zur Gamification geklärt werden. Zu den Grundlagen zählt der Unterschied zwischen einem Spiel und einer Gamification-Anwendung, den verschiedenen Abstraktionsebenen die aus dem Game-Design bereits bekannt sind und sich ebenfalls in der Gamification bewährt haben. Sowie den Game-Design Grundsätzen den bekannten Modellen und den verschiedenen Mechaniken. 
@@ -768,56 +770,86 @@ Als \textit{Mechaniken} können nun die verschiedenen \textit{Aktionen}, \textit
 \label{MDABild}
 \end{center}
 \end{figure}
-\subsubsection{Game-Design Methodik: Player-Centric Design}
-Die Game-Design Methodiken brechen die Schritte zum entwickeln einer Gamification-Anwendung auf und ordnen diese in logischer Reihenfolge. Die Methodiken helfen den Entwicklern, sich beim Design auf das erreichen von Anwenderzielen (Anwender können auch als Spieler der Anwendung gesehen werden) zu konzentrieren und reduzieren sowohl Zeit als auch Risiken beim entwickeln einer solchen Anwendung \cite{gamificationDefinition}.
+\subsubsection{Game-Design Methode: Player-Centric Design}
+Die Game-Design Methode bricht die Schritte zum entwickeln einer Gamification-Anwendung auf und ordnet diese in logischer Reihenfolge. Die Methodik hilft den Entwicklern, sich beim Design auf das erreichen von Anwenderzielen (Anwender können auch als Spieler der Anwendung gesehen werden) zu konzentrieren und reduzieren sowohl Zeit als auch Risiken beim entwickeln einer solchen Anwendung \cite{gamificationDefinition}.
 \\\\
-Die \textit{Player-Centric Design} Methode gibt den Entwickler nun ein nützliches Werkzeug an die Hand, um ihn beim Design der \textit{Player Experience} (Spielererlebnis) zu unterstützen und mögliche Design-Fallen zu vermeiden. Die Player Experience soll in diesem Zusammenhang als primäres Ziel des Design-Prozesses verstanden werden. Es geht in erster Linie darum, eine Erfahrung oder ein Erlebnis für den Anwender bzw. Spieler zu entwickeln. Erfahrungen sind jedoch schwierig zu designen da es sich bei ihnen um persönliche Auseinandersetzungen handelt die über einen längeren Zeitraum auftreten. Unsere Erfahrungen wirken sich dabei stark auf unsere Wahrnehmung, auf unsere Art Wissen zu verarbeiten und auf unser Handeln aus \cite{gamificationDefinition}.
+Die \textit{Player-Centric Design} Methode gibt den Entwickler nun ein Werkzeug an die Hand, um ihn beim Design der \textit{Player Experience} (Spielererlebnis) zu unterstützen und mögliche Design-Fallen zu vermeiden. Die Player Experience soll in diesem Zusammenhang als primäres Ziel des Design-Prozesses verstanden werden. Es geht in erster Linie darum, eine Erfahrung oder ein Erlebnis für den Anwender bzw. Spieler zu entwickeln. Erfahrungen sind jedoch schwierig zu designen da es sich bei ihnen um persönliche Auseinandersetzungen handelt die über einen längeren Zeitraum auftreten. Unsere Erfahrungen wirken sich dabei stark auf unsere Wahrnehmung, auf unsere Art Wissen zu verarbeiten und auf unser Handeln aus \cite{gamificationDefinition}.
 \\\\ 
-Im Buch \enquote{Gamify} von Brian Burke wird beschrieben, dass die Player Experience als eine \textit{Reise} (Player Journey) umgesetzt werden soll. Diese Player Journey findet dabei in einem Spielraum (Play Space) statt, welche sich sowohl in der realen- als auch in der virtuellen Welt befinden kann \cite{gamificationDefinition}. Burke unterscheidet dabei auch zwischen technischen Design, das zwar wichtig ist, aber bei Player-Centric Design nicht im Mittelpunkt steht und dem Experience Design. Das Experience Design unterscheidet sich von herkömmlichen Software Design Methodiken, da laut Burke andere Fähigkeiten für den Experience Design Prozess benötigt werden. Zu diesen zählen unter anderem das \textit{Design Thinking}, \textit{Verhaltenswissenschaften} und \textit{emergente Systeme} \cite{gamificationDefinition}.
+Im Buch \enquote{Gamify} von Brian Burke wird beschrieben, dass die Player Experience als eine \textit{Reise} (Player Journey) zu verstehen ist. Diese Player Journey findet dabei in einem Spielraum (Play Space) statt, welche sich sowohl in der realen- als auch in der virtuellen Welt befinden kann \cite{gamificationDefinition}. Burke unterscheidet dabei auch zwischen technischen Design, das zwar wichtig ist, aber bei Player-Centric Design nicht im Mittelpunkt steht und dem Experience Design, also dem gezielten entwickeln eines Erlebnisses. Das Experience Design unterscheidet sich von herkömmlichen Software Design Methodiken, da laut Burke andere Fähigkeiten für den Experience Design Prozess benötigt werden. Zu diesen zählen unter anderem das \textit{Design Thinking}, \textit{Verhaltenswissenschaften} und \textit{emergente Systeme} \cite{gamificationDefinition}.
 \\\\
-Was für Gamification Anwendungen benötigt wird ist ein Entdeckungsprozess. Hierbei gilt es die zugrundeliegenden und manchmal versteckten Bedürfnisse der Anwender zu erkennen, um diese als Grundlage für einen Lösungsansatzes zu nutzen. Hierfür kann \textit{Design Thinking} genutzt werden. Design Thinking ist ein menschenzentrierter Ansatz (Human-centered Approach) der die Bedürfnisse des Anwenders in den Mittelpunkt des Design-Prozesses stellt. Design Thinking stützt sich auf menschliche Fähigkeiten wie \textit{Intuition}, \textit{Mustererkennung}, \textit{das konstruieren von Ideen die sowohl emotional bedeutend, als auch funktional sind} und unsere Gabe uns \textit{jenseits von Worten oder Symbolen auszudrücken}.
+Was für Gamification Anwendungen benötigt wird ist ein Entdeckungsprozess. Hierbei gilt es die zugrundeliegenden und manchmal versteckten Bedürfnisse der Anwender zu erkennen, um diese als Grundlage für einen Lösungsansatzes zu nutzen. Hierfür kann \textit{Design Thinking} genutzt werden. Design Thinking ist ein menschenzentrierter Ansatz (Human-centered Approach) der die Bedürfnisse des Anwenders in den Mittelpunkt des Design-Prozesses stellt. Design Thinking stützt sich auf menschliche Fähigkeiten wie \textit{Intuition}, \textit{Mustererkennung}, \textit{das konstruieren von Ideen die sowohl emotional bedeutend, als auch funktional sind} und unsere Gabe uns \textit{jenseits von Worten oder Symbolen auszudrücken}. Aus diesen Gründen eignet sich Design Thinking hervorragend für die Entwicklung von gamifizierten Lösungen.
 \\\\
 Der \textit{Player Experience Design Prozess} kann in sieben Schritte eingeteilt werden. Diese Prozessschritte sollen seperat betrachtet und untersucht werden. Über diese Schritte soll nun die Player Experience geschaffen werden.
 \begin{description}
    \item[Schritte des Player Experience Design Prozess:]~\par
    \begin{enumerate}
-      \item \textbf{Geschäftsergebnisse und Erfolgsmetriken}
-      \item \textbf{Zielgruppe}
-      \item \textbf{Spielerziele}
-      \item \textbf{Engagement Modell}
-      \item \textbf{Spielraum und Reise}
-      \item \textbf{Spiel Ökonomie}
-      \item \textbf{Testen und Iteration}
+      \item \textbf{Geschäftsergebnisse und Erfolgsmetriken identifizieren.}
+      \item \textbf{Zielgruppe bestimmen.}
+      \item \textbf{Spielerziele bestimmen, auswählen oder entwickeln.}
+      \item \textbf{Engagement Modell bilden.}
+      \item \textbf{Spielraum und Reise definieren.}
+      \item \textbf{Spiel Ökonomie gestalten.}
+      \item \textbf{Testen und Iteration.}
    \end{enumerate}
 \end{description}
 
-\subsubsection{Spiele-Mechaniken}
-Die Spiele-Mechaniken sind die im Spiel enthaltenen Aktionen die eine Reaktion des Systems auslösen. Der Game-Designer Daniel Cook beschreibt sie als:
+\subsubsection{Game-Design Spiele-Mechaniken}
+Die Spiele-Mechaniken (Game-Mechaniken) sind die aus Spielen bekannten Aktionen die eine Reaktion des Systems auslösen.  Sie bilden die zweite Abstraktionsebene der Game-Design Elemente und tragen mit den Interface-Elementen sowohl zur Dynamik als auch zur Ästhetik der gamifizierten Anwendung bei. Game-Designer Daniel Cook beschreibt sie als:
 \\\\
 \enquote{Game mechanics are rule based systems / simulations that facilitate and encourage a user to explore and learn the properties of their possibility space through the use of feedback mechanisms} \cite{GameMechanics2006}. 
 \\\\
 Die Game-Mechaniken können dabei auf verschiedenen Ebenen auftreten. Auf der untersten Ebene, beschreiben sie anhand mathematischer Modelle, wie sie in der ökonomischen Spieltheorie bekannt sind, die grundlegenden Prinzipien eines Spiels \cite{Schell2014}. Auf einer höheren Ebene beschreiben sie komplexe Tätigkeiten und Herausforderungen der Spieler in einem Spiel.
 \\\\
-Neben den menschlichen Motivation in verschiedene Gruppen (intrinsisch, extrinsich Motivation; Kompetenz, Autonomie, soziale Eingebundenheit; usw.), definiert Reiss sechzehn grundlegende, menschliche Motive in einem Modell, basierend auf mehreren wissenschaftlichen Studien \cite{Reiss2009}.
-\\\\
-Zichermann und Cunningham \cite{Zichermann2011} haben zwölf, nach ihrer Ansicht, wesentliche Mechanismen von Reiss \cite{Reiss2009}, Schell \cite{Schell2014} und weiteren Quellen extrahiert, die sich sehr gut für das Übertragen auf Nicht-Spielsituationen eignen. Da diese einen kurzen, aber dennoch sehr guten Überblick geben, wurden sie in der folgenden Aufzählung mit einer Zusammenfassung der Erläuterungen und Beispiele von Zichermann und Cunningham  aufgeführt. Es ist anzumerken, dass sich in all diesen Mechanismen Möglichkeiten finden lassen, mindestens eines der Grundbedürfnisse nach Kompetenz, Autonomie, sozialer Eingebundenheit und Zweck zu befriedigen.     
+Zichermann und Cunningham \cite{Zichermann2011} haben zwölf, nach ihrer Ansicht, wesentliche Mechanismen von Reiss \cite{Reiss2009}, Schell \cite{Schell2014} und weiteren Quellen extrahiert, die sich ihrer Meinung besonders gut für das Übertragen auf Nicht-Spielsituationen eignen. Da diese einen kurzen, aber dennoch sehr guten Überblick geben, wurden sie in der folgenden Aufzählung aufgeführt. Es ist anzumerken, dass sich in all diesen Mechanismen Möglichkeiten finden lassen, mindestens eines der Grundbedürfnisse nach Kompetenz, Autonomie, sozialer Eingebundenheit und Zweck zu befriedigen.     
 \begin{description}
    \item[Aufzählung der zwölf Spiele-Mechanismen nach \cite{Zichermann2011}:]~\par
    \begin{enumerate}
       \item \textbf{Mustererkennung:} Suchen und erkennen von Mustern und Strategien in einem komplexen Sachverhalt und das lösen von Rätseln. Kann als Herausforderung dienen.
-      \item \textbf{Sammeln:} Sammeln von Gegenständen, Auszeichnungen, Wissen um daraus etwas zu lernen, als Satussymbol, zum Handeln, zur Erinnerung, wegen der Seltenheit. Kurz gesagt der Sammeltrieb der Menschen.
-      \item \textbf{Überraschung und unerwartetes erfreuen:} Unerwartete Überraschungen, Gewinneund Auszeichnungen. Es können auch ungewohnte Objekte an ungewohnte Orten sein oder unerwartete Zusammenhänge. Durchbricht Monotonie und erzeugt plötzliche Freude. 
+      \item \textbf{Sammeln:} Sammeln von Gegenständen, Auszeichnungen, Wissen um daraus etwas zu lernen, als Satussymbol, zum Handeln, zur Erinnerung, wegen der Seltenheit. Hier wird der evolutionäre Sammeltrieb der Menschen angesprochen.
+      \item \textbf{Überraschung und unerwartetes erfreuen:} Unerwartete Überraschungen, Gewinne und Auszeichnungen. Es können auch ungewohnte Objekte an ungewohnten Orten sein oder unerwartete Zusammenhänge zwischen Objekten bestehen. Durchbricht Monotonie und erzeugt spontane Freude. 
       \item \textbf{Organisieren und Ordnung schaffen:} Viele Menschen mögen es etwas zu ordnen, eigene Strukturen zu entwerfen und sich über das Ergebnis zu freuen. Hierzu gehört Ordnen unter Zeitdruck, Ordnen nach optimaler Strategie bzw. nach einem Muster oder ordnen nach Symmetrie.
-      \item \textbf{Schenken:} Geschenke als Zeichen der Verbundenheit. Haben besonders in sozialen Netzwerken Bedeutung. Geschenke können Spieler zurück ins Spiel bringen, wenn sie länge nicht mehr aktiv waren. Zu beachten ist, dass Schenken in den Kulturen verschiedene Ausprägungen hat.
+      \item \textbf{Schenken:} Geschenke als Zeichen der Verbundenheit haben besonders in sozialen Netzwerken Bedeutung. Geschenke können Spieler zurück ins Spiel bringen, wenn sie länger nicht mehr aktiv waren. Zu beachten ist, dass Schenken in den verschiedenen Kulturen unterschiedliche Ausprägungen hat.
       \item \textbf{Flirten und Romanzen:} Die Möglichkeit Small Talk mit anderen zu treiben und in einem gewissen Abstand zu flirten. Viele Onlinespiele und Communities profitieren davon, dass man neue Leute kennen lernen und auf sicherer Distanz flirten kann.
-      \item \textbf{Anerkennung für Leistungen:} Der am häufigsten eingesetzte Gamification Mechanismus. Regt zwar alle Spielertypen an, am besten jedoch die welche auf Anerkennung aus sind (Achievers). Speziell im sozialen Kontext sind öffentliche Achievements für Spieler erstrebenswert um sich zu profilieren.
-      \item \textbf{Führen von Anderen:} Gruppen organisieren und andere anleiten. Einsatz in Team- und Kooperations-Spielen, bei denen man gemeinsam handeln muss um ein Ziel zu erreichen. Bis hin zu Aufgaben die nur in Zusammenarbeit vieler erbracht werden können. Hat unterschiedliche Effekte auf Spieler.  
-      \item \textbf{Ruhm und Aufmerksamkeit:} Das Präsentieren von eigenen Erfolgen bzw. des eigenen Fortschritts gegenüber anderen. Die empfundene Berühmtheit hängt von der Anzahl von Fans oder Followers bzw. Befürworter ab.
-      \item \textbf{\enquote{Sei der Held}:} Einen Helden zu spielen bedeutet das man in eine besondere Rolle schlüpft. Speziell beim Helden geht es darum, eine Reihe von risikoreichen Herausforderungen zu meistern um ein Ziel zu erreichen. Heroismus kann stellvertretend für Altruismus (Slebstlosigkeit) stehen und kann zu sozialen Enggagement führen.
-      \item \textbf{Status erhalten:} Das Erringen eines Status, um zu verstehen wie wir selbst zu anderen und der Umwelt stehen. Kann in Einzelszenarien funktionieren, ist aber effektiver in wettbewerbsorientierten, öffentlichen Umgebungen. Der Mechanismus setzt auf Badges (Auszeichnungen), Trophäen, Levels, seltene und limitierte Gegenstände sowie eingeschränkter Zugriff als Symbol für den Status.
-      \item \textbf{Aufziehen, wachsen:} Sich um etwas kümmern oder pflegen. Kann auf verschiedenste Weise erfolgen. Das Pflegen eines Unternehmens oder einer Stadt, eines virtuellen Tiers, ein Team von Mitarbeitern die beschäftigt, diszipliniert und geleitet werden müssen. Kann sehr hilfreich sein um wiederkehrende Besuche auf einer Online-Plattform zu erhalten.
+      \item \textbf{Anerkennung für Leistungen:} Der am häufigsten eingesetzte Gamification Mechanismus. Dieser Mechanismus spricht generell alle Spielertypen an, insbesondere aber den Spielertyp \textit{Achiever}. Speziell im sozialen Kontext sind öffentliche Erfolge (Achievements) für Spieler erstrebenswert um sich zu profilieren.
+      \item \textbf{Führen von Anderen:} Gruppen organisieren und andere anleiten. Einsatz in Team- und Kooperations-Spielen, bei denen man gemeinsam handeln muss, um ein Ziel zu erreichen. Außerdem können schwierige Aufgaben auch so ausgelegt werden, dass sie nur in Zusammenarbeit bewältigt werden können. Dieser Mechanismus kann sich unterschiedlich (positiv oder negativ) auf die Spieler auswirken.  
+      \item \textbf{Ruhm und Aufmerksamkeit:} Das Präsentieren von eigenen Erfolgen bzw. des eigenen Fortschritts gegenüber anderen. Die empfundene Berühmtheit hängt von der Anzahl von Fans oder Followers bzw. Befürwortern ab. Dieser Mechanismus befriedigt das Bedürfnis der sozialen Eingebundenheit und der Kompetenz.
+      \item \textbf{\enquote{Sei der Held}:} Einen Helden zu spielen bedeutet das man in eine besondere Rolle schlüpft. Speziell beim Helden geht es darum, eine Reihe von risikoreichen Herausforderungen zu meistern um ein Ziel zu erreichen. Heroismus kann stellvertretend für Altruismus (Selbstlosigkeit) stehen und kann zu sozialen Engagement führen. Bei diesem Mechanismus werden dem Spieler sinnvolle Tätigkeiten und bedeutende Entscheidungen zur Verfügung gestellt. Dadurch wird auch das Zweck-Bedürfnis befriedigt. 
+      \item \textbf{Status und Ansehen:} Das Erringen eines Status, um zu verstehen wie wir selbst zu anderen und der Umwelt stehen. Kann in einzelnen Szenarien funktionieren, ist aber effektiver in wettbewerbsorientierten, öffentlichen Umgebungen. Der Mechanismus setzt auf Badges (Auszeichnungen), Trophäen, Levels, seltene und limitierte Gegenstände sowie eingeschränkten Zugriff auf Optionen.
+      \item \textbf{Aufziehen bzw. Pflegen:} Das Aufziehen oder pflegen eines Objektes kann auf verschiedene Arten erfolgen. Das Pflegen eines Unternehmens oder einer Stadt, eines virtuellen Tiers, ein Team von Mitarbeitern die beschäftigt, diszipliniert und geleitet werden müssen. Kann sehr hilfreich sein um wiederkehrende Besuche auf einer Online-Plattform zu erhalten.
    \end{enumerate}
 \end{description}
+Diese zwölf Mechanismen sind natürlich nicht die einzigen die es gibt. Diese Aufzählung soll lediglich der Orientierung dienen und soll verdeutlichen, worauf es bei den verschiedenen Game-Mechanismen ankommt. Diese Auflistung zeigt sehr deutlich wie Spiele durch die verschiedenen Mechanismen zur Befriedigung unserer Bedürfnisse führen. Der Erfolg von Spielen kann also daraus geschlossen werden, dass die Mechanismen uns herausfordernde Aufgaben geben \cite{Mcgonigal2011}. Persönlicher Erfolg bei einer schweren Aufgabe führt zu starken positiven Emotionen durch biochemische Prozesse in unserem Gehirn und macht uns glücklich.
+\\\\
+\enquote{Fulfilling our need for better hard work-and helping us choose for ourselves the right work at the right time} \cite{Mcgonigal2011}. 
+\\\\
+Wie bereits erwähnt, beruht der langfristige Spielspaß an der Erfüllung dieser Aufgaben und auf dem Prinzip der Flow-Theorie \cite{Csikszentmihalyi2017}. Ein Spiel bzw. eine Gamification-Anwendung, welche eine gute Balance zwischen Schwierigkeit und Fähigkeiten schafft, kann starke intrinsische Motivation bewirken. Die Bewältigung dieser Aufgaben, gibt uns das Gefühl kompetent und erfolgreich zu sein \cite{Mcgonigal2011}\cite{Mayer2009}.
+\\\\
+Für die Gamification gilt jedoch, dass Game-Mechaniken nicht nur anhand ihrer Bedürfnisbefriedigung gewählt werden können, wie das bei Spielen der Fall ist. Bei Gamification müssen zusätzlich noch die Mechaniken auf den jeweiligen Kontext der Anwendung abgestimmt werden.  
+\\\\
+Neben der Motivation, die in verschiedene Gruppen eingeteilt werden kann, wie intrinsische Motivation und extrinsische Motivation, sowie den Grundbedürfnissen Kompetenz, Autonomie, soziale Eingebundenheit und Zweck, definiert Reiss sechzehn weitere \textit{grundlegende menschliche Motive} in einem Modell. Diese grundlegenden Motive hat Reiss aus mehreren wissenschaftlichen Studien zusammengetragen \cite{Reiss2009}. Diese Motive sollen an dieser Stelle ebenfalls eingehender betrachtet werden da die Mechanismen sich aus diesen Motiven ableiten lassen können.
+\begin{description}
+   \item[Grundlegende Motive nach \cite{Reiss2009}:]~\par
+   \begin{enumerate}
+      \item \textbf{Macht:} Bedürfnis danach, andere dem eigenen Willen zu unterwerfen.
+      \item \textbf{Neugier:} Bedürfnis nach Kognition.
+      \item \textbf{Unabhängigkeit:} Bedürfnis nach Autarkie.
+      \item \textbf{Ordnung:} Bedürfnis nach Struktur.
+      \item \textbf{Sparen:} Bedürfnis danach,[…] Güter zu sammeln.
+      \item \textbf{Ehre:} Bedürfnis danach, sich moralisch integer zu verhalten.
+      \item \textbf{Idealismus:} Bedürfnis nach sozialer Gerechtigkeit.
+      \item \textbf{Beziehung:} Bedürfnis nach Freundschaft.
+      \item \textbf{Familie:} Bedürfnis danach, Kinder großzuziehen.
+      \item \textbf{Rache:} Bedürnis danach, mit jemand abzurechnen.
+      \item \textbf{Eros:} Bedürfnis nach Sexualität.
+      \item \textbf{Körperliche Aktivität:} Bedürfnis danach, seine eigenen Muskeln zu bewegen.
+      \item \textbf{Ruhe:} Bedürfnis nach innerem Frieden.
+      \item \textbf{Essen:} Bedürfnis nach Nahrung.
+   \end{enumerate}
+\end{description}
+
+\subsubsection{Game-Design: Interface-Elemente}
+Der Game-Charakter in gamifizierten Anwendungen wird einem Anwender als erstes durch die Interface-Elemente bewusst. Interface-Elemente unterliegen und dienen einer oder mehreren Game-Mechaniken. Die Elemente werden als Feedback-System genutzt und sorgen so Emotionen beim Anwender aus. Dadurch sind die Interface-Elemente mit verantwortlich für Spielspaß und die Aufrechterhaltung der Motivation \cite{Mcgonigal2011}. Die Elemente bilden eine Wand zwischen Spieler und Game \cite{Schell2014} und sollten daher einige Nutzungsbedingungen erfüllen. So sollten die Elemente nutzungsorientiert (Usability), umfangreich, leicht verständlich und zielgerichtet eingesetzt werden \cite{Schell2014}. Des weiteren sollten die Elemente über eine angemessene Ästhetik und über einen entsprechenden Reiz verfügen. Sie geben einem Anwender Feedback in Form von Beurteilungen, Belohnungen, Instruktionen, Ermutigungen und Herausforderungen. Sie sind entscheidend für das empfinden des Anwenders und die Wirkungsweise der Game-Mechaniken. Da die Interface-Elemente viele Berührungspunkte mit dem Anwender aufweisen müssen die Elemente gut durchdacht und ihre Wirkung umfangreich getestet werden \cite{Schell2014}. 
+          
 
 
 
