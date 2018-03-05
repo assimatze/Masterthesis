@@ -33,21 +33,22 @@
 \contentsline {subsubsection}{\numberline {2.9.7}Die Ausl\IeC {\"o}ser eines Verhaltens}{26}{subsubsection.2.9.7}
 \contentsline {subsection}{\numberline {2.10}Zusammenfassung des Kapitels}{28}{subsection.2.10}
 \contentsline {section}{\numberline {3}Grundlagen der Gamification}{29}{section.3}
-\contentsline {subsection}{\numberline {3.1}Game vs. Play}{29}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Game-Design Elemente}{30}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Game-Design Grunds\IeC {\"a}tze}{33}{subsection.3.3}
-\contentsline {subsubsection}{\numberline {3.3.1}Kompetenz}{34}{subsubsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.2}Autonomie}{35}{subsubsection.3.3.2}
-\contentsline {subsubsection}{\numberline {3.3.3}Soziale Eingebundenheit}{37}{subsubsection.3.3.3}
-\contentsline {subsubsection}{\numberline {3.3.4}Zweck Bed\IeC {\"u}rfnis}{37}{subsubsection.3.3.4}
-\contentsline {subsection}{\numberline {3.4}Game-Design Modelle}{38}{subsection.3.4}
-\contentsline {subsubsection}{\numberline {3.4.1}Core Elements of the Gaming Experience-Modell}{38}{subsubsection.3.4.1}
-\contentsline {subsubsection}{\numberline {3.4.2}Skill Atom Modell}{39}{subsubsection.3.4.2}
-\contentsline {subsubsection}{\numberline {3.4.3}MDA-Modell}{41}{subsubsection.3.4.3}
+\contentsline {subsection}{\numberline {3.1}Game vs. Play}{30}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Game-Design Elemente}{31}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Game-Design: Grunds\IeC {\"a}tze}{33}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Das Kompetenz-Bed\IeC {\"u}rfnis}{34}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Das Autonomie-Bed\IeC {\"u}rfnis}{36}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Das Eingebundenheits-Bed\IeC {\"u}rfnis}{37}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.4}Das Zweck-Bed\IeC {\"u}rfnis}{38}{subsubsection.3.3.4}
+\contentsline {subsection}{\numberline {3.4}Game-Design: Modelle}{38}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Core Elements of the Gaming Experience-Modell}{39}{subsubsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.2}Skill Atom Modell}{40}{subsubsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.3}MDA-Modell}{42}{subsubsection.3.4.3}
 \contentsline {subsection}{\numberline {3.5}Game-Design Methode: Player-Centric Design}{43}{subsection.3.5}
-\contentsline {subsection}{\numberline {3.6}Game-Design Spiele-Mechaniken}{44}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.6}Game-Design: Spiele-Mechaniken}{44}{subsection.3.6}
 \contentsline {subsection}{\numberline {3.7}Game-Design: Interface-Elemente}{47}{subsection.3.7}
-\contentsline {subsubsection}{\numberline {3.7.1}Punkte und virtuelle W\IeC {\"a}hrung}{47}{subsubsection.3.7.1}
+\contentsline {subsubsection}{\numberline {3.7.1}Punkte und virtuelle W\IeC {\"a}hrung}{48}{subsubsection.3.7.1}
 \contentsline {subsubsection}{\numberline {3.7.2}Level}{49}{subsubsection.3.7.2}
 \contentsline {subsubsection}{\numberline {3.7.3}Ranglisten}{50}{subsubsection.3.7.3}
 \contentsline {subsubsection}{\numberline {3.7.4}Abzeichen und Troph\IeC {\"a}en}{51}{subsubsection.3.7.4}
+\contentsline {subsection}{\numberline {3.8}Zusammenfassung}{52}{subsection.3.8}
