@@ -545,24 +545,23 @@ Diese Anforderungen werden an dieser Stelle nochmal zusammengefasst.
 \end{description}
 Auf diese drei Anforderungen kann in den kommenden Kapiteln der Fokus gesetzt werden. Nun müssen die entsprechenden Gamification Elemente herausgearbeitet werden, mit denen sich diese Anforderungen umsetzten lassen.    
 
-\section{Gamification}
+\section{Grundlagen der Gamification}
 Nach Deterding beschreibt Gamification ein Design-Konzept der HCI (Human-Computer-Interaction) \cite{Deterding2011}. Bei der Entwicklung von gamifizierten IT-Anwendungen überträgt man aus dem Game-Design bekannte Design-Elemente, Prinzipien und Mechanismen auf einen vorhandenen oder angedachten Prozess. Das Ziel ist es, Anwender bei diesem Prozess zusätzlich zu engagieren und zu motivieren. Anstelle eines vollwertigen Spiels, werden bei der Entwicklung jedoch nur auf Design-Elemente, welche aus der Spielentwicklung bekannt sind, gesetzt. 
 \\\\
 Der gamifizierte Prozess wird also nicht zu einem Spiel, sondern erhält lediglich zusätzliche Komponenten. Dabei reicht es aber nicht aus, die Gamification Elemente einfach willkürlich an irgendwelche Schritte des Prozesses zu integrieren. Viel mehr geht es darum, den Prozess umzustrukturieren. Dies beinhaltet unter anderem, ihn einfacher und unkomplizierter zu gestalten und Elemente zu integrieren die Anwender dazu verleiten, nicht nur ihre Arbeit zu erledigen, sondern auch extra Anstrengungen in kauf zunehmen. Hierfür muss der zu gamifizierende Prozess komplett neu Überdacht werden. So muss der Prozess z.B einem Anwender \textit{Relevanz}, \textit{Herausforderung} und \textit{Autonomie} spüren lassen. Dadurch wird aus dem Prozess eine positive Erfahrung für den Anwender, die ihn dazu verleiten kann, produktiver und effizienter zu arbeiten.
-
-\subsection{Grundlagen der Gamification}
+\\\\
 In diesem Abschnitt sollen die Grundlagen zur Gamification geklärt werden. Zu den Grundlagen zählt der Unterschied zwischen einem Spiel und einer Gamification-Anwendung, den verschiedenen Abstraktionsebenen die aus dem Game-Design bereits bekannt sind und sich ebenfalls in der Gamification bewährt haben. Sowie den Game-Design Grundsätzen den bekannten Modellen und den verschiedenen Mechaniken. 
 
-\subsubsection{Game vs. Play}
-Um Gamification nicht falsch zu verstehen, ist es hilfreich zwischen \enquote{Game} und \enquote{Play} zu unterscheiden. In der englischen Sprache verwendet man \enquote{Play} für spielen, im Sinne einer spielerischen Interaktion. Diese Interaktion ist kreativ, ungezwungen bzw. frei und folgt keinen Regeln oder System. Es geht lediglich um den Spaß und um die freie Kunst sich auszudrücken. Diese spielerische Interaktion tritt vermehrt bei Kindern auf, aber auch Erwachsene spielen hin und wieder mal. 
+\subsection{Game vs. Play}
+Um Gamification nicht falsch zu verstehen, ist es hilfreich zwischen \enquote{Game} und \enquote{Play} zu unterscheiden. In der englischen Sprache verwendet man \enquote{Play} für spielen, im Sinne einer spielerischen Interaktion. Diese Interaktion ist kreativ, ungezwungen bzw. frei und folgt keinen Regeln oder System. Es geht lediglich um den Spaß und um die freie Kunst sich auszudrücken.
 \\\\
-Das Wort \enquote{Game} (Gaming) bezieht sich dahingegen auf Interaktionen bei denen es um Triumph oder Versagen geht. Diese Gaming-Interaktionen besitzen Regeln, Belohnungen, Feedback, sind Ziel orientiert und bauen auf Wettkampf auf \cite{Deterding2011}. Sie vermitteln Sieg oder Niederlage und das bewältigen oder scheitern einer Herausforderungen. Sportliche Interaktionen oder Videospiele fallen daher in diesen Bereich. 
+Das Wort \enquote{Game} (Gaming) bezieht sich dahingegen auf Interaktionen bei denen es um Triumph oder Misserfolg geht. Diese Gaming-Interaktionen besitzen Regeln, Belohnungen, Feedback, sind Ziel orientiert und bauen auf Wettkampf auf \cite{Deterding2011}. Sie vermitteln Sieg oder Niederlage und das bewältigen oder scheitern an Herausforderungen. Sportliche Interaktionen oder Videospiele sowie Brettspiele fallen daher in diesen Bereich. 
 \\\\
 \enquote{There is a vast difference between games and play. Play is played for fun, but games are deadly serious and you do not play them to enjoy yourself} \cite{Baring2014}.
 \\\\
-Wichtig ist diese Unterscheidung deswegen, um die Design Idee die hinter Gamification steckt zu verdeutlichen. Die Begriffe \textit{Playful}-Design und \textit{Gameful}-Design lassen sich durch die Unterscheidung zwischen Game und Play leichter näher bringen. So bezieht sich Gameful-Design auf den Gamification Ansatz, indem Prozesse oder Systeme mit zusätzlichen Regeln oder Mechaniken versehen werden. Diese Erweiterung kann Auswirkungen auf die Funktionalität der gamifizierten Anwendung haben. Wohin gegen Playful-Design sich auf das einbringen von Gimmicks oder Spielereien beschränkt, welche nichts an der Funktionalität einer Anwendung ändern. 
+Wichtig ist diese Unterscheidung deswegen, um die Design Idee die hinter Gamification steckt zu verdeutlichen. Die Begriffe \textit{Playful}-Design und \textit{Gameful}-Design lassen sich durch die Unterscheidung zwischen Game und Play leichter näher bringen. So bezieht sich Gameful-Design auf den Gamification Ansatz, indem Prozesse oder Systeme mit zusätzlichen Regeln oder Mechaniken versehen werden. Diese Erweiterung kann Auswirkungen auf die Funktionalität der gamifizierten Anwendung haben. Wohin gegen Playful-Design sich auf das einbringen von Gimmicks oder Spielereien beschränkt, welche nichts an der Funktionalität einer Anwendung ändern. Zwar können Playful-Design und Gameful-Design miteinander kombiniert werden und können sich so auf die Gamification-Anwendung auswirken, dennoch gibt es große Unterschiede zwischen den beiden.
 \\\\
-Basierend auf dieser Einteilung (Abb.\ref{PlayGameBild}) lässt sich erkennen, dass die Gamification nicht die einzige Alternative ist, bei der die integration von Spielaspekten im Vordergrund stehen. So gibt es neben der Gamification die \textit{Serious Games} bei denen ein komplettes Spiel vorhanden ist, das aber mit ernsthaften Inhalten bestückt ist. Hinzukommen die sogenannten \textit{Pervasive Games} bei denen die Realität zum Spiel wird. Dabei ist zu beachten, dass all diese, und das davon herausgelöste Playful-Design, eng miteinander verwandt sind und es viele Überschneidungen gibt \cite{Deterding2011}.
+Basierend auf dieser Einteilung (Abb.\ref{PlayGameBild}) lässt sich erkennen, dass die Gamification nicht die einzige Alternative ist, bei der die Integration von Spielaspekten im Vordergrund stehen. So gibt es neben der Gamification die \textit{Serious Games} bei denen ein komplettes Spiel vorhanden ist, dieses aber mit ernsthaften Inhalten bestückt ist. Hinzukommen die sogenannten \textit{Pervasive Games} bei denen die Realität zum Spiel wird. Dabei ist zu beachten, dass all diese, und das davon herausgelöste Playful-Design, eng miteinander verwandt sind und es viele Überschneidungen gibt \cite{Deterding2011}.
 \begin{figure}[h!]
 \begin{center}
 \includegraphics[scale = 0.4]{Bilder/PlayGame.eps}
@@ -573,23 +572,23 @@ Basierend auf dieser Einteilung (Abb.\ref{PlayGameBild}) lässt sich erkennen, d
 \\\\
 Wenn man betrachten, dass es sich bei Gamification nicht um komplette Spiele, sondern nur um das Übertragen von Game-Design Elementen handelt, so lässt sich Gamification von \textit{Serious Games}, \textit{Spielzeug} und \textit{Playful Design} abgrenzen. Diese Unterscheidung ist in Abbildung \ref{PlayGameBild} genauer zu sehen. Bei Gamification geht es somit um das Spielen im Sinne von Games und den Einsatz von Teilen aus Spielen (bzw. Spielelementen), was es von Serious Games unterscheidet \cite{PlayGame2018}.
 
-\subsubsection{Game-Design Elemente}
+\subsection{Game-Design Elemente}
 In der Literatur zu Gamification und Game-Design finden sich zahlreiche Ansätze zur Definition von charakteristischen Elementen von Games und gamifizierten Anwendungen. Diese lassen sich in fünf verschiedene Abstraktionsebenen einteilen \cite{Deterding2011}.
 \\\\
 \textbf{Abstarktionsebene 1: Interface-Elemente}\\
-Auf der ersten, für den Anwender sichtbarsten Ebene, finden sich Interface-Elemente. Diese sind meistens aus Videospielen übernommen. Zu diesen Interface-Elementen zählen unter anderem \textit{Fortschrittsbalken}, \textit{Punkte}, \textit{Badges}, \textit{Leaderboards} und \textit{Level}. Diese Elemente geben den Anwender eine Rückmeldung über seinen Fortschritt, sie heben Anwender von einander ab und schaffen Wettkampf-Bedingungen. Diese Rückmeldungen sind ausschlaggebend für Gamification, da sie den Anwender auf einer tieferen Ebene ansprechen und Anwender motivieren können einer Handlung mehr Aufmerksamkeit zu schenken \cite{GameElemente2018}.
+Auf der ersten, für den Anwender sichtbarsten Ebene, finden sich Interface-Elemente. Diese sind meistens aus Videospielen übernommen. Zu diesen Interface-Elementen zählen unter anderem \textit{Fortschrittsbalken}, \textit{Punkte}, \textit{Abzeichen}, \textit{Ranglisten} und \textit{Level}. Diese Elemente geben den Anwender eine Rückmeldung über seinen Fortschritt, sie heben Anwender von einander ab und schaffen Wettkampf-Bedingungen. Diese Rückmeldungen sind ausschlaggebend für Gamification, da sie den Anwender auf einer tieferen Ebene ansprechen und Anwender motivieren können einer Handlung mehr Aufmerksamkeit zu schenken \cite{GameElemente2018}.
 \\\\
 \textbf{Abstarktionsebene 2: Game-Design Mechanismen}\\
 Die zweite Abstraktionsebene bilden die \textit{Game-Design Pattern} und \textit{Game-Design Mechanismen}. Diese bestimmen sowohl die Funktionsweise der verwendeten Interface-Elemente, sowie die User Experience welche der Anwender erlebt. Diese Mechanismen dienen dazu den Anwender anzutreiben und voranzubringen.
 \\\\
 \textbf{Abstarktionsebene 3: Game-Design Grundsätze}\\
-Game-Design Grundsätze bilden die dritte Abstraktionsebene. Hierzu zählen die psychologischen Aspekte die hinter der Implementierung von erfolgreichen Gamification Anwendungen stecken. Somit enthalten die Game-Design Grundsätze die Grundlagen der Gamification. Sie gelten als grundlegenden Rahmenbedingungen für Spiele und basieren auf psychologischen Motivationsgrundlagen \cite{Werbach2012}. 
+Game-Design Grundsätze bilden die dritte Abstraktionsebene. Hierzu zählen die psychologischen Bedürfnisse die hinter der Implementierung von erfolgreichen Gamification Anwendungen stecken. Somit enthalten die Game-Design Grundsätze die Grundlagen der Gamification. Sie gelten als grundlegenden Rahmenbedingungen für Spiele und basieren auf psychologischen Motivationsgrundlagen \cite{Werbach2012}. 
 \begin{description}
-   \item[Zu diesen Grundsätzen kann man die vier Bedürfnisse zählen:]~\par
+   \item[Zu diesen Grundsätzen kann man diese vier Bedürfnisse zählen:]~\par
    \begin{itemize}
       \item \textbf{Kompetenz}: Umfasst das Bedürfnis, Fähigkeiten zu erlernen und Herausforderungen zu meistern. 
       \item \textbf{Autonomie}: Das Bedürfnis sich frei zu entfalten und kreativ zu sein.
-      \item \textbf{Soziale Eingebundenheit}: Das Bedürfnis sich als Mitglied einer Gruppe fühlen.
+      \item \textbf{Soziale Eingebundenheit}: Das Bedürfnis sich als Mitglied einer Gruppe zu fühlen.
       \item \textbf{Zweck bzw. Bedeutung}: Das Bedürfnis sich als Teil von etwas größeren zu fühlen.
    \end{itemize}
 \end{description}
@@ -597,7 +596,7 @@ Diese vier Bedürfnisse werden in den kommenden Seiten noch ausführlicher behan
 \\\\
 \textbf{Abstarktionsebene 4: Game-Design Modelle}
 \\
-Auf einer weiteren Ebene, der vierten Abstraktionsebene, gibt es eine Reihe von Modellen die hier als \textit{Game-Design Modelle} beschrieben werden sollen. Sie versuchen Game-Designern bei der Implementierung von Spielen zu helfen. Basierend auf den Game-Design Grundsätzen, lässt sich mit ihnen der erfolgreiche Einsatz der Interface-Elemente und Game-Mechaniken begründen. Es handelt sich dabei um \enquote{Conceptual models of the components of games or game experience} \cite{Deterding2011}. Diese Modelle eignen sich ebenfalls für die Implementierung von Gamification Anwendungen weswegen die Modelle in den nächsten Abschnitten beschrieben werden.
+Auf einer weiteren Ebene, der vierten Abstraktionsebene, gibt es eine Reihe von Modellen die hier als \textit{Game-Design Modelle} beschrieben werden sollen. Sie versuchen Game-Designern bei der Implementierung von Spielen zu unterstützen. Basierend auf den Game-Design Grundsätzen, lässt sich mit ihnen der erfolgreiche Einsatz der Interface-Elemente und Game-Mechaniken begründen. Es handelt sich dabei um \enquote{Conceptual models of the components of games or game experience} \cite{Deterding2011}. Diese Modelle eignen sich ebenfalls für die Implementierung von Gamification Anwendungen weswegen die Modelle in den nächsten Abschnitten beschrieben werden.
 \\\\
 \textbf{Abstarktionsebene 5: Game-Design Methoden}\\
 Die letzte Ebene bilden die Game-Design Methoden. Dabei handelt es sich um Prozesse und Praktiken, welche aus der Spieleentwicklung bekannt sind. Sie kommen aus der Spieleentwicklung, scheinen aber auch teilweise bei der Implementierung von Gamification Anwendungen zu helfen \cite{GameElemente2018}.
@@ -610,25 +609,26 @@ Die letzte Ebene bilden die Game-Design Methoden. Dabei handelt es sich um Proze
 \end{center}
 \end{figure}
 \\
-Wie in Abb.\ref{GameElementeBild} zu erkennen ist, sind die oberen drei Abstraktionsebenen sichtbar für den Anwender, während die unteren beiden Ebenen nur für Entwickler zu erkennen sind. Der Kern eines soliden Game-Designs sind die Game-Design Grundsätze wie in Abb.\ref{GameElementeBild} dargestellt. Die Spiele-Mechanismen und die Interface-Elemente bauen auf diesen Grundsätzen auf und geben den Anwender ein entsprechendes \textit{Look and Feel} der Anwendung. Für die Entwickler von Gamification-Anwendungen sind jedoch alle Ebenen von Bedeutung und müssen wohl durchdacht und entwickelt sein \cite{GameElemente2018}. Da die Abstraktionsebenen Aufschluss über die Umsetzung einer Gamification-Anwendung geben, ist es wichtig diese Ebenen genauer zu betrachten. Deswegen wird auf alle Ebenen in weiteren Abschnitten eingegangen.
+Wie in Abb.\ref{GameElementeBild} zu erkennen ist, stellen die ersten drei Ebenen die Sichtweise des Anwenders dar, während die unteren beiden Ebenen die Sichtweise des Entwicklers entspricht. Der Kern eines soliden Game-Designs sind die Game-Design Grundsätze wie in Abb.\ref{GameElementeBild} zu erkennen ist. Die Spiele-Mechanismen und die Interface-Elemente bauen auf diesen Grundsätzen auf und geben den Anwender ein entsprechendes \textit{Erlebnis} (auch bezeichnet als Spielerlebnis, Spielerfahrung oder Player Experience) der Anwendung. Für die Entwickler von Gamification-Anwendungen sind jedoch alle Ebenen von Bedeutung und müssen wohl durchdacht und entwickelt sein \cite{GameElemente2018}. Da die Abstraktionsebenen Aufschluss über die Umsetzung einer Gamification-Anwendung geben, ist es wichtig, diese Ebenen genauer zu betrachten. Deswegen wird auf alle Ebenen in weiteren Abschnitten eingegangen.
 
-\subsubsection{Game-Design Grundsätze}
+\subsection{Game-Design Grundsätze}
 Wie wir bereits erwähnt haben, wird Gamification verwendet um Spiele-Mechaniken und Prinzipien in nicht Spielekontexte zu übernehmen. Die Mechaniken und Prinzipien sind wiederum Elemente aus dem Umfeld des Game-Designs. Somit verwendet die Gamification also die bekannten Game-Design Elemente. Daher soll sich in diesem Kapitel mit den Grundsätzen des Game-Designs auseinander gesetzt werden.
 \\\\
 In ihrem Buch \enquote{Reality is broken} beschreibt Jane McGonigal (Gamification-Visionärin und Game-Designerin) die Eigenschaften eines Spiels als, \textit{Ziel}, \textit{Regeln}, \textit{Feedback-System} und \textit{freiwillige Teilnahme} \cite{Mcgonigal2011}. Diese Eigenschaften gelten auch für die Gamification und müssen beim Entwickeln einer Gamification-Anwendung berücksichtigt werden.
 \begin{description}
    \item[Bedeutung der Spieleigenschaften für die Gamification:]~\par
    \begin{itemize}
-      \item \textbf{Ziel}: Für die Gamification gelten zwei Ziele die übereinstimmen müssen. Nämlich Anwendungsziele (Prozessziele oder Systemziele) und die Anwenderziele. Überschneiden sich die Anwendungs- und Anwenderziele so zeigt Gamification eine bessere Wirkung. 
-      \item \textbf{Regeln}: Für die Gamification gilt, das die Regeln der Gamification-Anwendung gut überlegt werden müssen. Zum Einem muss die Anwendung verhindern, dass mit ihr gemogelt werden kann, da sich dies Negativ auf die User Experience auswirken würde. Zum Anderem dürfen die Regeln der Gamification-Anwendung den Workflow der Anwendung nicht zu stark einschränken.
+      \item \textbf{Ziel}: Für die Gamification gelten zwei Ziele die übereinstimmen müssen. Nämlich die Geschäftsziele, die aussagen was mit der Anwendung erreicht werden soll (Prozessziele oder Systemziele) und die Ziele des Anwenders die für ihn von Bedeutung sind (). Überschneiden sich die Geschäfts- und Anwenderziele, so zeigt die Gamification ihr optimales Potenzial \cite{gamificationDefinition}. 
+      \item \textbf{Regeln}: Für die Gamification gilt, das die Regeln der Gamification-Anwendung gut überlegt werden müssen. Zum Einem muss die Anwendung verhindern, dass mit ihr gemogelt werden kann, da sich dies Negativ auf das Erlebnis des Anwenders auswirken würde. Zum Anderem dürfen die Regeln der Gamification-Anwendung den Workflow der Anwendung nicht zu stark einschränken.
       \item \textbf{Feedback-Systeme}: Diese sind für die Gamification-Anwendung von großer Bedeutung, da hier kleinere Herausforderungen zu einem Flow-Gefühl führen.
       \item \textbf{Freiwillige Teilnahme}: Die freiwillige Teilnahme für gamifizierte Anwendungen ist ein schwerer Punkt. Da es sich meistens um Geschäftsprozesse bei Gamification-Anwendungen handelt, die nicht unbedingt freiwillig umgesetzt werden können. Dennoch empfiehlt es sich, die Freiheiten des Anwenders nur soweit einzugrenzen, wie es die Regeln und der Geschäftsprozess benötigen. 
    \end{itemize}
 \end{description}
-Bei Gamification verfolgt man das Ziel, intrinsische Motivation zu erzeugen und zu verstärken. Eine grundlegende Theorie der intrinsischen Motivation ist die Selbstbestimmungstheorie von Deci and Ryan \cite{Ryan2000}. Nach dieser bekannten Theorie verfolgen Menschen drei grundlegende Bedürfnisse, die Bedürfnisse nach \textit{Kompetenz}, \textit{Autonomie} und \textit{sozialer Eingebundenheit} \cite{Rheinberg2006}. Nach Rigby und Ryan \cite{Rigby2011} finden sich diese drei Bedürfnisse in allen Spielen wieder. Sie sehen die Befriedigung dieser Bedürfnisse als die Grundlage eines jeden Spiels und identifizieren dies als wesentlichen Auslöser des Spielspaßes. Nach Rigby und Ryan \cite{Rigby2011} macht Videospielen Freude, da Spiele diese wesentlichen, menschlichen Bedürfnisse befriedigen.
+Bei Gamification verfolgt man das Ziel, intrinsische Motivation zu erzeugen und zu verstärken. Eine grundlegende Theorie der intrinsischen Motivation ist die Selbstbestimmungstheorie von Deci und Ryan \cite{Ryan2000}. Nach dieser bekannten Theorie verfolgen Menschen drei grundlegende Bedürfnisse, die Bedürfnisse nach \textit{Kompetenz}, \textit{Autonomie} und \textit{sozialer Eingebundenheit} \cite{Rheinberg2006}. Nach Rigby und Ryan \cite{Rigby2011} finden sich diese drei Bedürfnisse in allen Spielen wieder. Sie sehen die Befriedigung dieser Bedürfnisse als die Grundlage eines jeden Spiels und identifizieren dies als wesentlichen Auslöser des Spielspaßes. Nach Rigby und Ryan verursachen Videospiele große Freude, da Spiele diese wesentlichen, menschlichen Bedürfnisse befriedigen \cite{Rigby2011} .
+
+\subsubsection{Das Kompetenz-Bedürfnis}
+In der Psychologie wird die \textit{Kompetenz} als das grundlegende Bedürfnis der Menschen nach Erfolg, Effizienz, Meistern von Herausforderungen und das verbessern der eigenen Fähigkeiten verstanden. Dabei geht es auch darum, die eigenen Fähigkeiten zu erfassen, zu messen und besser einschätzen zu können. Dieses Bedürfnis begleitet uns von Geburt an und führt zu starker intrinsischer Motivation \cite{Rigby2011}. Wir befriedigen dieses Bedürfnis indem wir uns Aktivitäten aussetzen die uns fordern oder indem wir uns in einem Wettkampf mit anderen Menschen vergleichen. Die Aktivitäten des Sports oder auch Videospiele erfüllen dieses Bedürfnis und so vermutet man, dass diese Aktivitäten deswegen so beliebt sind \cite{Mcgonigal2011}\cite{Rigby2011}\cite{Mayer2009}. Ein Spiel ermöglicht eine simple Bestätigung der eigenen Kompetenz.
 \\\\
-\textbf{Kompetenz}\\
-in der Psychologie wird die \textit{Kompetenz} als das grundlegende Bedürfnis der Menschen nach Erfolg, Effizienz, Meistern von Herausforderungen und das verbessern der eigenen Fähigkeiten verstanden. Dabei geht es auch darum, die eigenen Fähigkeiten zu erfassen, zu messen und besser einschätzen zu können. Dieses Bedürfnis begleitet uns von Geburt an und führt zu starker intrinsischer Motivation \cite{Rigby2011}. Wir befriedigen dieses Bedürfnis indem wir uns Aktivitäten aussetzen die uns fordern oder indem wir uns in einem Wettkampf mit anderen Menschen vergleichen. Die Aktivitäten des Sports oder auch Videospiele erfüllen dieses Bedürfnis und so vermutet man, dass diese Aktivitäten deswegen so beliebt sind \cite{Mcgonigal2011}\cite{Rigby2011}\cite{Mayer2009}. Das Spiel ermöglicht eine simple Bestätigung der eigenen Kompetenz.
 \enquote{Never before in human history could this kind of optimal, emotional activation be accessed so cheaply, so reliably, so quickly} \cite{Mcgonigal2011}.
 \\\\
 \enquote{When games provide us with challenges, they are inviting us to stretch ourselves to new levels of mastery, which, once achieved, satisfy our intrinsic need for competence} \cite{Rigby2011}. 
@@ -650,8 +650,8 @@ Das Spielen ist ein Lernprozess und ein Prozess stetiger Verbesserung der eigene
 \enquote{Fun is just another word for learning – Fun from games arise out of mastery. It arises out of comprehension. It is the act of solving puzzles that make games fun. With games, learning is the drug} \cite{Koster2013}. 
 \\\\
 Stellt man sich einer Herausforderung, gibt es in der Regel nur zwei Ausgangsmöglichkeiten. Entweder man überwindet die Herausforderung und ist somit erfolgreich oder man scheitert an der Herausforderung und erleidet eine Niederlage. Kurz gesagt, entweder man gewinnt oder verliert. Sowohl Sieg als auch Niederlage sind für das erleben der Kompetenz verantwortlich. Das Scheitern ist somit ein integraler Teil des Games bzw. einer Gamification-Anwendung \cite{Mcgonigal2011}\cite{Lazzaro2004}. Ein Spiel bei dem wir immer gewinnen oder bei dem wir nicht verlieren können, löst kein Kompetenz-Erlebnis aus und wird für uns uninteressant. Sobald wir also ein Spiel gemeistert haben und jede Herausforderung bewältigen können, macht dieses Spiel weniger Spaß als zuvor. Aus diesem Grund ist es auch wichtig, Situationen in die Anwendung zu integrieren, die einem Anwender oder Spieler das Gefühl einer Niederlage vermitteln. 
-\\\\
-\textbf{Autonomie}\\
+
+\subsubsection{Autonomie}
 Autonomie beschreibt das intrinsische Verlangen, sich nach eigenem Willen entfalten zu können. Dazu gehört, sich aus einer Menge von Ansätzen und Möglichkeiten frei diejenigen auszuwählen, die am Besten zu einem passen \cite{Rigby2011}. Menschen verfügen über das grundlegende Bedürfnis, sich selbstbestimmt zu erleben und wünschen sich, nach ihren eigenen Vorstellungen handeln zu dürfen bzw. zu können.
 \\\\
 \enquote{People are naturally motivated to seek out and stay engaged with those activities that instill a sense of personal autonomy} \cite{Rigby2011}.
@@ -667,8 +667,8 @@ Darüber hinaus sind Spiele kein Zwang, sie sind freiwillig und erfüllen damit 
 An dieser Stelle soll nun auch erwähnt werden, wie man intrinsiche Motivation schwächen kann. Der Erhalt von Belohnungen vermag ein Spiel oder auch ein Hobby, in Arbeit zu verwandeln (es muss aber nicht) \cite{Pink2010}. Dies geschieht unter anderem, wenn der Wunsch nach der Belohnung größer ist, als der Wunsch die Tätigkeit auszuführen. Wenn der Mensch sich die Belohnung als Ziel setzt und sich der Herausforderung nur der Belohnung wegen stellt, so kann der sogenannte \textit{Korrumpierungseffekt} auftreten \cite{Rheinberg2006}. Durch diesen Effekt wird beschrieben, wie extrinsische Belohnungen die Motivation des Menschen schwächen können. Man vermutet, dass der externe Anreiz einer extrinsischen Belohnung vom eigentlichen Interesse an der Tätigkeit ablenkt \cite{Rheinberg2006}. Dies führt wiederum zu einem Verlust der Motivation.   
 \\\\
 Studien zeigen das extrinsische Belohnungen bei Kreativen-Tätigkeiten kontraproduktiv sind und nicht zu einer Leistungssteigerung führen \cite{Pink2010}. Verspricht man aber Leuten die einer Akkord ähnlichen Arbeit nachgehen eine extrinsische Belohnung, so werden diese Leute produktiver und somit leistungsfähiger. Deswegen vermutet man, das extrinsische Belohnungen dazu führen, dass der Fokus nun auf die Belohnung gelenkt wird, was sowohl Ablenkungen als auch kreative Ansätze mindert. Dadurch werden also Tätigkeiten denen z.B kein kreativer Lösungsansatz voraus geht für Menschen motivierender (gemessen anhand der erhöhten Produktivität). Menschen mindern aber durch den Fokus auf die Belohnung ihre Vorstellungskraft und Kreativität, was dazu führt, dass die Produktivität dieser Tätigkeiten nicht erhöht sondern stattdessen vermindert wird.
-\\\\
-\textbf{Soziale Eingebundenheit}\\
+
+\subsubsection{Soziale Eingebundenheit}
 Soziale Eingebundenheit (Relatedness) beschreibt ein weiteres grundlegendes Bedürfnis, welches für intrinsischer Motivation verantwortlich ist. Dieses Bedürfnis ist von Natur aus in jedem Menschen vorhanden. Menschen suchen die Verbindung mit anderen Menschen und haben das Bedürfnis, auf sinnvolle Weise miteinander zu interagieren. Dies spielt sowohl im beruflichen Sinne eine Rolle, sowie auch im Privatleben. Beispiele für die soziale Eingebundenheit wären der eigene Freundeskreis, Mitgliedschaft in einem Verein oder Community. 
 \\\\
 Die soziale Eingebundenheit lässt sich in drei Teilbereiche unterteilen, die für das befriedigen dieses Bedürfnis wichtig sind. Um sich sozial eingebunden zu fühlen ist es notwendig, die \textit{Aufmerksamkeit} und die \textit{Anerkennung} anderer Menschen zu gewinnen oder sie zu fühlen. Als zweiter Punkt ist die \textit{Unterstützung} von anderen Menschen von essentieller Bedeutung. Und als Letzter Punkt ist der eigene \textit{Einfluss} auf andere Menschen ein Teilbereich der sozialen Eingebundenheit. Diese drei Eigenschaften Anerkennung, Unterstützung und Einfluss sind es letzten Endes, die uns ein Gefühl von starker sozialer Eingebundenheit vermitteln \cite{Rigby2011}.
@@ -676,8 +676,8 @@ Die soziale Eingebundenheit lässt sich in drei Teilbereiche unterteilen, die f�
 Diese drei Punkte werden in vielen \textit{Social Games} wie z.B MMORPGs (Massive Multiplayer Online Role Playing Games) auf gewisse Art und Weise erfüllt. Natürlich ist es auch möglich, diese Social Games als Single-Player Games zu nutzen. Hierbei ist aber der Spielspaß und das Spielerlebnis eingeschränkt, was wiederum die Bedeutung der sozialen Eingebundenheit für das Social Gaming demonstriert.
 \\\\
 Bei sozialer Eingebundenheit geht es aber nicht nur um Teamwork. Auch Wettkampf und Wettbewerb weisen die Punkte Anerkennung, Unterstützung und Einfluss auf \cite{Rigby2011}.
-\\\\
-\textbf{Zweck}\\
+
+\subsubsection{Zweck Bedürfnis}
 Der Zweck bzw. die Bedeutung (Purpose) werden zusätzlich als ein weiteres Bedürfnis der Menschen gesehen, dass intrinsische Motivation hervorruft \cite{Pink2010}. Der Zweck kann als das Bedürfnis verstanden werden, unserem Handeln einem Sinn zu geben. Menschen suchen nach einem Sinn in ihrem Handeln und wünschen sich das hinter diesem Handeln eine größere Bedeutung steckt. Desto mehr Bedeutung wir unserem Handeln abgewinnen können, desto stärker werden wir intrinsisch motiviert. 
 \\\\
 Ein sehr bekanntes Beispiel für intrinsische Motivation die durch Bedeutung ausgelöst wird ist Wikipedia. Wikipedia verfügt nicht nur über Millionen von Artikeln sondern auch über tausende von Helfern und Autoren. Diese Menschen stellen ihr Wissen frei zu Verfügung aus der Überzeugung heraus, dass sie verantwortlich sind für das Archivieren und das Schützen des menschlichen Wissens. Diese Menschen schaffen ein tieferes und verbessertes Verständnis, allein aus dem Gefühl her, die Welt ein kleinwenig zu verbessern.
@@ -688,12 +688,12 @@ Besonders in Unternehmen ist man in der Lage, einen Zweck oder eine Berufung zu 
 \\\\ 
 Eine weitere Möglichkeit wäre, Mitarbeitern die Möglichkeit zu geben für Wohltätigkeitsorganisationen zu spenden. Insbesondere in Punktesammelplattformen. Anstatt nur ein Abzeichen zu bekommen oder Punkte zu erhalten, wäre es also möglich, diesen digitalen Werte (Punkte, Abzeichen) in spenden für Hilfsorganisationen umzuwandeln.
 
-\subsubsection{Game-Design Modelle}
+\subsection{Game-Design Modelle}
 Wie wir bereits erwähnt haben, dienen die Game-Design Modelle dazu, dem Entwickler bei der Konzeption eines Games oder einer Gamification-Anwendung zu unterstützen. Nach Deterding et al. \cite{Deterding2011} ist die Kombination aus Interface-Elementen und Spiele-Mechaniken (Game-Mechanics) einer der ausschlaggebende Faktoren für die Erzeugung einer ansprechenden Player Experience bzw. User Experience. Abhängig von Situation und Bedürfnissen der Anwender scheint es am Game-Designer zu liegen, ein erfolgreiches Gamification-Konzept zu entwickeln. 
 \\\\
 Aus diesem Grund sollen drei dieser Game-Design Modelle aufgezählt und näher betrachtet werden. Durch diese Analyse der Modelle soll ein besseres Verständnis dafür geschaffen werden, was beim Design eines Games bzw. Gamification-Anwendung zu beachten ist.
 \\\\
-\textbf{1. Modell: Core Elements of the Gaming Experience}\\
+\subsubsection{Core Elements of the Gaming Experience-Modell}
 Die \textit{Core Elements of the Gaming Experience} (CEGE) ist ein umfassendes Modell, das aus verschiedenen Faktoren besteht, die zusammengenommen das Erlebnis zwischen einem Videospiel (Game) und seinem Nutzer bilden (User Experience).  Die beiden wichtigsten Variablen, die dem Modell zugeordnet sind, sind \textit{Video-Game} und \textit{Puppenspiel}(Puppetry). Video-Game ist einfach das Spiel selbst, das in die latenten (subjektiven bzw. nicht messbaren) Variablen von \textit{Umgebung}(Environment) und \textit{Gameplay} aufgeteilt wird. Diese latenten Variablen werden abgeleitet und unter beobachtbaren Variablen kategorisiert; Umgebung beinhaltet \textit{Grafiken} und \textit{Sounds} des Spiels, während Gameplay das \textit{Szenario} und die \textit{Spielregeln} beinhaltet \cite{CEGE2016}.
 \\\\
 Puppenspiel ist die Interaktion des Spielers mit dem Videospiel und besteht aus drei latenten Variablen: \textit{Kontrolle} (Control), \textit{Eigentum} (Ownership) und \textit{Moderatoren} (Facilitators). \textit{Kontrolle} ist einfach \enquote{Kontrolle} über das Spiel, indem man lernt, wie man Dinge innerhalb des Spiels benutzt und manipuliert. Diese Kontrolle besteht aus drei beobachtbaren Faktoren: \textit{kleine Aktionen} (grundlegende Aktionen, die der Spieler im Spiel ausführen kann), \textit{Ziel} (Hauptziel des Spiels) und \textit{something-to-do} (der Spieler muss das Gefühl haben, dass es im Spiel immer etwas zu tun gibt) \cite{CEGE2016}. 
@@ -712,8 +712,8 @@ Schließlich sind \textit{Moderatoren} (Facilitators) externe Faktoren, die den 
 \end{figure}
 \\\\
 Die Core Elements of the Gaming Experience (CEGE) sind die Notwendigen aber nicht ausreichenden Elemente, um eine positive User Experience zu erzeugen. Dabei versucht das Modell bzw. Framework nicht zu beschreiben, was ein gutes Game ausmacht, sondern vielmehr konzentriert sich das Modell auf die Art und Weise, wie das Spielerlebnis (User Experience) wahrgenommen wird \cite{Cege2009}. 
-\\\\
-\textbf{2. Modell: Skill Atoms}\\
+
+\subsubsection{Skill Atom Modell}
 Das Konzept der \textit{Skill Atoms} (Fähigkeiten Atome) stammt aus den fortlaufenden
 Bemühung im Spieldesign, eine Formalisierung der zentralen Bausteine von Spielen zu erreichen. Dadurch sollte eine praktisch nutzbare \enquote{Grammatik} oder \enquote{Unified Modeling Language} gebildet werden. Beim Modell der Skill Atoms handelt es sich dabei um den Versuch, die im Spiel vorhandenen Komponenten in ihre kleinsten möglichen Teile zu zerlegen (deswegen auch Atom). Die Literatur lässt vermuten das es sich bei Spielen (Games) um verschachtelte, mit sich selbst verbundene Systeme von Systemen handelt. Diese wiederum enthalten laut Deterding \textit{Skill Atoms}, \textit{Game Atoms} und \textit{Ludemes}. Diese drei Systeme sind die kleinsten in sich geschlossenen Systeme die nicht weiter aufgeteilt werden können, ohne ihre \enquote{Spielhaftigkeit} zu verlieren \cite{Deterding2013}.
 \\\\
@@ -742,7 +742,7 @@ Durch das mehrmalige durchlaufen dieser Feedback-Schleife werden dem Spieler die
       \item \textbf{Fähigkeiten des Anwenders}: Das Verständnis des Spielers, wie er das Spiel zu spielen hat und seine Kapazitäten sein Spielziel zu erreichen.
    \end{itemize}
 \end{description}
-\textbf{3.Modell: MDA-Modell}\\
+\subsubsection{MDA-Modell}
 Das \textit{MDA-Modell} ist ein formeller Ansatz um Spiele zu verstehen. Dieser Ansatz versucht, die Lücke zwischen Spieldesign und -entwicklung, Spiel Kritik und technische Spielforschung zu schließen. Das MDA-Framework formalisiert den Konsum von Spielen, indem man sie in ihre verschiedenen Komponenten zerlegt wie \textit{Regeln}, \textit{Systeme} und \textit{\enquote{Spaß}} und ihre Design-Gegenstücke etabliert, wie \textit{Mechaniken}, \textit{Dynamiken} und \textit{Ästhetik} \cite{Hunicke2004}.
 \\\\
 Die \textit{Mechanik} beschreibt die einzelnen Komponenten des Spiels, auf der Ebene der Datenrepräsentation und Algorithmen. Die \textit{Dynamiken} beschreiben das Laufzeitverhalten der Mechaniken, die auf die Eingaben des Spielers und gegenseitige Ausgaben im laufe der Zeit reagieren. Zum Schluss gibt es die \textit{Ästhetik} die beschreibt, wie die emotionalen Reaktionen die beim Spieler hervorgerufen werden sollen, auszusehen haben.
@@ -770,7 +770,7 @@ Als \textit{Mechaniken} können nun die verschiedenen \textit{Aktionen}, \textit
 \label{MDABild}
 \end{center}
 \end{figure}
-\subsubsection{Game-Design Methode: Player-Centric Design}
+\subsection{Game-Design Methode: Player-Centric Design}
 Die Game-Design Methode bricht die Schritte zum entwickeln einer Gamification-Anwendung auf und ordnet diese in logischer Reihenfolge. Die Methodik hilft den Entwicklern, sich beim Design auf das erreichen von Anwenderzielen (Anwender können auch als Spieler der Anwendung gesehen werden) zu konzentrieren und reduzieren sowohl Zeit als auch Risiken beim entwickeln einer solchen Anwendung \cite{gamificationDefinition}.
 \\\\
 Die \textit{Player-Centric Design} Methode gibt den Entwickler nun ein Werkzeug an die Hand, um ihn beim Design der \textit{Player Experience} (Spielererlebnis) zu unterstützen und mögliche Design-Fallen zu vermeiden. Die Player Experience soll in diesem Zusammenhang als primäres Ziel des Design-Prozesses verstanden werden. Es geht in erster Linie darum, eine Erfahrung oder ein Erlebnis für den Anwender bzw. Spieler zu entwickeln. Erfahrungen sind jedoch schwierig zu designen da es sich bei ihnen um persönliche Auseinandersetzungen handelt die über einen längeren Zeitraum auftreten. Unsere Erfahrungen wirken sich dabei stark auf unsere Wahrnehmung, auf unsere Art Wissen zu verarbeiten und auf unser Handeln aus \cite{gamificationDefinition}.
@@ -793,7 +793,7 @@ Der \textit{Player Experience Design Prozess} kann in sieben Schritte eingeteilt
    \end{enumerate}
 \end{description}
 
-\subsubsection{Game-Design Spiele-Mechaniken}
+\subsection{Game-Design Spiele-Mechaniken}
 Die Spiele-Mechaniken (Game-Mechaniken) sind die aus Spielen bekannten Aktionen die eine Reaktion des Systems auslösen.  Sie bilden die zweite Abstraktionsebene der Game-Design Elemente und tragen mit den Interface-Elementen sowohl zur Dynamik als auch zur Ästhetik der gamifizierten Anwendung bei. Game-Designer Daniel Cook beschreibt sie als:
 \\\\
 \enquote{Game mechanics are rule based systems / simulations that facilitate and encourage a user to explore and learn the properties of their possibility space through the use of feedback mechanisms} \cite{GameMechanics2006}. 
@@ -847,12 +847,12 @@ Neben der Motivation, die in verschiedene Gruppen eingeteilt werden kann, wie in
    \end{enumerate}
 \end{description}
 
-\subsubsection{Game-Design: Interface-Elemente}
+\subsection{Game-Design: Interface-Elemente}
 Der Game-Charakter in gamifizierten Anwendungen wird einem Anwender als erstes durch die Interface-Elemente bewusst. Interface-Elemente unterliegen und dienen einer oder mehreren Game-Mechaniken. Die Elemente werden als Feedback-System genutzt und haben die Aufgabe Emotionen beim Anwender auszulösen. Dadurch sind die Interface-Elemente für die Aufrechterhaltung der Motivation verantwortlich \cite{Mcgonigal2011}. Die Elemente bilden eine Wand zwischen Anwender und Anwendung \cite{Schell2014} und sollten daher einige Nutzungsbedingungen erfüllen. So sollten die Elemente nutzungsorientiert (Usability), umfangreich, leicht verständlich und zielgerichtet eingesetzt werden \cite{Schell2014}. Des weiteren sollten die Elemente über eine angemessene Ästhetik und über einen entsprechenden Reiz verfügen. Sie geben einem Anwender Feedback in Form von Beurteilungen, Belohnungen, Instruktionen, Ermutigungen und Herausforderungen. Sie sind entscheidend für das empfinden des Anwenders und die Wirkungsweise der Game-Mechaniken. Da die Interface-Elemente viele Berührungspunkte mit dem Anwender aufweisen, müssen die Elemente gut durchdacht und ihre Wirkung umfangreich getestet werden \cite{Schell2014}.
 \\\\
 Die Interface-Elemente sowie die Game-Mechaniken können, da sie als Komponenten zu sehen sind, auf verschiedene Weise kombiniert und integriert werden. Dadurch sind die Elemente flexibel und vielseitig. In diesem Abschnitt sollen nun die am häufigsten auftretenden Interface-Elemente aufgezählt und erläutert werden. 
 \\\\
-\textbf{Punkte und virtuelle Währung}\\
+\subsubsection{Punkte und virtuelle Währung}
 \textit{Punkte} oder eine andere Form von \textit{virtueller Währung} sind ein häufig eingesetztes Element bei Gamification-Anwendungen da sie leicht umzusetzen sind und bei richtiger Verwendung sehr mächtig sein können. Dabei werden an den Anwender Punkte vergeben, wenn dieser eine vordefinierte Handlung des gamifizierten Systems getätigt hat. Die Punkte sind dabei meistens das Eigentum eines spezifischen Anwenders, können aber auch in anderen Kontexten, als Eigentum einer Gruppe von Anwendern oder einer Community zugeteilt werden. Punkte dienen aber nicht als Belohnung sondern geben viel mehr Feedback über die Handlung des Anwenders und verfolgen gleich mehrere Ziele.
 \\
 \begin{figure}[h!]
@@ -871,7 +871,7 @@ Deswegen ist beim Design dieses Elementes darauf zu achten, dass die Punkte nich
 \\\\
 Nach Zichermann und Cunningham \cite{Zichermann2011} kann jede Art von Metrik als Punkte verwendet werden, z.B. eine \textit{Währung} (einlösbare Punkte), \textit{Erfahrung}, \textit{Fähigkeiten}, \textit{Karma}, \textit{Ruf}, \textit{Klicks} oder \textit{Views}. Zichermann und Cunningham zufolge haben Punkte zusätzlich eine wichtige Funktion für den Game-Designer, da sie statistisch als Basis für die Nutzung der Software ausgewertet werden können \cite{Zichermann2011}.
 \\\\
-\textbf{Level}\\
+\subsubsection{Level}
 In den meisten Videospielen stellen \textit{Levels} den Spielerfortschritt da. Diese Level können auch bei Gamification-Anwendungen genutzt werden um den Anwender über seinen Fortschritt zu informieren. Sie dienen als Markierung für den Anwender die ihn darüber unterrichten, auf welcher Etappe der Player Journey er sich momentan befindet. Levels besitzen die Eigenschaft, krummlinig im Schwierigkeitsgrad zu steigen. Das bedeutet, mit steigendem Level wird das Erreichen des nächsten Levels immer schwieriger. Dies wird in Abbildung \ref{LevelkomplexitätBild} nochmal verdeutlicht.
 \\
 \begin{figure}[h!]
@@ -886,7 +886,7 @@ Ein gutes Level-Design kann dafür sorgen, dass der Anwender seinen Fortschritt 
 \\\\
 Wichtig für das Level-Design ist es, die Levels logisch anzuordnen und sie verständlich zu machen. Eben so ist es eine gute Idee beim Design darauf zu achten, dass die Levels erweitert werden können und das sie flexibel sind. Zum Schluss ist darauf zu achten, dass die Balance der Levels stimmig ist. So gilt es die Einstiegs-Level einfach und einsteigerfreundlich zu gestalten, während spätere Level komplex und herausfordernd sein müssen \cite{Zichermann2011}.
 \\\\
-\textbf{Ranglisten}\\
+\subsubsection{Ranglisten}
 Der Nutzen einer \textit{Rangliste} (Leaderboards) bzw. eines \textit{Highscores} ist es, eine einfache Vergleichsmöglichkeit zu schaffen. Vergleiche kann man dabei auf verschiedene Objekte beziehen wie z.B. Teams, Anwender, Länder, Gegenständen, eigene Erfolge und vieles mehr. Es überrascht nicht, dass die meisten Menschen keine Erklärungen benötigen, wenn es sich um eine Rangliste handelt. Eine geordnete Liste mit abgebildeten Punkten und nebenstehenden Namen symbolisiert uns bereits ein Ranglisten-System das keiner weiteren Erklärung bedarf (Abb.\ref{RanglistenBild}) \cite{Zichermann2011}.
 \\
 \begin{figure}[h!]
@@ -903,7 +903,7 @@ Zichermann und Cunningham unterscheiden in ihrem Buch zwei Arten von Ranglisten,
 \\\\
 Die zweite Variante wird als \enquote{unendliche Rangliste} (Infinite Leaderboards) bezeichnet. Diese Ranglisten enthalten den Rang aller (oder zumindest den Größtenteil von) Anwendern. Bei diesen Ranglisten lohnt es sich eine Aufteilung vorzunehmen die lediglich das nähere Umfeld anzeigt. Dadurch soll der Anwender nicht durch seine Platzierung demotiviert werden \cite{Zichermann2011}. Beim Design der Rangliste ist ebenfalls auf die Erfassung der Daten zu achten. Bei den Daten die für die Berechnung des Ranges eines Anwenders verantwortlich sind kann es sich um Private oder Sensibel Informationen handeln die auch schwierig zu beziffern sein können \cite{Zichermann2011}. Deswegen stellt das Design einer Rangliste eine besondere Herausforderung für die Entwickler da.
 \\\\
-\textbf{Abzeichen und Trophäen}\\ 
+\subsubsection{Abzeichen und Trophäen} 
 \textit{Abzeichen} bzw. Auszeichnungen(Badges) und Trophäen sind nicht nur aus Spielen oder Gamification bekannt, sondern dienen schon seit langen für das würdigen besonderer Leistungen. Beim Militär werden Abzeichen für Leistungen wie besondere Tapferkeit vergeben und bei den Pfadfindern symbolisieren Abzeichen den Nachweis einer Fähigkeit oder Satz von Fähigkeiten. Die Abzeichen werden als Anerkennung vergeben wobei es in der Regel unwichtig ist, ob diese in der Realen Welt oder im IT-Bereich vergeben werden. 
 \\\\
 Verwendet werden die Abzeichen bei gamifizierten Anwendungen um einen bestimmten Status zu signalisieren. Wie bei Punkten auch gelten Abzeichen als Eigentum eines Anwenders und zeichnen diesen für das ausführen einer bestimmten Tätigkeit oder das erbringen einer entsprechenden Leistung aus. Dadurch wird dem Anwender ein besonderer und spezieller \enquote{Status} zugeschrieben, den dieser Anwender erreicht hat. Damit Auszeichnungen ihre Wirkungsweise als Statussymbol entfalten können, sollte es möglich sein, die Abzeichen in einer Community zu präsentieren.    
