@@ -52,3 +52,4 @@
 \contentsline {subsubsection}{\numberline {3.7.3}Ranglisten}{50}{subsubsection.3.7.3}
 \contentsline {subsubsection}{\numberline {3.7.4}Abzeichen und Troph\IeC {\"a}en}{51}{subsubsection.3.7.4}
 \contentsline {subsection}{\numberline {3.8}Zusammenfassung}{52}{subsection.3.8}
+\contentsline {section}{\numberline {4}Konzeption}{55}{section.4}
