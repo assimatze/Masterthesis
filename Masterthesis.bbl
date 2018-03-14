@@ -187,8 +187,7 @@ Daniel~H Pink.
 \newblock Ecowin, 2010.
 
 \bibitem{CEGE2016}
-Bill Hardin.
-\newblock Mock data analysis with cege model.
+Bill Hardin:~Mock data analysis~with CEGE~model.
 \newblock
   \url{http://www.gamersexperience.com/mock-data-analysis-with-cege-model/},
   2016.
@@ -205,8 +204,7 @@ Sebastian Deterding.
 \newblock In {\em Workshop Papers CHI2013}, 2013.
 
 \bibitem{SkillAtoms2006}
-Daniel Cook.
-\newblock The chemistry of game-design.
+Daniel Cook: The~Chemistry of~Game-Design.
 \newblock
   \url{https://www.gamasutra.com/view/feature/1524/the_chemistry_of_game_design.php?print=1},
   2006.
@@ -219,8 +217,7 @@ Robin Hunicke, Marc LeBlanc, and Robert Zubek.
   volume~4, pages 1--5. AAAI Press San Jose, CA, 2004.
 
 \bibitem{GameMechanics2006}
-Daniel Cook.
-\newblock What are game mechanics?
+Daniel Cook.~What are Game~Mechanics?
 \newblock \url{http://www.lostgarden.com/2006/10/what-are-game-mechanics.html},
   2006.
 \newblock {Zeitstempel: 24.02.2018}.
@@ -255,5 +252,13 @@ Trove Wiki.
 \newblock Leaderboards.
 \newblock \url{http://trove.wikia.com/wiki/Leaderboards}, 2016.
 \newblock {Zeitstempel: 01.03.2018}.
+
+\bibitem{Persona2018}
+Mario~Herger und Rikke~Dam.
+\newblock The persona template for gamification.
+\newblock
+  \url{https://www.interaction-design.org/literature/article/the-persona-template-for-gamification},
+  2018.
+\newblock {Zeitstempel: 13.03.2018}.
 
 \end{thebibliography}

@@ -53,3 +53,4 @@
 \contentsline {subsubsection}{\numberline {3.7.4}Abzeichen und Troph\IeC {\"a}en}{51}{subsubsection.3.7.4}
 \contentsline {subsection}{\numberline {3.8}Zusammenfassung}{52}{subsection.3.8}
 \contentsline {section}{\numberline {4}Konzeption}{55}{section.4}
+\contentsline {subsection}{\numberline {4.1}Erforschen der Player Goals und Business Objectives}{55}{subsection.4.1}

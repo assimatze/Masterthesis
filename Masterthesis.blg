@@ -17,45 +17,45 @@ Warning--empty journal in Vester2009
 Warning--empty journal in Lazzaro2004
 Warning--empty journal in Cege2009
 Warning--can't use both volume and number fields in Hunicke2004
-You've used 43 entries,
+You've used 44 entries,
             1791 wiz_defined-function locations,
-            686 strings with 9752 characters,
-and the built_in function-call counts, 7356 in all, are:
-= -- 659
-> -- 224
+            690 strings with 9976 characters,
+and the built_in function-call counts, 7464 in all, are:
+= -- 666
+> -- 228
 < -- 6
-+ -- 100
-- -- 57
-* -- 246
-:= -- 1132
-add.period$ -- 137
-call.type$ -- 43
-change.case$ -- 21
++ -- 102
+- -- 58
+* -- 247
+:= -- 1148
+add.period$ -- 138
+call.type$ -- 44
+change.case$ -- 19
 chr.to.int$ -- 0
-cite$ -- 48
-duplicate$ -- 404
-empty$ -- 865
-format.name$ -- 57
-if$ -- 1739
+cite$ -- 49
+duplicate$ -- 409
+empty$ -- 883
+format.name$ -- 58
+if$ -- 1766
 int.to.chr$ -- 0
-int.to.str$ -- 43
+int.to.str$ -- 44
 missing$ -- 47
-newline$ -- 223
-num.names$ -- 42
-pop$ -- 242
+newline$ -- 226
+num.names$ -- 43
+pop$ -- 248
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 165
+skip$ -- 170
 stack$ -- 0
 substring$ -- 201
-swap$ -- 85
+swap$ -- 86
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 5
-while$ -- 62
-width$ -- 45
-write$ -- 451
+while$ -- 63
+width$ -- 46
+write$ -- 457
 (There were 2 error messages)
