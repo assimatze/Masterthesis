@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.10.17)  19 MAR 2018 17:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.10.17)  19 MAR 2018 18:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2534,7 +2534,12 @@ Package babel Info: Redefining ngerman shorthand "~
 [56]
 File: Bilder/ConfluenceStart.eps Graphic file (type eps)
  <Bilder/ConfluenceStart.eps>
-Underfull \hbox (badness 10000) in paragraph at lines 984--996
+Underfull \hbox (badness 10000) in paragraph at lines 984--998
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 984--998
 
  []
 
@@ -2542,14 +2547,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 984--996
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1032.
+(babel)             in language  on input line 998.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1032.
+(babel)             in language  on input line 998.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1032.
+(babel)             in language  on input line 998.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1032.
-[57] (./Masterthesis.lot)
+(babel)             in language  on input line 998.
+[57]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1034.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1034.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1034.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1034.
+ [58] (./Masterthesis.lot)
 \tf@lot=\write5
 \openout5 = `Masterthesis.lot'.
 
@@ -2558,14 +2572,14 @@ Package babel Info: Redefining ngerman shorthand "~
 \openout6 = `Masterthesis.lof'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1035.
+(babel)             in language  on input line 1037.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1035.
+(babel)             in language  on input line 1037.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1035.
+(babel)             in language  on input line 1037.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1035.
- [58] (./Masterthesis.bbl
+(babel)             in language  on input line 1037.
+ [59] (./Masterthesis.bbl
 Overfull \hbox (183.24371pt too wide) in paragraph at lines 39--44
 []\T1/aer/m/n/12 BJ Fogg: Ver-hal-tens-mo-dell.  [][][][][][],
  []
@@ -2588,7 +2602,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 102.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 102.
-[59]
+[60]
 Overfull \hbox (129.73834pt too wide) in paragraph at lines 104--110
 [][][][][][]\T1/aer/m/n/12 ,
  []
@@ -2627,7 +2641,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 201.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 201.
-[60]
+[61]
 Underfull \hbox (badness 10000) in paragraph at lines 207--212
 []\T1/aer/m/n/12 Daniel Cook: The Che-mistry of Game-Design.
  []
@@ -2659,20 +2673,20 @@ Overfull \hbox (135.9063pt too wide) in paragraph at lines 257--263
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1038.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1040.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1038.
+(babel)             in language  on input line 1040.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1038.
+(babel)             in language  on input line 1040.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1038.
+(babel)             in language  on input line 1040.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1038.
- [61]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1038.
+(babel)             in language  on input line 1040.
+ [62]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1040.
  (./Masterthesis.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1038.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1038.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1040.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1040.
 
 Package rerunfilecheck Info: File `Masterthesis.out' has not changed.
 (rerunfilecheck)             Checksum: F090D4148FF657E4A0A61727438A80B9;4765.
@@ -2690,4 +2704,4 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  42i,11n,51p,8850b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Masterthesis.dvi (61 pages, 370360 bytes).
+Output written on Masterthesis.dvi (62 pages, 372088 bytes).
