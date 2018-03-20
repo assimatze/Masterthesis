@@ -12,6 +12,7 @@ Repeated entry---line 107 of file library2.bib
  : @misc{Merkmale2018
  :                   ,
 I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Zeitersparnis"
 Warning--empty journal in Prause2013
 Warning--empty journal in Vester2009
 Warning--empty journal in Lazzaro2004
@@ -19,7 +20,7 @@ Warning--empty journal in Cege2009
 Warning--can't use both volume and number fields in Hunicke2004
 You've used 44 entries,
             1791 wiz_defined-function locations,
-            690 strings with 9976 characters,
+            692 strings with 10002 characters,
 and the built_in function-call counts, 7464 in all, are:
 = -- 666
 > -- 228
