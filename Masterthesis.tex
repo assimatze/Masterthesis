@@ -197,7 +197,7 @@ Als Gesamtergebniss dieser ersten Phase, sind die Gamification Elemente zu verst
 Im zweiten Teil dieser Arbeit wird die technische Umsetzung beschrieben. Es wird dokumentiert, wie die Confluence Wiki konfiguriert wird und wie die aus Phase Eins erarbeiteten Gamification Elemente in die Wiki zu integrieren sind. Des weiteren sollen in dieser Phase Kennzahlen und Messwerte festgehalten werden. Diese Zahlen sollen genutzt werden um die Veränderung der Wissenserfassungsbereitschaft zu messen. Hierfür soll ein einfacher Vergleich von Alter-Zustand zu Neuer-Zustand gezogen werden. Dabei steht der Alter-Zustand für Confluence ohne Gamification und der Neuer-Zustand für Confluence mit Gamification.
 \\\\
 Im letzten Teil dieser Arbeit sollen die Ergebnisse aus dem Vergleich von Alter-Zustand zu Neuer-Zustand präsentiert und untersucht werden. Diese Bewertung soll Aufschluss darüber geben wie rentable es ist, Gamification Elemente für das konkrete Beispiel des Dokumentationsprozesses zu nutzen. Zum Schluss soll die Arbeit mit einem Fazit und einem Ausblick einblicke in zukünftige Projekte geben.
-
+\newpage
 \section{Knowledge Management}
 In diesem Kapitel sollen die Grundlagen aus dem Bereich Knowledge Management erläutert werden, die für diese Arbeit relevant sind. Das Thema Knowledge Management ist zu umfangreich um in seiner Gesamtheit für diese Arbeit in Betracht genommen zu werden. Deswegen soll sich in dieser Arbeit nur auf das Knowledge Capturing (Wissen erfassen, dokumentieren) als Untergruppe des Knowledge Management beschränkt werden. Hierzu sollen zunächst die in diesem Kapitel verwendeten Begrifflichkeiten definiert und erklärt werden. Im Anschluss wird beschrieben, was der generelle nutzen des Knowledge Capturing ist und was die Vorteile und Schwierigkeiten dieses Prozesses sind. Des weiteren sollen die Qualitätsmerkmale einer Wissensbasis aufgeführt und anhand von Beispielen erklärt werden. Darauf folgen Gründe, warum Informationen ungerne gesichert werden.
 \\\\
@@ -224,24 +224,24 @@ Die Rückzahlung bei technischen Schulden erfolgt durch das erneute investieren 
 
 \subsection{Zweck einer Wissensbasis}
 Der Zweck einer Wissensbasis besteht darin, dass relevante Information zu einem Thema gesammelt, gespeichert und aufbereitet werden. Diese Informationen werden aus verschiedenen Gründen erfasst und gespeichert.
-
-\subsubsection{Spätere Verwendung der Information für Autor}
+\\\\
+\textbf{Spätere Verwendung der Information für Autor}\\
 Eine Studie von Parnin im Jahr 2010 \cite{Parnin2010} über kognitive Prozesse von Entwicklern beschreibt das Problem im Bereich der Softwareentwicklung: Ein Entwickler dessen Aufgabe darin besteht Quellcode zu generieren verliert schon gleich nach der Implementierung des Codes Informationen die für Änderungen oder Erweiterungen des Codes wichtig wären. Dieses Wissen geht verloren, solange es nicht ausreichend dokumentiert wird. Nach nur wenigen Minuten Ablenkung verliert ein Entwickler bereits seine gut durchdachten Gedankengänge \cite{Graham2004}. Nach wenigen Tagen verblasen Informationen zu ausgewählten Namen und Identifizierern. Nach Wochen verliert ein Entwickler seine Erinnerung an die Mentale Repräsentation die benötigt wird um Aufgaben in Bezug auf den Quellcode zu erfüllen. Es zeigt sich also, dass die menschliche Erinnerung nicht effektiv genug Informationen und Wissen abspeichern kann \cite{Graham2004}.
-
-\subsubsection{Mitarbeiter schneller in das Projekt integrieren} 
+\\\\
+\textbf{Mitarbeiter schneller in das Projekt integrieren}\\
 Der Prozess des Onboardings (einen neuen Mitarbeiter in das Projekt einzulernen) ist ein wichtiger Prozess in der IT Branche und besonders bei Beratungsfirmen. Die Fachkenntnisse die in Form von Beratern von Kunden eingekauft werden, bestimmen den Wert der Dienstleistung gegenüber dem Kunden. Mitarbeiter wechseln häufiger nach Bedarf oder Aufgrund von spezifischen Fachkenntnissen die Projekte. Dadurch entstehen zwei Probleme für das Projekt. Verlässt ein Mitarbeiter ein Projekt so verliert es effektiv an Wissen in Form des Mitarbeiters. Wird dieses wertvolle Wissen nicht rechtzeitig gesichert, entstehen finanzielle Kosten. Die Kosten beziehen sich dabei auf erneute Zeitinvestitionen die gemacht werden müssen, um das verlorene Wissen wieder aufzuarbeiten.
 \\\\
 Zudem sind neue Mitarbeiter mit dem Projekt und dessen Wissenbasis (Dokumentation) nicht vertraut. Das einarbeiten eines Mitarbeiters kostet Zeit und unter Umständen Personal. Um das Einlernen effizienter zu gestalten, ist eine verständliche Wissenbasis unerlässlich. Sie bietet einen Startpunkt in das Projekt für den Mitarbeiter, gibt ihm grundlegende Informationen und ermöglicht ihm Fragen im Vorfeld eigenständig zu beantworten. Desto verständlicher und strukturierter die Wissenbasis, desto effizienter ist der Onboarding-Prozess.   
 \\\\
 Hinzu kommt das neue Mitarbeiter ihre Probleme effizienter kommunizieren können, da die Kommunikation über die Wissenbasis geführt werden kann. Somit können Senior Mitarbeiter (Mitarbeiter die mit den Projekt gut vertraut sind) einfach auf die Wissenbasis verweisen wenn es Unklarheiten gibt. 
-
-\subsubsection{Erweiterbarkeit des Projektes wird gesichert}
+\\\\
+\textbf{Erweiterbarkeit des Projektes wird gesichert}\\
 Durch eine strukturierte Wissensbasis in Form einer Dokumentation können leichter Änderungen an den Projekten durchgeführt werden. Die Informationen die hierfür aus der Dokumentation genutzt werden verhindern, das Änderungen an der falschen Stelle gemacht werden. Die Informationen helfen ebenfalls zu ermitteln, welche Lösungsansätze bereits versucht worden sind und wie erfolgreich diese waren. Es fällt ebenfalls leichter zu erkennen, ob die verlangten Änderungen umsetzbar sind oder nicht.
-
-\subsubsection{Wartbarkeit der Software wird sicher gestellt}
+\\\\
+\textbf{Wartbarkeit der Software wird sicher gestellt}\\
 Das Warten und Instandhalten von Software gehört immer mehr zu den Tätigkeiten eines Entwickler. Deswegen ist es auch hier wichtig, eine verständliche Wissensbasis mit entsprechenden Informationen zu haben die erklären, wie die Software oder das System arbeitet. Dadurch können Fehlerquellen eingegrenzt bzw. identifiziert werden. Fehler die häufiger auftreten, können ebenso in die Dokumentation aufgenommen werden wie grundsätzliche Einstellungen und Konfigurationen.
- 
-\subsubsection{Nutzen für verteilte Projekte}
+\\\\
+\textbf{Nutzen für verteilte Projekte}\\
 Die Dokumentation dient bei verteilten Projekten ebenfalls als Kommunikationsmedium. Dies ist ein wichtiger Punkt für die esentri AG da nicht immer alle Mitglieder des Projektes Vor Ort sind und sich dadurch längere und vor allem kompliziertere Kommunikationswege auftun. Durch das Verweisen auf die Dokumentation, können umständlicher Kommunikationskanäle wie Telefongespräche oder E-Mails reduziert werden oder komplett wegbleiben. Obwohl eine Dokumentation es nicht vermag komplett auf Meetings oder Besprechungen zu verzichten, helfen sie doch durch ein gemeinsames Wissensvokabular diese Meetings effizienter zu gestalten. 
 
 \subsection{Die Hürden des Wissenserfassungsprozesses}
@@ -506,7 +506,7 @@ Die äußerlichen Auslöser sind daran zu erkennen, dass die Information die den
 \label{externaltriggerBild}
 \end{center}
 \end{figure}
-\\
+\\\\
 Bei den äußerlichen Auslösern handelt es sich z.b um verschieden Knöpfe in entweder digitaler oder mechanischer Form. Die Darstellung der Apps auf den Screens unsere Smartphones sind ebenfalls äußerliche Auslöser. Diese Auslöser erlauben es die folgende Aktivität (Video abspielen, E-mail lesen, Nachricht senden etc.) direkt zu starten. Diese Auslöser gibt es in verschiedensten Formen und sind klar verständlich und sehr intuitiv. Mit anderen Worten sie sind kinderleicht zu erkennen und zu bedienen\cite{Eyal2014}.
 \\\\
 Die innerlichen Auslöser beziehen sich nun mehr auf die menschliche Psychologie. Während die äußerlichen Auslöser sich durch technische Lösungen darstellen, sind die innerlichen Auslöser die aus dem inneren eines jeden Menschen kommen. Gemeint sind damit unter anderem, Emotionen, andere Menschen, spezielle Situationen, Orte oder gar Routinen (Abb.\ref{internalTriggerBild}).
@@ -542,7 +542,7 @@ In diesem Kapitel haben wir den Zweck einer Wissensbasis und deren Vorteile beha
    \end{itemize}
 \end{description}
 Diese Anforderungen werden in Kapitel \ref{Konzeption} nochmal aufgegriffen und für die Konzeption verwendet. Nun müssen die entsprechenden Gamification Elemente herausgearbeitet werden, mit denen sich diese Anforderungen umsetzten lassen.    
-
+\newpage
 \section{Grundlagen der Gamification}
 Nach Deterding beschreibt Gamification ein Design-Konzept der HCI (Human-Computer-Interaction) \cite{Deterding2011}. Bei der Entwicklung von gamifizierten IT-Anwendungen überträgt man aus dem Game-Design bekannte Design-Elemente, Prinzipien und Mechanismen auf einen vorhandenen oder angedachten Prozess. Das Ziel ist es, Anwender bei diesem Prozess zusätzlich zu engagieren und zu motivieren. Der zu gamifizierende Prozess oder die gamifizierte Anwendung dürfen aber nicht als ein Spiel betrachtet werden, da es zwischen einem Spiel und Gamification generelle Unterscheidungsmerkmale gibt, wie beispielsweise das Fehlen von \enquote{Gameplay} sowie das Vorhanden sein einer Zweckmäßigkeit. Dies soll nochmals durch die Abbildung \ref{GamificationDiffBild} verdeutlicht werden.     
 \\
@@ -892,7 +892,7 @@ In den meisten Videospielen stellen \textit{Levels} den Spielerfortschritt da. D
 \\
 Ein gutes Level-Design kann dafür sorgen, dass der Anwender seinen Fortschritt in der Gamification-Anwendung als fesselnde Erfahrung wahrnimmt, während er Selbstbewusstsein und Erfahrung im Umgang mit der Anwendung entwickelt \cite{Zichermann2011}. Zusätzlich wird ihn durch die Levels immer ins Bewusstsein gerufen, wo seine Reise begonnen hat und sie bietet ihm auch immer einen Ausblick in die Zukunft und ein Ziel. Durch diese Rückblicke in frühere Levels wird dem Anwender die Bedeutung seines handelns bewusst, dadurch kann der Zweck der Handlung oder die Bedeutung der Tätigkeit innerhalb der gamifizierten Anwendungen für ihn steigen \cite{Zichermann2011}.
 \\\\
-Wichtig für das Level-Design ist es, die Levels logisch anzuordnen und sie verständlich zu machen. Eben so ist es eine gute Idee beim Design darauf zu achten, dass die Levels erweitert werden können und das sie flexibel sind. Zum Schluss ist darauf zu achten, dass die Balance der Levels stimmig ist. So gilt es die Einstiegs-Level einfach und einsteigerfreundlich zu gestalten, während spätere Level komplex und herausfordernd sein müssen \cite{Zichermann2011}.
+Wichtig für das Level-Design ist es, die Levels logisch anzuordnen und sie verständlich zu machen. Eben so ist es eine gute Idee beim Design darauf zu achten, dass die Levels erweitert werden können und das sie flexibel sind. Zum Schluss ist darauf zu achten, dass die Balance der Levels stimmig ist. So gilt es die Einstiegs-Level und einsteigerfreundlich zu gestalten, während spätere Level komplex und herausfordernd sein müssen \cite{Zichermann2011}.
 
 \subsubsection{Ranglisten}
 Der Nutzen einer \textit{Rangliste} (Leaderboards) bzw. eines \textit{Highscores} ist es, eine einfache Vergleichsmöglichkeit zu schaffen. Vergleiche kann man dabei auf verschiedene Objekte beziehen wie z.B. Teams, Anwender, Länder, Gegenständen, eigene Erfolge und vieles mehr. Es überrascht nicht, dass die meisten Menschen keine Erklärungen benötigen, wenn es sich um eine Rangliste handelt. Eine geordnete Liste mit abgebildeten Punkten und nebenstehenden Namen symbolisiert uns bereits ein Ranglisten-System das keiner weiteren Erklärung bedarf (Abb.\ref{RanglistenBild}) \cite{Zichermann2011}.
@@ -984,7 +984,7 @@ Um ein besseres Verständnis für die Ziele und Bedürfnisse der Player zu bekom
 Die Fragen sollen Aufschluss darüber geben, über welche positiven und negativen Eigenschaften die Confluence Wiki zum momentanen Zeitpunkt verfügt. Außerdem soll ermittelt werden, welche Verbesserungen sich die Player wünschen. Man könnte argumentieren, dass die Frage nach positiven Eigenschaften in der Confluence Wiki nicht Teil dieser Arbeit sein sollte. Da das Ziel dieser Arbeit darin besteht, die negativen Aspekte der Confluence Wiki mit Gamification zu optimieren. Aber gerade deswegen sind Fragen nach positiven Eindrücken wichtig. Die positiven Aspekte der Confluence Wiki sollen bei der Gamification Umsetzung von Confluence wenn möglich nicht verändert werden, sie ermöglichen aber zusätzliche Einblicke in die Verhaltensweise des Players, da mit den Fragen zu den positiven Aspekte eine Übersicht entsteht, was dem Player innerhalb des Prozesses wichtig ist.
 \\\\
 \textbf{Fragen 1,2,3 der Schreib-Prozess}\\
-Aus der Umfrage ergaben sich folgende Ergebnisse für die Schreib-Tätigkeit. Es wurde von den Player als positiv gewertet, dass das Erstellen eines neuen Eintrages in die Confluence Wiki einfach und schnell funktioniert. Man kann immer über einen einzigen Klick an Ort und Stelle einen neuen Eintrag generieren (Abb.\ref{ConfluenceEintragErstellen}). Ein weiterer Vorteil der Confluence Wiki die von den Playern bestätigt wurde ist, dass die Einträge sichtbar für alle Mitarbeiter sind und es den Player ermöglicht wird sofort nach der Erstellung des Eintrages darauf zuzugreifen. Außerdem wurden die verschiedenen Struktur Möglichkeiten in Form von Tabellen oder Inhaltsverzeichnisse ebenfalls als positiv gewertet. Dadurch lassen sich Einträge in der Anwendung unterschiedlich anordnen und man kann ihnen sonder Funktionen zuweisen wie z.B das bestätigen einer Checkliste die als eine einfache Tabelle umgesetzt wird. 
+Aus der Umfrage ergaben sich folgende Ergebnisse für den Schreib-Prozess in Confluence. Es wurde von den Player als positiv gewertet, dass das Erstellen eines neuen Eintrages in die Confluence Wiki einfach und schnell funktioniert. Man kann immer über einen einzigen Klick an Ort und Stelle einen neuen Eintrag generieren (Abb.\ref{ConfluenceEintragErstellen}). Ein weiterer Vorteil der Confluence Wiki die von den Playern bestätigt wurde ist, dass die Einträge sichtbar für alle Mitarbeiter sind und es den Player ermöglicht wird sofort nach der Erstellung des Eintrages darauf zuzugreifen. Außerdem wurden die verschiedenen Struktur Möglichkeiten in Form von Tabellen oder Inhaltsverzeichnisse ebenfalls als positiv gewertet. Dadurch lassen sich Einträge in der Anwendung unterschiedlich anordnen und man kann ihnen sonder Funktionen zuweisen wie z.B das bestätigen einer Checkliste die als eine einfache Tabelle umgesetzt wird. 
 \begin{figure}[h!]
 \begin{center}
 \includegraphics[scale = 0.4]{Bilder/ConfluenceStart.eps}
@@ -994,7 +994,11 @@ Aus der Umfrage ergaben sich folgende Ergebnisse für die Schreib-Tätigkeit. Es
 \end{figure} 
 Beschwert haben sich die Player über einen eingeschränkten Editor und über die Anordnung der Editor-Funktionen. Des weiteren gaben die Player im Fragebogen an, dass die Confluence Wiki unübersichtlich sei und die Features nicht richtig genutzt werden. Die Optik und das Layout der Seite wurden ebenfalls als negative Eigenschaften gewertet. Worüber sich die Player weiterhin beschwert haben war, dass die Einträge die gemacht werden schwierig einzuordnen sind. Weiß ein Player nicht genau, wo der Eintrag beim erstellen eingeordnet werden soll, so kann das Verschieben dieses Eintrags später für Schwierigkeiten sorgen.
 \\\\
-Die Verbesserungen die von Playern gewünscht wurden lauten, dass der Editor über mehr bzw. bessere Features erweitert wird und das diese auch sinnvoll gruppiert werden. Hinzukommen sollen außerdem noch mehr Freiheiten für die Gestaltung und Strukturierung vorgenommen werden. Es wird gewünscht das Layout zu verbessern und das beim Schreiben intelligente Vorschläge gemacht werden wo der Eintrag einzuordnen ist.     
+Die Verbesserungen die von Playern gewünscht wurden lauten, dass der Editor über mehr bzw. bessere Features erweitert wird und das diese auch sinnvoll gruppiert werden. Hinzukommen sollen außerdem noch mehr Freiheiten für die Gestaltung und Strukturierung vorgenommen werden. Es wird gewünscht das Layout zu verbessern und das beim Schreiben intelligente Vorschläge gemacht werden wo der Eintrag einzuordnen ist.
+\\\\
+\textbf{Fragen 4,5,6 der Lese-Prozess}
+
+     
 
  
 

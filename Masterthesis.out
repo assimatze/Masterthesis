@@ -10,48 +10,43 @@
 \BOOKMARK [1][-]{section.2}{Knowledge Management}{}% 10
 \BOOKMARK [2][-]{subsection.2.1}{Definitionen und Begrifflichkeiten}{section.2}% 11
 \BOOKMARK [2][-]{subsection.2.2}{Zweck einer Wissensbasis}{section.2}% 12
-\BOOKMARK [3][-]{subsubsection.2.2.1}{Sp\344tere Verwendung der Information f\374r Autor}{subsection.2.2}% 13
-\BOOKMARK [3][-]{subsubsection.2.2.2}{Mitarbeiter schneller in das Projekt integrieren}{subsection.2.2}% 14
-\BOOKMARK [3][-]{subsubsection.2.2.3}{Erweiterbarkeit des Projektes wird gesichert}{subsection.2.2}% 15
-\BOOKMARK [3][-]{subsubsection.2.2.4}{Wartbarkeit der Software wird sicher gestellt}{subsection.2.2}% 16
-\BOOKMARK [3][-]{subsubsection.2.2.5}{Nutzen f\374r verteilte Projekte}{subsection.2.2}% 17
-\BOOKMARK [2][-]{subsection.2.3}{Die H\374rden des Wissenserfassungsprozesses}{section.2}% 18
-\BOOKMARK [2][-]{subsection.2.4}{Vorteile des Wissensaustausch}{section.2}% 19
-\BOOKMARK [2][-]{subsection.2.5}{Qualit\344tsmerkmale einer Wissensbasis}{section.2}% 20
-\BOOKMARK [2][-]{subsection.2.6}{Gr\374nde f\374r die Vernachl\344ssigung des Wissenserfassungsprozesses}{section.2}% 21
-\BOOKMARK [2][-]{subsection.2.7}{Ursachen f\374r mangelnde Dokumentation}{section.2}% 22
-\BOOKMARK [2][-]{subsection.2.8}{Faktoren zum beeinflussen des Dokumentationsprozesses}{section.2}% 23
-\BOOKMARK [3][-]{subsubsection.2.8.1}{Verhaltensmodell im \334berblick}{subsection.2.8}% 24
-\BOOKMARK [2][-]{subsection.2.9}{Die Bestandteile von Verhalten, Motivation, F\344higkeit und Ausl\366ser}{section.2}% 25
-\BOOKMARK [3][-]{subsubsection.2.9.1}{Die Motivation eines Verhaltens}{subsection.2.9}% 26
-\BOOKMARK [3][-]{subsubsection.2.9.2}{Vergn\374gen und Belohnung}{subsection.2.9}% 27
-\BOOKMARK [3][-]{subsubsection.2.9.3}{Die F\344higkeit ein Verhalten umzusetzen}{subsection.2.9}% 28
-\BOOKMARK [3][-]{subsubsection.2.9.4}{F\344higkeitsmerkmal Zeit}{subsection.2.9}% 29
-\BOOKMARK [3][-]{subsubsection.2.9.5}{F\344higkeitsmerkmal Verst\344ndnis}{subsection.2.9}% 30
-\BOOKMARK [3][-]{subsubsection.2.9.6}{F\344higkeitsmerkmal soziale Abweichung}{subsection.2.9}% 31
-\BOOKMARK [3][-]{subsubsection.2.9.7}{Die Ausl\366ser eines Verhaltens}{subsection.2.9}% 32
-\BOOKMARK [2][-]{subsection.2.10}{Zusammenfassung des Knowledge Managements}{section.2}% 33
-\BOOKMARK [1][-]{section.3}{Grundlagen der Gamification}{}% 34
-\BOOKMARK [2][-]{subsection.3.1}{Game vs. Play}{section.3}% 35
-\BOOKMARK [2][-]{subsection.3.2}{Game-Design Elemente}{section.3}% 36
-\BOOKMARK [2][-]{subsection.3.3}{Game-Design: Grunds\344tze}{section.3}% 37
-\BOOKMARK [3][-]{subsubsection.3.3.1}{Das Kompetenz-Bed\374rfnis}{subsection.3.3}% 38
-\BOOKMARK [3][-]{subsubsection.3.3.2}{Das Autonomie-Bed\374rfnis}{subsection.3.3}% 39
-\BOOKMARK [3][-]{subsubsection.3.3.3}{Das Eingebundenheits-Bed\374rfnis}{subsection.3.3}% 40
-\BOOKMARK [3][-]{subsubsection.3.3.4}{Das Zweck-Bed\374rfnis}{subsection.3.3}% 41
-\BOOKMARK [2][-]{subsection.3.4}{Game-Design: Modelle}{section.3}% 42
-\BOOKMARK [3][-]{subsubsection.3.4.1}{Core Elements of the Gaming Experience-Modell}{subsection.3.4}% 43
-\BOOKMARK [3][-]{subsubsection.3.4.2}{Skill Atom Modell}{subsection.3.4}% 44
-\BOOKMARK [3][-]{subsubsection.3.4.3}{MDA-Modell}{subsection.3.4}% 45
-\BOOKMARK [2][-]{subsection.3.5}{Game-Design Methode: Player-Centric Design}{section.3}% 46
-\BOOKMARK [2][-]{subsection.3.6}{Game-Design: Spiele-Mechaniken}{section.3}% 47
-\BOOKMARK [2][-]{subsection.3.7}{Game-Design: Interface-Elemente}{section.3}% 48
-\BOOKMARK [3][-]{subsubsection.3.7.1}{Punkte und virtuelle W\344hrung}{subsection.3.7}% 49
-\BOOKMARK [3][-]{subsubsection.3.7.2}{Level}{subsection.3.7}% 50
-\BOOKMARK [3][-]{subsubsection.3.7.3}{Ranglisten}{subsection.3.7}% 51
-\BOOKMARK [3][-]{subsubsection.3.7.4}{Abzeichen und Troph\344en}{subsection.3.7}% 52
-\BOOKMARK [2][-]{subsection.3.8}{Zusammenfassung}{section.3}% 53
-\BOOKMARK [1][-]{section.4}{Konzeption}{}% 54
-\BOOKMARK [2][-]{subsection.4.1}{Erforschen der Player Goals und Business Objectives}{section.4}% 55
-\BOOKMARK [3][-]{subsubsection.4.1.1}{Bestimmen der Zielgruppe}{subsection.4.1}% 56
-\BOOKMARK [3][-]{subsubsection.4.1.2}{Erstellung und Analyse des Fragebogens}{subsection.4.1}% 57
+\BOOKMARK [2][-]{subsection.2.3}{Die H\374rden des Wissenserfassungsprozesses}{section.2}% 13
+\BOOKMARK [2][-]{subsection.2.4}{Vorteile des Wissensaustausch}{section.2}% 14
+\BOOKMARK [2][-]{subsection.2.5}{Qualit\344tsmerkmale einer Wissensbasis}{section.2}% 15
+\BOOKMARK [2][-]{subsection.2.6}{Gr\374nde f\374r die Vernachl\344ssigung des Wissenserfassungsprozesses}{section.2}% 16
+\BOOKMARK [2][-]{subsection.2.7}{Ursachen f\374r mangelnde Dokumentation}{section.2}% 17
+\BOOKMARK [2][-]{subsection.2.8}{Faktoren zum beeinflussen des Dokumentationsprozesses}{section.2}% 18
+\BOOKMARK [3][-]{subsubsection.2.8.1}{Verhaltensmodell im \334berblick}{subsection.2.8}% 19
+\BOOKMARK [2][-]{subsection.2.9}{Die Bestandteile von Verhalten, Motivation, F\344higkeit und Ausl\366ser}{section.2}% 20
+\BOOKMARK [3][-]{subsubsection.2.9.1}{Die Motivation eines Verhaltens}{subsection.2.9}% 21
+\BOOKMARK [3][-]{subsubsection.2.9.2}{Vergn\374gen und Belohnung}{subsection.2.9}% 22
+\BOOKMARK [3][-]{subsubsection.2.9.3}{Die F\344higkeit ein Verhalten umzusetzen}{subsection.2.9}% 23
+\BOOKMARK [3][-]{subsubsection.2.9.4}{F\344higkeitsmerkmal Zeit}{subsection.2.9}% 24
+\BOOKMARK [3][-]{subsubsection.2.9.5}{F\344higkeitsmerkmal Verst\344ndnis}{subsection.2.9}% 25
+\BOOKMARK [3][-]{subsubsection.2.9.6}{F\344higkeitsmerkmal soziale Abweichung}{subsection.2.9}% 26
+\BOOKMARK [3][-]{subsubsection.2.9.7}{Die Ausl\366ser eines Verhaltens}{subsection.2.9}% 27
+\BOOKMARK [2][-]{subsection.2.10}{Zusammenfassung des Knowledge Managements}{section.2}% 28
+\BOOKMARK [1][-]{section.3}{Grundlagen der Gamification}{}% 29
+\BOOKMARK [2][-]{subsection.3.1}{Game vs. Play}{section.3}% 30
+\BOOKMARK [2][-]{subsection.3.2}{Game-Design Elemente}{section.3}% 31
+\BOOKMARK [2][-]{subsection.3.3}{Game-Design: Grunds\344tze}{section.3}% 32
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Das Kompetenz-Bed\374rfnis}{subsection.3.3}% 33
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Das Autonomie-Bed\374rfnis}{subsection.3.3}% 34
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Das Eingebundenheits-Bed\374rfnis}{subsection.3.3}% 35
+\BOOKMARK [3][-]{subsubsection.3.3.4}{Das Zweck-Bed\374rfnis}{subsection.3.3}% 36
+\BOOKMARK [2][-]{subsection.3.4}{Game-Design: Modelle}{section.3}% 37
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Core Elements of the Gaming Experience-Modell}{subsection.3.4}% 38
+\BOOKMARK [3][-]{subsubsection.3.4.2}{Skill Atom Modell}{subsection.3.4}% 39
+\BOOKMARK [3][-]{subsubsection.3.4.3}{MDA-Modell}{subsection.3.4}% 40
+\BOOKMARK [2][-]{subsection.3.5}{Game-Design Methode: Player-Centric Design}{section.3}% 41
+\BOOKMARK [2][-]{subsection.3.6}{Game-Design: Spiele-Mechaniken}{section.3}% 42
+\BOOKMARK [2][-]{subsection.3.7}{Game-Design: Interface-Elemente}{section.3}% 43
+\BOOKMARK [3][-]{subsubsection.3.7.1}{Punkte und virtuelle W\344hrung}{subsection.3.7}% 44
+\BOOKMARK [3][-]{subsubsection.3.7.2}{Level}{subsection.3.7}% 45
+\BOOKMARK [3][-]{subsubsection.3.7.3}{Ranglisten}{subsection.3.7}% 46
+\BOOKMARK [3][-]{subsubsection.3.7.4}{Abzeichen und Troph\344en}{subsection.3.7}% 47
+\BOOKMARK [2][-]{subsection.3.8}{Zusammenfassung}{section.3}% 48
+\BOOKMARK [1][-]{section.4}{Konzeption}{}% 49
+\BOOKMARK [2][-]{subsection.4.1}{Erforschen der Player Goals und Business Objectives}{section.4}% 50
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Bestimmen der Zielgruppe}{subsection.4.1}% 51
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Erstellung und Analyse des Fragebogens}{subsection.4.1}% 52
