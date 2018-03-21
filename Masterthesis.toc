@@ -48,6 +48,7 @@
 \contentsline {subsubsection}{\numberline {3.7.4}Abzeichen und Troph\IeC {\"a}en}{52}{subsubsection.3.7.4}
 \contentsline {subsection}{\numberline {3.8}Zusammenfassung}{53}{subsection.3.8}
 \contentsline {section}{\numberline {4}Konzeption}{56}{section.4}
-\contentsline {subsection}{\numberline {4.1}Erforschen der Player Goals und Business Objectives}{56}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.1}Erforschen der Player Goals und Gesch\IeC {\"a}ftsziele}{56}{subsection.4.1}
 \contentsline {subsubsection}{\numberline {4.1.1}Bestimmen der Zielgruppe}{57}{subsubsection.4.1.1}
 \contentsline {subsubsection}{\numberline {4.1.2}Erstellung und Analyse des Fragebogens}{57}{subsubsection.4.1.2}
+\contentsline {subsection}{\numberline {4.2}Gesch\IeC {\"a}ftsziele}{61}{subsection.4.2}
