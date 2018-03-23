@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.10.17)  23 MAR 2018 15:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.10.17)  23 MAR 2018 16:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2642,50 +2642,60 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1027.
 File: Bilder/Schnittmenge.eps Graphic file (type eps)
  <Bilder/Schnittmenge.eps>
-Underfull \hbox (badness 10000) in paragraph at lines 1028--1047
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1051
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1028--1047
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1051
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1028--1047
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1051
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1051
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1051
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1047.
+(babel)             in language  on input line 1051.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1047.
+(babel)             in language  on input line 1051.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1047.
+(babel)             in language  on input line 1051.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1047.
+(babel)             in language  on input line 1051.
 [61]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1047.
+(babel)             in language  on input line 1051.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1047.
+(babel)             in language  on input line 1051.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1047.
+(babel)             in language  on input line 1051.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1047.
+(babel)             in language  on input line 1051.
  [62]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1048.
+(babel)             in language  on input line 1052.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1048.
+(babel)             in language  on input line 1052.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1082.
+(babel)             in language  on input line 1086.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1082.
+(babel)             in language  on input line 1086.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1082.
+(babel)             in language  on input line 1086.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1082.
+(babel)             in language  on input line 1086.
  [63] (./Masterthesis.lot)
 \tf@lot=\write5
 \openout5 = `Masterthesis.lot'.
@@ -2695,13 +2705,13 @@ Package babel Info: Redefining ngerman shorthand "~
 \openout6 = `Masterthesis.lof'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1085.
+(babel)             in language  on input line 1089.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1085.
+(babel)             in language  on input line 1089.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1085.
+(babel)             in language  on input line 1089.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1085.
+(babel)             in language  on input line 1089.
  [64]
 (./Masterthesis.bbl
 Overfull \hbox (183.24371pt too wide) in paragraph at lines 39--44
@@ -2797,20 +2807,20 @@ Overfull \hbox (135.9063pt too wide) in paragraph at lines 257--263
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1088.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1092.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1088.
+(babel)             in language  on input line 1092.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1088.
+(babel)             in language  on input line 1092.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1088.
+(babel)             in language  on input line 1092.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1088.
+(babel)             in language  on input line 1092.
  [67]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1088.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1092.
  (./Masterthesis.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1088.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1088.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1092.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1092.
 
 Package rerunfilecheck Info: File `Masterthesis.out' has not changed.
 (rerunfilecheck)             Checksum: B420292370754BD0079ECA7067C03719;4407.
@@ -2828,4 +2838,4 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  42i,11n,51p,8850b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Masterthesis.dvi (67 pages, 387484 bytes).
+Output written on Masterthesis.dvi (67 pages, 388760 bytes).
