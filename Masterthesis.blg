@@ -12,51 +12,50 @@ Repeated entry---line 107 of file library2.bib
  : @misc{Merkmale2018
  :                   ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Zeitersparnis"
 Warning--empty journal in Prause2013
 Warning--empty journal in Vester2009
 Warning--empty journal in Lazzaro2004
 Warning--empty journal in Cege2009
 Warning--can't use both volume and number fields in Hunicke2004
-You've used 44 entries,
+You've used 46 entries,
             1791 wiz_defined-function locations,
-            692 strings with 10002 characters,
-and the built_in function-call counts, 7464 in all, are:
-= -- 666
-> -- 228
+            699 strings with 10314 characters,
+and the built_in function-call counts, 7730 in all, are:
+= -- 690
+> -- 236
 < -- 6
-+ -- 102
-- -- 58
-* -- 247
-:= -- 1148
-add.period$ -- 138
-call.type$ -- 44
-change.case$ -- 19
++ -- 106
+- -- 60
+* -- 249
+:= -- 1190
+add.period$ -- 145
+call.type$ -- 46
+change.case$ -- 20
 chr.to.int$ -- 0
-cite$ -- 49
-duplicate$ -- 409
-empty$ -- 883
-format.name$ -- 58
-if$ -- 1766
+cite$ -- 51
+duplicate$ -- 419
+empty$ -- 919
+format.name$ -- 60
+if$ -- 1830
 int.to.chr$ -- 0
-int.to.str$ -- 44
+int.to.str$ -- 46
 missing$ -- 47
-newline$ -- 226
-num.names$ -- 43
-pop$ -- 248
+newline$ -- 237
+num.names$ -- 45
+pop$ -- 260
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 170
+skip$ -- 175
 stack$ -- 0
 substring$ -- 201
-swap$ -- 86
+swap$ -- 88
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 5
-while$ -- 63
-width$ -- 46
-write$ -- 457
+while$ -- 65
+width$ -- 48
+write$ -- 479
 (There were 2 error messages)
