@@ -1058,7 +1058,8 @@ Wie wir bereits in Kapitel \ref{Zielgruppe} festgelegt haben, orientieren sich d
       \item Welche Personen sind die aktivsten Mitwirkenden bzw. Autoren von Inhalten? 
    \end{itemize}
 \end{description} 
-Somit erhalten wir durch die Verwendung des Plugins alle für die Geschäftsmetriken erforderlichen Daten. Leider können die Informationen nur für das aktuelle Jahr erhoben werden. Deswegen hat man sich innerhalb des Projektes darauf verständigt, die Daten für die letzten zwei Monate zu erheben und ausschließlich diese Daten zu verwenden.
+Somit erhalten wir durch die Verwendung des Plugins zwei Statistiken die für uns relevant sind. Die erste wäre die \textit{Viewing-Statistik} die angibt, wie viele Einträge der Confluence Wiki aufgerufen bzw. durchgelesen wurden.  Die zweite Statistik soll als Editing-Statistik bezeichnet werden und gibt an, wie viele Einträge erstellt oder bearbeitet wurden. Leider erlaubt das Plugin nur die \textit{Views} (Anzahl der aufgerufenen Einträge) und \textit{Edits} (Anzahl bearbeiteter oder erstellter Einträge) des aktuellen Jahres zu erheben. Deswegen hat man sich innerhalb des Projektes darauf verständigt, die Daten für die letzten zwei Monate zu erheben und ausschließlich diese Daten zu verwenden. Leider können keine Statistiken für die Such-Funktion von Confluence aufgestellt werden, da das \textit{Confluence Usage Stats Plugin} darüber keine Aussagen zulässt. Dadurch lässt sich für die Such-Funktion keine Geschäftsmetrik aufstellen und deswegen muss das Geschäftsziel der verbesserten Suche aus dieser Arbeit entfernt werden. Dadurch kann sich aber mehr auf die Views und das Editing konzentriert werden.   
+\\
 \begin{figure}[h!]
 \begin{center}
 \includegraphics[scale = 0.6]{Bilder/StatsFebView.eps}
@@ -1077,7 +1078,7 @@ Die Statistiken die durch das \textit{Confluence Usage Stats Plugin} aufgestellt
 \end{figure}
 \\
 Außerdem zeigt Abb.\ref{StatsFebEdit} ebenfalls an, wie viele \textit{Blogbeiträge} und \textit{Kommentare} im gesamten Monat geschrieben wurden. Wie anhand dieser Abbildung zu erkennen ist, bestätigt sich unsere in der Umfrage getroffene Annahme, dass die Kommentar-Funktion von Confluence von den Anwendern nicht verwendet wird. Dadurch sollte nochmals verdeutlicht worden sein, dass diese Funktion im weiteren Vorgehen vernachlässigt werden kann.
-\\\\
+\\
 \begin{figure}[h!]
 \begin{center}
 \includegraphics[scale = 0.5]{Bilder/StatsFebSpaces.eps}
@@ -1086,19 +1087,34 @@ Außerdem zeigt Abb.\ref{StatsFebEdit} ebenfalls an, wie viele \textit{Blogbeitr
 \end{center}
 \end{figure}
 \\
-An dieser Stelle sollen noch auf ein paar Punkte aufmerksam gemacht werden. Die \textit{Viewing-Statistik} (Abb.\ref{StatsFebView}) führt alle Einträge auf die Aufgerufen wurden. Es lässt sich durch diese Statistik nicht bestimmen, ob die Einträge aber auch wirklich komplett durchgelesen oder ob sie nur versehentlich aufgerufen wurden. Außerdem wird beim Erstellen und Editieren eines Eintrages automatisch der Eintrag aufgerufen und somit fließen also auch diese \textit{Views} in die Statistik mit ein.
+An dieser Stelle sollen noch auf ein paar Punkte aufmerksam gemacht werden. Die \textit{Viewing-Statistik} (Abb.\ref{StatsFebView}) führt alle Einträge auf die Aufgerufen wurden. Es lässt sich durch diese Statistik nicht bestimmen, ob die Einträge aber auch wirklich komplett durchgelesen oder ob sie nur versehentlich aufgerufen wurden. Außerdem wird beim Erstellen und Editieren eines Eintrages automatisch der Eintrag aufgerufen, somit wird durch das \textit{Editing} immer das \textit{Viewing} ausgelöst. Desto mehr Einträge also bearbeitet werden um so mehr steigt die Anzahl der Views. 
 \\\\
 \begin{table}[htb]
 \begin{center}
 \begin{tabular}{|c|c|c|}\hline
-\rule{0pt}{15pt} &\textbf{Februar}& \\
+\multicolumn{3}{|c|}{\textbf{Februar}} \rule{0pt}{15pt}\\
 \hline
 \rule{0pt}{15pt} \textbf{Views} & \textbf{Tage} & \textbf{Geschäftsmetrik} \\ 
 \hline
 \rule{0pt}{15pt} ca. 9600 & 20 & ca. 480 Views/Tag \\
 \hline
 \end{tabular}
-\caption{Experten die ein Problem im Dokumentationsverhalten sahen.}
+\caption{Geschäftsmetrik der Views für Februar.}
+\label{ProblemTabelle}
+\end{center}
+\end{table}
+
+\begin{table}[htb]
+\begin{center}
+\begin{tabular}{|c|c|c|}\hline
+\multicolumn{3}{|c|}{\textbf{Februar}} \rule{0pt}{15pt}\\
+\hline
+\rule{0pt}{15pt} \textbf{Edits} & \textbf{Tage} & \textbf{Geschäftsmetrik} \\ 
+\hline
+\rule{0pt}{15pt} ca. 1870 & 20 & ca. 93 Edits/Tag \\
+\hline
+\end{tabular}
+\caption{Geschäftsmetrik der Edits für Februar.}
 \label{ProblemTabelle}
 \end{center}
 \end{table}
