@@ -1033,14 +1033,6 @@ Die Antworten aus der Umfrage haben verdeutlicht, dass es den Playern wichtig is
 \textbf{Player Goal: Player wollen schnell entscheiden, ob Inhalte vorhanden sind, die sie suchen}\\
 Eine der wichtigsten Erkenntnisse, die durch die Umfrage gewonnen wurde ist die Tatsache, dass für die Player das Suchen und Finden von Beiträgen gleichzusetzen ist mit dem Lesen dieser Beiträge. Findet ein Player durch die Suche also die Beiträge die seine Fragen beantworten, wird dieser Beitrag auch gelesen. Wird also die Treffsicherheit der Suchfunktion verbessert, werden automatisch mehr Beiträge von den Playern konsumiert. Neben der Optimierung der Suchfunktion wäre es auch weiter Denkbar, eine Funktion zu implementieren die dem Player alternative Vorschläge zu den gesuchten Inhalten gibt. Bei der Suche will der Player mit so wenigen Klicks wie möglich an sein Ziel kommen. Wird einmal die Suchanfrage gestartet so erwartet der Player ein entsprechendes Ergebnis, welches ihm präsentiert wird. Jegliches durchsuchen der Suchergebnisse wird vom Player daher verständlicherweise als Hindernis wahrgenommen.
 \\\\
-\begin{figure}[h!]
-\begin{center}
-\includegraphics[scale = 0.9]{Bilder/Schnittmenge.eps}
-\caption{Schnittmenge der Geschäftsziele und Player Goals.}
-\label{Schnittmenge}
-\end{center}
-\end{figure}
-\\
 \textbf{Player Goal: Player haben das Ziel, dass ihre Einträge gelesen werden sollen}\\
 Wie die Umfrage gezeigt hat, ist die richtige Einordnung von Einträgen bzw. Artikeln ein weiterer wichtiger Punkt für den Player. So kann also behauptet werden, dass die Player über ein inhärentes Interesse verfügen, ihre Einträge auffindbar zu machen, so das ihre Inhalte und Informationen von anderen Playern ebenfalls wahrgenommen werden. Dieses Ziel der Player, ihr wissen mit anderen zu teilen, ist letzten Endes auch ausschlaggebend für ein erfolgreiches Knowledge Management. Durch die Confluence Wiki muss dem Player nun spürbar vermittelt werden, dass er bei dem Erreichen seines Ziels von der Wiki unterstützt wird. Durch eine bessere Zuordnung wird nicht nur auf die Ziele und wünsche des Players eingegangen. Nebenbei werden auch die Ergebnisse der Suchfunktion verbessert. Dadurch wird das Erlebnis der Suche in Confluence optimiert.
 \\\\
@@ -1052,24 +1044,65 @@ Als Nächstes müssen nun die Geschäftsziele ermittelt werden. Aus der Kombinat
 \label{Geschäftsziele}
 In diesem Abschnitt sollen nun die Geschäftsziele (Business Objectives) für diese Arbeit erläutert und bestimmt werden. Die Geschäftsziele sind die Schlüsselzahlen und Ergebnisse, die das Unternehmen verbessern will. Grob kann das Ziel dieser Arbeit formuliert werden als:
 \\\\
-\enquote{\textit{Mitarbeiter sollen mehr Einträge in die Confluence Wiki eintragen und lesen.}}
+\enquote{\textit{Mitarbeiter sollen mehr Beiträge in die Confluence Wiki eintragen und lesen.}}
 \\\\
-Im ersten Schritt müssen nun die entsprechenden Kennzahlen und Geschäftsmetriken, mit denen sich dieses Ziel erreichen lässt, ermittelt werden. Die Geschäftsmetriken sind dabei die Kennzahlen mit denen sich das Geschäftsziel eingrenzen lässt. Über diese Metriken kann im Anschluss an das Gamifiaction-Projekt ermittelt werden, ob die Umsetzung des Projektes erfolgreich war oder nicht. Als Geschäftsmetriken können verschiedene Kennzahlen genutzt werden. Einige Metriken enthalten den \textit{Umsatz}, \textit{tägliche aktive Besucher} oder \textit{Registrierungen} um hier ein paar Beispiele zu nennen. Durch diese Zahlen lässt sich der Erfolg eines Unternehmens messen. Wenn diese Zahlen wachsen, ist das Unternehmen in der Regel erfolgreich. Bei erstellen der Geschäftsmetriken ist darauf zu achten, das sie quantifizierbar und nach ihrer Wichtigkeit geordnet sind \cite{Dashboard}.
+Da diese Formulierung aber zu vage ist, um aus ihr bestimmen zu können, wie dieses Geschäftsziel erreicht werden soll, muss dieses Ziel zunächst quantifiziert werden. Im ersten Schritt müssen nun dafür die entsprechenden Kennzahlen und Geschäftsmetriken, mit denen sich dieses Ziel erreichen lässt, ermittelt werden. Über diese Metriken kann im Anschluss an das Gamifiaction-Projekt ermittelt werden, ob die Umsetzung des Projektes erfolgreich war oder nicht. Als Geschäftsmetriken können verschiedene Kennzahlen genutzt werden. Einige Metriken enthalten den \textit{Umsatz}, \textit{tägliche aktive Besucher} oder \textit{Registrierungen} um hier ein paar Beispiele zu nennen \cite{Dashboard}. Die Kennzahlen die für die Geschäftsmetriken gewählt werden, müssen Aussagen über den Erfolg des Prozesses, für den sie gewählt wurden, ermöglichen. Wachsende Kennzahlen bedeuten eine Verbesserung des Prozessablaufs und stellen somit auch eine Verbesserung der Produktivität der Firma dar. Beim Auswählen der Geschäftsmetriken ist darauf zu achten, das sie quantifizierbar und nach ihrer Wichtigkeit geordnet sind \cite{Dashboard}.
 \\\\
-Wie wir bereits in Kapitel \ref{Zielgruppe} festgelegt haben, orientieren sich die Geschäftsmetriken an den verschiedenen Handlungen des Players wie \textit{Schreiben}, \textit{Lesen} und \textit{Suchen}. Zum erstellen der Geschäftsmetriken muss nun also erforscht werden, wie viele Einträge in die Confluence Wiki aufgenommen wurden. Es muss geklärt werden, wie viele Einträge nachgearbeitet (editiert) wurden. Und es muss ermittelt werden, wie viele Einträge gelesen bzw. gefunden wurden. Diese Daten können in Confluence über das \textit{Confluence Usage Stats Plugin} erhoben werden \cite{Plugin}. Nachdem das Plugin installiert wurde, lässt es sich im Administrator-Bereich über die Einstellung \enquote{\textit{General Configuration}} aktivieren, indem die \enquote{\textit{Global Activity}} freigeschalten wird.   
+Wie wir bereits in Kapitel \ref{Zielgruppe} festgelegt haben, orientieren sich die Geschäftsmetriken an den verschiedenen Handlungen des Players wie \textit{Schreiben}, \textit{Lesen} und \textit{Suchen}. Zum Erstellen der Geschäftsmetriken muss nun also erforscht werden, wie viele Einträge in die Confluence Wiki aufgenommen wurden. Es muss geklärt werden, wie viele Einträge nachgearbeitet (editiert) wurden. Und es muss ermittelt werden, wie viele Einträge gelesen bzw. gefunden wurden. Diese Daten können in Confluence über das \textit{Confluence Usage Stats Plugin} erhoben werden \cite{Plugin}. Nachdem das Plugin installiert wurde, lässt es sich im Administrator-Bereich über die Einstellung \enquote{\textit{General Configuration}} aktivieren, indem die \enquote{\textit{Global Activity}} freigeschalten wird.
 \begin{description}
    \item[Über dieses Plugin lassen sich folgende Daten erfassen \cite{Plugin}:]~\par
    \begin{itemize}
       \item Wie viele Seiten und Einträge wurden in einem bestimmten Zeitraum angesehen, hinzugefügt oder aktualisiert. 
-      \item Welche \textit{Spaces} (die Confluence Spaces bezeichnen eine Organisationsstruktur vergleichbar mit einem Verzeichnis, sind die beliebtesten) am häufigsten besuchten.
+      \item Welche \textit{Spaces} \cite{Spaces} (die Confluence Spaces bezeichnen eine Organisationsstruktur vergleichbar mit einem Verzeichnis) sind die beliebtesten bzw. am häufigsten besuchten.
       \item Welche \textit{Spaces} sind am aktivsten (am häufigsten bearbeitet).
       \item Welche Personen sind die aktivsten Mitwirkenden bzw. Autoren von Inhalten? 
    \end{itemize}
 \end{description} 
-Somit erhalten wir durch die Verwendung des Plugins alle für die Geschäftsmetriken erforderlichen Daten. Leider können die Informationen nur für das aktuelle Jahr erhoben werden. Deswegen hat man sich innerhalb des Projektes darauf verständigt, die Daten für die letzten zwei Monate zu erheben und diese Daten zu verwenden.
-
-
-
+Somit erhalten wir durch die Verwendung des Plugins alle für die Geschäftsmetriken erforderlichen Daten. Leider können die Informationen nur für das aktuelle Jahr erhoben werden. Deswegen hat man sich innerhalb des Projektes darauf verständigt, die Daten für die letzten zwei Monate zu erheben und ausschließlich diese Daten zu verwenden.
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale = 0.6]{Bilder/StatsFebView.eps}
+\caption{Übersicht über alle eingesehenen Einträge des Monats Februar.}
+\label{StatsFebView}
+\end{center}
+\end{figure}
+Die Statistiken die durch das \textit{Confluence Usage Stats Plugin} aufgestellt wurden, sollen lediglich für den Monat Februar als Abbildung dargestellt werden. Die Abbildung \ref{StatsFebView} stellt dabei die gelesenen oder betrachteten Einträge dar (Viewing), verteilt auf den gesamten Monat Februar. Abbildung \ref{StatsFebEdit} beschreibt wie viele Einträge erzeugt oder bearbeitet wurden (Editing) und die Abbildung \ref{StatsFebSpaces} zeigt eine Übersicht der \textit{Confluence Spaces} an.  
+\\
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale = 0.6]{Bilder/StatsFebEdit.eps}
+\caption{Aufführung aller bearbeiteten oder erstellten Einträge des Monats Februar.}
+\label{StatsFebEdit}
+\end{center}
+\end{figure}
+\\
+Außerdem zeigt Abb.\ref{StatsFebEdit} ebenfalls an, wie viele \textit{Blogbeiträge} und \textit{Kommentare} im gesamten Monat geschrieben wurden. Wie anhand dieser Abbildung zu erkennen ist, bestätigt sich unsere in der Umfrage getroffene Annahme, dass die Kommentar-Funktion von Confluence von den Anwendern nicht verwendet wird. Dadurch sollte nochmals verdeutlicht worden sein, dass diese Funktion im weiteren Vorgehen vernachlässigt werden kann.
+\\\\
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale = 0.5]{Bilder/StatsFebSpaces.eps}
+\caption{Darstellung der am häufigsten bearbeiteten Spaces im Februar.}
+\label{StatsFebSpaces}
+\end{center}
+\end{figure}
+\\
+An dieser Stelle sollen noch auf ein paar Punkte aufmerksam gemacht werden. Die \textit{Viewing-Statistik} (Abb.\ref{StatsFebView}) führt alle Einträge auf die Aufgerufen wurden. Es lässt sich durch diese Statistik nicht bestimmen, ob die Einträge aber auch wirklich komplett durchgelesen oder ob sie nur versehentlich aufgerufen wurden. Außerdem wird beim Erstellen und Editieren eines Eintrages automatisch der Eintrag aufgerufen und somit fließen also auch diese \textit{Views} in die Statistik mit ein.
+\\\\
+\begin{table}[htb]
+\begin{center}
+\begin{tabular}{|c|c|c|}\hline
+\rule{0pt}{15pt} &\textbf{Februar}& \\
+\hline
+\rule{0pt}{15pt} \textbf{Views} & \textbf{Tage} & \textbf{Geschäftsmetrik} \\ 
+\hline
+\rule{0pt}{15pt} ca. 9600 & 20 & ca. 480 Views/Tag \\
+\hline
+\end{tabular}
+\caption{Experten die ein Problem im Dokumentationsverhalten sahen.}
+\label{ProblemTabelle}
+\end{center}
+\end{table}
+ 
 
 
 
