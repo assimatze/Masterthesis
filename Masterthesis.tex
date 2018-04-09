@@ -1,4 +1,4 @@
-\documentclass[a4paper,12pt]{scrartcl}
+\documentclass[a4paper,12pt,twoside,openright]{scrartcl}
 \usepackage[utf8]{inputenc}
 \usepackage{lmodern}
 \usepackage[ngerman]{babel}
@@ -15,10 +15,13 @@
 \usepackage{fancyhdr}
 \usepackage{ae}
 \usepackage[hyphens]{url}
+\usepackage{pdfpages}
 
 \usepackage[colorlinks=true,urlcolor=blue,linkcolor=black,
 citecolor=black
 ]{hyperref}
+
+
 
 \bibliographystyle{unsrt}
 
@@ -27,8 +30,9 @@ citecolor=black
 \renewcommand{\sectionmark}[1]{\markboth{#1}{#1}}
 \renewcommand{\subsectionmark}[1]{\markright{#1}}
 \fancyhf{}
-\lhead{\slshape \leftmark}
-\rhead{\thepage}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE,LO]{\slshape \leftmark}
+
 \title{Deckblatt}
 \author{Matthias Misior}
 
@@ -80,6 +84,10 @@ In order to make this activity more attractive for employees and thus improve th
 \newpage
 \bibliographystyle{unsrt}
 
+
+
+
+\cleardoublepage
 
 \section{Einleitung}
 Dieses Kapitel dient als Einstieg in diese Arbeit und soll die Aufgaben, Ziele, Vorgehensweise und das Arbeitsumfeld genauer beschreiben. Dabei wird zwischen Aufgabenstellung und Aufgabenbearbeitung unterschieden. Die Aufgabenstellung lässt sich aus der Thesis Beschreibung ableiten und beschreibt die Aufgaben die im laufe dieser Thesis bearbeitet werden sollen. Die Aufgabenbearbeitung enthält die generelle Vorgehensweise wie diese Aufgaben umgesetzt werden. Des Weiteren werden die Ziele definiert, die mit dieser Arbeit erreicht werden sollen. Die Arbeitsumgebung wird ebenfalls beschrieben und es wird am Ende dieses Kapitels mit einem Überblick abgeschlossen. 
@@ -700,7 +708,6 @@ Eine weitere Möglichkeit wäre, Mitarbeitern die Möglichkeit zu geben für Woh
 Wie wir bereits erwähnt haben, dienen die Game-Design Modelle dazu, dem Entwickler bei der Konzeption eines Games oder einer Gamification-Anwendung zu unterstützen. Nach Deterding et al. \cite{Deterding2011} ist die Kombination aus Interface-Elementen und Spiele-Mechaniken (Game-Mechanics) einer der ausschlaggebende Faktoren für die Erzeugung einer ansprechenden Spielerlebnisses (Player Experience bzw. User Experience). Abhängig von Situation und Bedürfnissen der Anwender scheint es am Game-Designer zu liegen, ein erfolgreiches Gamification-Konzept zu entwickeln. 
 \\\\
 Aus diesem Grund sollen drei dieser Game-Design Modelle aufgezählt und näher betrachtet werden. Durch diese Analyse der Modelle soll ein besseres Verständnis dafür geschaffen werden, was beim Design einer Gamification-Anwendung zu beachten ist.
-
 \subsubsection{Core Elements of the Gaming Experience-Modell}
 Die \textit{Core Elements of the Gaming Experience} (CEGE) ist ein umfassendes Modell, das aus verschiedenen Faktoren besteht, die zusammengenommen das Erlebnis zwischen einem Videospiel (Game) und seinem Nutzer bilden (User Experience).  Die beiden wichtigsten Variablen, die dem Modell zugeordnet sind, sind \textit{Video-Game} und \textit{Puppenspiel}(Puppetry). Video-Game ist einfach das Spiel selbst, das in die latenten (subjektiven bzw. nicht messbaren) Variablen von \textit{Umgebung}(Environment) und \textit{Gameplay} aufgeteilt wird. Diese latenten Variablen werden abgeleitet und unter beobachtbaren Variablen kategorisiert; Umgebung beinhaltet \textit{Grafiken} und \textit{Sounds} des Spiels, während Gameplay das \textit{Szenario} und die \textit{Spielregeln} beinhaltet \cite{CEGE2016}.
 \\\\
@@ -808,7 +815,8 @@ Die Spiele-Mechaniken (Game-Mechaniken) sind die aus Spielen bekannten Aktionen 
 \\\\
 Die Game-Mechaniken können dabei auf verschiedenen Ebenen auftreten. Auf der untersten Ebene, beschreiben sie anhand mathematischer Modelle, wie sie in der ökonomischen Spieltheorie bekannt sind, die grundlegenden Prinzipien eines Spiels \cite{Schell2014}. Auf einer höheren Ebene beschreiben sie komplexe Tätigkeiten und Herausforderungen der Spieler in einem Spiel.
 \\\\
-Zichermann und Cunningham \cite{Zichermann2011} haben zwölf, nach ihrer Ansicht, wesentliche Mechanismen von Reiss \cite{Reiss2009}, Schell \cite{Schell2014} und weiteren Quellen extrahiert, die sich ihrer Meinung besonders gut für das Übertragen auf Nicht-Spielsituationen eignen. Da diese einen kurzen, aber dennoch sehr guten Überblick geben, wurden sie in der folgenden Aufzählung aufgeführt. Es ist anzumerken, dass sich in all diesen Mechanismen Möglichkeiten finden lassen, mindestens eines der Grundbedürfnisse nach Kompetenz, Autonomie, sozialer Eingebundenheit und Zweck zu befriedigen.     
+Zichermann und Cunningham \cite{Zichermann2011} haben zwölf, nach ihrer Ansicht, wesentliche Mechanismen von Reiss \cite{Reiss2009}, Schell \cite{Schell2014} und weiteren Quellen extrahiert, die sich ihrer Meinung besonders gut für das Übertragen auf Nicht-Spielsituationen eignen. Da diese einen kurzen, aber dennoch sehr guten Überblick geben, wurden sie in der folgenden Aufzählung aufgeführt. Es ist anzumerken, dass sich in all diesen Mechanismen Möglichkeiten finden lassen, mindestens eines der Grundbedürfnisse nach Kompetenz, Autonomie, sozialer Eingebundenheit und Zweck zu befriedigen. 
+\newpage    
 \begin{description}
    \item[Aufzählung der zwölf Spiele-Mechanismen nach \cite{Zichermann2011}:]~\par
    \begin{enumerate}
@@ -828,7 +836,7 @@ Zichermann und Cunningham \cite{Zichermann2011} haben zwölf, nach ihrer Ansicht
 \end{description}
 Diese zwölf Mechanismen sind natürlich nicht die einzigen die es gibt. Diese Aufzählung soll lediglich der Orientierung dienen und soll verdeutlichen, worauf es bei den verschiedenen Game-Mechanismen ankommt. Diese Auflistung zeigt sehr deutlich wie Spiele durch die verschiedenen Mechanismen zur Befriedigung unserer Bedürfnisse führen. Der Erfolg von Spielen kann also daraus geschlossen werden, dass die Mechanismen uns herausfordernde Aufgaben geben \cite{Mcgonigal2011}. Persönlicher Erfolg bei einer schweren Aufgabe führt zu starken positiven Emotionen durch biochemische Prozesse in unserem Gehirn und machen uns glücklich.
 \\\\
-\enquote{\textit{Fulfilling our need for better hard work-and helping us choose for ourselves the right work at the right time}} \cite{Mcgonigal2011}. 
+\enquote{\textit{Fulfilling our need for better hard work and helping us choose for ourselves the right work at the right time}} \cite{Mcgonigal2011}. 
 \\\\
 Wie bereits erwähnt, beruht der langfristige Spielspaß an der Erfüllung dieser Aufgaben und auf dem Prinzip der Flow-Theorie \cite{Csikszentmihalyi2017}. Ein Spiel bzw. eine Gamification-Anwendung, welche eine gute Balance zwischen Schwierigkeit und Fähigkeiten schafft, kann starke intrinsische Motivation bewirken. Die Bewältigung dieser Aufgaben, gibt uns das Gefühl, kompetent und erfolgreich zu sein \cite{Mcgonigal2011}\cite{Mayer2009}.
 \\\\
@@ -1183,7 +1191,8 @@ Auch bei dieser Überlegung wird die Anzahl der Views aller Voraussicht nach nic
 
 
 
-  
+\newpage
+\section{Anhang} 
 \newpage
 \listoftables
 \listoffigures
