@@ -1,4 +1,4 @@
-\documentclass[a4paper,12pt,twoside,openright]{scrartcl}
+\documentclass[a4paper,12pt,twoside]{scrartcl}
 \usepackage[utf8]{inputenc}
 \usepackage{lmodern}
 \usepackage[ngerman]{babel}
@@ -507,6 +507,7 @@ Der Auslöser beschreibt im Verhaltensmodell das Auftreten einer bestimmten Situ
 Bei den Auslösern ist zu beachten, dass es sie in zwei verschiedenen Formen gibt. So lassen sich \enquote{innerliche Auslöser}(internal Trigger) und \enquote{äußerliche Auslöser}(external Trigger) unterscheiden \cite{Eyal2014}.
 \\\\
 Die äußerlichen Auslöser sind daran zu erkennen, dass die Information die den Handlungsschritt enthält auf den Auslöser abgebildet ist. Der Auslöser wird somit zu einem Aufruf, eine Handlung oder Aktion auszuführen. Und die Handlung die aufgefordert wird befindet sich innerhalb des Aufruf. In Abb.\ref{externaltriggerBild} sind einige dieser Auslöser zusammengefasst, jedoch sind dies nicht alle existierenden Auslöser.
+\\
 \begin{figure}[h!]
 \begin{center}
 \includegraphics[scale = 0.4]{Bilder/externalTrigger.eps}
@@ -514,9 +515,9 @@ Die äußerlichen Auslöser sind daran zu erkennen, dass die Information die den
 \label{externaltriggerBild}
 \end{center}
 \end{figure}
-\\\\
+\\
 Bei den äußerlichen Auslösern handelt es sich z.B. um verschieden Knöpfe in entweder digitaler oder mechanischer Form. Die Darstellung der Apps auf den Screens unsere Smartphones sind ebenfalls äußerliche Auslöser. Diese Auslöser erlauben es die folgende Aktivität (Video abspielen, E-mail lesen, Nachricht senden etc.) direkt zu starten. Diese Auslöser gibt es in verschiedensten Formen und sind klar verständlich und sehr intuitiv. Mit anderen Worten sie sind kinderleicht zu erkennen und zu bedienen \cite{Eyal2014}.
-\\\\
+\-
 Die innerlichen Auslöser beziehen sich nun mehr auf die menschliche Psychologie. Während die äußerlichen Auslöser sich durch technische Lösungen darstellen, sind die innerlichen Auslöser die aus dem inneren eines jeden Menschen kommen. Gemeint sind damit unter anderem, Emotionen, andere Menschen, spezielle Situationen, Orte oder gar Routinen (Abb.\ref{internalTriggerBild}).
 \\
 \begin{figure}[h!]
@@ -809,6 +810,7 @@ Der \textit{Player Experience Design Prozess} kann in sieben Schritte eingeteilt
 \end{description}
 
 \subsection{Game-Design: Spiele-Mechaniken}
+\label{Spielmechaniken}
 Die Spiele-Mechaniken (Game-Mechaniken) sind die aus Spielen bekannten Aktionen die eine Reaktion des Systems auslösen.  Sie bilden die zweite Abstraktionsebene der Game-Design Elemente und tragen mit den Interface-Elementen sowohl zur Dynamik als auch zur Ästhetik der gamifizierten Anwendung bei. Game-Designer Daniel Cook beschreibt sie als:
 \\\\
 \enquote{\textit{Game mechanics are rule based systems / simulations that facilitate and encourage a user to explore and learn the properties of their possibility space through the use of feedback mechanisms}} \cite{GameMechanics2006}. 
@@ -1175,6 +1177,21 @@ Auch bei dieser Überlegung wird die Anzahl der Views aller Voraussicht nach nic
 \end{center}
 \end{figure}
 \\
+\subsection{Entwickeln der Spielmechanik}
+Da im letzten Kapitel die Gamification Ziele erfasst wurden, können wir nun damit beginnen, passende Spiel-Mechaniken für unser Konzept auszuwählen. Die Auswahl der entsprechenden Spiel-Mechanik muss sich danach richten, ob sich die Mechanik nutzen lässt, um das Gamification Ziel zu erreichen. Die ausgewählten Mechaniken können sich jedoch direkt oder indirekt auf die Ziele auswirken. Dabei unterstützen uns die in Kapitel \ref{Spielmechaniken} aufgezählten Mechaniken und das sogenannte \textit{Player Engagement Modell} \cite{gamificationDefinition}. Das Player Engagement Modell dient der Strukturierung der gamifizierten Lösung und beschreibt, wie die Player mit der Anwendung und mit anderen Playern interagieren. Für das Player Engagement Modell werden \textit{Spieleparameter} festgelegt, die im Detail beschreiben, worauf sich die Interaktionen des Players beziehen. Dies wird in Abbildung \ref{PlayerEngagementModel} beispielhaft dargestellt. 
+\\\\
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale = 0.4]{Bilder/PlayerEngagementModel.png}
+\caption{Beispiel eines Player Engagement Modell \cite{gamificationDefinition}.}
+\label{PlayerEngagementModel}
+\end{center}
+\end{figure}
+\\
+Die in der Abbildung \ref{PlayerEngagementModel} aufgeführten Spieleparameter sind die am meisten genutzten Parameter für Gamification Anwendungen \cite{gamificationDefinition}. Aus diesem Grund sollen sie auch für unser Konzept verwendet werden. Die Spieleparameter an denen sich unsere Spiele-Mechaniken ausrichten müssen sind also \textit{Wettbewerb} und \textit{Kollaboration}, \textit{intrinsisch} und \textit{extrinsisch}, \textit{Mehrspieler} oder \textit{Einzelspieler}, \textit{Kampagne} und \textit{endlos} sowie zum Schluss \textit{entstehend} und \textit{vorgegeben}. Diese Parameter sind als Rahmen zu verstehen und dienen als Grundlage für die Spiele-Mechaniken und für die gamifizierte Erfahrung, die an den Player durch unsere Anwendung übertragen werden soll. 
+\\\\
+Nun gilt es also abzuschätzen, welche der Spieleparameter für die gamifizierte Confluence Wiki am sinnvollsten ist. Hierzu sollte die am effektivsten wirkenste Spiele Erlebnis hervorgerufen werden. Soll es sich bei dem Erlebnis um eine Art Wettkampf handeln? Sollen die Player zusammenarbeiten um ihre Ziele zu erreichen oder kann der Player sie auch alleine erreichen? Wie sehen die Behlohnungen und das Feedback das zurückgegeben wird aus? Soll das Erlebnis das der Player durch unsere gamifizierte Anwendung erlebt dynamisch und vielschichtig sein oder sollen feste vorgegebene Regeln eine Routine für den Player darstellen an denen er sich heranhangeln kann? Alle diese Fragen müssen geklärt werden und zum schluss muss die Meachanik gewähöt werden welche diese Fragen alle beantwortet.
+
 
 
 
@@ -1193,6 +1210,7 @@ Auch bei dieser Überlegung wird die Anzahl der Views aller Voraussicht nach nic
 
 \newpage
 \section{Anhang} 
+%\includepdf[pages=-]{Umfrage.pdf}
 \newpage
 \listoftables
 \listoffigures
