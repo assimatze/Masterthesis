@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.9)  10 APR 2018 18:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.9)  12 APR 2018 15:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1645,103 +1645,95 @@ df>
 (epstopdf)                    size: 154873 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/Verhaltensmodell-ep
 s-converted-to.pdf Bilder/Verhaltensmodell.eps>
-(epstopdf)             \includegraphics on input line 404.
+(epstopdf)             \includegraphics on input line 405.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Verhaltensmodell-eps-converted-to.pdf, id=436, 605.26125pt x 462.72874p
+<Bilder/Verhaltensmodell-eps-converted-to.pdf, id=441, 605.26125pt x 462.72874p
 t>
 File: Bilder/Verhaltensmodell-eps-converted-to.pdf Graphic file (type pdf)
  <use Bilder/Verhaltensmodell-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/Verhaltensmodell-eps-converted-to.pdf used on i
-nput line 404.
-(pdftex.def)             Requested size: 363.15953pt x 277.63939pt.
+nput line 405.
+(pdftex.def)             Requested size: 242.1002pt x 185.08821pt.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 410.
+LaTeX Warning: Command \" invalid in math mode on input line 411.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 410.
+LaTeX Warning: Command \" invalid in math mode on input line 411.
 
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 412.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 412.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 414.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 414.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 414.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 414.
+[22 <./Bilder/Verhaltensmodell-eps-converted-to.pdf>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 424.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 424.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 427.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 427.
 
-Underfull \hbox (badness 10000) in paragraph at lines 401--411
+Underfull \hbox (badness 10000) in paragraph at lines 428--433
 
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 411.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 411.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 422.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 422.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 422.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 422.
-[22]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 423.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 423.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 426.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 426.
-
-Underfull \hbox (badness 10000) in paragraph at lines 427--432
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 427--432
+Underfull \hbox (badness 10000) in paragraph at lines 428--433
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 432.
+(babel)             in language  on input line 433.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 432.
+(babel)             in language  on input line 433.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 432.
+(babel)             in language  on input line 433.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 432.
-[23 <./Bilder/Verhaltensmodell-eps-converted-to.pdf>]
+(babel)             in language  on input line 433.
+[23]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 442.
+(babel)             in language  on input line 443.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 442.
+(babel)             in language  on input line 443.
 
-Underfull \hbox (badness 10000) in paragraph at lines 443--450
+Underfull \hbox (badness 10000) in paragraph at lines 444--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 443--450
+Underfull \hbox (badness 10000) in paragraph at lines 444--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 443--450
+Underfull \hbox (badness 10000) in paragraph at lines 444--451
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 450.
+(babel)             in language  on input line 452.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 450.
+(babel)             in language  on input line 452.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 450.
+(babel)             in language  on input line 454.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 450.
+(babel)             in language  on input line 454.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 454.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 454.
 [24]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 451.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 451.
 Package epstopdf Info: Source file: <Bilder/Faehigkeitenfaktoren.eps>
 (epstopdf)                    date: 2018-03-23 14:25:52
 (epstopdf)                    size: 830279 bytes
@@ -1751,92 +1743,78 @@ to.pdf>
 (epstopdf)                    size: 206522 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/Faehigkeitenfaktore
 n-eps-converted-to.pdf Bilder/Faehigkeitenfaktoren.eps>
-(epstopdf)             \includegraphics on input line 468.
+(epstopdf)             \includegraphics on input line 469.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Faehigkeitenfaktoren-eps-converted-to.pdf, id=479, 631.35875pt x 471.76
+<Bilder/Faehigkeitenfaktoren-eps-converted-to.pdf, id=485, 631.35875pt x 471.76
 25pt>
 File: Bilder/Faehigkeitenfaktoren-eps-converted-to.pdf Graphic file (type pdf)
  <use Bilder/Faehigkeitenfaktoren-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/Faehigkeitenfaktoren-eps-converted-to.pdf used 
-on input line 468.
+on input line 469.
 (pdftex.def)             Requested size: 252.53902pt x 188.70164pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 473.
+(babel)             in language  on input line 474.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 473.
+(babel)             in language  on input line 474.
 
-Underfull \hbox (badness 10000) in paragraph at lines 474--475
+Underfull \hbox (badness 10000) in paragraph at lines 475--476
 
  []
 
-
-Overfull \hbox (5.87494pt too wide) in paragraph at lines 476--476
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 476.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 476.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 476.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 476.
+[25 <./Bilder/Faehigkeitenfaktoren-eps-converted-to.pdf>]
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 477--477
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 476--476
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 476.
+(babel)             in language  on input line 487.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 476.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 476.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 476.
-[25]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 486.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 486.
+(babel)             in language  on input line 487.
 
-Underfull \hbox (badness 10000) in paragraph at lines 487--492
+Underfull \hbox (badness 10000) in paragraph at lines 488--493
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 487--492
+Underfull \hbox (badness 10000) in paragraph at lines 488--493
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 492.
+(babel)             in language  on input line 494.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 492.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 492.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 492.
-[26 <./Bilder/Faehigkeitenfaktoren-eps-converted-to.pdf>]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 493.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 493.
+(babel)             in language  on input line 494.
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--503
+Underfull \hbox (badness 10000) in paragraph at lines 495--504
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--503
+Underfull \hbox (badness 10000) in paragraph at lines 495--504
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--503
+Underfull \hbox (badness 10000) in paragraph at lines 495--504
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--503
+Underfull \hbox (badness 10000) in paragraph at lines 495--504
 
  []
 
@@ -1848,11 +1826,11 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 504.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 504.
-[27]
+[26]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 504.
+(babel)             in language  on input line 505.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 504.
+(babel)             in language  on input line 505.
 Package epstopdf Info: Source file: <Bilder/externalTrigger.eps>
 (epstopdf)                    date: 2018-03-23 14:25:52
 (epstopdf)                    size: 381043 bytes
@@ -1862,15 +1840,15 @@ f>
 (epstopdf)                    size: 111654 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/externalTrigger-eps
 -converted-to.pdf Bilder/externalTrigger.eps>
-(epstopdf)             \includegraphics on input line 513.
+(epstopdf)             \includegraphics on input line 514.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/externalTrigger-eps-converted-to.pdf, id=513, 594.22pt x 413.545pt>
+<Bilder/externalTrigger-eps-converted-to.pdf, id=514, 594.22pt x 413.545pt>
 File: Bilder/externalTrigger-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/externalTrigger-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/externalTrigger-eps-converted-to.pdf used on in
-put line 513.
+put line 514.
 (pdftex.def)             Requested size: 237.68379pt x 165.41505pt.
 Package epstopdf Info: Source file: <Bilder/internalTrigger.eps>
 (epstopdf)                    date: 2018-03-23 14:25:52
@@ -1881,70 +1859,82 @@ f>
 (epstopdf)                    size: 341907 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/internalTrigger-eps
 -converted-to.pdf Bilder/internalTrigger.eps>
-(epstopdf)             \includegraphics on input line 525.
+(epstopdf)             \includegraphics on input line 526.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/internalTrigger-eps-converted-to.pdf, id=518, 853.1875pt x 778.91pt>
+<Bilder/internalTrigger-eps-converted-to.pdf, id=519, 853.1875pt x 778.91pt>
 File: Bilder/internalTrigger-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/internalTrigger-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/internalTrigger-eps-converted-to.pdf used on in
-put line 525.
+put line 526.
 (pdftex.def)             Requested size: 255.95822pt x 233.6748pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 505--532
+Underfull \hbox (badness 10000) in paragraph at lines 506--533
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 505--532
+Underfull \hbox (badness 10000) in paragraph at lines 506--533
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 532.
+(babel)             in language  on input line 533.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 532.
+(babel)             in language  on input line 533.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 532.
+(babel)             in language  on input line 533.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 532.
+(babel)             in language  on input line 533.
+[27]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 535.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 535.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 535.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 535.
 [28 <./Bilder/externalTrigger-eps-converted-to.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 536--539
+Underfull \hbox (badness 10000) in paragraph at lines 537--540
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 539.
+(babel)             in language  on input line 541.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 539.
+(babel)             in language  on input line 541.
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--546
+
+ []
+
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 539.
+(babel)             in language  on input line 546.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 539.
+(babel)             in language  on input line 546.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 546.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 546.
 [29 <./Bilder/internalTrigger-eps-converted-to.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 555.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 540.
-
-Underfull \hbox (badness 10000) in paragraph at lines 542--545
-
- []
-
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 554.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 554.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 554.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 554.
-[30]
+(babel)             in language  on input line 555.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 555.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 555.
+ [30]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 556.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 556.
 Package epstopdf Info: Source file: <Bilder/GameVielfalt.eps>
 (epstopdf)                    date: 2018-03-23 14:25:52
 (epstopdf)                    size: 188303 bytes
@@ -1953,40 +1943,40 @@ Package epstopdf Info: Source file: <Bilder/GameVielfalt.eps>
 (epstopdf)                    size: 126471 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/GameVielfalt-eps-co
 nverted-to.pdf Bilder/GameVielfalt.eps>
-(epstopdf)             \includegraphics on input line 560.
+(epstopdf)             \includegraphics on input line 561.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/GameVielfalt-eps-converted-to.pdf, id=548, 461.725pt x 451.6875pt>
+<Bilder/GameVielfalt-eps-converted-to.pdf, id=553, 461.725pt x 451.6875pt>
 File: Bilder/GameVielfalt-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/GameVielfalt-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/GameVielfalt-eps-converted-to.pdf used on input
- line 560.
+ line 561.
 (pdftex.def)             Requested size: 230.86194pt x 225.84319pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 556--569
+Underfull \hbox (badness 10000) in paragraph at lines 557--570
 
  []
 
 
-Overfull \hbox (7.61786pt too wide) in paragraph at lines 556--569
+Overfull \hbox (7.61786pt too wide) in paragraph at lines 557--570
 \T1/aer/m/n/12 Grund-la-gen zählt der Un-ter-schied zwi-schen ei-nem Spiel und 
 ei-ner Gamification-Anwendung,
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 569.
+(babel)             in language  on input line 570.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 569.
+(babel)             in language  on input line 570.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 569.
+(babel)             in language  on input line 570.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 569.
+(babel)             in language  on input line 570.
 [31 <./Bilder/GameVielfalt-eps-converted-to.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 570.
+(babel)             in language  on input line 571.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 570.
+(babel)             in language  on input line 571.
 Package epstopdf Info: Source file: <Bilder/PlayGame.eps>
 (epstopdf)                    date: 2018-03-23 14:25:52
 (epstopdf)                    size: 679246 bytes
@@ -1995,33 +1985,33 @@ Package epstopdf Info: Source file: <Bilder/PlayGame.eps>
 (epstopdf)                    size: 179373 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/PlayGame-eps-conver
 ted-to.pdf Bilder/PlayGame.eps>
-(epstopdf)             \includegraphics on input line 583.
+(epstopdf)             \includegraphics on input line 584.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/PlayGame-eps-converted-to.pdf, id=566, 716.6775pt x 631.35875pt>
+<Bilder/PlayGame-eps-converted-to.pdf, id=571, 716.6775pt x 631.35875pt>
 File: Bilder/PlayGame-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/PlayGame-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/PlayGame-eps-converted-to.pdf used on input lin
-e 583.
+e 584.
 (pdftex.def)             Requested size: 286.66592pt x 252.53902pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 571--590
+Underfull \hbox (badness 10000) in paragraph at lines 572--591
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 571--590
+Underfull \hbox (badness 10000) in paragraph at lines 572--591
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 571--590
+Underfull \hbox (badness 10000) in paragraph at lines 572--591
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 571--590
+Underfull \hbox (badness 10000) in paragraph at lines 572--591
 
  []
 
@@ -2029,47 +2019,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 571--590
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 590.
+(babel)             in language  on input line 591.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 590.
+(babel)             in language  on input line 591.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 590.
+(babel)             in language  on input line 591.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 590.
+(babel)             in language  on input line 591.
 [32]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 591.
+(babel)             in language  on input line 592.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 591.
+(babel)             in language  on input line 592.
 
-Underfull \hbox (badness 10000) in paragraph at lines 592--602
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 592--602
+Underfull \hbox (badness 10000) in paragraph at lines 593--603
 
  []
 
 
-Overfull \hbox (8.09286pt too wide) in paragraph at lines 592--602
+Underfull \hbox (badness 10000) in paragraph at lines 593--603
+
+ []
+
+
+Overfull \hbox (8.09286pt too wide) in paragraph at lines 593--603
 \T1/aer/m/it/12 cha-nis-men\T1/aer/m/n/12 . Die-se be-stim-men so-wohl die Funk
 -ti-ons-wei-se der ver-wen-de-ten Interface-Elemente
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 592--602
+Underfull \hbox (badness 10000) in paragraph at lines 593--603
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 602.
+(babel)             in language  on input line 603.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 602.
+(babel)             in language  on input line 603.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 602.
+(babel)             in language  on input line 603.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 602.
+(babel)             in language  on input line 603.
 [33 <./Bilder/PlayGame-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Bilder/GameElemente.eps>
 (epstopdf)                    date: 2018-03-23 14:25:52
@@ -2079,23 +2069,23 @@ Package epstopdf Info: Source file: <Bilder/GameElemente.eps>
 (epstopdf)                    size: 423476 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/GameElemente-eps-co
 nverted-to.pdf Bilder/GameElemente.eps>
-(epstopdf)             \includegraphics on input line 622.
+(epstopdf)             \includegraphics on input line 623.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/GameElemente-eps-converted-to.pdf, id=596, 793.96625pt x 824.07875pt>
+<Bilder/GameElemente-eps-converted-to.pdf, id=601, 793.96625pt x 824.07875pt>
 File: Bilder/GameElemente-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/GameElemente-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/GameElemente-eps-converted-to.pdf used on input
- line 622.
+ line 623.
 (pdftex.def)             Requested size: 238.19171pt x 247.22552pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 611--629
+Underfull \hbox (badness 10000) in paragraph at lines 612--630
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 611--629
+Underfull \hbox (badness 10000) in paragraph at lines 612--630
 
  []
 
@@ -2103,42 +2093,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 611--629
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 629.
+(babel)             in language  on input line 630.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 629.
+(babel)             in language  on input line 630.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 629.
+(babel)             in language  on input line 630.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 629.
+(babel)             in language  on input line 630.
 [34]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 630.
+(babel)             in language  on input line 631.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 630.
+(babel)             in language  on input line 631.
 
-Underfull \hbox (badness 10000) in paragraph at lines 632--635
+Underfull \hbox (badness 10000) in paragraph at lines 633--636
 
  []
 
 
-Overfull \hbox (0.12303pt too wide) in paragraph at lines 639--640
+Overfull \hbox (0.12303pt too wide) in paragraph at lines 640--641
 []\T1/aer/bx/n/12 Regeln\T1/aer/m/n/12 : Für die Ga-mi-fi-ca-ti-on gilt, das di
 e Re-geln der Gamification-Anwendung
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 640.
+(babel)             in language  on input line 641.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 640.
+(babel)             in language  on input line 641.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 640.
+(babel)             in language  on input line 641.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 640.
+(babel)             in language  on input line 641.
 [35 <./Bilder/GameElemente-eps-converted-to.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 646.
+(babel)             in language  on input line 647.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 646.
+(babel)             in language  on input line 647.
 Package epstopdf Info: Source file: <Bilder/FlowModel.eps>
 (epstopdf)                    date: 2018-03-23 14:25:52
 (epstopdf)                    size: 47832 bytes
@@ -2147,177 +2137,177 @@ Package epstopdf Info: Source file: <Bilder/FlowModel.eps>
 (epstopdf)                    size: 39166 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/FlowModel-eps-conve
 rted-to.pdf Bilder/FlowModel.eps>
-(epstopdf)             \includegraphics on input line 656.
+(epstopdf)             \includegraphics on input line 657.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/FlowModel-eps-converted-to.pdf, id=629, 480.79625pt x 411.5375pt>
+<Bilder/FlowModel-eps-converted-to.pdf, id=634, 480.79625pt x 411.5375pt>
 File: Bilder/FlowModel-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/FlowModel-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/FlowModel-eps-converted-to.pdf used on input li
-ne 656.
+ne 657.
 (pdftex.def)             Requested size: 288.47997pt x 246.92441pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 647--668
+Underfull \hbox (badness 10000) in paragraph at lines 648--669
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 647--668
+Underfull \hbox (badness 10000) in paragraph at lines 648--669
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 647--668
+Underfull \hbox (badness 10000) in paragraph at lines 648--669
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 647--668
+Underfull \hbox (badness 10000) in paragraph at lines 648--669
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 647--668
+Underfull \hbox (badness 10000) in paragraph at lines 648--669
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 647--668
+Underfull \hbox (badness 10000) in paragraph at lines 648--669
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 668.
+(babel)             in language  on input line 669.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 668.
+(babel)             in language  on input line 669.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 668.
+(babel)             in language  on input line 669.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 668.
+(babel)             in language  on input line 669.
 [36]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 668.
+(babel)             in language  on input line 669.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 668.
+(babel)             in language  on input line 669.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 668.
+(babel)             in language  on input line 669.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 668.
+(babel)             in language  on input line 669.
  [37 <./Bilder/FlowModel-eps-converted-to.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 669.
+(babel)             in language  on input line 670.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 669.
+(babel)             in language  on input line 670.
 
-Underfull \hbox (badness 10000) in paragraph at lines 671--686
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 671--686
+Underfull \hbox (badness 10000) in paragraph at lines 672--687
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 671--686
+Underfull \hbox (badness 10000) in paragraph at lines 672--687
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 671--686
+Underfull \hbox (badness 10000) in paragraph at lines 672--687
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 671--686
+Underfull \hbox (badness 10000) in paragraph at lines 672--687
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 671--686
+Underfull \hbox (badness 10000) in paragraph at lines 672--687
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 671--686
+Underfull \hbox (badness 10000) in paragraph at lines 672--687
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 672--687
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 686.
+(babel)             in language  on input line 687.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 686.
+(babel)             in language  on input line 687.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 686.
+(babel)             in language  on input line 687.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 686.
+(babel)             in language  on input line 687.
 [38]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 687.
+(babel)             in language  on input line 688.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 687.
+(babel)             in language  on input line 688.
 
-Underfull \hbox (badness 10000) in paragraph at lines 688--695
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 688--695
+Underfull \hbox (badness 10000) in paragraph at lines 689--696
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 688--695
+Underfull \hbox (badness 10000) in paragraph at lines 689--696
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 689--696
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 696.
+(babel)             in language  on input line 697.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 696.
+(babel)             in language  on input line 697.
 
-Underfull \hbox (badness 10000) in paragraph at lines 697--706
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 697--706
+Underfull \hbox (badness 10000) in paragraph at lines 698--707
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 697--706
+Underfull \hbox (badness 10000) in paragraph at lines 698--707
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 697--706
+Underfull \hbox (badness 10000) in paragraph at lines 698--707
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 698--707
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 706.
+(babel)             in language  on input line 707.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 706.
+(babel)             in language  on input line 707.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 706.
+(babel)             in language  on input line 707.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 706.
+(babel)             in language  on input line 707.
 [39]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 707.
+(babel)             in language  on input line 708.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 707.
+(babel)             in language  on input line 708.
 
-Underfull \hbox (badness 10000) in paragraph at lines 709--712
+Underfull \hbox (badness 10000) in paragraph at lines 710--713
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 712.
+(babel)             in language  on input line 713.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 712.
+(babel)             in language  on input line 713.
 Package epstopdf Info: Source file: <Bilder/CEGEModell.eps>
 (epstopdf)                    date: 2018-03-23 14:25:52
 (epstopdf)                    size: 147975 bytes
@@ -2326,27 +2316,27 @@ Package epstopdf Info: Source file: <Bilder/CEGEModell.eps>
 (epstopdf)                    size: 142326 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/CEGEModell-eps-conv
 erted-to.pdf Bilder/CEGEModell.eps>
-(epstopdf)             \includegraphics on input line 723.
+(epstopdf)             \includegraphics on input line 724.
 Package epstopdf Info: Output file is already uptodate.
-<Bilder/CEGEModell-eps-converted-to.pdf, id=684, 648.4225pt x 366.36874pt>
+<Bilder/CEGEModell-eps-converted-to.pdf, id=689, 648.4225pt x 366.36874pt>
 File: Bilder/CEGEModell-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/CEGEModell-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/CEGEModell-eps-converted-to.pdf used on input l
-ine 723.
+ine 724.
 (pdftex.def)             Requested size: 389.0565pt x 219.82294pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 713--730
+Underfull \hbox (badness 10000) in paragraph at lines 714--731
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 713--730
+Underfull \hbox (badness 10000) in paragraph at lines 714--731
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 713--730
+Underfull \hbox (badness 10000) in paragraph at lines 714--731
 
  []
 
@@ -2354,21 +2344,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 713--730
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 730.
+(babel)             in language  on input line 731.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 730.
+(babel)             in language  on input line 731.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 730.
+(babel)             in language  on input line 731.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 730.
+(babel)             in language  on input line 731.
  [40]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 731.
+(babel)             in language  on input line 732.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 731.
+(babel)             in language  on input line 732.
 Package epstopdf Info: Source file: <Bilder/SkillAtoms.eps>
 (epstopdf)                    date: 2018-03-23 14:25:52
 (epstopdf)                    size: 106844 bytes
@@ -2377,27 +2367,27 @@ Package epstopdf Info: Source file: <Bilder/SkillAtoms.eps>
 (epstopdf)                    size: 91926 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/SkillAtoms-eps-conv
 erted-to.pdf Bilder/SkillAtoms.eps>
-(epstopdf)             \includegraphics on input line 743.
+(epstopdf)             \includegraphics on input line 744.
 Package epstopdf Info: Output file is already uptodate.
-<Bilder/SkillAtoms-eps-converted-to.pdf, id=697, 532.99126pt x 303.1325pt>
+<Bilder/SkillAtoms-eps-converted-to.pdf, id=702, 532.99126pt x 303.1325pt>
 File: Bilder/SkillAtoms-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/SkillAtoms-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/SkillAtoms-eps-converted-to.pdf used on input l
-ine 743.
+ine 744.
 (pdftex.def)             Requested size: 319.79723pt x 181.8809pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 732--748
+Underfull \hbox (badness 10000) in paragraph at lines 733--749
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 732--748
+Underfull \hbox (badness 10000) in paragraph at lines 733--749
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 732--748
+Underfull \hbox (badness 10000) in paragraph at lines 733--749
 
  []
 
@@ -2405,29 +2395,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 732--748
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 748.
+(babel)             in language  on input line 749.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 748.
+(babel)             in language  on input line 749.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 748.
+(babel)             in language  on input line 749.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 748.
+(babel)             in language  on input line 749.
  [41]
 Underfull \vbox (badness 1859) has occurred while \output is active []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 748.
+(babel)             in language  on input line 749.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 748.
+(babel)             in language  on input line 749.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 748.
+(babel)             in language  on input line 749.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 748.
+(babel)             in language  on input line 749.
  [42 <./Bilder/CEGEModell-eps-converted-to.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 760.
+(babel)             in language  on input line 761.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 760.
+(babel)             in language  on input line 761.
 Package epstopdf Info: Source file: <Bilder/MDAModel.eps>
 (epstopdf)                    date: 2018-03-23 14:25:52
 (epstopdf)                    size: 20658 bytes
@@ -2436,15 +2426,15 @@ Package epstopdf Info: Source file: <Bilder/MDAModel.eps>
 (epstopdf)                    size: 20085 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/MDAModel-eps-conver
 ted-to.pdf Bilder/MDAModel.eps>
-(epstopdf)             \includegraphics on input line 768.
+(epstopdf)             \includegraphics on input line 769.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/MDAModel-eps-converted-to.pdf, id=720, 311.1625pt x 91.34125pt>
+<Bilder/MDAModel-eps-converted-to.pdf, id=725, 311.1625pt x 91.34125pt>
 File: Bilder/MDAModel-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/MDAModel-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/MDAModel-eps-converted-to.pdf used on input lin
-e 768.
+e 769.
 (pdftex.def)             Requested size: 311.16174pt x 91.34102pt.
 Package epstopdf Info: Source file: <Bilder/MDA.eps>
 (epstopdf)                    date: 2018-03-23 14:25:52
@@ -2454,178 +2444,178 @@ Package epstopdf Info: Source file: <Bilder/MDA.eps>
 (epstopdf)                    size: 9986 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/MDA-eps-converted-t
 o.pdf Bilder/MDA.eps>
-(epstopdf)             \includegraphics on input line 783.
+(epstopdf)             \includegraphics on input line 784.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/MDA-eps-converted-to.pdf, id=725, 304.13625pt x 70.2625pt>
+<Bilder/MDA-eps-converted-to.pdf, id=730, 304.13625pt x 70.2625pt>
 File: Bilder/MDA-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/MDA-eps-converted-to.pdf>
-Package pdftex.def Info: Bilder/MDA-eps-converted-to.pdf used on input line 783
+Package pdftex.def Info: Bilder/MDA-eps-converted-to.pdf used on input line 784
 .
 (pdftex.def)             Requested size: 304.1355pt x 70.26231pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 761--788
+Underfull \hbox (badness 10000) in paragraph at lines 762--789
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 761--788
+Underfull \hbox (badness 10000) in paragraph at lines 762--789
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 761--788
+Underfull \hbox (badness 10000) in paragraph at lines 762--789
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 761--788
+Underfull \hbox (badness 10000) in paragraph at lines 762--789
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 761--788
+Underfull \hbox (badness 10000) in paragraph at lines 762--789
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 788.
+(babel)             in language  on input line 789.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 788.
+(babel)             in language  on input line 789.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 788.
+(babel)             in language  on input line 789.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 788.
+(babel)             in language  on input line 789.
 [43 <./Bilder/SkillAtoms-eps-converted-to.pdf>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 788.
+(babel)             in language  on input line 789.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 788.
+(babel)             in language  on input line 789.
 
-Underfull \hbox (badness 10000) in paragraph at lines 790--799
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 790--799
+Underfull \hbox (badness 10000) in paragraph at lines 791--800
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 790--799
+Underfull \hbox (badness 10000) in paragraph at lines 791--800
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 790--799
+Underfull \hbox (badness 10000) in paragraph at lines 791--800
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 791--800
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 799.
+(babel)             in language  on input line 800.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 799.
+(babel)             in language  on input line 800.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 799.
+(babel)             in language  on input line 800.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 799.
+(babel)             in language  on input line 800.
 [44 <./Bilder/MDAModel-eps-converted-to.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 799.
+(babel)             in language  on input line 800.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 799.
+(babel)             in language  on input line 800.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 799.
+(babel)             in language  on input line 800.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 799.
+(babel)             in language  on input line 800.
  [45 <./Bilder/MDA-eps-converted-to.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 812.
+(babel)             in language  on input line 813.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 812.
+(babel)             in language  on input line 813.
 
-Underfull \hbox (badness 10000) in paragraph at lines 814--821
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 814--821
+Underfull \hbox (badness 10000) in paragraph at lines 815--822
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 814--821
+Underfull \hbox (badness 10000) in paragraph at lines 815--822
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 815--822
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 821.
+(babel)             in language  on input line 822.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 821.
+(babel)             in language  on input line 822.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 821.
+(babel)             in language  on input line 822.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 821.
+(babel)             in language  on input line 822.
 [46]
-Overfull \hbox (2.93398pt too wide) in paragraph at lines 833--834
+Overfull \hbox (2.93398pt too wide) in paragraph at lines 834--835
 \T1/aer/m/n/12 des ei-ge-nen Fort-schritts ge-gen-über an-de-ren. Die emp-fun-d
 e-ne Be-rühmt-heit hängt
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 835.
+(babel)             in language  on input line 836.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 835.
+(babel)             in language  on input line 836.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 835.
+(babel)             in language  on input line 836.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 835.
+(babel)             in language  on input line 836.
 [47]
-Underfull \hbox (badness 10000) in paragraph at lines 839--848
+Underfull \hbox (badness 10000) in paragraph at lines 840--849
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 839--848
+Underfull \hbox (badness 10000) in paragraph at lines 840--849
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 839--848
+Underfull \hbox (badness 10000) in paragraph at lines 840--849
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 839--848
+Underfull \hbox (badness 10000) in paragraph at lines 840--849
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 851.
+(babel)             in language  on input line 852.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 851.
+(babel)             in language  on input line 852.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 851.
+(babel)             in language  on input line 852.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 851.
+(babel)             in language  on input line 852.
 [48]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 868.
+(babel)             in language  on input line 869.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 868.
+(babel)             in language  on input line 869.
 
-Underfull \hbox (badness 10000) in paragraph at lines 869--872
+Underfull \hbox (badness 10000) in paragraph at lines 870--873
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 873.
+(babel)             in language  on input line 874.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 873.
+(babel)             in language  on input line 874.
 Package epstopdf Info: Source file: <Bilder/Points.eps>
 (epstopdf)                    date: 2018-03-23 14:25:52
 (epstopdf)                    size: 330334 bytes
@@ -2634,52 +2624,52 @@ Package epstopdf Info: Source file: <Bilder/Points.eps>
 (epstopdf)                    size: 93571 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/Points-eps-converte
 d-to.pdf Bilder/Points.eps>
-(epstopdf)             \includegraphics on input line 878.
+(epstopdf)             \includegraphics on input line 879.
 Package epstopdf Info: Output file is already uptodate.
-<Bilder/Points-eps-converted-to.pdf, id=811, 404.51125pt x 268.00125pt>
+<Bilder/Points-eps-converted-to.pdf, id=816, 404.51125pt x 268.00125pt>
 File: Bilder/Points-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/Points-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/Points-eps-converted-to.pdf used on input line 
-878.
+879.
 (pdftex.def)             Requested size: 283.15593pt x 187.59958pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 874--891
+Underfull \hbox (badness 10000) in paragraph at lines 875--892
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 874--891
+Underfull \hbox (badness 10000) in paragraph at lines 875--892
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 874--891
+Underfull \hbox (badness 10000) in paragraph at lines 875--892
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 891.
+(babel)             in language  on input line 892.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 891.
+(babel)             in language  on input line 892.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 891.
+(babel)             in language  on input line 892.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 891.
+(babel)             in language  on input line 892.
 [49]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 891.
+(babel)             in language  on input line 892.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 891.
+(babel)             in language  on input line 892.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 891.
+(babel)             in language  on input line 892.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 891.
+(babel)             in language  on input line 892.
  [50 <./Bilder/Points-eps-converted-to.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 892.
+(babel)             in language  on input line 893.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 892.
+(babel)             in language  on input line 893.
 Package epstopdf Info: Source file: <Bilder/Levels.eps>
 (epstopdf)                    date: 2018-03-23 14:25:52
 (epstopdf)                    size: 90664 bytes
@@ -2688,34 +2678,34 @@ Package epstopdf Info: Source file: <Bilder/Levels.eps>
 (epstopdf)                    size: 47564 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/Levels-eps-converte
 d-to.pdf Bilder/Levels.eps>
-(epstopdf)             \includegraphics on input line 897.
+(epstopdf)             \includegraphics on input line 898.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Levels-eps-converted-to.pdf, id=847, 414.54875pt x 255.95625pt>
+<Bilder/Levels-eps-converted-to.pdf, id=852, 414.54875pt x 255.95625pt>
 File: Bilder/Levels-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/Levels-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/Levels-eps-converted-to.pdf used on input line 
-897.
+898.
 (pdftex.def)             Requested size: 290.18214pt x 179.16814pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 893--906
+Underfull \hbox (badness 10000) in paragraph at lines 894--907
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 906.
+(babel)             in language  on input line 907.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 906.
+(babel)             in language  on input line 907.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 906.
+(babel)             in language  on input line 907.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 906.
+(babel)             in language  on input line 907.
 [51 <./Bilder/Levels-eps-converted-to.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 907.
+(babel)             in language  on input line 908.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 907.
+(babel)             in language  on input line 908.
 Package epstopdf Info: Source file: <Bilder/Ranglisten.eps>
 (epstopdf)                    date: 2018-03-23 14:25:52
 (epstopdf)                    size: 1244839 bytes
@@ -2724,39 +2714,39 @@ Package epstopdf Info: Source file: <Bilder/Ranglisten.eps>
 (epstopdf)                    size: 346661 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/Ranglisten-eps-conv
 erted-to.pdf Bilder/Ranglisten.eps>
-(epstopdf)             \includegraphics on input line 912.
+(epstopdf)             \includegraphics on input line 913.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Ranglisten-eps-converted-to.pdf, id=863, 851.18pt x 547.04375pt>
+<Bilder/Ranglisten-eps-converted-to.pdf, id=868, 851.18pt x 547.04375pt>
 File: Bilder/Ranglisten-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/Ranglisten-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/Ranglisten-eps-converted-to.pdf used on input l
-ine 912.
+ine 913.
 (pdftex.def)             Requested size: 255.35596pt x 164.11438pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 908--923
+Underfull \hbox (badness 10000) in paragraph at lines 909--924
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 908--923
+Underfull \hbox (badness 10000) in paragraph at lines 909--924
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 923.
+(babel)             in language  on input line 924.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 923.
+(babel)             in language  on input line 924.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 923.
+(babel)             in language  on input line 924.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 923.
+(babel)             in language  on input line 924.
 [52 <./Bilder/Ranglisten-eps-converted-to.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 924.
+(babel)             in language  on input line 925.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 924.
+(babel)             in language  on input line 925.
 Package epstopdf Info: Source file: <Bilder/Abzeichen.eps>
 (epstopdf)                    date: 2018-03-23 14:25:52
 (epstopdf)                    size: 579986 bytes
@@ -2765,164 +2755,164 @@ Package epstopdf Info: Source file: <Bilder/Abzeichen.eps>
 (epstopdf)                    size: 120838 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/Abzeichen-eps-conve
 rted-to.pdf Bilder/Abzeichen.eps>
-(epstopdf)             \includegraphics on input line 935.
+(epstopdf)             \includegraphics on input line 936.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Abzeichen-eps-converted-to.pdf, id=884, 294.09875pt x 388.45125pt>
+<Bilder/Abzeichen-eps-converted-to.pdf, id=889, 294.09875pt x 388.45125pt>
 File: Bilder/Abzeichen-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/Abzeichen-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/Abzeichen-eps-converted-to.pdf used on input li
-ne 935.
+ne 936.
 (pdftex.def)             Requested size: 132.3432pt x 174.80144pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 925--940
+Underfull \hbox (badness 10000) in paragraph at lines 926--941
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 925--940
+Underfull \hbox (badness 10000) in paragraph at lines 926--941
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 925--940
+Underfull \hbox (badness 10000) in paragraph at lines 926--941
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 940.
+(babel)             in language  on input line 941.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 940.
+(babel)             in language  on input line 941.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 940.
+(babel)             in language  on input line 941.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 940.
+(babel)             in language  on input line 941.
 [53]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 940.
+(babel)             in language  on input line 941.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 940.
+(babel)             in language  on input line 941.
 
-Underfull \hbox (badness 10000) in paragraph at lines 941--952
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 941--952
+Underfull \hbox (badness 10000) in paragraph at lines 942--953
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 941--952
+Underfull \hbox (badness 10000) in paragraph at lines 942--953
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 941--952
+Underfull \hbox (badness 10000) in paragraph at lines 942--953
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 941--952
+Underfull \hbox (badness 10000) in paragraph at lines 942--953
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 942--953
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 952.
+(babel)             in language  on input line 953.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 952.
+(babel)             in language  on input line 953.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 952.
+(babel)             in language  on input line 953.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 952.
+(babel)             in language  on input line 953.
 [54 <./Bilder/Abzeichen-eps-converted-to.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 952.
+(babel)             in language  on input line 953.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 952.
+(babel)             in language  on input line 953.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 952.
+(babel)             in language  on input line 953.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 952.
+(babel)             in language  on input line 953.
  [55]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 952.
+(babel)             in language  on input line 953.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 952.
+(babel)             in language  on input line 953.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 952.
+(babel)             in language  on input line 953.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 952.
+(babel)             in language  on input line 953.
 
 [56]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 953.
+(babel)             in language  on input line 954.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 953.
+(babel)             in language  on input line 954.
 
-Overfull \hbox (2.1589pt too wide) in paragraph at lines 955--960
+Overfull \hbox (2.1589pt too wide) in paragraph at lines 956--961
 \T1/aer/m/n/12 for-de-run-gen wa-ren, \T1/aer/m/it/12 Mo-ti-va-ti-on durch Be-l
 oh-nun-gen er-hö-hen\T1/aer/m/n/12 , \T1/aer/m/it/12 Fä-hig-kei-ten des WE-Proz
 esses
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 955--960
+Underfull \hbox (badness 10000) in paragraph at lines 956--961
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 955--960
+Underfull \hbox (badness 10000) in paragraph at lines 956--961
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 961.
+(babel)             in language  on input line 962.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 961.
+(babel)             in language  on input line 962.
 
-Underfull \hbox (badness 10000) in paragraph at lines 962--965
+Underfull \hbox (badness 10000) in paragraph at lines 963--966
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 965.
+(babel)             in language  on input line 966.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 965.
+(babel)             in language  on input line 966.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 965.
+(babel)             in language  on input line 966.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 965.
+(babel)             in language  on input line 966.
 [57]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 965.
+(babel)             in language  on input line 966.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 965.
+(babel)             in language  on input line 966.
 
-Underfull \hbox (badness 10000) in paragraph at lines 967--972
+Underfull \hbox (badness 10000) in paragraph at lines 968--973
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 967--972
+Underfull \hbox (badness 10000) in paragraph at lines 968--973
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 973.
+(babel)             in language  on input line 974.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 973.
+(babel)             in language  on input line 974.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 978.
+(babel)             in language  on input line 979.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 978.
+(babel)             in language  on input line 979.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 978.
+(babel)             in language  on input line 979.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 978.
+(babel)             in language  on input line 979.
 [58]
 Package epstopdf Info: Source file: <Bilder/ConfluenceStart.eps>
 (epstopdf)                    date: 2018-03-23 14:25:52
@@ -2933,15 +2923,15 @@ f>
 (epstopdf)                    size: 301290 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/ConfluenceStart-eps
 -converted-to.pdf Bilder/ConfluenceStart.eps>
-(epstopdf)             \includegraphics on input line 1001.
+(epstopdf)             \includegraphics on input line 1002.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/ConfluenceStart-eps-converted-to.pdf, id=928, 773.89125pt x 492.84125pt
+<Bilder/ConfluenceStart-eps-converted-to.pdf, id=933, 773.89125pt x 492.84125pt
 >
 File: Bilder/ConfluenceStart-eps-converted-to.pdf Graphic file (type pdf)
  <use Bilder/ConfluenceStart-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/ConfluenceStart-eps-converted-to.pdf used on in
-put line 1001.
+put line 1002.
 (pdftex.def)             Requested size: 309.55101pt x 197.133pt.
 Package epstopdf Info: Source file: <Bilder/Sucheingabe.eps>
 (epstopdf)                    date: 2018-03-23 14:25:52
@@ -2951,58 +2941,58 @@ Package epstopdf Info: Source file: <Bilder/Sucheingabe.eps>
 (epstopdf)                    size: 75232 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/Sucheingabe-eps-con
 verted-to.pdf Bilder/Sucheingabe.eps>
-(epstopdf)             \includegraphics on input line 1023.
+(epstopdf)             \includegraphics on input line 1024.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Sucheingabe-eps-converted-to.pdf, id=931, 607.26875pt x 314.17375pt>
+<Bilder/Sucheingabe-eps-converted-to.pdf, id=936, 607.26875pt x 314.17375pt>
 File: Bilder/Sucheingabe-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/Sucheingabe-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/Sucheingabe-eps-converted-to.pdf used on input 
-line 1023.
+line 1024.
 (pdftex.def)             Requested size: 242.9032pt x 125.66727pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 995--1035
+Underfull \hbox (badness 10000) in paragraph at lines 996--1036
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 995--1035
+Underfull \hbox (badness 10000) in paragraph at lines 996--1036
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 995--1035
+Underfull \hbox (badness 10000) in paragraph at lines 996--1036
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 995--1035
+Underfull \hbox (badness 10000) in paragraph at lines 996--1036
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 995--1035
+Underfull \hbox (badness 10000) in paragraph at lines 996--1036
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 995--1035
+Underfull \hbox (badness 10000) in paragraph at lines 996--1036
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 995--1035
+Underfull \hbox (badness 10000) in paragraph at lines 996--1036
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 995--1035
+Underfull \hbox (badness 10000) in paragraph at lines 996--1036
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 995--1035
+Underfull \hbox (badness 10000) in paragraph at lines 996--1036
 
  []
 
@@ -3010,88 +3000,88 @@ Underfull \hbox (badness 10000) in paragraph at lines 995--1035
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1035.
+(babel)             in language  on input line 1036.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1035.
+(babel)             in language  on input line 1036.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1035.
+(babel)             in language  on input line 1036.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1035.
+(babel)             in language  on input line 1036.
 [59]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1035.
+(babel)             in language  on input line 1036.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1035.
+(babel)             in language  on input line 1036.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1035.
+(babel)             in language  on input line 1036.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1035.
+(babel)             in language  on input line 1036.
  [60 <./Bilder/ConfluenceStart-eps-converted-to.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1035.
+(babel)             in language  on input line 1036.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1035.
+(babel)             in language  on input line 1036.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1035.
+(babel)             in language  on input line 1036.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1035.
+(babel)             in language  on input line 1036.
  [61 <./Bilder/Sucheingabe-eps-converted-to.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1036.
+(babel)             in language  on input line 1037.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1036.
+(babel)             in language  on input line 1037.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1037--1052
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1037--1052
+Underfull \hbox (badness 10000) in paragraph at lines 1038--1053
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1037--1052
+Underfull \hbox (badness 10000) in paragraph at lines 1038--1053
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1037--1052
+Underfull \hbox (badness 10000) in paragraph at lines 1038--1053
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1037--1052
+Underfull \hbox (badness 10000) in paragraph at lines 1038--1053
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1038--1053
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1052.
+(babel)             in language  on input line 1053.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1052.
+(babel)             in language  on input line 1053.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1052.
+(babel)             in language  on input line 1053.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1052.
+(babel)             in language  on input line 1053.
 [62]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1053.
+(babel)             in language  on input line 1054.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1053.
+(babel)             in language  on input line 1054.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1062
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1062
+Underfull \hbox (badness 10000) in paragraph at lines 1056--1063
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1062
+Underfull \hbox (badness 10000) in paragraph at lines 1056--1063
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1056--1063
 
  []
 
@@ -3099,13 +3089,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 1055--1062
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1062.
+(babel)             in language  on input line 1063.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1062.
+(babel)             in language  on input line 1063.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1062.
+(babel)             in language  on input line 1063.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1062.
+(babel)             in language  on input line 1063.
  [63]
 Package epstopdf Info: Source file: <Bilder/StatsFebView.eps>
 (epstopdf)                    date: 2018-04-06 16:53:38
@@ -3115,15 +3105,15 @@ Package epstopdf Info: Source file: <Bilder/StatsFebView.eps>
 (epstopdf)                    size: 73224 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/StatsFebView-eps-co
 nverted-to.pdf Bilder/StatsFebView.eps>
-(epstopdf)             \includegraphics on input line 1075.
+(epstopdf)             \includegraphics on input line 1076.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/StatsFebView-eps-converted-to.pdf, id=981, 715.67375pt x 307.1475pt>
+<Bilder/StatsFebView-eps-converted-to.pdf, id=986, 715.67375pt x 307.1475pt>
 File: Bilder/StatsFebView-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/StatsFebView-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/StatsFebView-eps-converted-to.pdf used on input
- line 1075.
+ line 1076.
 (pdftex.def)             Requested size: 429.40756pt x 184.28992pt.
 Package epstopdf Info: Source file: <Bilder/StatsFebEdit.eps>
 (epstopdf)                    date: 2018-04-06 16:53:38
@@ -3133,15 +3123,15 @@ Package epstopdf Info: Source file: <Bilder/StatsFebEdit.eps>
 (epstopdf)                    size: 108144 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/StatsFebEdit-eps-co
 nverted-to.pdf Bilder/StatsFebEdit.eps>
-(epstopdf)             \includegraphics on input line 1085.
+(epstopdf)             \includegraphics on input line 1086.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/StatsFebEdit-eps-converted-to.pdf, id=985, 722.7pt x 319.1925pt>
+<Bilder/StatsFebEdit-eps-converted-to.pdf, id=990, 722.7pt x 319.1925pt>
 File: Bilder/StatsFebEdit-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/StatsFebEdit-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/StatsFebEdit-eps-converted-to.pdf used on input
- line 1085.
+ line 1086.
 (pdftex.def)             Requested size: 433.62334pt x 191.51697pt.
 Package epstopdf Info: Source file: <Bilder/StatsFebSpaces.eps>
 (epstopdf)                    date: 2018-04-06 16:53:38
@@ -3152,50 +3142,50 @@ Package epstopdf Info: Source file: <Bilder/StatsFebSpaces.eps>
 (epstopdf)                    size: 233293 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/StatsFebSpaces-eps-
 converted-to.pdf Bilder/StatsFebSpaces.eps>
-(epstopdf)             \includegraphics on input line 1095.
+(epstopdf)             \includegraphics on input line 1096.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/StatsFebSpaces-eps-converted-to.pdf, id=987, 815.045pt x 244.915pt>
+<Bilder/StatsFebSpaces-eps-converted-to.pdf, id=992, 815.045pt x 244.915pt>
 File: Bilder/StatsFebSpaces-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/StatsFebSpaces-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/StatsFebSpaces-eps-converted-to.pdf used on inp
-ut line 1095.
+ut line 1096.
 (pdftex.def)             Requested size: 407.5215pt x 122.45718pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1071--1135
+Underfull \hbox (badness 10000) in paragraph at lines 1072--1136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1071--1135
+Underfull \hbox (badness 10000) in paragraph at lines 1072--1136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1071--1135
+Underfull \hbox (badness 10000) in paragraph at lines 1072--1136
 
  []
 
 
-Overfull \hbox (1.72113pt too wide) in paragraph at lines 1071--1135
+Overfull \hbox (1.72113pt too wide) in paragraph at lines 1072--1136
 \T1/aer/m/n/12 An die-ser Stel-le sol-len noch auf ein paar Punk-te auf-merk-sa
 m ge-macht wer-den. Die \T1/aer/m/it/12 Viewing-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1071--1135
+Underfull \hbox (badness 10000) in paragraph at lines 1072--1136
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1135.
+(babel)             in language  on input line 1136.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1135.
+(babel)             in language  on input line 1136.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1135.
+(babel)             in language  on input line 1136.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1135.
+(babel)             in language  on input line 1136.
 [64]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -3204,61 +3194,61 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1135.
+(babel)             in language  on input line 1136.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1135.
+(babel)             in language  on input line 1136.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1135.
+(babel)             in language  on input line 1136.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1135.
+(babel)             in language  on input line 1136.
 [65 <./Bilder/StatsFebView-eps-converted-to.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1135.
+(babel)             in language  on input line 1136.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1135.
+(babel)             in language  on input line 1136.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1135.
+(babel)             in language  on input line 1136.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1135.
+(babel)             in language  on input line 1136.
  [66 <./Bilder/StatsFebEdit-eps-converted-to.pdf> <./Bilder/StatsFebSpaces-eps-
 converted-to.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1136.
+(babel)             in language  on input line 1137.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1136.
+(babel)             in language  on input line 1137.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1153--1164
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1153--1164
+Underfull \hbox (badness 10000) in paragraph at lines 1154--1165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1153--1164
+Underfull \hbox (badness 10000) in paragraph at lines 1154--1165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1153--1164
+Underfull \hbox (badness 10000) in paragraph at lines 1154--1165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1153--1164
+Underfull \hbox (badness 10000) in paragraph at lines 1154--1165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1154--1165
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1164.
+(babel)             in language  on input line 1165.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1164.
+(babel)             in language  on input line 1165.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1164.
+(babel)             in language  on input line 1165.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1164.
+(babel)             in language  on input line 1165.
 [67]
 Package epstopdf Info: Source file: <Bilder/Schnittmenge3.eps>
 (epstopdf)                    date: 2018-04-06 17:04:59
@@ -3269,108 +3259,210 @@ Package epstopdf Info: Source file: <Bilder/Schnittmenge3.eps>
 (epstopdf)                    size: 116268 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/Schnittmenge3-eps-c
 onverted-to.pdf Bilder/Schnittmenge3.eps>
-(epstopdf)             \includegraphics on input line 1174.
+(epstopdf)             \includegraphics on input line 1175.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Schnittmenge3-eps-converted-to.pdf, id=1029, 316.18124pt x 304.13625pt>
+<Bilder/Schnittmenge3-eps-converted-to.pdf, id=1034, 316.18124pt x 304.13625pt>
 File: Bilder/Schnittmenge3-eps-converted-to.pdf Graphic file (type pdf)
 <use Bilder/Schnittmenge3-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/Schnittmenge3-eps-converted-to.pdf used on inpu
-t line 1174.
+t line 1175.
 (pdftex.def)             Requested size: 284.56049pt x 273.72008pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1168--1180
+Underfull \hbox (badness 10000) in paragraph at lines 1169--1181
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1168--1180
+Underfull \hbox (badness 10000) in paragraph at lines 1169--1181
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1168--1180
+Underfull \hbox (badness 10000) in paragraph at lines 1169--1181
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1180.
+(babel)             in language  on input line 1181.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1180.
+(babel)             in language  on input line 1181.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1180.
+(babel)             in language  on input line 1181.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1180.
+(babel)             in language  on input line 1181.
 [68]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1180.
+(babel)             in language  on input line 1181.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1180.
- <Bilder/PlayerEngagementModel.png, id=1038, 474.77374pt x 191.71625pt>
+(babel)             in language  on input line 1181.
+ <Bilder/PlayerEngagementModel.png, id=1043, 474.77374pt x 191.71625pt>
 File: Bilder/PlayerEngagementModel.png Graphic file (type png)
 
 <use Bilder/PlayerEngagementModel.png>
 Package pdftex.def Info: Bilder/PlayerEngagementModel.png used on input line 11
-85.
+86.
 (pdftex.def)             Requested size: 189.90613pt x 76.68513pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1191.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1191.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1191.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1191.
+ [69 <./Bilder/Schnittmenge3-eps-converted-to.pdf>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1191.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1191.
+ <Bilder/MotivationSchaubild.png, id=1089, 321.2pt x 235.88126pt>
+File: Bilder/MotivationSchaubild.png Graphic file (type png)
 
-Underfull \hbox (badness 10000) in paragraph at lines 1181--1194
+<use Bilder/MotivationSchaubild.png>
+Package pdftex.def Info: Bilder/MotivationSchaubild.png used on input line 1220
+.
+(pdftex.def)             Requested size: 192.72148pt x 141.52983pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1230
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1181--1194
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1230
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1194.
+(babel)             in language  on input line 1230.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1194.
+(babel)             in language  on input line 1230.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1194.
+(babel)             in language  on input line 1230.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1194.
-[69 <./Bilder/Schnittmenge3-eps-converted-to.pdf>]
+(babel)             in language  on input line 1230.
+[70 <./Bilder/PlayerEngagementModel.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1211.
+(babel)             in language  on input line 1230.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1211.
+(babel)             in language  on input line 1230.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1211.
+(babel)             in language  on input line 1230.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1211.
- [70 <./Bilder/PlayerEngagementModel.png>]
+(babel)             in language  on input line 1230.
+ [71]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1212.
+(babel)             in language  on input line 1230.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1212.
+(babel)             in language  on input line 1230.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1214.
+(babel)             in language  on input line 1230.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1214.
+(babel)             in language  on input line 1230.
+ [72]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1214.
+(babel)             in language  on input line 1230.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1214.
- [71] (./Masterthesis.lot)
+(babel)             in language  on input line 1230.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1230.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1230.
+
+[73 <./Bilder/MotivationSchaubild.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1244.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1244.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1244.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1244.
+ [74]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1245.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1245.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1247.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1247.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1247.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1247.
+ [75] (./Masterthesis.lot)
 \tf@lot=\write5
 \openout5 = `Masterthesis.lot'.
 
- (./Masterthesis.lof)
+
+(./Masterthesis.lof)
 \tf@lof=\write6
 \openout6 = `Masterthesis.lof'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1217.
+(babel)             in language  on input line 1250.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1217.
+(babel)             in language  on input line 1250.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1217.
+(babel)             in language  on input line 1250.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1217.
- [72]
-(./Masterthesis.bbl
+(babel)             in language  on input line 1250.
+ [76] (./Masterthesis.bbl
 Underfull \hbox (badness 3118) in paragraph at lines 74--78
 []\T1/aer/m/n/12 Nyr Eyal: Fä-hig-kei-ten.  [][]$\T1/aett/m/n/12 https : / / ww
 w . slideshare . net / gzicherm / nir -[] eyal -[]
@@ -3384,7 +3476,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 102.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 102.
-[73]
+[77]
 Underfull \hbox (badness 6157) in paragraph at lines 104--110
 \T1/aer/m/n/12 Ga-mes.  [][]$\T1/aett/m/n/12 https : / / www . gamified . uk / 
 gamification -[] framework / differences -[]
@@ -3422,7 +3514,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 200.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 200.
-[74]
+[78]
 Underfull \hbox (badness 10000) in paragraph at lines 243--249
 \T1/aett/m/n/12 examples / yukai -[] chou -[] gamified -[] gamification -[] blo
 g / attachment / captain -[] up -[]
@@ -3466,34 +3558,52 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 290.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 290.
-[75])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1220.
+[79]
+Underfull \hbox (badness 3579) in paragraph at lines 292--298
+[]\T1/aer/m/n/12 Michael Wu: In-t-rin-sic vs. Ex-trin-sic Re-wards (and Their D
+if-fe-rences from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--298
+\T1/aer/m/n/12 Mo-ti-va-ti-ons).  [][]$\T1/aett/m/n/12 https : / / community . 
+lithium . com / t5 / Science -[] of -[] Social -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--298
+\T1/aett/m/n/12 Blog / Intrinsic -[] vs -[] Extrinsic -[] Rewards -[] and -[] T
+heir -[] Differences -[] from / ba -[]
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1253.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1220.
+(babel)             in language  on input line 1253.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1220.
+(babel)             in language  on input line 1253.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1220.
+(babel)             in language  on input line 1253.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1220.
- [76]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1220.
+(babel)             in language  on input line 1253.
+ [80]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1253.
  (./Masterthesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1220.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1220.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1253.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1253.
 
 Package rerunfilecheck Info: File `Masterthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 2F3D90DEAAA744236066C5A5B04774E0;4662.
+(rerunfilecheck)             Checksum: 11D19F7823099DCA379DF6CDBB15D85D;4746.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12033 strings out of 492995
- 187527 string characters out of 6132705
- 394966 words of memory out of 5000000
- 15022 multiletter control sequences out of 15000+600000
+ 12048 strings out of 492995
+ 187802 string characters out of 6132705
+ 400084 words of memory out of 5000000
+ 15029 multiletter control sequences out of 15000+600000
  55924 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,11n,51p,8850b,580s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3513,10 +3623,10 @@ t/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2017/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2017/texmf-dist/
 fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
 1/public/lm/lmr12.pfb>
-Output written on Masterthesis.pdf (76 pages, 3850892 bytes).
+Output written on Masterthesis.pdf (80 pages, 3961238 bytes).
 PDF statistics:
- 1302 PDF objects out of 1440 (max. 8388607)
- 1113 compressed objects within 12 object streams
- 272 named destinations out of 1000 (max. 500000)
- 572 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1346 PDF objects out of 1440 (max. 8388607)
+ 1150 compressed objects within 12 object streams
+ 279 named destinations out of 1000 (max. 500000)
+ 585 words of extra memory for PDF output out of 10000 (max. 10000000)
 
