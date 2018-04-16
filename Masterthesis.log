@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.9)  13 APR 2018 15:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.9)  16 APR 2018 15:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1648,7 +1648,7 @@ s-converted-to.pdf Bilder/Verhaltensmodell.eps>
 (epstopdf)             \includegraphics on input line 405.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Verhaltensmodell-eps-converted-to.pdf, id=441, 605.26125pt x 462.72874p
+<Bilder/Verhaltensmodell-eps-converted-to.pdf, id=446, 605.26125pt x 462.72874p
 t>
 File: Bilder/Verhaltensmodell-eps-converted-to.pdf Graphic file (type pdf)
  <use Bilder/Verhaltensmodell-eps-converted-to.pdf>
@@ -1746,7 +1746,7 @@ n-eps-converted-to.pdf Bilder/Faehigkeitenfaktoren.eps>
 (epstopdf)             \includegraphics on input line 469.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Faehigkeitenfaktoren-eps-converted-to.pdf, id=485, 631.35875pt x 471.76
+<Bilder/Faehigkeitenfaktoren-eps-converted-to.pdf, id=490, 631.35875pt x 471.76
 25pt>
 File: Bilder/Faehigkeitenfaktoren-eps-converted-to.pdf Graphic file (type pdf)
  <use Bilder/Faehigkeitenfaktoren-eps-converted-to.pdf>
@@ -1843,7 +1843,7 @@ f>
 (epstopdf)             \includegraphics on input line 514.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/externalTrigger-eps-converted-to.pdf, id=514, 594.22pt x 413.545pt>
+<Bilder/externalTrigger-eps-converted-to.pdf, id=519, 594.22pt x 413.545pt>
 File: Bilder/externalTrigger-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/externalTrigger-eps-converted-to.pdf>
@@ -1862,7 +1862,7 @@ f>
 (epstopdf)             \includegraphics on input line 526.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/internalTrigger-eps-converted-to.pdf, id=519, 853.1875pt x 778.91pt>
+<Bilder/internalTrigger-eps-converted-to.pdf, id=524, 853.1875pt x 778.91pt>
 File: Bilder/internalTrigger-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/internalTrigger-eps-converted-to.pdf>
@@ -1946,7 +1946,7 @@ nverted-to.pdf Bilder/GameVielfalt.eps>
 (epstopdf)             \includegraphics on input line 561.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/GameVielfalt-eps-converted-to.pdf, id=553, 461.725pt x 451.6875pt>
+<Bilder/GameVielfalt-eps-converted-to.pdf, id=558, 461.725pt x 451.6875pt>
 File: Bilder/GameVielfalt-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/GameVielfalt-eps-converted-to.pdf>
@@ -1988,7 +1988,7 @@ ted-to.pdf Bilder/PlayGame.eps>
 (epstopdf)             \includegraphics on input line 584.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/PlayGame-eps-converted-to.pdf, id=571, 716.6775pt x 631.35875pt>
+<Bilder/PlayGame-eps-converted-to.pdf, id=576, 716.6775pt x 631.35875pt>
 File: Bilder/PlayGame-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/PlayGame-eps-converted-to.pdf>
@@ -2072,7 +2072,7 @@ nverted-to.pdf Bilder/GameElemente.eps>
 (epstopdf)             \includegraphics on input line 623.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/GameElemente-eps-converted-to.pdf, id=601, 793.96625pt x 824.07875pt>
+<Bilder/GameElemente-eps-converted-to.pdf, id=606, 793.96625pt x 824.07875pt>
 File: Bilder/GameElemente-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/GameElemente-eps-converted-to.pdf>
@@ -2140,7 +2140,7 @@ rted-to.pdf Bilder/FlowModel.eps>
 (epstopdf)             \includegraphics on input line 657.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/FlowModel-eps-converted-to.pdf, id=634, 480.79625pt x 411.5375pt>
+<Bilder/FlowModel-eps-converted-to.pdf, id=639, 480.79625pt x 411.5375pt>
 File: Bilder/FlowModel-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/FlowModel-eps-converted-to.pdf>
@@ -2318,7 +2318,7 @@ Package epstopdf Info: Source file: <Bilder/CEGEModell.eps>
 erted-to.pdf Bilder/CEGEModell.eps>
 (epstopdf)             \includegraphics on input line 724.
 Package epstopdf Info: Output file is already uptodate.
-<Bilder/CEGEModell-eps-converted-to.pdf, id=689, 648.4225pt x 366.36874pt>
+<Bilder/CEGEModell-eps-converted-to.pdf, id=694, 648.4225pt x 366.36874pt>
 File: Bilder/CEGEModell-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/CEGEModell-eps-converted-to.pdf>
@@ -2369,7 +2369,7 @@ Package epstopdf Info: Source file: <Bilder/SkillAtoms.eps>
 erted-to.pdf Bilder/SkillAtoms.eps>
 (epstopdf)             \includegraphics on input line 744.
 Package epstopdf Info: Output file is already uptodate.
-<Bilder/SkillAtoms-eps-converted-to.pdf, id=702, 532.99126pt x 303.1325pt>
+<Bilder/SkillAtoms-eps-converted-to.pdf, id=707, 532.99126pt x 303.1325pt>
 File: Bilder/SkillAtoms-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/SkillAtoms-eps-converted-to.pdf>
@@ -2429,7 +2429,7 @@ ted-to.pdf Bilder/MDAModel.eps>
 (epstopdf)             \includegraphics on input line 769.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/MDAModel-eps-converted-to.pdf, id=725, 311.1625pt x 91.34125pt>
+<Bilder/MDAModel-eps-converted-to.pdf, id=730, 311.1625pt x 91.34125pt>
 File: Bilder/MDAModel-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/MDAModel-eps-converted-to.pdf>
@@ -2447,7 +2447,7 @@ o.pdf Bilder/MDA.eps>
 (epstopdf)             \includegraphics on input line 784.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/MDA-eps-converted-to.pdf, id=730, 304.13625pt x 70.2625pt>
+<Bilder/MDA-eps-converted-to.pdf, id=735, 304.13625pt x 70.2625pt>
 File: Bilder/MDA-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/MDA-eps-converted-to.pdf>
@@ -2561,6 +2561,16 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 822.
 [46]
+Overfull \hbox (12.73434pt too wide) in paragraph at lines 824--824
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 824--824
+
+ []
+
+
 Overfull \hbox (2.93398pt too wide) in paragraph at lines 834--835
 \T1/aer/m/n/12 des ei-ge-nen Fort-schritts ge-gen-über an-de-ren. Die emp-fun-d
 e-ne Be-rühmt-heit hängt
@@ -2595,13 +2605,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 840--849
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 852.
+(babel)             in language  on input line 850.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 852.
+(babel)             in language  on input line 850.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 852.
+(babel)             in language  on input line 850.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 852.
+(babel)             in language  on input line 850.
 [48]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 869.
@@ -2626,7 +2636,7 @@ Package epstopdf Info: Source file: <Bilder/Points.eps>
 d-to.pdf Bilder/Points.eps>
 (epstopdf)             \includegraphics on input line 879.
 Package epstopdf Info: Output file is already uptodate.
-<Bilder/Points-eps-converted-to.pdf, id=816, 404.51125pt x 268.00125pt>
+<Bilder/Points-eps-converted-to.pdf, id=821, 404.51125pt x 268.00125pt>
 File: Bilder/Points-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/Points-eps-converted-to.pdf>
@@ -2681,7 +2691,7 @@ d-to.pdf Bilder/Levels.eps>
 (epstopdf)             \includegraphics on input line 898.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Levels-eps-converted-to.pdf, id=852, 414.54875pt x 255.95625pt>
+<Bilder/Levels-eps-converted-to.pdf, id=857, 414.54875pt x 255.95625pt>
 File: Bilder/Levels-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/Levels-eps-converted-to.pdf>
@@ -2717,7 +2727,7 @@ erted-to.pdf Bilder/Ranglisten.eps>
 (epstopdf)             \includegraphics on input line 913.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Ranglisten-eps-converted-to.pdf, id=868, 851.18pt x 547.04375pt>
+<Bilder/Ranglisten-eps-converted-to.pdf, id=873, 851.18pt x 547.04375pt>
 File: Bilder/Ranglisten-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/Ranglisten-eps-converted-to.pdf>
@@ -2758,7 +2768,7 @@ rted-to.pdf Bilder/Abzeichen.eps>
 (epstopdf)             \includegraphics on input line 936.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Abzeichen-eps-converted-to.pdf, id=889, 294.09875pt x 388.45125pt>
+<Bilder/Abzeichen-eps-converted-to.pdf, id=894, 294.09875pt x 388.45125pt>
 File: Bilder/Abzeichen-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/Abzeichen-eps-converted-to.pdf>
@@ -2926,7 +2936,7 @@ f>
 (epstopdf)             \includegraphics on input line 1002.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/ConfluenceStart-eps-converted-to.pdf, id=933, 773.89125pt x 492.84125pt
+<Bilder/ConfluenceStart-eps-converted-to.pdf, id=938, 773.89125pt x 492.84125pt
 >
 File: Bilder/ConfluenceStart-eps-converted-to.pdf Graphic file (type pdf)
  <use Bilder/ConfluenceStart-eps-converted-to.pdf>
@@ -2944,7 +2954,7 @@ verted-to.pdf Bilder/Sucheingabe.eps>
 (epstopdf)             \includegraphics on input line 1024.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Sucheingabe-eps-converted-to.pdf, id=936, 607.26875pt x 314.17375pt>
+<Bilder/Sucheingabe-eps-converted-to.pdf, id=941, 607.26875pt x 314.17375pt>
 File: Bilder/Sucheingabe-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/Sucheingabe-eps-converted-to.pdf>
@@ -3108,7 +3118,7 @@ nverted-to.pdf Bilder/StatsFebView.eps>
 (epstopdf)             \includegraphics on input line 1076.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/StatsFebView-eps-converted-to.pdf, id=986, 715.67375pt x 307.1475pt>
+<Bilder/StatsFebView-eps-converted-to.pdf, id=991, 715.67375pt x 307.1475pt>
 File: Bilder/StatsFebView-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/StatsFebView-eps-converted-to.pdf>
@@ -3126,7 +3136,7 @@ nverted-to.pdf Bilder/StatsFebEdit.eps>
 (epstopdf)             \includegraphics on input line 1086.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/StatsFebEdit-eps-converted-to.pdf, id=990, 722.7pt x 319.1925pt>
+<Bilder/StatsFebEdit-eps-converted-to.pdf, id=995, 722.7pt x 319.1925pt>
 File: Bilder/StatsFebEdit-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/StatsFebEdit-eps-converted-to.pdf>
@@ -3145,7 +3155,7 @@ converted-to.pdf Bilder/StatsFebSpaces.eps>
 (epstopdf)             \includegraphics on input line 1096.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/StatsFebSpaces-eps-converted-to.pdf, id=992, 815.045pt x 244.915pt>
+<Bilder/StatsFebSpaces-eps-converted-to.pdf, id=997, 815.045pt x 244.915pt>
 File: Bilder/StatsFebSpaces-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/StatsFebSpaces-eps-converted-to.pdf>
@@ -3217,38 +3227,38 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1137.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1154--1165
+Underfull \hbox (badness 10000) in paragraph at lines 1155--1166
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1154--1165
+Underfull \hbox (badness 10000) in paragraph at lines 1155--1166
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1154--1165
+Underfull \hbox (badness 10000) in paragraph at lines 1155--1166
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1154--1165
+Underfull \hbox (badness 10000) in paragraph at lines 1155--1166
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1154--1165
+Underfull \hbox (badness 10000) in paragraph at lines 1155--1166
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1165.
+(babel)             in language  on input line 1166.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1165.
+(babel)             in language  on input line 1166.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1165.
+(babel)             in language  on input line 1166.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1165.
+(babel)             in language  on input line 1166.
 [67]
 Package epstopdf Info: Source file: <Bilder/Schnittmenge3.eps>
 (epstopdf)                    date: 2018-04-06 17:04:59
@@ -3259,229 +3269,233 @@ Package epstopdf Info: Source file: <Bilder/Schnittmenge3.eps>
 (epstopdf)                    size: 116268 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/Schnittmenge3-eps-c
 onverted-to.pdf Bilder/Schnittmenge3.eps>
-(epstopdf)             \includegraphics on input line 1175.
+(epstopdf)             \includegraphics on input line 1176.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Schnittmenge3-eps-converted-to.pdf, id=1034, 316.18124pt x 304.13625pt>
+<Bilder/Schnittmenge3-eps-converted-to.pdf, id=1039, 316.18124pt x 304.13625pt>
 File: Bilder/Schnittmenge3-eps-converted-to.pdf Graphic file (type pdf)
 <use Bilder/Schnittmenge3-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/Schnittmenge3-eps-converted-to.pdf used on inpu
-t line 1175.
+t line 1176.
 (pdftex.def)             Requested size: 284.56049pt x 273.72008pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1169--1181
+Underfull \hbox (badness 10000) in paragraph at lines 1170--1182
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1169--1181
+Underfull \hbox (badness 10000) in paragraph at lines 1170--1182
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1169--1181
+Underfull \hbox (badness 10000) in paragraph at lines 1170--1182
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1181.
+(babel)             in language  on input line 1182.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1181.
+(babel)             in language  on input line 1182.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1181.
+(babel)             in language  on input line 1182.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1181.
+(babel)             in language  on input line 1182.
 [68]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1181.
+(babel)             in language  on input line 1182.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1181.
- <Bilder/PlayerEngagementModel.png, id=1043, 474.77374pt x 191.71625pt>
+(babel)             in language  on input line 1182.
+ <Bilder/PlayerEngagementModel.png, id=1048, 474.77374pt x 191.71625pt>
 File: Bilder/PlayerEngagementModel.png Graphic file (type png)
 
 <use Bilder/PlayerEngagementModel.png>
 Package pdftex.def Info: Bilder/PlayerEngagementModel.png used on input line 11
-86.
+87.
 (pdftex.def)             Requested size: 189.90613pt x 76.68513pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1191.
+(babel)             in language  on input line 1192.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1191.
+(babel)             in language  on input line 1192.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1191.
+(babel)             in language  on input line 1192.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1191.
+(babel)             in language  on input line 1192.
  [69 <./Bilder/Schnittmenge3-eps-converted-to.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1191.
+(babel)             in language  on input line 1192.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1191.
- <Bilder/MotivationSchaubild.png, id=1089, 321.2pt x 235.88126pt>
+(babel)             in language  on input line 1192.
+ <Bilder/MotivationSchaubild.png, id=1095, 321.2pt x 235.88126pt>
 File: Bilder/MotivationSchaubild.png Graphic file (type png)
 
 <use Bilder/MotivationSchaubild.png>
-Package pdftex.def Info: Bilder/MotivationSchaubild.png used on input line 1220
+Package pdftex.def Info: Bilder/MotivationSchaubild.png used on input line 1221
 .
 (pdftex.def)             Requested size: 192.72148pt x 141.52983pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1243
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
 [70 <./Bilder/PlayerEngagementModel.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
  [71]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
  [72]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
 
 [73 <./Bilder/MotivationSchaubild.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1242.
+(babel)             in language  on input line 1243.
  [74]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1257.
+(babel)             in language  on input line 1244.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1257.
+(babel)             in language  on input line 1244.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1257.
+(babel)             in language  on input line 1260.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1257.
+(babel)             in language  on input line 1260.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1260.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1260.
 
 [75]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1258.
+(babel)             in language  on input line 1261.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1258.
+(babel)             in language  on input line 1261.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1260.
+(babel)             in language  on input line 1263.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1260.
+(babel)             in language  on input line 1263.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1260.
+(babel)             in language  on input line 1263.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1260.
+(babel)             in language  on input line 1263.
  [76] (./Masterthesis.lot)
 \tf@lot=\write5
 \openout5 = `Masterthesis.lot'.
@@ -3491,13 +3505,13 @@ Package babel Info: Redefining ngerman shorthand "~
 \openout6 = `Masterthesis.lof'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1263.
+(babel)             in language  on input line 1266.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1263.
+(babel)             in language  on input line 1266.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1263.
+(babel)             in language  on input line 1266.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1263.
+(babel)             in language  on input line 1266.
  [77] (./Masterthesis.bbl
 Underfull \hbox (badness 3118) in paragraph at lines 74--78
 []\T1/aer/m/n/12 Nyr Eyal: Fä-hig-kei-ten.  [][]$\T1/aett/m/n/12 https : / / ww
@@ -3613,33 +3627,33 @@ heir -[] Differences -[] from / ba -[]
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1266.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1269.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1266.
+(babel)             in language  on input line 1269.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1266.
+(babel)             in language  on input line 1269.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1266.
+(babel)             in language  on input line 1269.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1266.
+(babel)             in language  on input line 1269.
  [81]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1266.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1269.
  (./Masterthesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1266.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1266.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1269.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1269.
 
 Package rerunfilecheck Info: File `Masterthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 11D19F7823099DCA379DF6CDBB15D85D;4746.
+(rerunfilecheck)             Checksum: C80C0A8361490949A38AAC32EA9E9B63;4836.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12049 strings out of 492995
- 187809 string characters out of 6132705
- 406084 words of memory out of 5000000
- 15029 multiletter control sequences out of 15000+600000
+ 12052 strings out of 492995
+ 187869 string characters out of 6132705
+ 406168 words of memory out of 5000000
+ 15031 multiletter control sequences out of 15000+600000
  55924 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,11n,51p,8850b,580s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3659,10 +3673,10 @@ t/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2017/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2017/texmf-dist/
 fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
 1/public/lm/lmr12.pfb>
-Output written on Masterthesis.pdf (81 pages, 3965852 bytes).
+Output written on Masterthesis.pdf (81 pages, 3966538 bytes).
 PDF statistics:
- 1356 PDF objects out of 1440 (max. 8388607)
- 1159 compressed objects within 12 object streams
- 280 named destinations out of 1000 (max. 500000)
- 585 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1365 PDF objects out of 1440 (max. 8388607)
+ 1168 compressed objects within 12 object streams
+ 281 named destinations out of 1000 (max. 500000)
+ 593 words of extra memory for PDF output out of 10000 (max. 10000000)
 
