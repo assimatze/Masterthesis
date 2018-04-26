@@ -12,41 +12,43 @@ Repeated entry---line 107 of file library2.bib
  : @misc{Merkmale2018
  :                   ,
 I'm skipping whatever remains of this entry
+Warning--empty journal in At2005
+Warning--there's a number but no volume in At2005
 Warning--empty journal in Prause2013
 Warning--empty journal in Vester2009
 Warning--empty journal in Lazzaro2004
 Warning--empty journal in Cege2009
 Warning--can't use both volume and number fields in Hunicke2004
-You've used 49 entries,
+You've used 50 entries,
             1791 wiz_defined-function locations,
-            714 strings with 10898 characters,
-and the built_in function-call counts, 8114 in all, are:
-= -- 723
-> -- 248
+            719 strings with 11031 characters,
+and the built_in function-call counts, 8297 in all, are:
+= -- 735
+> -- 262
 < -- 6
-+ -- 112
-- -- 63
-* -- 252
-:= -- 1250
-add.period$ -- 154
-call.type$ -- 49
-change.case$ -- 20
++ -- 117
+- -- 67
+* -- 267
+:= -- 1283
+add.period$ -- 157
+call.type$ -- 50
+change.case$ -- 21
 chr.to.int$ -- 0
-cite$ -- 54
-duplicate$ -- 434
-empty$ -- 973
-format.name$ -- 63
-if$ -- 1923
+cite$ -- 57
+duplicate$ -- 442
+empty$ -- 988
+format.name$ -- 67
+if$ -- 1960
 int.to.chr$ -- 0
-int.to.str$ -- 49
-missing$ -- 47
-newline$ -- 252
-num.names$ -- 48
-pop$ -- 278
+int.to.str$ -- 50
+missing$ -- 48
+newline$ -- 257
+num.names$ -- 49
+pop$ -- 282
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 184
+skip$ -- 186
 stack$ -- 0
 substring$ -- 201
 swap$ -- 91
@@ -54,8 +56,8 @@ text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 5
-while$ -- 68
-width$ -- 51
-write$ -- 509
+warning$ -- 7
+while$ -- 69
+width$ -- 52
+write$ -- 519
 (There were 2 error messages)
