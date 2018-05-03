@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.9)  2 MAY 2018 16:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.9)  3 MAY 2018 17:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3722,6 +3722,17 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1388.
  [86]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1388.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1388.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1388.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1388.
+ [87]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1391.
 Package babel Info: Redefining ngerman shorthand "~
@@ -3731,7 +3742,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1391.
 
-[87]
+[88]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1392.
 Package babel Info: Redefining ngerman shorthand "~
@@ -3744,7 +3755,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1394.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1394.
- [88] (./Masterthesis.lot)
+ [89] (./Masterthesis.lot)
 \tf@lot=\write5
 \openout5 = `Masterthesis.lot'.
 
@@ -3760,7 +3771,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1397.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1397.
- [89] (./Masterthesis.bbl
+ [90] (./Masterthesis.bbl
 Underfull \hbox (badness 3118) in paragraph at lines 79--83
 []\T1/aer/m/n/12 Nyr Eyal: Fä-hig-kei-ten.  [][]$\T1/aett/m/n/12 https : / / ww
 w . slideshare . net / gzicherm / nir -[] eyal -[]
@@ -3774,7 +3785,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 107.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 107.
-[90]
+[91]
 Underfull \hbox (badness 6157) in paragraph at lines 109--115
 \T1/aer/m/n/12 Ga-mes.  [][]$\T1/aett/m/n/12 https : / / www . gamified . uk / 
 gamification -[] framework / differences -[]
@@ -3812,7 +3823,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 200.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 200.
-[91]
+[92]
 Underfull \hbox (badness 10000) in paragraph at lines 248--254
 \T1/aett/m/n/12 examples / yukai -[] chou -[] gamified -[] gamification -[] blo
 g / attachment / captain -[] up -[]
@@ -3856,7 +3867,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 295.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 295.
-[92]
+[93]
 Underfull \hbox (badness 3579) in paragraph at lines 297--303
 []\T1/aer/m/n/12 Michael Wu: In-t-rin-sic vs. Ex-trin-sic Re-wards (and Their D
 if-fe-rences from
@@ -3884,7 +3895,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1400.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1400.
- [93]
+ [94]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 1400.
  (./Masterthesis.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1400.
@@ -3898,10 +3909,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 12135 strings out of 492995
- 189641 string characters out of 6132705
- 416150 words of memory out of 5000000
- 15077 multiletter control sequences out of 15000+600000
+ 12138 strings out of 492995
+ 189681 string characters out of 6132705
+ 416186 words of memory out of 5000000
+ 15078 multiletter control sequences out of 15000+600000
  55924 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,11n,51p,8850b,580s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3921,10 +3932,10 @@ t/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2017/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2017/texmf-dist/
 fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
 1/public/lm/lmr12.pfb>
-Output written on Masterthesis.pdf (93 pages, 4827460 bytes).
+Output written on Masterthesis.pdf (94 pages, 4830215 bytes).
 PDF statistics:
- 1492 PDF objects out of 1728 (max. 8388607)
- 1268 compressed objects within 13 object streams
- 311 named destinations out of 1000 (max. 500000)
+ 1499 PDF objects out of 1728 (max. 8388607)
+ 1274 compressed objects within 13 object streams
+ 313 named destinations out of 1000 (max. 500000)
  628 words of extra memory for PDF output out of 10000 (max. 10000000)
 
