@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.9)  3 MAY 2018 17:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.9)  5 MAY 2018 16:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1631,7 +1631,7 @@ s-converted-to.pdf Bilder/Verhaltensmodell.eps>
 (epstopdf)             \includegraphics on input line 403.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Verhaltensmodell-eps-converted-to.pdf, id=448, 605.26125pt x 462.72874p
+<Bilder/Verhaltensmodell-eps-converted-to.pdf, id=454, 605.26125pt x 462.72874p
 t>
 File: Bilder/Verhaltensmodell-eps-converted-to.pdf Graphic file (type pdf)
  <use Bilder/Verhaltensmodell-eps-converted-to.pdf>
@@ -1730,7 +1730,7 @@ n-eps-converted-to.pdf Bilder/Faehigkeitenfaktoren.eps>
 (epstopdf)             \includegraphics on input line 470.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Faehigkeitenfaktoren-eps-converted-to.pdf, id=492, 631.35875pt x 471.76
+<Bilder/Faehigkeitenfaktoren-eps-converted-to.pdf, id=497, 631.35875pt x 471.76
 25pt>
 File: Bilder/Faehigkeitenfaktoren-eps-converted-to.pdf Graphic file (type pdf)
  <use Bilder/Faehigkeitenfaktoren-eps-converted-to.pdf>
@@ -1835,7 +1835,7 @@ f>
 (epstopdf)             \includegraphics on input line 515.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/externalTrigger-eps-converted-to.pdf, id=520, 594.22pt x 413.545pt>
+<Bilder/externalTrigger-eps-converted-to.pdf, id=525, 594.22pt x 413.545pt>
 File: Bilder/externalTrigger-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/externalTrigger-eps-converted-to.pdf>
@@ -1854,7 +1854,7 @@ f>
 (epstopdf)             \includegraphics on input line 527.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/internalTrigger-eps-converted-to.pdf, id=525, 853.1875pt x 778.91pt>
+<Bilder/internalTrigger-eps-converted-to.pdf, id=530, 853.1875pt x 778.91pt>
 File: Bilder/internalTrigger-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/internalTrigger-eps-converted-to.pdf>
@@ -1939,7 +1939,7 @@ nverted-to.pdf Bilder/GameVielfalt.eps>
 (epstopdf)             \includegraphics on input line 562.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/GameVielfalt-eps-converted-to.pdf, id=563, 461.725pt x 451.6875pt>
+<Bilder/GameVielfalt-eps-converted-to.pdf, id=568, 461.725pt x 451.6875pt>
 File: Bilder/GameVielfalt-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/GameVielfalt-eps-converted-to.pdf>
@@ -1981,7 +1981,7 @@ ted-to.pdf Bilder/PlayGame.eps>
 (epstopdf)             \includegraphics on input line 585.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/PlayGame-eps-converted-to.pdf, id=581, 716.6775pt x 631.35875pt>
+<Bilder/PlayGame-eps-converted-to.pdf, id=586, 716.6775pt x 631.35875pt>
 File: Bilder/PlayGame-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/PlayGame-eps-converted-to.pdf>
@@ -2065,7 +2065,7 @@ nverted-to.pdf Bilder/GameElemente.eps>
 (epstopdf)             \includegraphics on input line 624.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/GameElemente-eps-converted-to.pdf, id=611, 793.96625pt x 824.07875pt>
+<Bilder/GameElemente-eps-converted-to.pdf, id=616, 793.96625pt x 824.07875pt>
 File: Bilder/GameElemente-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/GameElemente-eps-converted-to.pdf>
@@ -2133,7 +2133,7 @@ rted-to.pdf Bilder/FlowModel.eps>
 (epstopdf)             \includegraphics on input line 658.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/FlowModel-eps-converted-to.pdf, id=644, 480.79625pt x 411.5375pt>
+<Bilder/FlowModel-eps-converted-to.pdf, id=649, 480.79625pt x 411.5375pt>
 File: Bilder/FlowModel-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/FlowModel-eps-converted-to.pdf>
@@ -2311,7 +2311,7 @@ Package epstopdf Info: Source file: <Bilder/CEGEModell.eps>
 erted-to.pdf Bilder/CEGEModell.eps>
 (epstopdf)             \includegraphics on input line 724.
 Package epstopdf Info: Output file is already uptodate.
-<Bilder/CEGEModell-eps-converted-to.pdf, id=699, 648.4225pt x 366.36874pt>
+<Bilder/CEGEModell-eps-converted-to.pdf, id=704, 648.4225pt x 366.36874pt>
 File: Bilder/CEGEModell-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/CEGEModell-eps-converted-to.pdf>
@@ -2362,7 +2362,7 @@ Package epstopdf Info: Source file: <Bilder/SkillAtoms.eps>
 erted-to.pdf Bilder/SkillAtoms.eps>
 (epstopdf)             \includegraphics on input line 744.
 Package epstopdf Info: Output file is already uptodate.
-<Bilder/SkillAtoms-eps-converted-to.pdf, id=712, 532.99126pt x 303.1325pt>
+<Bilder/SkillAtoms-eps-converted-to.pdf, id=717, 532.99126pt x 303.1325pt>
 File: Bilder/SkillAtoms-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/SkillAtoms-eps-converted-to.pdf>
@@ -2422,7 +2422,7 @@ ted-to.pdf Bilder/MDAModel.eps>
 (epstopdf)             \includegraphics on input line 769.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/MDAModel-eps-converted-to.pdf, id=735, 311.1625pt x 91.34125pt>
+<Bilder/MDAModel-eps-converted-to.pdf, id=740, 311.1625pt x 91.34125pt>
 File: Bilder/MDAModel-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/MDAModel-eps-converted-to.pdf>
@@ -2440,7 +2440,7 @@ o.pdf Bilder/MDA.eps>
 (epstopdf)             \includegraphics on input line 784.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/MDA-eps-converted-to.pdf, id=740, 304.13625pt x 70.2625pt>
+<Bilder/MDA-eps-converted-to.pdf, id=745, 304.13625pt x 70.2625pt>
 File: Bilder/MDA-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/MDA-eps-converted-to.pdf>
@@ -2629,7 +2629,7 @@ Package epstopdf Info: Source file: <Bilder/Points.eps>
 d-to.pdf Bilder/Points.eps>
 (epstopdf)             \includegraphics on input line 879.
 Package epstopdf Info: Output file is already uptodate.
-<Bilder/Points-eps-converted-to.pdf, id=826, 404.51125pt x 268.00125pt>
+<Bilder/Points-eps-converted-to.pdf, id=831, 404.51125pt x 268.00125pt>
 File: Bilder/Points-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/Points-eps-converted-to.pdf>
@@ -2684,7 +2684,7 @@ d-to.pdf Bilder/Levels.eps>
 (epstopdf)             \includegraphics on input line 898.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Levels-eps-converted-to.pdf, id=862, 414.54875pt x 255.95625pt>
+<Bilder/Levels-eps-converted-to.pdf, id=867, 414.54875pt x 255.95625pt>
 File: Bilder/Levels-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/Levels-eps-converted-to.pdf>
@@ -2720,7 +2720,7 @@ erted-to.pdf Bilder/Ranglisten.eps>
 (epstopdf)             \includegraphics on input line 914.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Ranglisten-eps-converted-to.pdf, id=878, 851.18pt x 547.04375pt>
+<Bilder/Ranglisten-eps-converted-to.pdf, id=883, 851.18pt x 547.04375pt>
 File: Bilder/Ranglisten-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/Ranglisten-eps-converted-to.pdf>
@@ -2761,7 +2761,7 @@ rted-to.pdf Bilder/Abzeichen.eps>
 (epstopdf)             \includegraphics on input line 937.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Abzeichen-eps-converted-to.pdf, id=898, 294.09875pt x 388.45125pt>
+<Bilder/Abzeichen-eps-converted-to.pdf, id=903, 294.09875pt x 388.45125pt>
 File: Bilder/Abzeichen-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/Abzeichen-eps-converted-to.pdf>
@@ -2922,7 +2922,7 @@ f>
 (epstopdf)             \includegraphics on input line 1004.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/ConfluenceStart-eps-converted-to.pdf, id=943, 773.89125pt x 492.84125pt
+<Bilder/ConfluenceStart-eps-converted-to.pdf, id=948, 773.89125pt x 492.84125pt
 >
 File: Bilder/ConfluenceStart-eps-converted-to.pdf Graphic file (type pdf)
  <use Bilder/ConfluenceStart-eps-converted-to.pdf>
@@ -2940,7 +2940,7 @@ verted-to.pdf Bilder/Sucheingabe.eps>
 (epstopdf)             \includegraphics on input line 1026.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Sucheingabe-eps-converted-to.pdf, id=946, 607.26875pt x 314.17375pt>
+<Bilder/Sucheingabe-eps-converted-to.pdf, id=951, 607.26875pt x 314.17375pt>
 File: Bilder/Sucheingabe-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/Sucheingabe-eps-converted-to.pdf>
@@ -3104,7 +3104,7 @@ nverted-to.pdf Bilder/StatsFebView.eps>
 (epstopdf)             \includegraphics on input line 1079.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/StatsFebView-eps-converted-to.pdf, id=996, 715.67375pt x 307.1475pt>
+<Bilder/StatsFebView-eps-converted-to.pdf, id=1001, 715.67375pt x 307.1475pt>
 File: Bilder/StatsFebView-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/StatsFebView-eps-converted-to.pdf>
@@ -3122,7 +3122,7 @@ nverted-to.pdf Bilder/StatsFebEdit.eps>
 (epstopdf)             \includegraphics on input line 1089.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/StatsFebEdit-eps-converted-to.pdf, id=1000, 722.7pt x 319.1925pt>
+<Bilder/StatsFebEdit-eps-converted-to.pdf, id=1005, 722.7pt x 319.1925pt>
 File: Bilder/StatsFebEdit-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/StatsFebEdit-eps-converted-to.pdf>
@@ -3141,7 +3141,7 @@ converted-to.pdf Bilder/StatsFebSpaces.eps>
 (epstopdf)             \includegraphics on input line 1099.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/StatsFebSpaces-eps-converted-to.pdf, id=1002, 815.045pt x 244.915pt>
+<Bilder/StatsFebSpaces-eps-converted-to.pdf, id=1007, 815.045pt x 244.915pt>
 File: Bilder/StatsFebSpaces-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/StatsFebSpaces-eps-converted-to.pdf>
@@ -3258,7 +3258,7 @@ onverted-to.pdf Bilder/Schnittmenge3.eps>
 (epstopdf)             \includegraphics on input line 1179.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Schnittmenge3-eps-converted-to.pdf, id=1044, 316.18124pt x 304.13625pt>
+<Bilder/Schnittmenge3-eps-converted-to.pdf, id=1049, 316.18124pt x 304.13625pt>
 File: Bilder/Schnittmenge3-eps-converted-to.pdf Graphic file (type pdf)
 <use Bilder/Schnittmenge3-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/Schnittmenge3-eps-converted-to.pdf used on inpu
@@ -3302,7 +3302,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1193.
 
-<Bilder/PlayerEngagementModel.png, id=1083, 474.77374pt x 191.71625pt>
+<Bilder/PlayerEngagementModel.png, id=1088, 474.77374pt x 191.71625pt>
 File: Bilder/PlayerEngagementModel.png Graphic file (type png)
 
 <use Bilder/PlayerEngagementModel.png>
@@ -3314,7 +3314,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1203.
 
-<Bilder/MotivationSchaubild.png, id=1100, 321.2pt x 235.88126pt>
+<Bilder/MotivationSchaubild.png, id=1105, 321.2pt x 235.88126pt>
 File: Bilder/MotivationSchaubild.png Graphic file (type png)
 
 <use Bilder/MotivationSchaubild.png>
@@ -3463,21 +3463,21 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1256.
 
-<Bilder/Suchergebnisse.png, id=1143, 3115.64pt x 1840.8775pt>
+<Bilder/Suchergebnisse.png, id=1148, 3115.64pt x 1840.8775pt>
 File: Bilder/Suchergebnisse.png Graphic file (type png)
 
 <use Bilder/Suchergebnisse.png>
 Package pdftex.def Info: Bilder/Suchergebnisse.png used on input line 1264.
 (pdftex.def)             Requested size: 311.58226pt x 184.09853pt.
 
-<Bilder/Infotext.png, id=1146, 681.54625pt x 143.53625pt>
+<Bilder/Infotext.png, id=1151, 681.54625pt x 143.53625pt>
 File: Bilder/Infotext.png Graphic file (type png)
 
 <use Bilder/Infotext.png>
 Package pdftex.def Info: Bilder/Infotext.png used on input line 1276.
 (pdftex.def)             Requested size: 408.93091pt x 86.1224pt.
 
-<Bilder/NeueSuchErgebnisse.png, id=1154, 892.33376pt x 199.74625pt>
+<Bilder/NeueSuchErgebnisse.png, id=1159, 892.33376pt x 199.74625pt>
 File: Bilder/NeueSuchErgebnisse.png Graphic file (type png)
 
 <use Bilder/NeueSuchErgebnisse.png>
@@ -3485,7 +3485,7 @@ Package pdftex.def Info: Bilder/NeueSuchErgebnisse.png used on input line 1296.
 
 (pdftex.def)             Requested size: 446.16579pt x 99.87288pt.
 
-<Bilder/NeueSuchErgebnisseSupporter2.png, id=1156, 892.33376pt x 199.74625pt>
+<Bilder/NeueSuchErgebnisseSupporter2.png, id=1161, 892.33376pt x 199.74625pt>
 File: Bilder/NeueSuchErgebnisseSupporter2.png Graphic file (type png)
 
 <use Bilder/NeueSuchErgebnisseSupporter2.png>
@@ -3493,7 +3493,7 @@ Package pdftex.def Info: Bilder/NeueSuchErgebnisseSupporter2.png used on input
 line 1307.
 (pdftex.def)             Requested size: 446.16579pt x 99.87288pt.
 
-<Bilder/NeueSuchErgebnisseSupporterGrau.png, id=1158, 892.33376pt x 199.74625pt
+<Bilder/NeueSuchErgebnisseSupporterGrau.png, id=1163, 892.33376pt x 199.74625pt
 >
 File: Bilder/NeueSuchErgebnisseSupporterGrau.png Graphic file (type png)
  <use Bilder/NeueSuchErgebnisseSupporterGrau.png>
@@ -3501,13 +3501,13 @@ Package pdftex.def Info: Bilder/NeueSuchErgebnisseSupporterGrau.png used on inp
 ut line 1318.
 (pdftex.def)             Requested size: 446.16579pt x 99.87288pt.
 
-<Bilder/NurBadges.png, id=1159, 297.11pt x 96.36pt>
+<Bilder/NurBadges.png, id=1164, 297.11pt x 96.36pt>
 File: Bilder/NurBadges.png Graphic file (type png)
  <use Bilder/NurBadges.png>
 Package pdftex.def Info: Bilder/NurBadges.png used on input line 1329.
 (pdftex.def)             Requested size: 148.55463pt x 48.17987pt.
 
-<Bilder/NeueSuchErgebnisseSupporterBadges.png, id=1160, 892.33376pt x 199.74625
+<Bilder/NeueSuchErgebnisseSupporterBadges.png, id=1165, 892.33376pt x 199.74625
 pt>
 File: Bilder/NeueSuchErgebnisseSupporterBadges.png Graphic file (type png)
  <use Bilder/NeueSuchErgebnisseSupporterBadges.png>
@@ -3734,28 +3734,41 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1388.
  [87]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1391.
+(babel)             in language  on input line 1388.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1391.
+(babel)             in language  on input line 1388.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1391.
+(babel)             in language  on input line 1388.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1391.
+(babel)             in language  on input line 1388.
 
 [88]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1392.
+(babel)             in language  on input line 1389.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1392.
+(babel)             in language  on input line 1389.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1394.
+(babel)             in language  on input line 1396.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1394.
+(babel)             in language  on input line 1396.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1394.
+(babel)             in language  on input line 1396.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1394.
- [89] (./Masterthesis.lot)
+(babel)             in language  on input line 1396.
+ [89]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1397.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1397.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1399.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1399.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1399.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1399.
+ [90] (./Masterthesis.lot)
 \tf@lot=\write5
 \openout5 = `Masterthesis.lot'.
 
@@ -3764,14 +3777,15 @@ Package babel Info: Redefining ngerman shorthand "~
 \openout6 = `Masterthesis.lof'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1397.
+(babel)             in language  on input line 1402.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1397.
+(babel)             in language  on input line 1402.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1397.
+(babel)             in language  on input line 1402.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1397.
- [90] (./Masterthesis.bbl
+(babel)             in language  on input line 1402.
+ [91]
+(./Masterthesis.bbl
 Underfull \hbox (badness 3118) in paragraph at lines 79--83
 []\T1/aer/m/n/12 Nyr Eyal: Fä-hig-kei-ten.  [][]$\T1/aett/m/n/12 https : / / ww
 w . slideshare . net / gzicherm / nir -[] eyal -[]
@@ -3785,7 +3799,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 107.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 107.
-[91]
+[92]
 Underfull \hbox (badness 6157) in paragraph at lines 109--115
 \T1/aer/m/n/12 Ga-mes.  [][]$\T1/aett/m/n/12 https : / / www . gamified . uk / 
 gamification -[] framework / differences -[]
@@ -3823,7 +3837,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 200.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 200.
-[92]
+[93]
 Underfull \hbox (badness 10000) in paragraph at lines 248--254
 \T1/aett/m/n/12 examples / yukai -[] chou -[] gamified -[] gamification -[] blo
 g / attachment / captain -[] up -[]
@@ -3867,7 +3881,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 295.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 295.
-[93]
+[94]
 Underfull \hbox (badness 3579) in paragraph at lines 297--303
 []\T1/aer/m/n/12 Michael Wu: In-t-rin-sic vs. Ex-trin-sic Re-wards (and Their D
 if-fe-rences from
@@ -3886,33 +3900,33 @@ heir -[] Differences -[] from / ba -[]
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1400.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1405.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1400.
+(babel)             in language  on input line 1405.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1400.
+(babel)             in language  on input line 1405.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1400.
+(babel)             in language  on input line 1405.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1400.
- [94]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1400.
+(babel)             in language  on input line 1405.
+ [95]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1405.
  (./Masterthesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1400.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1400.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1405.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1405.
 
 Package rerunfilecheck Info: File `Masterthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 6C96441B252AC8293EF5B1D433E2BC81;4866.
+(rerunfilecheck)             Checksum: 32303501B3D1A490171EFB46FD822FA4;4910.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 12138 strings out of 492995
- 189681 string characters out of 6132705
- 416186 words of memory out of 5000000
- 15078 multiletter control sequences out of 15000+600000
+ 12143 strings out of 492995
+ 189733 string characters out of 6132705
+ 416219 words of memory out of 5000000
+ 15080 multiletter control sequences out of 15000+600000
  55924 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,11n,51p,8850b,580s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3932,10 +3946,10 @@ t/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2017/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2017/texmf-dist/
 fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
 1/public/lm/lmr12.pfb>
-Output written on Masterthesis.pdf (94 pages, 4830215 bytes).
+Output written on Masterthesis.pdf (95 pages, 4834757 bytes).
 PDF statistics:
- 1499 PDF objects out of 1728 (max. 8388607)
- 1274 compressed objects within 13 object streams
- 313 named destinations out of 1000 (max. 500000)
- 628 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1512 PDF objects out of 1728 (max. 8388607)
+ 1286 compressed objects within 13 object streams
+ 316 named destinations out of 1000 (max. 500000)
+ 636 words of extra memory for PDF output out of 10000 (max. 10000000)
 

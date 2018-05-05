@@ -57,4 +57,5 @@
 \contentsline {subsubsection}{\numberline {4.2.2}Spiele-Mechaniken und Interface Elemente ausw\IeC {\"a}hlen}{75}{subsubsection.4.2.2}
 \contentsline {subsection}{\numberline {4.3}Anforderungen und Mechaniken abgleichen}{83}{subsection.4.3}
 \contentsline {section}{\numberline {5}Zusammenfassung}{85}{section.5}
-\contentsline {section}{\numberline {6}Anhang}{89}{section.6}
+\contentsline {section}{\numberline {6}Ausblick}{89}{section.6}
+\contentsline {section}{\numberline {7}Anhang}{90}{section.7}

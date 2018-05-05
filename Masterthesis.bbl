@@ -306,4 +306,11 @@ Steffen Soulejman.
 \newblock {\em {Becoming a Knowledge Sharing Organization}}.
 \newblock 2016.
 
+\bibitem{Plugins17}
+Confluence Server Developer: Writing~Confluence Plugins).
+\newblock
+  \url{https://developer.atlassian.com/server/confluence/writing-confluence-plugins/},
+  2017.
+\newblock {Zeitstempel: 04.05.2018}.
+
 \end{thebibliography}
