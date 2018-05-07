@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.9)  6 MAY 2018 15:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.9)  7 MAY 2018 17:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3104,7 +3104,7 @@ nverted-to.pdf Bilder/StatsFebView.eps>
 (epstopdf)             \includegraphics on input line 1080.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/StatsFebView-eps-converted-to.pdf, id=1001, 715.67375pt x 307.1475pt>
+<Bilder/StatsFebView-eps-converted-to.pdf, id=1002, 715.67375pt x 307.1475pt>
 File: Bilder/StatsFebView-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/StatsFebView-eps-converted-to.pdf>
@@ -3122,7 +3122,7 @@ nverted-to.pdf Bilder/StatsFebEdit.eps>
 (epstopdf)             \includegraphics on input line 1090.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/StatsFebEdit-eps-converted-to.pdf, id=1005, 722.7pt x 319.1925pt>
+<Bilder/StatsFebEdit-eps-converted-to.pdf, id=1006, 722.7pt x 319.1925pt>
 File: Bilder/StatsFebEdit-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/StatsFebEdit-eps-converted-to.pdf>
@@ -3141,7 +3141,7 @@ converted-to.pdf Bilder/StatsFebSpaces.eps>
 (epstopdf)             \includegraphics on input line 1100.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/StatsFebSpaces-eps-converted-to.pdf, id=1007, 815.045pt x 244.915pt>
+<Bilder/StatsFebSpaces-eps-converted-to.pdf, id=1008, 815.045pt x 244.915pt>
 File: Bilder/StatsFebSpaces-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/StatsFebSpaces-eps-converted-to.pdf>
@@ -3258,7 +3258,7 @@ onverted-to.pdf Bilder/Schnittmenge3.eps>
 (epstopdf)             \includegraphics on input line 1180.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/Schnittmenge3-eps-converted-to.pdf, id=1049, 316.18124pt x 304.13625pt>
+<Bilder/Schnittmenge3-eps-converted-to.pdf, id=1051, 316.18124pt x 304.13625pt>
 File: Bilder/Schnittmenge3-eps-converted-to.pdf Graphic file (type pdf)
 <use Bilder/Schnittmenge3-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/Schnittmenge3-eps-converted-to.pdf used on inpu
@@ -3302,7 +3302,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1194.
 
-<Bilder/PlayerEngagementModel.png, id=1088, 474.77374pt x 191.71625pt>
+<Bilder/PlayerEngagementModel.png, id=1090, 474.77374pt x 191.71625pt>
 File: Bilder/PlayerEngagementModel.png Graphic file (type png)
 
 <use Bilder/PlayerEngagementModel.png>
@@ -3314,7 +3314,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1204.
 
-<Bilder/MotivationSchaubild.png, id=1105, 321.2pt x 235.88126pt>
+<Bilder/MotivationSchaubild.png, id=1107, 321.2pt x 235.88126pt>
 File: Bilder/MotivationSchaubild.png Graphic file (type png)
 
 <use Bilder/MotivationSchaubild.png>
@@ -3463,21 +3463,21 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1257.
 
-<Bilder/Suchergebnisse.png, id=1148, 3115.64pt x 1840.8775pt>
+<Bilder/Suchergebnisse.png, id=1150, 3115.64pt x 1840.8775pt>
 File: Bilder/Suchergebnisse.png Graphic file (type png)
 
 <use Bilder/Suchergebnisse.png>
 Package pdftex.def Info: Bilder/Suchergebnisse.png used on input line 1265.
 (pdftex.def)             Requested size: 311.58226pt x 184.09853pt.
 
-<Bilder/Infotext.png, id=1151, 681.54625pt x 143.53625pt>
+<Bilder/Infotext.png, id=1153, 681.54625pt x 143.53625pt>
 File: Bilder/Infotext.png Graphic file (type png)
 
 <use Bilder/Infotext.png>
 Package pdftex.def Info: Bilder/Infotext.png used on input line 1277.
 (pdftex.def)             Requested size: 408.93091pt x 86.1224pt.
 
-<Bilder/NeueSuchErgebnisse.png, id=1159, 892.33376pt x 199.74625pt>
+<Bilder/NeueSuchErgebnisse.png, id=1161, 892.33376pt x 199.74625pt>
 File: Bilder/NeueSuchErgebnisse.png Graphic file (type png)
 
 <use Bilder/NeueSuchErgebnisse.png>
@@ -3485,7 +3485,7 @@ Package pdftex.def Info: Bilder/NeueSuchErgebnisse.png used on input line 1297.
 
 (pdftex.def)             Requested size: 446.16579pt x 99.87288pt.
 
-<Bilder/NeueSuchErgebnisseSupporter2.png, id=1161, 892.33376pt x 199.74625pt>
+<Bilder/NeueSuchErgebnisseSupporter2.png, id=1163, 892.33376pt x 199.74625pt>
 File: Bilder/NeueSuchErgebnisseSupporter2.png Graphic file (type png)
 
 <use Bilder/NeueSuchErgebnisseSupporter2.png>
@@ -3493,7 +3493,7 @@ Package pdftex.def Info: Bilder/NeueSuchErgebnisseSupporter2.png used on input
 line 1308.
 (pdftex.def)             Requested size: 446.16579pt x 99.87288pt.
 
-<Bilder/NeueSuchErgebnisseSupporterGrau.png, id=1163, 892.33376pt x 199.74625pt
+<Bilder/NeueSuchErgebnisseSupporterGrau.png, id=1165, 892.33376pt x 199.74625pt
 >
 File: Bilder/NeueSuchErgebnisseSupporterGrau.png Graphic file (type png)
  <use Bilder/NeueSuchErgebnisseSupporterGrau.png>
@@ -3501,13 +3501,13 @@ Package pdftex.def Info: Bilder/NeueSuchErgebnisseSupporterGrau.png used on inp
 ut line 1319.
 (pdftex.def)             Requested size: 446.16579pt x 99.87288pt.
 
-<Bilder/NurBadges.png, id=1164, 297.11pt x 96.36pt>
+<Bilder/NurBadges.png, id=1166, 297.11pt x 96.36pt>
 File: Bilder/NurBadges.png Graphic file (type png)
  <use Bilder/NurBadges.png>
 Package pdftex.def Info: Bilder/NurBadges.png used on input line 1330.
 (pdftex.def)             Requested size: 148.55463pt x 48.17987pt.
 
-<Bilder/NeueSuchErgebnisseSupporterBadges.png, id=1165, 892.33376pt x 199.74625
+<Bilder/NeueSuchErgebnisseSupporterBadges.png, id=1167, 892.33376pt x 199.74625
 pt>
 File: Bilder/NeueSuchErgebnisseSupporterBadges.png Graphic file (type png)
  <use Bilder/NeueSuchErgebnisseSupporterBadges.png>
@@ -3747,14 +3747,19 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1390.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1390.
- <Bilder/BildOctalisys.png, id=1266, 661.47125pt x 519.9425pt>
+ <Bilder/BildOctalisys.png, id=1265, 661.47125pt x 519.9425pt>
 File: Bilder/BildOctalisys.png Graphic file (type png)
 
 <use Bilder/BildOctalisys.png>
 Package pdftex.def Info: Bilder/BildOctalisys.png used on input line 1397.
 (pdftex.def)             Requested size: 264.58382pt x 207.97331pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1391--1404
+Underfull \hbox (badness 10000) in paragraph at lines 1391--1406
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1391--1406
 
  []
 
@@ -3762,64 +3767,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 1391--1404
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1404.
+(babel)             in language  on input line 1406.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1404.
+(babel)             in language  on input line 1406.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1404.
+(babel)             in language  on input line 1406.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1404.
+(babel)             in language  on input line 1406.
  [89]
-Underfull \vbox (badness 2452) has occurred while \output is active []
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1406.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1406.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1406.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1406.
 
+[90 <./Bilder/BildOctalisys.png>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1404.
+(babel)             in language  on input line 1410.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1404.
+(babel)             in language  on input line 1410.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1404.
+(babel)             in language  on input line 1410.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1404.
- [90 <./Bilder/BildOctalisys.png>]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1408.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1408.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1408.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1408.
+(babel)             in language  on input line 1410.
  [91]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1409.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1409.
-Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1411.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1411.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1411.
+(babel)             in language  on input line 1413.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1411.
+(babel)             in language  on input line 1413.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1413.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1413.
  [92] (./Masterthesis.lot)
 \tf@lot=\write5
 \openout5 = `Masterthesis.lot'.
 
- (./Masterthesis.lof)
+
+(./Masterthesis.lof)
 \tf@lof=\write6
 \openout6 = `Masterthesis.lof'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1414.
+(babel)             in language  on input line 1416.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1414.
+(babel)             in language  on input line 1416.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1414.
+(babel)             in language  on input line 1416.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1414.
-
-[93] (./Masterthesis.bbl
+(babel)             in language  on input line 1416.
+ [93] (./Masterthesis.bbl
 Underfull \hbox (badness 3118) in paragraph at lines 79--83
 []\T1/aer/m/n/12 Nyr Eyal: Fä-hig-kei-ten.  [][]$\T1/aett/m/n/12 https : / / ww
 w . slideshare . net / gzicherm / nir -[] eyal -[]
@@ -3940,20 +3944,20 @@ Underfull \hbox (badness 3826) in paragraph at lines 317--322
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1417.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1419.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1417.
+(babel)             in language  on input line 1419.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1417.
+(babel)             in language  on input line 1419.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1417.
+(babel)             in language  on input line 1419.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1417.
+(babel)             in language  on input line 1419.
  [97]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1417.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1419.
  (./Masterthesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1417.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1417.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1419.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1419.
 
 Package rerunfilecheck Info: File `Masterthesis.out' has not changed.
 (rerunfilecheck)             Checksum: 32303501B3D1A490171EFB46FD822FA4;4910.
@@ -3961,15 +3965,12 @@ Package rerunfilecheck Info: File `Masterthesis.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 12155 strings out of 492995
- 189949 string characters out of 6132705
- 416407 words of memory out of 5000000
- 15087 multiletter control sequences out of 15000+600000
+ 12163 strings out of 492995
+ 190127 string characters out of 6132705
+ 416479 words of memory out of 5000000
+ 15093 multiletter control sequences out of 15000+600000
  55924 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,11n,51p,8850b,580s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3989,10 +3990,10 @@ t/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2017/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2017/texmf-dist/
 fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
 1/public/lm/lmr12.pfb>
-Output written on Masterthesis.pdf (97 pages, 5562634 bytes).
+Output written on Masterthesis.pdf (97 pages, 5564206 bytes).
 PDF statistics:
- 1536 PDF objects out of 1728 (max. 8388607)
- 1304 compressed objects within 14 object streams
- 320 named destinations out of 1000 (max. 500000)
+ 1540 PDF objects out of 1728 (max. 8388607)
+ 1308 compressed objects within 14 object streams
+ 321 named destinations out of 1000 (max. 500000)
  641 words of extra memory for PDF output out of 10000 (max. 10000000)
 

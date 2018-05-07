@@ -20,45 +20,45 @@ Warning--empty journal in Lazzaro2004
 Warning--empty journal in Cege2009
 Warning--can't use both volume and number fields in Hunicke2004
 Warning--empty publisher in Soulejman2016
-You've used 53 entries,
+You've used 54 entries,
             1791 wiz_defined-function locations,
-            734 strings with 11482 characters,
-and the built_in function-call counts, 8700 in all, are:
-= -- 768
-> -- 274
+            738 strings with 11571 characters,
+and the built_in function-call counts, 8829 in all, are:
+= -- 779
+> -- 278
 < -- 6
-+ -- 123
-- -- 70
-* -- 274
-:= -- 1345
-add.period$ -- 166
-call.type$ -- 53
-change.case$ -- 21
++ -- 125
+- -- 71
+* -- 277
+:= -- 1369
+add.period$ -- 169
+call.type$ -- 54
+change.case$ -- 22
 chr.to.int$ -- 0
-cite$ -- 61
-duplicate$ -- 462
-empty$ -- 1043
-format.name$ -- 70
-if$ -- 2056
+cite$ -- 62
+duplicate$ -- 470
+empty$ -- 1057
+format.name$ -- 71
+if$ -- 2084
 int.to.chr$ -- 0
-int.to.str$ -- 53
-missing$ -- 50
-newline$ -- 272
-num.names$ -- 52
-pop$ -- 302
+int.to.str$ -- 54
+missing$ -- 51
+newline$ -- 277
+num.names$ -- 53
+pop$ -- 305
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 194
+skip$ -- 197
 stack$ -- 0
 substring$ -- 201
-swap$ -- 94
+swap$ -- 95
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 8
-while$ -- 72
-width$ -- 55
-write$ -- 548
+while$ -- 73
+width$ -- 56
+write$ -- 558
 (There were 2 error messages)
